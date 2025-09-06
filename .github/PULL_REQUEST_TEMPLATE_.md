@@ -5,7 +5,7 @@ Explique de forma clara o que foi alterado na documentação. Detalhe o objetivo
 
 ## Tipo de Mudança
 
-� **Documentação:**
+**Documentação:**
 - [ ] Adição de novo conteúdo
 - [ ] Atualização de conteúdo existente
 - [ ] Correção de erros ou inconsistências
