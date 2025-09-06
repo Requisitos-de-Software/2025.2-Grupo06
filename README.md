@@ -10,10 +10,10 @@ A plataforma digital disponibiliza informações atualizadas sobre o sistema de 
 
 ![](https://bus2.mobilibus.com.br/wp-content/uploads/313_header-1.webp)
 
-### 📖 Link da página de documentação
+## 📖 Link da página de documentação
 Visite a documentação [DF no Ponto](https://requisitos-de-software.github.io/2025.2-Grupo06) para mais informações.
 
-#### 👨‍💻 Equipe de Desenvolvimento 
+## 👨‍💻 Equipe de Desenvolvimento 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/cauanicolas"><img style="border-radius: 50%;" src="https://github.com/cauanicolas.png" width="100px;" alt=""/><br /><sub><b>CAUA NICOLAS PEREIRA DE OLIVEIRA</b></sub></a><br />
@@ -29,6 +29,14 @@ Visite a documentação [DF no Ponto](https://requisitos-de-software.github.io/2
   </a>
   <br />
 </td>
+</table>
+
+
+## 📜 Histórico de Versão
+
+| Versão | Data | Descrição | Autor(a) |
+|--------|------|-----------|----------|
+| 1.0 | 06/09/2025 | Atualização do readme | [Fernanda Vaz ](https://github.com/Fernandavazgit1) |
 
 
 
