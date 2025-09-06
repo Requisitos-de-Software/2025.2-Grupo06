@@ -12,9 +12,16 @@
       <td align="center"><a href="https://github.com/DanNunes777"><img style="border-radius: 50%;" src="https://github.com/DanNunes777.png" width="100px;" alt=""/><br /><sub><b>DANIEL NUNES DUARTE</b></sub></a><br />
   <td align="center"><a href="https://github.com/Fernandavazgit1"><img style="border-radius: 50%;" src="https://github.com/Fernandavazgit1.png" width="100px;" alt=""/><br /><sub><b>FERNANDA VAZ DUARTE DOS SANTOS </b></sub></a><br />
    <td align="center"><a href="https://github.com/GabrielMacielBR"><img style="border-radius: 50%;" src="https://github.com/GabrielMacielBR.png" width="100px;" alt=""/><br /><sub><b>GABRIEL MACIEL </b></sub></a><br />
-  <td align="center"><a href="https://github.com/JoaoComTil><img style="border-radius: 50%; src="https://github.com/JoaoComTil.png" width="100px;" alt=""/><br /><sub><b>JOAO GABRIEL MILHOMEM DE BRITO </b></sub></a><br /
-      <td align="center"><a href="https://github.com/Joaolramos><img style="border-radius: 50%; src="https://github.com/Joaolramos.png" width="100px;" alt=""/><br /><sub><b>JOAO LUCAS RAMOS DOS REIS </b></sub></a><br /
-</table>
+       <td align="center"><a href="https://github.com/JoaoComTil"><img style="border-radius: 50%;" src="https://github.com/JoaoComTil.png" width="100px;" alt=""/><br /><sub><b>GABRIEL MILHOMEM DE BRITOL </b></sub></a><br />
+      <td align="center">
+  <a href="https://github.com/Joaolramos">
+    <img style="border-radius: 50%;" src="https://github.com/Joaolramos.png" width="100px;" alt=""/>
+    <br />
+    <sub><b>JOAO LUCAS RAMOS DOS REIS</b></sub>
+  </a>
+  <br />
+</td>
+
 
 
 
