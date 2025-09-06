@@ -6,5 +6,10 @@
 
 
 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/cauanicolas"><img style="border-radius: 50%;" src="https://github.com/cauanicolas.png" width="100px;" alt=""/><br /><sub><b>CAUA NICOLAS PEREIRA DE OLIVEIRA</b></sub></a><br />
+
+</table>
 
 
