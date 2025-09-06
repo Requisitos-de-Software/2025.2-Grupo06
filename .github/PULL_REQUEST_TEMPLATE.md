@@ -15,7 +15,6 @@ Explique de forma clara o que foi alterado na documentação. Detalhe o objetivo
 ## Checklist
 
 - [ ] A documentação está clara e objetiva
-- [ ] Segue o padrão de formatação definido pelo projeto
 - [ ] Todos os links e imagens funcionam corretamente
 - [ ] Não há erros ortográficos ou gramaticais
 - [ ] Revisei a alteração antes de abrir o PR
