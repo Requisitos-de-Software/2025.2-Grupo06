@@ -1,10 +1,15 @@
 # DF No Ponto
+<p align="center" > <font>Figura 1: Logomarca do DF No Ponto </font> <br><img style="border: 2px solid white; border-radius: 30%" src="./assets/logos/logo_large.png" width = 40%></p>
+<p align="center" > <font>Fonte: <a href="![alt text](image.png)"> DF No Ponto</a></font> <br></p>
 
-![Logomarca do DF No Ponto](./assets/logos/logo_large.png)
+
 
 # Sobre o Projeto.
 
-Esta página tem como objetivo analisar o aplicativo DF no Ponto escolhido pelo grupo 06 para fins de estudos na disciplina de Requisitos de Software da FCTE-UnB.
+Esta página tem como objetivo analisar o aplicativo DF no Ponto escolhido pelo grupo 06 para fins de estudos na disciplina de Requisitos de Software da FCTE-UnB durante o 2º semestre de 2025 O objetivo do projeto é fazer a avaliação sobre requisitos do aplicativo  [DF No Ponto](https://play.google.com/store/apps/details?id=br.bus2.dfnoponto&hl=pt_BR). O app em questão, cuja logo está explicitada na Figura 1, é um  aplicativo que apresenta informações em tempo real do transporte público da cidade de Brasília, Distrito Federal.
+
+
+
 
 ## Grupo
 ### 👨‍💻 Equipe de Desenvolvimento
