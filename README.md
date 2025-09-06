@@ -1,2 +1,3 @@
 ﻿# 2025.2-Grupo06
-![](https://play.google.com/store/apps/details?id=br.bus2.dfnoponto)
+![](https://bus2.mobilibus.com.br/wp-content/uploads/313_header-1.webp)
+
