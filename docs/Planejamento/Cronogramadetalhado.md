@@ -1,18 +1,28 @@
 # Cronograma
 
+Este documento apresenta o planejamento detalhado do projeto, distribuído em etapas e pontos de controle. As tabelas a seguir organizam as entregas, autores e revisores de cada fase, tendo como objetivo facilitar a visualização do progresso e o gerenciamento do trabalho ao longo do semestre.
+
+O cronograma foi construído de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, para o segundo semestre de 2025.
+
 ## Cronograma Geral
+
+A tabela 1 apresenta uma visão geral das etapas do projeto com suas respectivas datas de entrega e datas de apresentação.
 
 | Etapa | Título | Descrição | Entrega | Apresentação |
 |-------|--------|-----------|---------|--------------|
-|   1   | Planejamento | equipe, descrição do app, planejamento do projeto, rich picture | 09/09 | 11/09 |
-|   2   | Elicitação de requisitos | técnicas e priorização | 30/09 |  |
-|   3   | Modelagem de requisitos | cenário léxicos, use case e especificação suplementar | 12/10 |  |
-|   4   | Modelagem de requisitos ágil | histórias de usuários, backlogs, NFR framework | 21/10 | 23/10 |
-|   5   | Análise de requisitos | verificação e validação 1 | 29/10 | 13/11 |
-|   6   | Pós-rastreabilidade | gerência 2 | 22/10 | 28/10  |
-|   7   | Entrega final | entrega final | 14/11 | 24/11 |
+|   1   | Planejamento | Equipe, Definição do APP, Planejamento do Projeto, RichPicture | 09/09 | 11/09 |
+|   2   | Elicitação de Requisitos | Técnicas e Priorização | 30/09 | 02/10 |
+|   3   | Modelagem de Requisitos | Cenários, Léxico, Use Case, Especificação Suplementar | 12/10 | 14/10 |
+|   4   | Modelagem de Requisitos Ágil | Histórias de Usuário, Backlogs, NFR Framework | 21/10 | 23/10 |
+|   5   | Análise de Requisitos | Verificação e Validação | 29/10 | 13/11 |
+|   6   | Pós-rastreabilidade | Gerência II | 22/10 | 30/10  |
+|   7   | Entrega Final | Entrega Final | 14/11 | 24/11 |
 
-## Ponto de Controle 1
+Tabela 1 - Cronograma Geral
+
+## Etapa 1 - Equipe, Definição do APP, Planejamento do Projeto, RichPicture
+
+A tabela 2 detalha as atividades relacionadas ao planejamento geral do projeto, incluindo autores, revisores e prazos.
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
@@ -21,27 +31,35 @@
 | 3. Readme/Index.md do GitHub/GitPages | 05/09 | 05/09 | Fernanda Vaz | Cauã Nicolas |
 | 3. Lista de aplicativos | 05/09 | 09/09 | João Lucas | João Gabriel |
 | 3. Falar sobre app escolhido | 05/09 | 09/09 | Daniel Nunes | Fernanda Vaz |
-| 4. Ferramentas | 05/09 | 09/09 | João Lucas | Gabriel Maciel |
+| 4. Ferramentas | 05/09 | 09/09 | Fernanda Vaz | Gabriel Maciel |
 | 5. Rich picture | 05/09 | 09/09 | Cauã Nicolas | João Lucas |
 | 6. Atas das Reuniões | 05/09 | 05/09 | Gabriel Maciel | Fernanda Vaz |
 | 7. Configuração do GitPages | 05/09 | 05/09 | Gabriel Maciel | Gabriel Maciel |
 | 8. Video de apresentação | 08/09 | 09/09 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 | 9. Video de inspeção | 10/09 | 11/09 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 
-## Ponto de Controle 2
+Tabela 2 - Cronograma da Etapa 1
+
+## Etapa 2 - Elicitação: Técnicas e Priorização
+
+A tabela 3 detalha as atividades relacionadas à elicitação, incluindo autores, revisores e prazos.
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
 | 1. Personas | 18/09 | 30/09 | Fernanda Vaz, Dan Nunes | João Gabriel |
 | 2. Storytelling | 18/09 | 30/09 | Fernanda Vaz, Dan Nunes | João Gabriel |
 | 3. Questionário | 18/09 | 30/09 | João Gabriel | Fernanda Vaz, Dan Nunes |
-| 4. Priorização | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas | Cauã Nicolas|
+| 4. Priorização | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas | Cauã Nicolas |
 | 5. First Things First | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas  | João Lucas |
 | 6. In or Out | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas | Gabriel Maciel |
 | 7. MoSCoW | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas | Gabriel Maciel |
 | 5. Gravação da apresentação | 18/09 | 01/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 
-## Ponto de Controle 3
+Tabela 3 - Cronograma da Etapa 2
+
+## Etapa 3 - Modelagem de Requisitos: Cenários, Léxico, Use Case, Especificação Suplementar
+
+A tabela 4 detalha as atividades relacionadas à modelagem de requisitos, incluindo autores, revisores e prazos.
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
@@ -51,7 +69,11 @@
 | 4. Especificação suplementar | 02/10 | 12/10 | Gabriel Maciel, João Lucas | Cauã Nicolas, Fernanda Vaz |
 | 5. Gravação da apresentação | 02/10 | 12/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 
-## Ponto de Controle 4
+Tabela 4 - Cronograma da Etapa 3
+
+## Etapa 4 - Modelagem de Requisitos Ágil: Histórias de Usuário, Backlogs, NFR Framework
+
+A tabela 5 detalha as atividades relacionadas à modelagem de requisitos ágil, incluindo autores, revisores e prazos.
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
@@ -60,7 +82,11 @@
 | 3. NFR Framework | 14/10 | 21/10 | Daniel Nunes, Gabriel Maciel, João Gabriel | Cauã Nicolas, Fernanda Vaz, João Lucas |
 | 4. Gravação da apresentação | 14/10 | 21/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  |
 
-## Ponto de Controle 5
+Tabela 5 - Cronograma da Etapa 4
+
+## Etapa 5 - Análise de Requisitos: Verificação e Validação
+
+A tabela 6 detalha as atividades relacionadas à verificação e validação, incluindo autores, revisores e prazos.
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
@@ -68,7 +94,11 @@
 | 2. Validação de requisitos 1 | 29/10 | 12/11 | Daniel Nunes, Gabriel Maciel, João Gabriel | Cauã Nicolas, João Lucas, Fernanda Vaz |
 | 3. Gravação da apresentação | 29/10 | 12/11 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  |
 
-## Ponto de Controle 6
+Tabela 6 - Cronograma da Etapa 5
+
+## Etapa 6 - Pós-Rastreabilidade: Gerência II
+
+A tabela 7 detalha as atividades relacionadas à modelagem de requisitos, incluindo autores, revisores e prazos.
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
@@ -76,9 +106,16 @@
 | 2. Forward From | 22/10 | 28/10 | Daniel Nunes, Fernanda Vaz, Gabriel Maciel | Cauã Nicolas, João Gabriel, João Lucas |
 | 3. Gravação da apresentação | 22/10 | 28/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  |
 
+Tabela 7 - Cronograma da Etapa 6
+
+## Referências
+
+**SALES, André Barros de.** *Plano de ensino – Requisitos de Software (FGA0313 – Turma 03).* **Brasília: Universidade de Brasília, 2025.** Disponível em: <https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf>. Acesso em: 7 set. 2025.
+
 ## Histórico de Versões
 
-| Versão | Data | Descrição |
-| ------ | ---- | --------- |
-| 1.0 | 07/09 | Estruturação inicial do cronograma |
-| 1.0.1 | 07/09 | Correções de datas e de revisores |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------  | ----------- |
+| 1.0 | 07/09 | Estruturação inicial do cronograma | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 1.0.1 | 07/09 | Correções de datas e de revisores | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 1.0.2 | 07/09 | Adição de textos às tabelas e etapas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
