@@ -1,4 +1,12 @@
-﻿# Objetivos do Projeto
+# DF NO PONTO - Grupo 06
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/09ff7a19-3e36-47b2-9f6f-e368519c6257" 
+       alt="dfnopontologo" 
+       width="300px">
+</div>
+
+
+  ## Introdução
 
 Este repositório tem como objetivo analisar o aplicativo **DF no Ponto** para fins de estudos na disciplina de Requisitos de Software da FCTE-UnB.
 
@@ -8,12 +16,13 @@ O **DF no Ponto** é uma iniciativa do **Governo do Distrito Federal (GDF)** que
 
 A plataforma digital disponibiliza informações atualizadas sobre o sistema de transporte público, permitindo aos cidadãos o planejamento estratégico de rotas e o acompanhamento em tempo real dos serviços de mobilidade urbana, contribuindo para maior eficiência e comodidade nos deslocamentos.
 
-![](https://bus2.mobilibus.com.br/wp-content/uploads/313_header-1.webp)
-
 ## 📖 Link da página de documentação
-Visite a documentação [DF no Ponto](https://requisitos-de-software.github.io/2025.2-Grupo06) para mais informações.
+Visite a documentação do nosso projeto em: [DF no Ponto grupo 06](https://requisitos-de-software.github.io/2025.2-Grupo06) para mais informações.
 
 ## 👨‍💻 Equipe de Desenvolvimento 
+
+> Nossa equipe de desenvolvimento é formada por estudantes da disciplina de *Requisitos de Software*, do curso de **Engenharia de Software** da **Universidade de Brasília**, conforme apresentado na **Tabela 1**.
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/cauanicolas"><img style="border-radius: 50%;" src="https://github.com/cauanicolas.png" width="100px;" alt=""/><br /><sub><b>CAUA NICOLAS PEREIRA DE OLIVEIRA</b></sub></a><br />
@@ -30,6 +39,8 @@ Visite a documentação [DF no Ponto](https://requisitos-de-software.github.io/2
   <br />
 </td>
 </table>
+<p align="center"><b>Tabela 1: Equipe de Desenvolvimento</b></p>
+
 
 
 ## 📜 Histórico de Versão
@@ -37,6 +48,7 @@ Visite a documentação [DF no Ponto](https://requisitos-de-software.github.io/2
 | Versão | Data | Descrição | Autor(a) |
 |--------|------|-----------|----------|
 | 1.0 | 06/09/2025 | Atualização do readme | [Fernanda Vaz ](https://github.com/Fernandavazgit1) |
+
 
 
 
