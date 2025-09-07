@@ -9,8 +9,8 @@
 |-------------------|-------------|-------------|----------|-------------------|
 | Rich Picture | [CAUÃ NICOLAS PEREIRA DE OLIVEIRA](https://github.com/cauanicolas) | 04/09/2025 | 08/09/2025 | [Ver Rich Picture](link-do-documento) |
 | Falar sobre app escolhido | [DANIEL NUNES DUARTE](https://github.com/DanNunes777) | 04/09/2025 | 09/09/2025 | [Ver Atividade](link-do-documento) |
-| Revisão, Readme e Tabela de Contribuição | [FERNANDA VAZ DUARTE DOS SANTOS](https://github.com/Fernandavazgit1) | 06/09/2025 | 08/09/2025 | [Ver Documentação](link-do-documento) |
-| Ata de reunião e Configurar pages | [GABRIEL MACIEL](https://github.com/GabrielMacielBR) | 04/09/2025 | 09/09/2025 | [Ver Atividade](link-do-documento) |
+| Revisão, Readme e Tabela de Contribuição | [FERNANDA VAZ DUARTE DOS SANTOS](https://github.com/Fernandavazgit1) | 06/09/2025 | 08/09/2025 | [Ver Documentação](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Ata de reunião e Configurar pages | [GABRIEL MACIEL](https://github.com/GabrielMacielBR) | 04/09/2025 | 09/09/2025 | [Ver Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/Atas%20de%20Reunião/ata1) |
 | Vídeo projeto de outro grupo | [JOÃO GABRIEL MILHOMEM DE BRITO](https://github.com/JoaoComTil) | 04/09/2025 | 09/09/2025 | [Ver Atividade](link-do-documento) |
 | Listar apps avaliados e Ferramentas a serem usadas no projeto | [JOÃO LUCAS RAMOS DOS REIS](https://github.com/Joaolramos) | 04/09/2025 | 09/09/2025 | [Ver Atividade](link-do-documento) |
 | Revisão da Entrega | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 09/09/2025 | 09/09/2025 | [Ver Revisão](link-do-documento) |
