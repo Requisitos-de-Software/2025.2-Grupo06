@@ -1,4 +1,4 @@
-# Ata 1 - 04/09
+# Ata 2 - 05/09
 
 ## Informações sobre reunião
 
@@ -56,3 +56,9 @@
 - Ferramentas a serem usadas no projeto(João Lucas)
 - Ata de reunião (Gabriel)
 - Configurar pages (Gabriel)
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------  | ----------- |
+| 1.0 | 05/09 | Criação da Ata 2 | [Gabriel Maciel](https://github.com/GabrielMacielBR), [João Gabriel](https://github.com/JoaoComTil) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |

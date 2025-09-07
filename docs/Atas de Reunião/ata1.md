@@ -22,3 +22,9 @@
 
 - Em qual aplicativo o projeto será baseado
 - Planejamentos para próxima reunião
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------  | ----------- |
+| 1.0 | 07/09 | Criação da Ata 1 | [Gabriel Maciel](https://github.com/GabrielMacielBR), [João Gabriel](https://github.com/JoaoComTil) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
