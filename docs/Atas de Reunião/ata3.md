@@ -19,7 +19,7 @@
 | João Lucas     |✅         |
 
 - Local: Online (Discord)
-- [Vídeo da Reunião](https://www.youtube.com/watch?v=nVGP28vjJ2k&ab_channel=Jo%C3%A3oGabrielM)
+- [Vídeo da Reunião](https://www.youtube.com/watch?v=dpY0orfv1I8&ab_channel=Jo%C3%A3oGabrielM)
 
 ## Assuntos discutidos
 
