@@ -34,12 +34,14 @@ repo_name: '2025.2-Grupo06'
 
 nav:
   - Início: index.md
+  - Planejamento :
+      - Aplicativo Escolhido: Planejamento/Aplicativoescolhido.md
+      - Ferramentas: Planejamento/Ferramentasuti.md
+      - Cronograma detalhado: Planejamento/Cronogramadetalhado.md
   - Apresentação:
       - Apresentação 1: Apresentação/apresentacao01.md
   - Pré-Rastreabilidade:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
-  - Cronograma:
-      - Cronograma detalhado: Cronograma/Cronogramadetalhado.md
   - Atas:
       - Ata 1: Atas de Reunião/ata1.md
       - Ata 2: Atas de Reunião/ata2.md
