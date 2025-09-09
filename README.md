@@ -29,7 +29,7 @@ Visite a documentação do nosso projeto em: [DF no Ponto grupo 06](https://requ
       <td align="center"><a href="https://github.com/DanNunes777"><img style="border-radius: 50%;" src="https://github.com/DanNunes777.png" width="100px;" alt=""/><br /><sub><b>DANIEL NUNES DUARTE</b></sub></a><br />
   <td align="center"><a href="https://github.com/Fernandavazgit1"><img style="border-radius: 50%;" src="https://github.com/Fernandavazgit1.png" width="100px;" alt=""/><br /><sub><b>FERNANDA VAZ DUARTE DOS SANTOS </b></sub></a><br />
    <td align="center"><a href="https://github.com/GabrielMacielBR"><img style="border-radius: 50%;" src="https://github.com/GabrielMacielBR.png" width="100px;" alt=""/><br /><sub><b>GABRIEL MACIEL </b></sub></a><br />
-       <td align="center"><a href="https://github.com/JoaoComTil"><img style="border-radius: 50%;" src="https://github.com/JoaoComTil.png" width="100px;" alt=""/><br /><sub><b>GABRIEL MILHOMEM DE BRITOL </b></sub></a><br />
+       <td align="center"><a href="https://github.com/JoaoComTil"><img style="border-radius: 50%;" src="https://github.com/JoaoComTil.png" width="100px;" alt=""/><br /><sub><b> JOÃO GABRIEL MILHOMEM DE BRITO </b></sub></a><br />
       <td align="center">
   <a href="https://github.com/Joaolramos">
     <img style="border-radius: 50%;" src="https://github.com/Joaolramos.png" width="100px;" alt=""/>
@@ -48,6 +48,7 @@ Visite a documentação do nosso projeto em: [DF no Ponto grupo 06](https://requ
 | Versão | Data | Descrição | Autor(a) |
 |--------|------|-----------|----------|
 | 1.0 | 06/09/2025 | Atualização do readme | [Fernanda Vaz ](https://github.com/Fernandavazgit1) |
+
 
 
 
