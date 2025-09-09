@@ -1,12 +1,12 @@
-site_name: DF No Ponto 
+site_name: DF No Ponto
 docs_dir: ./docs
-theme: 
+theme:
   name: material
   logo: assets/logos/logo_small.png
   favicon: assets/logos/logo_small.png
-  font: 
+  font:
     text: Open Sans
-  palette: 
+  palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -15,7 +15,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -30,15 +30,15 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo06
-repo_name: '2025.2-Grupo06'
+repo_name: "2025.2-Grupo06"
 
 nav:
   - Início: index.md
-  - Planejamento :
+  - Planejamento:
       - Aplicativo Escolhido: Planejamento/Aplicativoescolhido.md
       - Ferramentas: Planejamento/Ferramentasuti.md
       - Cronograma detalhado: Planejamento/Cronogramadetalhado.md
-      - Heat Map: Planejamento/HeatMap.md
+      - Heatmap: Planejamento/Heatmap.md
   - Apresentação:
       - Apresentação 1: Apresentação/apresentacao01.md
   - Pré-Rastreabilidade:
@@ -48,5 +48,4 @@ nav:
       - Ata 2: Atas de Reunião/ata2.md
       - Ata 3: Atas de Reunião/ata3.md
   - Contribuições:
-      - Tabela de Contribuição : Contribuições/Tabela de Contribuição.md
-
+      - Tabela de Contribuição: Contribuições/Tabela de Contribuição.md
