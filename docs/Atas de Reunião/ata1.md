@@ -11,7 +11,7 @@
 |------------    | --------- |
 | Cauã Nicolas   |✅         |
 | Daniel Nunes   |✅         |
-| Fernanda Vás   |✅         |
+| Fernanda Vaz  |✅         |
 | Gabriel Maciel |✅         |
 | João Gabriel   |✅         |
 | João Lucas     |✅         |

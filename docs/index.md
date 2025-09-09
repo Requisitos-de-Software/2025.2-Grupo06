@@ -45,7 +45,7 @@ Esta página tem como objetivo  apresentar  o aplicativo analisado e escolido pe
       <a href="https://github.com/JoaoComTil">
         <img src="https://github.com/JoaoComTil.png" width="120px" height="120px" style="object-fit:cover;" />
         <br />
-        <sub><b>GABRIEL MILHOMEM DE BRITOL</b></sub>
+        <sub><b>JOAO GABRIEL MILHOMEM DE BRITO</b></sub>
       </a>
     </td>
     <td align="center">
