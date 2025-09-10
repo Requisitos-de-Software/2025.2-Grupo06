@@ -3,7 +3,7 @@
 # DF no Ponto
 
 </div>
-Aplicativo gratuito lançado pelo Governo do Distrito Federal (GDF), desenvolvido pela **MOBILIBUS DESENVOLVIMENTO E CONSULTORIA DE SISTEMAS LTDA** (identificado como "Bus2" nas lojas de aplicativos). Voltado para usuários do transporte público de Brasília, oferece:
+Aplicativo gratuito lançado pelo Governo do Distrito Federal (GDF), desenvolvido pela MOBILIBUS DESENVOLVIMENTO E CONSULTORIA DE SISTEMAS LTDA (identificado como "Bus2" nas lojas de aplicativos). Voltado para usuários do transporte público de Brasília, oferece:
 
 - Rastreamento em tempo real de ônibus e metrô  
 - Planejamento inteligente de rotas  
