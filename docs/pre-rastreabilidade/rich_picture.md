@@ -1,76 +1,34 @@
-# Documentação Avançada de Exemplo
+# Rich Picture
 
-Bem-vindo à documentação avançada para MkDocs Material!  
-Este documento demonstra diversos recursos que você pode usar.
+# Introdução 
 
----
+Rich Picture é uma ferramenta eficaz para analisar problemas e expressar ideias. Ao desenvolver uma solução para um problema de negócios, é essencial entender
+os componentes vitais desse problema. O rich picture pode ajudar a identificar:
+- Processos de negócios e seus requisitos de dados
+- Os atores envolvidos nos processos e suas responsabilidades
+- As relações entre processos e atores
+- Potenciais problemas e conflitos
 
-## Sumário
+# Sobre o aplicativo
+O DF NO PONTO é uma iniciativa do Governo do Distrito Federal – GDF, criada para facilitar o dia a dia do cidadão. Este guia inteligente oferece informações atualizadas sobre os meios de transporte público, ajudando você a planejar a melhor rota e chegar ao seu destino com mais praticidade e tranquilidade.
 
-- [Introdução](#introdução)
-- [Funcionalidades](#funcionalidades)
-- [Tabelas e Listas](#tabelas-e-listas)
-- [Código](#código)
-- [Alertas e Admonitions](#alertas-e-admonitions)
-- [Tabs e Conteúdos Colapsáveis](#tabs-e-conteúdos-colapsáveis)
-- [Referências](#referências)
+# DF No Ponto
 
----
+![rich_picture](../assets/imagens/richpicture_df_no_ponto.png)
 
-## Introdução
+*Imagem 1: Rich Picture do DF No Ponto (Fonte: OLIVEIRA, Cauã. 2025)*
 
-Este é um exemplo de documentação **avançada** que demonstra recursos interativos e visuais do MkDocs Material.
+![Legenda do Rich Picture](../assets/imagens/legenda_richpicture.png)
 
----
+*Imagem 2: Legenda do Rich Picture (Fonte: OLIVEIRA, Cauã. 2025)*
 
-## Funcionalidades
+# Referências
+>[1] Introducing Rich Pictures - Software Development Project. Aprender3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210571/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em 09 set 2025.
 
-Algumas funcionalidades destacadas:
+>[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. Aprender 3. Distrito Federal, 2016. Disponível em: https://aprender3.unb.br/pluginfile.php/3210576/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf
 
-- Links e imagens  
-- Listas ordenadas e não ordenadas  
-- Tabelas simples e complexas  
-- Código com sintaxe destacada  
-- Blocos de alerta e dicas  
-- Conteúdo colapsável (expansível)  
-- Tabs para mostrar múltiplas informações na mesma seção
+## Histórico de Versões
 
----
-
-## Tabelas e Listas
-
-### Tabela Simples
-
-| Nome       | Cargo         | Status     |
-|------------|---------------|-----------|
-| João       | Desenvolvedor | Ativo     |
-| Maria      | Designer      | Em pausa  |
-| Fernanda   | QA            | Ativo     |
-
-### Tabela Complexa
-
-| Nome       | Cargo         | Habilidades                        | Nível |
-|------------|---------------|-----------------------------------|-------|
-| João       | Dev Frontend  | HTML, CSS, JavaScript             | Avançado |
-| Maria      | Designer UX   | Figma, Illustrator, Photoshop     | Intermediário |
-| Fernanda   | QA            | Testes automatizados, Selenium    | Avançado |
-
-### Lista de Tarefas
-
-- [x] Criar documento inicial  
-- [ ] Revisar conteúdo  
-- [ ] Publicar documentação
-
----
-
-## Código
-
-### Python com destaque e linhas numeradas
-
-```python linenums
-def soma(a, b):
-    """Função que retorna a soma de dois números"""
-    return a + b
-
-resultado = soma(2, 3)
-print(f"O resultado é {resultado}")
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------  | ----------- |
+| 1.0 | 09/09 | Criação do Rich Picture | [Cauã Nicolas](https://github.com/cauanicolas) | [Cauã Nicolas](https://github.com/cauanicolas) |
