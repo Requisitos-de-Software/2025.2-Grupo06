@@ -19,6 +19,7 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 | <img src="https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/logos/github.png" width="45"  alt="GitHub" /> | GitHub | Permite o versionamento e organização do projeto, e o armazenamento da sua documentação, artefatos e rastreabilidade gerada. <a id="anchor_10" href="#FRM10"><sup>10</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/logos/mkdocs.png" width="45"  alt="MkDocs" /> | MkDocs | Criação e publicação do site para documentação no GitHub Pages. <a id="anchor_11" href="#FRM11"><sup>11</sup></a> |
 
+
 <font size="2"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
 
 
