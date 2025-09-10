@@ -2,6 +2,14 @@
 
 O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega.
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UxIJ5DvTRQ8" 
+    title="Vídeo da apresentação" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Lista de Verificação
 >Fizemos  Listas de Verificação para validar os critérios a serem observados nas entregas do projeto da disciplina. Essa lista tem como objetivo padronizar a avaliação dos artefatos e garantir que todos os pontos relevantes sejam contemplados durante o desenvolvimento.
 
