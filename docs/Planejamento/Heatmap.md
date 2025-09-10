@@ -3,7 +3,7 @@
 > Os mapas de calor permitem que os visualizadores compreendam com mais facilidade a distribuição e a intensidade relativa de pontos de dados em um mapa. Em vez de colocar um marcador em cada localização, eles usam cores para representar a distribuição dos dados.
 
 <figure>
-    <img src="../assets/imagens/Captura%20de%20tela%202025-09-09%20222822.png" alt="Exemplo de Mapa de Calor" width="800">
+    <img src="https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/imagens/Captura%20de%20tela%202025-09-09%20222822.png" alt="Exemplo de Mapa de Calor" width="800">
     <figcaption>Figura 1: Exemplo de mapa de calor mostrando a disponibilidade dos integrates do grupo 06</figcaption>
 </figure>
 
