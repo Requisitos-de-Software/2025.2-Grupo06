@@ -76,5 +76,5 @@ Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem c
 
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
-| 1.0        | 09/09/2025   | Informações do aplicativo  | Daniel Nunes Duarte      | Daniel Nunes Duarte      |
+| 1.0        | 09/09/2025   | Informações do aplicativo  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Daniel Nunes Duarte](https://github.com/DanNunes777)   |
 
