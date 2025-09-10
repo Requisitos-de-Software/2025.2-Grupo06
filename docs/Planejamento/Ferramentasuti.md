@@ -7,7 +7,7 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 
 | Logo | Ferramenta | Finalidade |
 |-------------------------------------------------------|------------|-----------------------------------------------|
-| <img src="https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/logos/whatsapp.png" width="45"  alt="WhatsApp" /> | WhatsApp | Utilizado como principal canal de comunicação da equipe. <a id="anchor_1" href="#FRM1"><sup>1</sup></a> |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/logos/whatsapp.png" width="45"  alt="WhatsApp" /> | WhatsApp | Utilizado como principal canal de comunicação da equipe. <a id="anchor_1" href="#FRM1"><sup>1</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/logos/gdocs.png" width="45"  alt="Docs" /> | Google Docs | Criação e edição de arquivos de texto de maneira colaborativa entre os membros. <a id="anchor_2" href="#FRM2"><sup>2</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/logos/youtube.png" width="45"  alt="YouTube" /> | YouTube | Hospedagem dos vídeos produzidos pela equipe(reuniões e apresentações). <a id="anchor_3" href="#FRM3"><sup>3</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/logos/discord.png" width="45"  alt="Discord" /> | Discord | Canal alternativo de comunicação, e também usado para a realização de reuniões, além de permitir compartilhamento rápido de arquivos. <a id="anchor_4" href="#FRM4"><sup>4</sup></a> |
