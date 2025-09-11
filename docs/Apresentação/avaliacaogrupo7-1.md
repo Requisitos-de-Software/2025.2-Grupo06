@@ -10,4 +10,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 10/09/2025 | Criação da tbela de lista de verificação  | João Gabriel (https://github.com/JoaoComTil) | João Gabriel (https://github.com/JoaoComTil) |
+| 1.0 | 10/09/2025 | Criação Vídeo  | João Gabriel (https://github.com/JoaoComTil) | João Gabriel (https://github.com/JoaoComTil) |
