@@ -10,4 +10,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 07/09/2025 | Criação da tbela de lista de verificação  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Fernanda Vaz ](https://github.com/Fernandavazgit1) |
+| 1.0 | 10/09/2025 | Criação da tbela de lista de verificação  | João Gabriel (https://github.com/JoaoComTil) | João Gabriel (https://github.com/JoaoComTil) |
