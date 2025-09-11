@@ -1,11 +1,7 @@
+# Avaliação Grupo 7
 
-<div align="center">
-  <iframe width="560" height="315" src="https://youtu.be/NfKBfgHj854" 
-    title="Vídeo da apresentação" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
+Link do Vídeo
+https://youtu.be/NfKBfgHj854
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
