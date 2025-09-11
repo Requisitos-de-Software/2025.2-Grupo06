@@ -44,6 +44,48 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 
 <font size="2"><p style="text-align: center"><b>Tabela 2</b> - Lista de verificação Desenvolvimento do projeto. </p></font>
  
+| Itens do Desenvolvimento do projeto. | Avaliação (Conforme / Não Conforme / Não aplicável/ Sugestão de Melhoria) | Versão, Data e hora da avaliação |
+|--------------------------------------|---------------------------------------------------------------------------|----------------------------------|
+| 1 - O rich picture está sendo usado para analisar problemas e expressar ideias? | Conforme | 18:49 - 09/09 |
+| 2 - Os principais stakeholders estão sendo representados no rich picture? | Conforme | 18:49 - 09/09 |
+| 3 - O rich picture identifica as questões ou preocupações dos stakeholders? | Conforme | 18:49 - 09/09 |
+| 4 - Para cada ator está identificado as operações que eles precisam realizar? | Conforme | 18:49 - 09/09 |
+| 5 - Os autores estão identificados no domínio do problema? | Conforme | 18:49 - 09/09 |
+| 6 - O limite do sistema está desenhado para definir sua área de responsabilidade? | Conforme | 18:49 - 09/09 |
+| 7 - O rich picture comunica uma mensagem clara e compreensível sobre o funcionamento do sistema? | Conforme | 18:49 - 09/09 |
+| 8 - As operações descritas no rich picture representam funcionalidades do sistema e são executadas por atores ou por outras operações? | Conforme | 18:49 - 09/09 |
+| 9 - As operações são graficamente representadas por círculos ou ovais, contendo uma descrição breve sobre o processo dentro da forma? | Conforme | 18:49 - 09/09 |
+| 10 - Os armazenamentos de dados são representados graficamente por um retângulo? | Conforme | 18:49 - 09/09 |
+| 11 - Os armazenamentos de dados possuem uma descrição que especifica o tipo de dado a ser lido/escrito dentro da forma retangular? | Conforme | 18:49 - 09/09 |
+| 12 - As interações com o armazenamento de dados são realizadas exclusivamente por operações? | Conforme | 18:49 - 09/09 |
+| 13 - Para construção do Rich Picture, pessoas foram entrevistadas? | Conforme | 18:49 - 09/09 |
+| 14 - A entrevista para construção do Rich Picture foi feita com pessoas do local de trabalho que irão trabalhar naquele projeto? | Conforme | 18:49 - 09/09 |
+| 15 - O Rich Picture foi construído durante um Brainstorm com as pessoas no local de trabalho? | Conforme | 18:49 - 09/09 |
+| 16 - O Rich Picture ajudou na consolidação de uma visualização das ideias de maneira mais consistente? | Conforme | 18:49 - 09/09 |
+| 17 - O Rich Picture demonstrou de maneira ampla, o nível organizacional do projeto? | Conforme | 18:49 - 09/09 |
+| 18 - O Rich Picture ajudou a levantar potenciais problemas que não teriam sido vistos anteriormente à sua concepção? | Conforme | 18:49 - 09/09 |
+| 19 - As setas mostram a direção do fluxo de dados entre atores, dados e operações? | Conforme | 18:49 - 09/09 |
+| 20 - As setas estão cruzando os limites do sistema? | Conforme | 18:49 - 09/09 |
+| 21 - As setas estão sendo representadas graficamente como setas com ponta única? | Conforme | 18:49 - 09/09 |
+| 22 - As setas possuem legendas, indicando a funcionalidade delas? | Conforme | 18:49 - 09/09 |
+| 23 - Os atores estão sendo representados graficamente por um boneco? | Conforme | 18:49 - 09/09 |
+| 24 - O limite do sistema está sendo representado graficamente por uma linha circular ou por um tracejado? | Conforme | 18:49 - 09/09 |
+| 25 - As setas devem ser representadas graficamente como setas de ponta única? | Conforme | 18:49 - 09/09 |
+| 26 - As setas são usadas para indicar a direção do fluxo de dados ou informações? | Conforme | 18:49 - 09/09 |
+| 27 - A fronteira do sistema foi o último elemento a ser adicionado ao desenho? | Conforme | 18:49 - 09/09 |
+| 28 - As operações também são identificadas como processos ou funções? | Conforme | 18:49 - 09/09 |
+| 29 - O sistema realiza todas as operações que estão dentro da fronteira? | Conforme | 18:49 - 09/09 |
+| 30 - Apenas as operações acessam (leem ou escrevem) os armazenamentos de dados? | Conforme | 18:49 - 09/09 |
+| 31 - Tem relação entre processos e atores? | Conforme | 18:49 - 09/09 |
+| 32 - Processos de negócios e requisitos estão explícitos? | Conforme | 18:49 - 09/09 |
+| 33 - Há informações de potenciais problemas e conflitos? | Conforme | 18:49 - 09/09 |
+| 34 - Estão presentes todos os componentes do Rich Picture? | Conforme | 18:49 - 09/09 |
+| 35 - Há uma tabela de legenda do Rich Picture? | Conforme | 18:49 - 09/09 |
+| 36 - As setas estão mostrando a direção do fluxo de dados ou informações? | Conforme | 18:49 - 09/09 |
+| 37 - Os três principais componentes conceitual do Rich Picture estão presentes? | Conforme | 18:49 - 09/09 |
+
+
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
