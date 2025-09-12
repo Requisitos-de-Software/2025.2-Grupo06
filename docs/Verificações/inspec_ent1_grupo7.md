@@ -1,7 +1,6 @@
-# Avaliação Grupo 7
+# Inspeção da Entrega 1 - Grupo 7
 
-Link do Vídeo:
-https://youtu.be/NfKBfgHj854
+Link do Vídeo: [https://youtu.be/NfKBfgHj854](https://youtu.be/NfKBfgHj854)
 
 
 | A git page possui? | Avaliação (Conforme / Não Conforme / Não aplicável/ Sugestão de Melhoria) | Versão, Data e hora da avaliação |
