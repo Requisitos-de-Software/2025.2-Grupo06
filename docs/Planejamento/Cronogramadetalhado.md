@@ -44,16 +44,28 @@ Tabela 2 - Cronograma da Etapa 1
 
 A tabela 3 detalha as atividades relacionadas à elicitação, incluindo autores, revisores e prazos.
 
+### Técnicas de Elicitação
+
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. Personas | 18/09 | 30/09 | Fernanda Vaz, Dan Nunes | João Gabriel |
-| 2. Storytelling | 18/09 | 30/09 | Fernanda Vaz, Dan Nunes | João Gabriel |
-| 3. Questionário | 18/09 | 30/09 | João Gabriel | Fernanda Vaz, Dan Nunes |
-| 4. Priorização | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas | Cauã Nicolas |
-| 5. First Things First | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas  | João Lucas |
-| 6. In or Out | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas | Gabriel Maciel |
-| 7. MoSCoW | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Gabriel, João Lucas | Gabriel Maciel |
-| 5. Gravação da apresentação | 18/09 | 01/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
+| 1. Análise de Documentos | 18/09 | 30/09 | A definir | A definir |
+| 2. Brainstorming | 18/09 | 30/09 | A definir | A definir |
+| 3. Entrevista | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Lucas  | A definir |
+
+### Técnicas de Priorização de Elicitações
+
+| Atividade | Início | Fim | Autores | Revisores |
+|-----------|--------|-----|---------|-----------|
+| 1. First Things First | 18/09 | 30/09 | A definir  | A definir |
+| 2. In or Out | 18/09 | 30/09 | A definir | A definir |
+| 3. MoSCoW | 18/09 | 30/09 | A definir | A definir |
+| 4. $100 | 18/09 | 30/09 | A definir | A definir |
+
+### Datas gerais
+
+| Atividade | Início | Fim | Autores | Revisores |
+|-----------|--------|-----|---------|-----------|
+| 1. Gravação da apresentação | 18/09 | 01/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 
 Tabela 3 - Cronograma da Etapa 2
 
@@ -119,3 +131,4 @@ Tabela 7 - Cronograma da Etapa 6
 | 1.0 | 07/09 | Estruturação inicial do cronograma | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 | 1.0.1 | 07/09 | Correções de datas e de revisores | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 | 1.0.2 | 07/09 | Adição de textos às tabelas e etapas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 2.0 | 23/09 | Reestruturação do cronograma da Etapa 2 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
