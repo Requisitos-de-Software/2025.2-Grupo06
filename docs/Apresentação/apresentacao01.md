@@ -42,7 +42,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 | 9 - Vídeo de apresentação na categoria “não listado” no youtube? | Conforme | 07/09 19:00 |
 | 10 - Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Conforme | 07/09 19:00 |
 
-<font size="2"><p style="text-align: center"><b>Tabela 2</b> - Lista de verificação Desenvolvimento do projeto. </p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 2</b> - Lista de verificação de Rich Picture. </p></font>
  
 | Itens do Desenvolvimento do projeto. | Avaliação (Conforme / Não Conforme / Não aplicável/ Sugestão de Melhoria) | Versão, Data e hora da avaliação |
 |--------------------------------------|---------------------------------------------------------------------------|----------------------------------|
@@ -84,6 +84,19 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 | 36 - As setas estão mostrando a direção do fluxo de dados ou informações? | Conforme | 18:49 - 09/09 |
 | 37 - Os três principais componentes conceitual do Rich Picture estão presentes? | Conforme | 18:49 - 09/09 |
 
+O documento 1 inclui a autoria e a fonte de cada item da lista de verificação acima.
+
+![Lista de Verificação](../assets/docs/LVRichPicture.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
+
+<font size="2"><p style="text-align: center"><b>Documento 1</b> - Lista de verificação - Rich Picture. </p></font>
+
+## Referências
+
+**UNIVERSITY OF LEICESTER.** *Software Development Project: Introducing Rich Pictures*. CTEC2402. [S.l.]: [s.n.], [2025?]. **Disponível em**: [https://aprender3.unb.br/pluginfile.php/3210571/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/3210571/mod_resource/content/2/1_5145791542719414573.pdf). **Acesso em**: 23 set. 2025.
+
+**BENYON, David.** *Interação Humano-Computador*. 2. ed. São Paulo: Pearson Prentice Hall, 2011. **Disponível em**: Base de dados Pearson da **Biblioteca Central da UnB (BCE)**. **Acesso em**: 23 set. 2025.
+
+**MONK, Andrew; HOWARD, Steve.** **The Rich Picture: A Tool for Reasoning About Work Context**. *Interactions*, v. 5, n. 2, p. 21–30, mar./abr. 1998. Disponível em: <https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf>. Acesso em: 23 set. 2025.
 
 
 ## Histórico de Versões
@@ -91,3 +104,4 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 07/09/2025 | Criação da tbela de lista de verificação  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Fernanda Vaz ](https://github.com/Fernandavazgit1) |
+| 1.0.1 | 23/09/2025 | Inclusão do documento original da Lista de Verificação - Rich Pictures, que contém autoria, referência e print do trecho de cada item; Adição de referências | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
