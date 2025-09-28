@@ -2,8 +2,7 @@ site_name: DF No Ponto
 docs_dir: ./docs
 markdown_extensions:
   - attr_list
-plugins:
-  - mkdocs-pdf
+
 theme:
   name: material
   logo: assets/logos/logo_small.png
@@ -31,8 +30,10 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
       primary: custom
+
 extra_css:
   - assets/stylesheets/extra.css
+
 repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo06
 repo_name: "2025.2-Grupo06"
 
@@ -47,6 +48,12 @@ nav:
       - Apresentação 1: Apresentação/apresentacao01.md
   - Pré-Rastreabilidade:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
+  - Elicitação: 
+      - Perfil de Usuário: Elicitação/PerfildeUsuario.md
+      - Personas: Elicitação/personas.md
+      - Cenários: Elicitação/Cenarios.md
+      - Técnicas:
+          - Brainstorming: Elicitação/tecnicas/brainstorming.md
   - Atas:
       - Ata 1: Atas de Reunião/ata1.md
       - Ata 2: Atas de Reunião/ata2.md
