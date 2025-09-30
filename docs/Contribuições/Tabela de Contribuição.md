@@ -17,6 +17,28 @@
 <font size="2"><p style="text-align: center"><b>Tabela 1</b> - Cronograma do Projeto</p></font>
 
 
+
+### Entrega 2- Elicitação – Técnicas e Priorização (12/09 - 30/09/2025)
+
+| Artefato/Atividade | Responsável | Data Início | Data Fim | Link da Atividade |
+|---------------------|-------------|-------------|----------|-------------------|
+| Definir o perfil do usuário | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 25/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Atualização no documento de acordo com o feedback da monitora | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 22/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Personas | [FERNANDA VAZ](https://github.com/Fernandavazgit1) | 27/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Cenários | [DANIEL NUNES](https://github.com/DanNunes777) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Elaborar Listas de Verificações de acordo com a etapa | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 16/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Brainstorming | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 29/09/2025 | 29/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Análise de Documentos | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 24/09/2025 | 29/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Entrevista | [CAUÃ NICOLAS](https://github.com/cauanicolas), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO LUCAS](https://github.com/Joaolramos) | 27/09/2025 | 27/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Elaborar técnica de priorização MoSCoW | [GABRIEL MACIEL](https://github.com/GabrielMacielBR) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Elaborar técnica de priorização In or Out | [JOÃO LUCAS](https://github.com/Joaolramos) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Elaborar técnica de priorização First Things First | [CAUÃ NICOLAS](https://github.com/cauanicolas) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Elaborar técnica de priorização 100 Dollars | [JOÃO GABRIEL](https://github.com/JoaoComTil) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Revisão da entrega e gravação | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+| Revisão da Entrega | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 09/09/2025 | 09/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
+*Tabela 2: cronograma realizado segunda etapa.*
+
+
 ## Referências Bibliográficas
 
 >ARTIA. **Qual a importância da gestão de projetos e seus benefícios**. Disponível em: https://artia.com/blog/importancia-da-gestao-de-projetos/. Acesso em: 06 set. 2025.
@@ -25,11 +47,9 @@
 
 ---
 
-
-
-
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| 1.0 | 06/09/2025 |Criação da tabela de Contribuição | [Fernanda Vaz ](https://github.com/Fernandavazgit1) | [alguem ](link) |
+| Versão | Data       | Descrição                          | Autor(es)       | Revisor(es)          |
+|--------|------------|------------------------------------|----------------|---------------------|
+| 1.0    | 06/09/2025 | Criação da tabela de Contribuição  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Gabriel](https://github.com/JoaoComTil), [João Lucas](https://github.com/Joaolramos) |
+| 1.1    | 30/09/2025 | Atualização das contribuições      | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Lucas](https://github.com/Joaolramos) |
