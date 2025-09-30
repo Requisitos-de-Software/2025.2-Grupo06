@@ -46,7 +46,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 2</b> - Persona Primária Diego Almeida Fonseca.</p>
 
 <div style="text-align: center">
-  <img src="docs/assets/Personas/DIEGO.jfif" alt="Persona Diego Almeida Fonseca" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/DIEGO.png" alt="Persona Diego Almeida Fonseca" style="height:500px;width:500px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -73,7 +73,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 3</b> - Persona Secundária Maria Moura Bastos.</p>
 
 <div style="text-align: center">
-  <img src="docs/assets/Personas/MARIA.jfif" alt="Persona Maria Moura Bastos" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/maria.png" alt="Persona Maria Moura Bastos" style="height:500px;width:500px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -100,7 +100,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 4</b> - Persona Ocasional Isabela Freitas Corrêa.</p>
 
 <div style="text-align: center">
-  <img src="docs/assets/Personas/ISABELA.jfif" alt="Persona Isabela Freitas Corrêa" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/download-_4_.png" alt="Persona Isabela Freitas Corrêa" style="height:500px;width:500px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -127,7 +127,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 5</b> - Antipersona Fernando D'Angelo.</p>
 
 <div style="text-align: center">
-  <img src="docs/assets/Personas/FERNANDO.jfif" alt="Antipersona Fernando D'Angelo" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/fernando.png" alt="Antipersona Fernando D'Angelo" style="height:500px;width:500px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
