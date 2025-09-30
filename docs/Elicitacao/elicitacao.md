@@ -88,7 +88,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Integração com BRB Mobilidade. |
 
 ---
-*Tabela 1: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
+*Tabela 2: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
 
 
 ### Entrevista 3 - Guilherme
@@ -111,7 +111,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Que tipo de recurso novo você gostaria de ver nesses apps? | Nenhum recurso novo. |
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Integração com o BRB Mobilidade para recarga do cartão. |
 
-*Tabela 1: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
+*Tabela 3: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
 
 
 
