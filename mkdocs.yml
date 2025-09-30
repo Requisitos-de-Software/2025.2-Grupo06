@@ -54,11 +54,14 @@ nav:
       - Cenários: Elicitação/Cenarios.md
       - Técnicas:
           - Brainstorming: Elicitação/tecnicas/brainstorming.md
+          - Análise de Documentos: Elicitação/tecnicas/Analisededocs.md
   - Atas:
       - Ata 1: Atas de Reunião/ata1.md
       - Ata 2: Atas de Reunião/ata2.md
       - Ata 3: Atas de Reunião/ata3.md
   - Verificações:
       - Inspeção do Grupo 7 - Entrega 1: Verificações/inspec_ent1_grupo7.md
+  - Listas de Verificações: 
+      -  Rich Picture: checklist/lista01.md
   - Contribuições:
       - Tabela de Contribuição: Contribuições/Tabela de Contribuição.md
