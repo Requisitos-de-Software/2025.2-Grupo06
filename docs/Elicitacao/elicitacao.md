@@ -7,9 +7,6 @@
 ### Introdução
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-### Metodologia
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
 ### Dados
 
 ### Entrevistadores
@@ -127,3 +124,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
 | 1.0       | 30/09/2025   | Criação inicial do arquivo, adiciona dados obtidos na entrevista | [Cauã Nicolas](https://github.com/cauanicolas)  | [Gabriel Macial](https://github.com/GabrielMacielBR) |
+
+## Bibliografia
+>[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
