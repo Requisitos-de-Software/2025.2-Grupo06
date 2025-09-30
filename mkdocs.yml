@@ -50,6 +50,8 @@ nav:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
   - 2. Elicitação: 
       - Perfil de Usuário: Elicitacao/perfil.md
+      - Personas : Elicitacao/personas.md
+      - Cenários : Elicitacao/cenarios.md
       - Elicitação de Requisitos: Elicitacao/elicitacao.md
       - Priorização de Requisitos: Elicitacao/priorizacao.md
   - Atas:
