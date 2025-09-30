@@ -19,7 +19,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 1</b> - Persona Primária Juliana Ferreira Monteiro.</p>
 
 <div style="text-align: center">
-  <img src="docs/assets/Personas/JULIANA.jfif" alt="Persona Juliana Ferreira Monteiro" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/JULIANA.png" style="height:500px;width:500px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
