@@ -50,6 +50,8 @@ nav:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
   - 2. Elicitação: 
       - Perfil de Usuário: Elicitacao/perfil.md
+      - Personas : Elicitacao/personas.md
+      - Cenários : Elicitacao/cenarios.md
       - Elicitação de Requisitos: Elicitacao/elicitacao.md
       - Priorização de Requisitos: Elicitacao/priorizacao.md
   - Atas:
@@ -60,5 +62,6 @@ nav:
       - Inspeção do Grupo 7 - Entrega 1: Verificações/inspec_ent1_grupo7.md
   - Listas de Verificações: 
       -  Rich Picture: checklist/lista01.md
+      -  Elicitação e priorização: checklist/lista02.md
   - Contribuições:
       - Tabela de Contribuição: Contribuições/Tabela de Contribuição.md
