@@ -75,9 +75,9 @@
 
 ### Referências
 
-1. WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond, WA: Microsoft Press, 2013.  
-2. VALOREZ, Carlos Edward. *Engenharia de Requisitos: Software Orientado ao Negócio*. 1. ed. [São Paulo]: Editora Ciência Moderna, 2019.  
-3. BARBOSA, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário*. 1. ed. [Cidade: Editora], 2021.
+ >WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond, WA: Microsoft Press, 2013.  
+ >VALOREZ, Carlos Edward. *Engenharia de Requisitos: Software Orientado ao Negócio*. 1. ed. [São Paulo]: Editora Ciência Moderna, 2019.  
+>BARBOSA, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário*. 1. ed. [Cidade: Editora], 2021.
 
 ## Histórico de Versões
 
