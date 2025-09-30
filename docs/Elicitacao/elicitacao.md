@@ -17,34 +17,34 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Gravação: Gabriel Maciel
 - Redator: Cauã Nicolas  
 ### Dados do entrevistado e entrevista 1
-- Nome: 
-- Idade:
-- Sexo:
-- Região onde reside:
-- Data da entrevista:
-- Horário:
-- Duração:
+- Nome: Artur
+- Idade: 23 anos
+- Sexo: Masculino
+- Região onde reside: Luziânia / GO
+- Data da entrevista: 26/09/2025
+- Horário: 12:00
+- Duração: 14:58 minutos
 ### Dados do entrevistado e entrevista 2
-- Nome: 
-- Idade:
-- Sexo:
-- Região onde reside:
-- Data da entrevista:
-- Duração: 
+- Nome: Caio
+- Idade: 21 anos
+- Sexo: Masculino
+- Região onde reside: Gama / DF
+- Data da entrevista: 26/09/2025
+- Duração: 7:12 minutos
 ### Dados do entrevistado e entrevista 3
-- Nome: 
-- Idade:
-- Sexo:
-- Região onde reside:
-- Data da entrevista:
-- Duração:
+- Nome: Guilherme
+- Idade: 20 anos
+- Sexo: Masculino
+- Região onde reside: Sobradinho / DF
+- Data da entrevista: 26/09/2025
+- Duração: 11:22 minutos
 ### Dados do entrevistado e entrevista 4
-- Nome: 
-- Idade:
-- Sexo:
-- Região onde reside:
-- Data da entrevista:
-- Duração:
+- Nome: Beatriz
+- Idade: 19 anos
+- Sexo: Feminino
+- Região onde reside: Lago Norte
+- Data da entrevista: 26/09/2025
+- Duração: 7:35 minutos
 
 ## Perguntas e Respostas
 
@@ -67,8 +67,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Há situações em que eles falham ou não ajudam? Pode me dar um exemplo? | Falta de pontualidade. |
 | Que tipo de recurso novo você gostaria de ver nesses apps? | Ampliamento do serviço para áreas remotas, além de notícia e informações sobre o trânsito. |
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Integração com cartão mobilidade, além da informação do preço das passagens. |
-
 ---
+*Tabela 1: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
 
 ### Entrevista 2 - Caio
 
@@ -91,8 +91,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Integração com BRB Mobilidade. |
 
 ---
+*Tabela 1: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
 
-### Entrevista 3 - Flyan
+
+### Entrevista 3 - Guilherme
 
 | Questão | Resposta |
 | ------- | -------- |
@@ -111,6 +113,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Há situações em que eles falham ou não ajudam? Pode me dar um exemplo? | Em situações em que possui ponto de recarga e ponto de parada muito próximos, causando sobreposição de ícones. |
 | Que tipo de recurso novo você gostaria de ver nesses apps? | Nenhum recurso novo. |
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Integração com o BRB Mobilidade para recarga do cartão. |
+
+*Tabela 1: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
+
 
 
 
