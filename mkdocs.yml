@@ -1,5 +1,8 @@
 site_name: DF No Ponto
 docs_dir: ./docs
+markdown_extensions:
+  - attr_list
+
 theme:
   name: material
   logo: assets/logos/logo_small.png
@@ -27,8 +30,10 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
       primary: custom
+
 extra_css:
   - assets/stylesheets/extra.css
+
 repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo06
 repo_name: "2025.2-Grupo06"
 
@@ -41,11 +46,22 @@ nav:
       - Heatmap: Planejamento/Heatmap.md
   - Apresentação:
       - Apresentação 1: Apresentação/apresentacao01.md
-  - Pré-Rastreabilidade:
+  - 1. Pré-Rastreabilidade:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
+  - 2. Elicitação: 
+      - Perfil de Usuário: Elicitacao/perfil.md
+      - Personas : Elicitacao/personas.md
+      - Cenários : Elicitacao/cenarios.md
+      - Elicitação de Requisitos: Elicitacao/elicitacao.md
+      - Priorização de Requisitos: Elicitacao/priorizacao.md
   - Atas:
       - Ata 1: Atas de Reunião/ata1.md
       - Ata 2: Atas de Reunião/ata2.md
       - Ata 3: Atas de Reunião/ata3.md
+  - Verificações:
+      - Inspeção do Grupo 7 - Entrega 1: Verificações/inspec_ent1_grupo7.md
+  - Listas de Verificações: 
+      -  Rich Picture: checklist/lista01.md
+      -  Elicitação e priorização: checklist/lista02.md
   - Contribuições:
       - Tabela de Contribuição: Contribuições/Tabela de Contribuição.md
