@@ -47,11 +47,9 @@
 
 ---
 
-
-
-
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| 1.0 | 06/09/2025 |Criação da tabela de Contribuição | [Fernanda Vaz ](https://github.com/Fernandavazgit1) | [alguem ](link) |
+| Versão | Data       | Descrição                          | Autor(es)       | Revisor(es)          |
+|--------|------------|------------------------------------|----------------|---------------------|
+| 1.0    | 06/09/2025 | Criação da tabela de Contribuição  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Gabriel](https://github.com/JoaoComTil), [João Lucas](https://github.com/Joaolramos) |
+| 1.1    | 30/09/2025 | Atualização das contribuições      | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Lucas](https://github.com/Joaolramos) |
