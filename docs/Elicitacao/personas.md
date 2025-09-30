@@ -159,7 +159,5 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 ---
 
 ## Referências Bibliográficas
-
-1. BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2011.
-
-2. **This Person Doesn't Exist**. Imagens geradas através da aplicação de inteligência artificial. Disponível em: https://this-person-does-not-exist.com/. Acesso em: 29 set. 2025.
+>BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2011.
+>**This Person Doesn't Exist**. Imagens geradas através da aplicação de inteligência artificial. Disponível em: https://this-person-does-not-exist.com/. Acesso em: 29 set. 2025.
