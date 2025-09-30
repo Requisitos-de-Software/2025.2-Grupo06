@@ -36,7 +36,7 @@
 | Elaborar técnica de priorização 100 Dollars | [JOÃO GABRIEL](https://github.com/JoaoComTil) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
 | Revisão da entrega e gravação | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 30/09/2025 | 30/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
 | Revisão da Entrega | [CAUÃ NICOLAS](https://github.com/cauanicolas), [DANIEL NUNES](https://github.com/DanNunes777), [FERNANDA VAZ](https://github.com/Fernandavazgit1), [GABRIEL MACIEL](https://github.com/GabrielMacielBR), [JOÃO GABRIEL](https://github.com/JoaoComTil), [JOÃO LUCAS](https://github.com/Joaolramos) | 09/09/2025 | 09/09/2025 | [Link](https://requisitos-de-software.github.io/2025.2-Grupo06) |
-
+*Tabela 2: cronograma realizado segunda etapa.*
 
 
 ## Referências Bibliográficas
