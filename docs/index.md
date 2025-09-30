@@ -9,7 +9,7 @@
 Esta página tem como objetivo  apresentar  o aplicativo analisado e escolido pelos inegrantes do  grupo 06 da disciplina de Requisitos de Software da FCTE-UnB durante o 2º semestre de 2025. O aplicativo escolhido para o trabalho foi o [DF No Ponto](https://play.google.com/store/apps/details?id=br.bus2.dfnoponto&hl=pt_BR). O app em questão, cuja logo está explicitada na Figura 1, é um  aplicativo que apresenta informações em tempo real do transporte público da cidade de Brasília, Distrito Federal.
 
 
-## 👨‍💻 Equipe de Desenvolvimento
+##  Equipe de Desenvolvimento
 
 <table>
   <tr>
