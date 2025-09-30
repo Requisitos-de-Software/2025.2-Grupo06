@@ -33,15 +33,11 @@ Após análise das fontes, foi definido o seguinte perfil de usuário para o apl
 
 ## Referências Bibliográficas
 
-1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
-
-2. GOVERNO DO DISTRITO FEDERAL. *DF no Ponto – Manual de uso do aplicativo*. Disponível em: [https://docs.google.com/document/d/1kZ85GVpe1_a8T12T1ToIqyioE7VeNCuGht_-V5zz0Kg](https://docs.google.com/document/d/1kZ85GVpe1_a8T12T1ToIqyioE7VeNCuGht_-V5zz0Kg). Acesso em: 30 set. 2025.
-
-3. G1. *Sistema permite que passageiros acompanhem ônibus em tempo real no DF; saiba como usar*. 2019. Disponível em: [https://g1.globo.com/google/amp/df/distrito-federal/noticia/2019/09/20/sistema-permite-que-passageiros-acompanhem-onibus-em-tempo-real-no-df-saiba-como-usar.ghtml](https://g1.globo.com/google/amp/df/distrito-federal/noticia/2019/09/20/sistema-permite-que-passageiros-acompanhem-onibus-em-tempo-real-no-df-saiba-como-usar.ghtml). Acesso em: 30 set. 2025.
+ >BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
+ >GOVERNO DO DISTRITO FEDERAL. *DF no Ponto – Manual de uso do aplicativo*. Disponível em: [https://docs.google.com/document/d/1kZ85GVpe1_a8T12T1ToIqyioE7VeNCuGht_-V5zz0Kg](https://docs.google.com/document/d/1kZ85GVpe1_a8T12T1ToIqyioE7VeNCuGht_-V5zz0Kg). Acesso em: 30 set. 2025.
+>G1. *Sistema permite que passageiros acompanhem ônibus em tempo real no DF; saiba como usar*. 2019. Disponível em: [https://g1.globo.com/google/amp/df/distrito-federal/noticia/2019/09/20/sistema-permite-que-passageiros-acompanhem-onibus-em-tempo-real-no-df-saiba-como-usar.ghtml](https://g1.globo.com/google/amp/df/distrito-federal/noticia/2019/09/20/sistema-permite-que-passageiros-acompanhem-onibus-em-tempo-real-no-df-saiba-como-usar.ghtml). Acesso em: 30 set. 2025.
 
 ---
-
-Se quiser que eu adicione personas visuais, histórico de versões ou vincule esse perfil a funcionalidades específicas do app, posso complementar rapidinho!
 
 
 
@@ -50,6 +46,8 @@ Se quiser que eu adicione personas visuais, histórico de versões ou vincule es
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)    | Revisor(es)  |
-|--------|------------|----------------------|--------------|--------------|
-| 1.0    | 28/09/2025 | Criação da página.   | Fernanda Vaz | Fernanda Vaz |
+| Versão | Data       | Descrição                          | Autor(es)    | Revisor(es)  |
+|--------|------------|------------------------------------|--------------|--------------|
+| 1.0    | 28/09/2025 | Criação da página.                 | Fernanda Vaz | Fernanda Vaz |
+| 1.1    | 30/09/2025 | Atualização do perfil de usuário. | Fernanda Vaz | Fernanda Vaz |
+
