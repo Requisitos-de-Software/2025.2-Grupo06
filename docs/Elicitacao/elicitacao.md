@@ -18,15 +18,16 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | Finalidade    | Obter previsibilidade e confiabilidade nos horários dos ônibus. Facilitar o deslocamento para trabalho, estudo e outras atividades cotidianas. |
  <sub><b> Tabela 01.</b> Autoria: Fernanda Vaz</sub>
 
- ## Perfil Demográfico dos Usuários
-| Campo         | Descrição                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+## Perfil Demográfico dos Usuários
+
+| Campo         | Descrição  |
+|---------------| ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Identificação | Usuários majoritariamente das classes C, D e E, conforme pesquisa da CNT. Inclui estudantes e trabalhadores jovens com renda baixa a média. |
 | Interação     | - Dependência diária do transporte coletivo. <br> - Busca por soluções digitais que aumentem a eficiência dos deslocamentos.              |
 | Finalidade    | Utilizar o transporte público como principal meio de locomoção, com apoio de ferramentas digitais para reduzir incertezas e atrasos.     |
  <sub><b> Tabela 02.</b> Autoria: Fernanda Vaz</sub>
 
- ## Requisitos Funcionais
+## Requisitos Funcionais
  
 | ID    | Requisito Funcional                     | Descrição                                                                 |
 |-------|------------------------------------------|---------------------------------------------------------------------------|
@@ -251,6 +252,13 @@ A partir da análise das respostas coletadas nas entrevistas, foram identificado
 
 A técnica de Brainstorming (ou "Tempestade de Ideias") é um método de elicitação de requisitos em grupo focado na geração de um grande volume de ideias em um curto período. É uma ferramenta poderosa para estimular a criatividade e descobrir requisitos inovadores ou que não seriam facilmente identificados em entrevistas individuais ou análise de documentos.
 
+
+O vídeo 1 registra uma sessão de brainstorming realizada pela equipe de elicitação de requisitos. Nele, os participantes discutem ideias e sugestões para funcionalidades do sistema, destacando necessidades dos usuários e oportunidades de melhoria. O conteúdo do vídeo serviu como base para a identificação de requisitos inovadores e complementares aos levantados nas demais técnicas.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bT4dvMkHvM4?si=LL6iAfQI_kT_4W-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Vídeo 1: Brainstorm de Elicitação de Requisitos*
+
 # Histórico de Versões
 
 | Versão | Data       | Descrição                                                      | Autor(es)       | Revisor(es)       |
@@ -260,6 +268,7 @@ A técnica de Brainstorming (ou "Tempestade de Ideias") é um método de elicita
 | 1.2    | 30/09/2025 | Atualizações e correção das legendas das tabelas e adição da Beatriz. | Fernanda Vaz   | Cauã Nicolas    |
 | 1.3        | 30/09/2025   | Adiciona roteiro, local, resultados e a tabela de requisitos      | [João Ramos](https://github.com/Joaolramos)        | [Gabriel Macial](https://github.com/GabrielMacielBR)       |
 | 1.4 | 30/09/2025 | Adiciona vídeo da entrevista | Gabriel Maciel | João Ramos | 
+| 1.5 | 30/09/2025 | Adiciona vídeo do Brainstorming | Gabriel Maciel | João Gabriel | 
 
 
 ## Bibliografia

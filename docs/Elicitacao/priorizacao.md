@@ -298,15 +298,7 @@ A Tabela 3 apresenta o resultado da aplicação da técnica First Things First, 
 
 *Tabela 3: Resultados do First Things First (Fonte: OLIVEIRA, Cauã. 2025)*
 
-## Brainstorming
-
-O Vídeo 1 apresenta uma sessão prática de brainstorming, na qual integrantes do grupo debatem e sugerem funcionalidades prioritárias para o aplicativo de transporte público. Durante a discussão, cada participante contribui com requisitos considerados essenciais para o MVP, como localização em tempo real dos ônibus, sistema de alertas, exibição de preços das passagens e possibilidade de compartilhar trajetos com amigos. Essa dinâmica colaborativa evidencia como o brainstorming auxilia na identificação dos requisitos mais relevantes, promovendo consenso entre os envolvidos e direcionando o desenvolvimento do sistema para atender às necessidades dos usuários.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJ2Fn7aj6bk?si=ea2uyv_JVN4mDAIp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-*Vídeo 1: Priorização de Requisitos por sessão de Brainstorming *
-
-## **In or Out **
+## **In or Out (Dentro ou Fora)**
 
 ### Introdução
 
@@ -382,3 +374,4 @@ Isso fornece uma direção clara para a equipe de desenvolvimento, que pode foca
 | 1.1.1  | 30/09/2025 | Adiciona técnica de priorização Brainstorming | Gabriel Maciel | João Lucas |
 | 1.1.2 | 30/09/2025 | Adiciona técnica de priorização $100 | João Gabriel | Gabriel Maciel | 
 | 1.1.3 | 30/09/2025 | Adiciona técnica de priorização in or out | João Lucas| Gabriel Maciel | 
+| 1.1.4  | 30/09/2025 | Remove técnica de priorização Brainstorming | Gabriel Maciel | João Lucas |
