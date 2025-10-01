@@ -57,7 +57,6 @@
 | 46  | O elenco contempla os principais grupos de usuários do sistema? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 | 47  | Existe ao menos um antiusuário identificado, se necessário? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 | 48  | Não há duas personas que representam praticamente o mesmo perfil? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 49  | Os objetivos do elenco de personas estão alinhados com os objetivos do sistema? | João Lucas | Visualizar
 | 49  | Os objetivos do elenco de personas estão alinhados com os objetivos do sistema? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 | 50  | As personas foram validadas com dados reais (pesquisas, entrevistas, observações)? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 | 51  | Cada persona cobre um perfil distinto e relevante para os objetivos do projeto? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
