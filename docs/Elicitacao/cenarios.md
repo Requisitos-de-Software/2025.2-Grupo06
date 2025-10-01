@@ -103,6 +103,14 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
   O resultado final é Ana chegando ao ponto de ônibus com pouca espera e embarcando no ônibus desejado, a caminho do seu estágio sem atrasos.
 
 ---
+
+## Referências Bibliográficas
+<a id="APP1" href="#anchor_APP1">1.</a> CENÁRIOS. In: RETRAINING - Guia facetado de Técnicas de Elicitação de Requisitos. Disponível em: [https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-cenarios](). Acesso em: 30 de set. de 2025.
+
+<a id="APP2" href="#anchor_APP2">2.</a> BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do usuário. Disponível em:[https://aprender3.unb.br/pluginfile.php/3210628/mod_resource/content/2/ihc-ux-%20Personas.pdf]() . Cap. 8.3 - Cenários Pág 158 à 163. Acesso em: 30 de set. de 2025.
+
+---
+
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
 | 1.0        | 30/09/2025   | Cenários  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Daniel Nunes Duarte](https://github.com/DanNunes777)   |
