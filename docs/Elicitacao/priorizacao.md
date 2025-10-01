@@ -306,6 +306,72 @@ O Vídeo 1 apresenta uma sessão prática de brainstorming, na qual integrantes 
 
 *Vídeo 1: Priorização de Requisitos por sessão de Brainstorming *
 
+## **In or Out (Dentro ou Fora)**
+
+### Introdução
+
+A técnica **In or Out** (Dentro ou Fora) é um método de priorização rápido e decisivo, ideal para definir o escopo inicial de um projeto ou de um **MVP (Minimum Viable Product ou Produto Mínimo Viável)**. O objetivo é forçar os participantes a fazerem uma escolha binária e clara sobre cada requisito: ele é absolutamente essencial para a primeira entrega ou pode esperar?
+
+Essa abordagem ajuda a evitar o "scope creep" (aumento descontrolado do escopo) desde o início, garantindo que o time foque apenas no que agrega mais valor na primeira versão do produto.
+
+#### Como Funciona?
+
+Cada participante, representando um *stakeholder* (parte interessada), recebe uma lista de todos os requisitos propostos. Para cada item da lista, ele deve tomar uma única decisão:
+
+* **IN (Dentro):** O requisito é considerado **essencial** e deve obrigatoriamente estar na próxima entrega/versão.
+* **OUT (Fora):** O requisito é importante, mas **não é essencial** para a próxima entrega e pode ser implementado em uma fase futura.
+
+Não há meio-termo. Um requisito não pode estar "meio dentro".
+
+#### Passo a Passo:
+
+1.  **Listagem**: Todos os requisitos são listados de forma clara e compreensível.
+2.  **Definição do Escopo**: O mediador define claramente o objetivo da priorização (ex: "O que é essencial para o MVP?").
+3.  **Votação Individual**: Cada participante classifica cada requisito como "IN" ou "OUT".
+4.  **Consolidação**: Os votos são somados.
+5.  **Discussão e Ranking**: Itens que receberam "IN" de todos (ou da maioria) são prioridade máxima. Itens que receberam "OUT" de todos são despriorizados. Itens com votos divididos são discutidos em grupo para se chegar a um consenso.
+
+### Como Fizemos
+
+* Para aplicar a técnica, foi realizada uma reunião com quatro participantes que simularam o papel de *stakeholders* do projeto "DF no Ponto".
+* Uma planilha no Excel foi preparada com a lista de todos os Requisitos Funcionais (RFs) e Não Funcionais (RNFs) levantados. Cada participante recebeu uma cópia e marcou "IN" ou "OUT" para cada requisito, com base no que consideravam essencial para o lançamento do MVP.
+* Após a votação individual, os resultados foram consolidados em uma tabela única para análise. Os requisitos foram então ordenados pela quantidade de votos "IN" recebidos, do maior para o menor.
+* Os resultados da votação e o ranking final podem ser vistos na tabela abaixo.
+
+### Ranking Final dos Requisitos (Ordenado por Votos "IN")
+
+| Posição | ID | Votos "IN" | Votos "OUT" |
+|:---:|:---:|:---:|:---:|
+| **1** | RF01 | **4** | **0** |
+| **2** | RF02 | **4** | **0** |
+| **3** | RF04 | **4** | **0** |
+| **4** | RF06 | **4** | **0** |
+| **5** | RNF01 | **4** | **0** |
+| **6** | RNF02 | **4** | **0** |
+| **7** | RNF07 | **4** | **0** |
+| **8** | RNF09 | **4** | **0** |
+| **9** | RNF10 | **4** | **0** |
+| **10** | RNF13 | **4** | **0** |
+| **11** | RF03 | **3** | **1** |
+| **12** | RF05 | **3** | **1** |
+| **13** | RF12 | **3** | **1** |
+| **14** | RF18 | **3** | **1** |
+| **15** | RF24 | **3** | **1** |
+| **16** | RF08 | **2** | **2** |
+| **17** | RF09 | **2** | **2** |
+| **18** | RF11 | **2** | **2** |
+| **19** | RF17 | **2** | **2** |
+| **20** | RF21 | **2** | **2** |
+| ... | ... | ... | ... |
+
+*Tabela 3: Ranking Parcial do In or Out - Fonte: João Gabriel*
+
+### Conclusão
+
+A aplicação da técnica **In or Out** revelou um forte consenso sobre as funcionalidades essenciais para o MVP. Requisitos como localização em tempo real (RF01), tempo estimado de chegada (RF02), mapa interativo (RF06) e a busca por linhas (RF04), juntamente com requisitos não funcionais críticos como precisão (RNF01), confiabilidade (RNF02) e segurança (RNF09), foram unanimemente classificados como "IN".
+
+Isso fornece uma direção clara para a equipe de desenvolvimento, que pode focar na construção de um produto inicial sólido e de alto valor, deixando funcionalidades importantes, mas não essenciais (como recarga de cartão ou histórico de viagens), para iterações futuras.
+
 ### Bibliografia
 
 >[1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf 
@@ -319,3 +385,4 @@ O Vídeo 1 apresenta uma sessão prática de brainstorming, na qual integrantes 
 | 1.1    | 30/09/2025 | Adiciona técnica de priorização MoSCoW | Gabriel Maciel | Cauã Nicolas |
 | 1.1.1  | 30/09/2025 | Adiciona técnica de priorização Brainstorming | Gabriel Maciel | João Lucas |
 | 1.1.2 | 30/09/2025 | Adiciona técnica de priorização $100 | João Gabriel | Gabriel Maciel | 
+| 1.1.3 | 30/09/2025 | Adiciona técnica de priorização in or out | João Lucas| Gabriel Maciel | 
