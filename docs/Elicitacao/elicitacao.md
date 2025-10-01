@@ -1,18 +1,36 @@
-
-
-# Técnicas de Elicitação
+# Técnica de Elicitação
 
 ## Entrevista
 
 ### Introdução
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+A entrevista consiste em um diálogo, que pode ser formal ou informal, entre duas ou mais pessoas. Nela, o entrevistador busca obter respostas para um conjunto de questões planejadas previamente em um roteiro, enquanto os entrevistados são as fontes de informação.
 
 ### Metodologia
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+A realização das entrevistas seguiu um processo de preparação, execução e finalização. Para este projeto, foi adotada a abordagem de entrevista estruturada, pois um roteiro fixo de perguntas foi aplicado a todos os entrevistados para garantir a consistência dos dados coletados.
 
-### Dados
+A estrutura das perguntas seguiu o formato de Pirâmide. A entrevista iniciou com questões fechadas para coletar dados demográficos e de contexto (idade, ocupação, região de residência) e, em seguida, progrediu para questões abertas, permitindo que os entrevistados detalhassem suas experiências, necessidades e opiniões sobre os aplicativos de mobilidade urbana de tranporte público. Após a execução, as respostas foram documentadas para a análise dos requisitos.
 
-### Entrevistadores
+### Roteiro de Perguntas
+1.  Qual a sua idade?
+2.  Qual a sua ocupação (estudante, trabalhador, etc.)?
+3.  Você mora em qual região/bairro do DF?
+4.  Com que frequência você utiliza transporte público no seu dia a dia?
+5.  Você já utilizou aplicativos para a mobilidade urbana?
+6.  Lembra da primeira vez que usou? Como foi sua experiência?
+7.  Com que frequência você costuma utilizar esses aplicativos?
+8.  O que te levou a começar a usar esses aplicativos?
+9.  Quando você abre o app, normalmente, o que está buscando?
+10. O que você espera de um aplicativo de transporte público?
+11. Quais informações são mais importantes para você?
+12. Na sua opinião, os aplicativos atendem às suas necessidades atuais? Por quê?
+13. Há situações em que eles falham ou não ajudam? Pode me dar um exemplo?
+14. Que tipo de recurso novo você gostaria de ver nesses apps?
+15. Você gostaria que esses apps fossem mais integrados a outros serviços?
+
+
+### Detalhes e Informações das Entrevistas:
+
+### Equipe de Entrevistadores
 - Entrevistador: João Lucas 
 - Gravação: Gabriel Maciel
 - Redator: Cauã Nicolas  
@@ -22,7 +40,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Sexo: Masculino
 - Região onde reside: Luziânia / GO
 - Data da entrevista: 26/09/2025
-- Horário: 12:00
+- Horário: 11:27
+- Local: FCTE-UnB, Gama / DF
 - Duração: 14:58 minutos
 ### Dados do entrevistado e entrevista 2
 - Nome: Caio
@@ -30,6 +49,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Sexo: Masculino
 - Região onde reside: Gama / DF
 - Data da entrevista: 26/09/2025
+- Horário: 11:51
+- Local: FCTE-UnB, Gama / DF
 - Duração: 7:12 minutos
 ### Dados do entrevistado e entrevista 3
 - Nome: Guilherme
@@ -37,6 +58,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Sexo: Masculino
 - Região onde reside: Sobradinho / DF
 - Data da entrevista: 26/09/2025
+- Horário: 14:02
+- Local: FCTE-UnB, Gama / DF
 - Duração: 11:22 minutos
 ### Dados do entrevistado e entrevista 4
 - Nome: Beatriz
@@ -44,6 +67,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Sexo: Feminino
 - Região onde reside: Lago Norte
 - Data da entrevista: 26/09/2025
+- Horário: 11:59
+- Local: FCTE-UnB, Gama / DF
 - Duração: 7:35 minutos
 
 ## Perguntas e Respostas
@@ -53,9 +78,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Questão | Resposta |
 | ------- | -------- |
 | Qual a sua idade? | 23 anos |
-| Você mora em qual região/bairro do DF? | Luziânia / GO |
 | Qual a sua ocupação (estudante, trabalhador, etc.)? | Estudante |
-| Com que frequência você utiliza transporte público no seu dia a dia? | Diariamente |
+| Você mora em qual região/bairro do DF? | Luziânia / GO |
 | Você já utilizou aplicativos para a mobilidade urbana? | Sim, moovit |
 | Lembra da primeira vez que usou? Como foi sua experiência? | Quando foi fazer o vestibular, mas o local de prova era desconhecido, buscou um app para auxílio na locomoção. |
 | Com que frequência você costuma utilizar esses aplicativos? | Diariamente. |
@@ -75,8 +99,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Questão | Resposta |
 | ------- | -------- |
 | Qual a sua idade? | 21 anos |
-| Você mora em qual região/bairro do DF? | Gama / DF |
 | Qual a sua ocupação (estudante, trabalhador, etc.)? | Estudante |
+| Você mora em qual região/bairro do DF? | Gama / DF |
 | Com que frequência você utiliza transporte público no seu dia a dia? | Diariamente, com frequência. |
 | Você já utilizou aplicativos para a mobilidade urbana? | Sim, moovit, df no ponto e cittamobi |
 | Lembra da primeira vez que usou? Como foi sua experiência? | Ajudar caminho pra faculdade. |
@@ -91,7 +115,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Integração com BRB Mobilidade. |
 
 ---
-*Tabela 1: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
+*Tabela 2: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
 
 
 ### Entrevista 3 - Guilherme
@@ -99,8 +123,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Questão | Resposta |
 | ------- | -------- |
 | Qual a sua idade? | 20 anos |
-| Você mora em qual região/bairro do DF? | Sobradinho/DF |
 | Qual a sua ocupação (estudante, trabalhador, etc.)? | Estudante |
+| Você mora em qual região/bairro do DF? | Sobradinho/DF |
 | Com que frequência você utiliza transporte público no seu dia a dia? | Uso diário (Moovit) |
 | Você já utilizou aplicativos para a mobilidade urbana? | Moovit |
 | Lembra da primeira vez que usou? Como foi sua experiência? | Iniciou seu uso durante a pandemia, que se tornou um hábito frequente. |
@@ -114,7 +138,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Que tipo de recurso novo você gostaria de ver nesses apps? | Nenhum recurso novo. |
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Integração com o BRB Mobilidade para recarga do cartão. |
 
-*Tabela 1: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
+*Tabela 3: Perguntas e Respostas (Fonte: OLIVEIRA, Cauã. 2025)*
 
 ### Entrevista 4 - Beatriz
 
@@ -135,15 +159,39 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Que tipo de recurso novo você gostaria de ver nesses apps? | Um sistema para usuários avaliarem a lotação do ônibus, a possibilidade de rastrear mais de um ônibus ao mesmo tempo e integração com o BRB Mobilidade. |
 | Você gostaria que esses apps fossem mais integrados a outros serviços? | Sim, com o cartão de mobilidade para saber o saldo e gastos com passagens. |
 ---
-*Tabela 4: Perguntas e Respostas (Fonte: Ramos, João. 2025)*
+*Tabela 4: Perguntas e Respostas (Fonte: RAMOS, João. 2025)*
 
+## Resultados
+A partir da análise das respostas coletadas nas entrevistas, foram identificados os seguintes requisitos funcionais e não funcionais para o sistema.
 
+| Identificador | Requisito                                                                 | Tipo |
+|---------------|---------------------------------------------------------------------------|------|
+| ENT01 | O aplicativo permite ao usuário que faça pesquisa por linhas e rotas de ônibus. | RF |
+| ENT02 | O aplicativo apresenta horários de saída e chegada dos transportes. | RF |
+| ENT03 | O aplicativo mostra em tempo real a localização do ônibus buscado. | RF |
+| ENT04 | O aplicativo informa o tempo estimado de chegada do ônibus ao ponto de parada. | RF |
+| ENT05 | O sistema envia alertas sobre atrasos, mudanças de rota ou alterações nos horários. | RF |
+| ENT06 | O aplicativo oferece um mapa interativo com os pontos de ônibus e suas linhas correspondentes. | RF |
+| ENT07 | O aplicativo permite integração com o cartão de transporte, incluindo saldo e recarga. | RF |
+| ENT08 | O aplicativo amplia a cobertura e exibe informações também em regiões afastadas do Distrito Federal. | RF |
+| ENT09 | O sistema apresenta informações atualizadas e confiáveis, minimizando problemas de pontualidade. | RNF |
+| ENT10 | A interface é intuitiva, clara e de fácil navegação, mesmo para novos usuários. | RNF |
+| ENT11 | O sistema permite que os usuários avaliem e visualizem o nível de lotação do ônibus. | RF |
+| ENT12 | O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa. | RF |
+| ENT13 | O rastreamento dos ônibus em tempo real deve ser confiável e sem falhas. | RNF |
+*Tabela 5: Perguntas e Respostas da Entrevista 4 (Fonte: OLIVEIRA; RAMOS, 2025)*
 
-### Brainstorm
-
+**Legenda:**
+- **ENT:** Requisito identificado a partir da técnica de Entrevista.
+- **RF:** Requisito Funcional.
+- **RNF:** Requisito Não Funcional.
 
 ## Histórico de Versões
 
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
 | 1.0       | 30/09/2025   | Criação inicial do arquivo, adiciona dados obtidos na entrevista | [Cauã Nicolas](https://github.com/cauanicolas)  | [Gabriel Macial](https://github.com/GabrielMacielBR) |
+| 1.1        | 30/09/2025   | Adiciona roteiro, local, resultados e a tabela de requisitos      | [João Ramos](https://github.com/Joaolramos)        | [Gabriel Macial](https://github.com/GabrielMacielBR)       |
+
+## Referências Bibliográficas
+VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
