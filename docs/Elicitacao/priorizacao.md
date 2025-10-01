@@ -356,7 +356,7 @@ Isso fornece uma direção clara para a equipe de desenvolvimento, que pode foca
 
 ### Vídeo
 
-<iframe width="560" height="315" src="https://youtu.be/hJTgQuIg4iY" title="Técnica de Priorização In or Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Vídeo 1: Reunião de priorização de In or Out](https://img.youtube.com/vi/LjKYuKdOKN8/0.jpg)](https://www.youtube.com/watch?v=hJTgQuIg4iY)
 
 *Vídeo 1: Reunião de priorização de In or Out - Fonte: João Lucas*
 
