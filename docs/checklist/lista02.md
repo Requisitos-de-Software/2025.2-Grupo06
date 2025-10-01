@@ -5,7 +5,7 @@
 >Na fase de priorização, a lista de verificação contribui para avaliar critérios como viabilidade técnica, valor de negócio, riscos envolvidos e urgência de implementação. Dessa forma, os requisitos podem ser classificados em níveis de importância, permitindo que a equipe de desenvolvimento concentre esforços nas funcionalidades de maior impacto para o usuário e para a organização.
 >Portanto, a lista de verificação para elicitação e priorização de requisitos não apenas organiza o processo, mas também assegura que as decisões tomadas sejam fundamentadas, consistentes e transparentes, favorecendo o sucesso do produto final.
 
-# Lista de Verificação - Cenários
+# Lista de Verificação 
 
 | ID  | Item de Verificação | Autor          | Link para Imagem |
 |-----|----------------------|----------------|------------------|
@@ -39,35 +39,34 @@
 | 28  | O usuário tem um papel definido? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 | 29  | O usuário tem um objetivo definido? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 | 30  | O usuário tem familiaridade com a tecnologia? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 31  | Qual a idade do usuário? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 32  | Qual a escolaridade do usuário? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 33  | Qual a profissão do usuário? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 34  | A persona tem um nome fictício? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 35  | A persona faz parte de um grupo de usuários reais? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 36  | A persona tem um arquétipo? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 37  | A persona tem gênero definido? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 38  | A persona tem foto ou avatar representativo incluído? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 39  | Os objetivos principais da persona estão listados? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 40  | A persona escolaridade ou nível de formação registrado? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 41  | A persona competências e nível de familiaridade com tecnologia detalhados? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 42  | As dificuldades e frustrações enfrentadas estão descritas? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 43  | As principais tarefas que a persona realiza foram listadas? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 44  | O elenco de personas possui de 3 a 12 participantes? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 45  | O elenco de personas possui uma persona primária? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 46  | O elenco contempla os principais grupos de usuários do sistema? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 47  | Existe ao menos um antiusuário identificado, se necessário? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 48  | Não há duas personas que representam praticamente o mesmo perfil? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 49  | Os objetivos do elenco de personas estão alinhados com os objetivos do sistema? | Fernanda Vaz | [Visualizar
-| 49  | Os objetivos do elenco de personas estão alinhados com os objetivos do sistema? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 50  | As personas foram validadas com dados reais (pesquisas, entrevistas, observações)? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 51  | Cada persona cobre um perfil distinto e relevante para os objetivos do projeto? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 52  | As personas estão coerentes entre si? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 53  | O elenco reflete a diversidade real dos usuários? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 54  | O "Must Have" foi validado como realmente indispensável para o sistema? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 55  | O "Should Have" foi classificado como importante, mas não crítico para a primeira entrega? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 56  | O "Could Have" foi avaliado como opcional e de baixo impacto se não implementado? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 57  | O "Won't Have" foi documentado como itens descartados ou adiados? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
-| 58  | Os itens estão organizados como mais importante e menos importante? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 31  | Qual a idade do usuário? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 32  | Qual a escolaridade do usuário? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 33  | Qual a profissão do usuário? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 34  | A persona tem um nome fictício? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 35  | A persona faz parte de um grupo de usuários reais? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 36  | A persona tem um arquétipo? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 37  | A persona tem gênero definido? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 38  | A persona tem foto ou avatar representativo incluído? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 39  | Os objetivos principais da persona estão listados? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 40  | A persona escolaridade ou nível de formação registrado? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 41  | A persona competências e nível de familiaridade com tecnologia detalhados? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 42  | As dificuldades e frustrações enfrentadas estão descritas? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 43  | As principais tarefas que a persona realiza foram listadas? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 44  | O elenco de personas possui de 3 a 12 participantes? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 45  | O elenco de personas possui uma persona primária? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 46  | O elenco contempla os principais grupos de usuários do sistema? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 47  | Existe ao menos um antiusuário identificado, se necessário? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 48  | Não há duas personas que representam praticamente o mesmo perfil? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 49  | Os objetivos do elenco de personas estão alinhados com os objetivos do sistema? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 50  | As personas foram validadas com dados reais (pesquisas, entrevistas, observações)? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 51  | Cada persona cobre um perfil distinto e relevante para os objetivos do projeto? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 52  | As personas estão coerentes entre si? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 53  | O elenco reflete a diversidade real dos usuários? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 54  | O "Must Have" foi validado como realmente indispensável para o sistema? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 55  | O "Should Have" foi classificado como importante, mas não crítico para a primeira entrega? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 56  | O "Could Have" foi avaliado como opcional e de baixo impacto se não implementado? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 57  | O "Won't Have" foi documentado como itens descartados ou adiados? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
+| 58  | Os itens estão organizados como mais importante e menos importante? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 
 ---
 *Tabela 1: Lista verificação segunda etapa.*
@@ -83,4 +82,4 @@
 
 | Versão | Data       | Descrição                          | Autor(es)                | Revisor(es) |
 |--------|------------|------------------------------------|--------------------------|-------------|
-| 1.0    | 30/09/2025 | Criação da lista de verificação    | Fernanda, João Gabriel   | Fernanda    |
+| 1.0    | 30/09/2025 | Criação da lista de verificação    | Fernanda, João Gabriel   | Fernanda, Cauã Nicolas    |

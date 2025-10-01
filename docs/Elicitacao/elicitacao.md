@@ -2,10 +2,57 @@
 
 # Técnicas de Elicitação
 
+## Análise de Documentos
+
+A Análise de Documentos é uma técnica tradicional e fundamental na elicitação de requisitos. Ela consiste na revisão e avaliação sistemática de materiais escritos ou digitais existentes dentro da organização para identificar informações relevantes para o novo sistema.
+
+Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial aprofundado do domínio do problema, dos processos de negócio atuais e de quaisquer restrições ou regras de negócio já estabelecidas, sem a necessidade de envolver ativamente as partes interessadas (stakeholders) o tempo todo.
+
+## Elicitação feita com a Análise de Documentos
+# Perfil do Usuário: Passageiro de Transporte Público no DF
+
+| Campo         | Descrição                                                                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Identificação | Usuário reconhecido pelo sistema como passageiro frequente do transporte público no Distrito Federal. Perfil baseado em dados demográficos e pesquisas de mobilidade urbana. |
+| Interação     | - Consulta horários e localização dos ônibus em tempo real via GPS. <br> - Acessa informações sobre frota, linhas e empresas operadoras. <br> - Utiliza o app para planejar deslocamentos diários. |
+| Finalidade    | Obter previsibilidade e confiabilidade nos horários dos ônibus. Facilitar o deslocamento para trabalho, estudo e outras atividades cotidianas. |
+ <sub><b> Tabela 01.</b> Autoria: Fernanda Vaz</sub>
+
+ ## Perfil Demográfico dos Usuários
+| Campo         | Descrição                                                                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Identificação | Usuários majoritariamente das classes C, D e E, conforme pesquisa da CNT. Inclui estudantes e trabalhadores jovens com renda baixa a média. |
+| Interação     | - Dependência diária do transporte coletivo. <br> - Busca por soluções digitais que aumentem a eficiência dos deslocamentos.              |
+| Finalidade    | Utilizar o transporte público como principal meio de locomoção, com apoio de ferramentas digitais para reduzir incertezas e atrasos.     |
+ <sub><b> Tabela 02.</b> Autoria: Fernanda Vaz</sub>
+
+ ## Requisitos Funcionais
+ 
+| ID    | Requisito Funcional                     | Descrição                                                                 |
+|-------|------------------------------------------|---------------------------------------------------------------------------|
+| RF01  | Localização em tempo real dos ônibus     | Permitir que o usuário visualize a posição atual dos ônibus via GPS.     |
+| RF02  | Consulta de linhas e itinerários         | Exibir todas as linhas disponíveis com itinerários e horários.           |
+| RF03  | Filtro por empresa operadora             | Permitir seleção de ônibus por empresa responsável pela linha.           |
+| RF04  | Visualização da frota ativa              | Mostrar quais veículos estão em operação naquele momento.                |
+| RF05  | Planejamento de rota                     | Sugerir trajetos com base no ponto de origem e destino do usuário.       |
+
+## Requisitos Não Implementados
+
+| ID    | Requisito Não Implementado              | Descrição                                                                 |
+|-------|------------------------------------------|---------------------------------------------------------------------------|
+| RNI01 | Notificações de chegada                  | Alertar o usuário quando o ônibus estiver próximo ao ponto.              |
+| RNI02 | Integração com outros modais             | Planejar rotas com metrô ou bicicleta compartilhada.                     |
+| RNI03 | Histórico de viagens                     | Registrar e exibir viagens realizadas pelo usuário.                      |
+| RNI04 | Avaliação de linhas                      | Permitir avaliação da qualidade do serviço de cada linha.                |
+| RNI05 | Modo offline                             | Disponibilizar funcionalidades básicas sem conexão à internet.           |
+
+
+
+
 ## Entrevista
 
 ### Introdução
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  A entrevista é uma das técnicas mais comuns e antigas de elicitação de requisitos e fundamental na Engenharia de Requisitos. Ela consiste, basicamente, em uma conversa direta entre o engenheiro de requisitos (ou analista) e as partes interessadas (stakeholders) para coletar informações sobre suas necessidades, expectativas e problemas que o software deve resolver.
 
 ### Dados
 
@@ -116,14 +163,18 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-### Brainstorm
+## Brainstorm
 
+A técnica de Brainstorming (ou "Tempestade de Ideias") é um método de elicitação de requisitos em grupo focado na geração de um grande volume de ideias em um curto período. É uma ferramenta poderosa para estimular a criatividade e descobrir requisitos inovadores ou que não seriam facilmente identificados em entrevistas individuais ou análise de documentos.
 
-## Histórico de Versões
+# Histórico de Versões
 
-| **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
-|------------|--------------|----------------------------|--------------------------|--------------------------|
-| 1.0       | 30/09/2025   | Criação inicial do arquivo, adiciona dados obtidos na entrevista | [Cauã Nicolas](https://github.com/cauanicolas)  | [Gabriel Macial](https://github.com/GabrielMacielBR) |
+| Versão | Data       | Descrição                                                      | Autor(es)       | Revisor(es)       |
+|--------|------------|----------------------------------------------------------------|----------------|-----------------|
+| 0.1    | 29/09/2025 | Criação inicial do Perfil do Usuário e Requisitos.             | Fernanda Vaz   | N/A             |
+| 1.0    | 30/09/2025 | Criação inicial do arquivo, adiciona dados obtidos na entrevista. | Cauã Nicolas   | Gabriel Macial  |
+| 1.1    | 30/09/2025 | Atualizações e correção das legendas das tabelas e adição da Beatriz. | Fernanda Vaz   | Cauã Nicolas    |
+
 
 ## Bibliografia
 >[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
