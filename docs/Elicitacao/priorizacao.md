@@ -218,7 +218,7 @@ A priorização dos requisitos permitiu identificar quais funcionalidades e cara
 | RNF13 | Alta disponibilidade do sistema (≥ 98% uptime).                                             | Não Funcional  |
 | RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão.                                      | Não Funcional  |
 
-*Tabela 2: Priorização de requisitos com First Things First (Fonte: OLIVEIRA, Cauã. 2025)*
+*Tabela 2: Priorização de requisitos com First Things First (Fonte: OLIVEIRA, Cauã. BRITO, João. 2025)*
 
 ### Bibliografia
 >[1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf 
