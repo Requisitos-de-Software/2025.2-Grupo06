@@ -27,7 +27,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | Finalidade    | Utilizar o transporte público como principal meio de locomoção, com apoio de ferramentas digitais para reduzir incertezas e atrasos.     |
  <sub><b> Tabela 02.</b> Autoria: Fernanda Vaz</sub>
 
- ## Requisitos Funcionais
+## Requisitos Funcionais
  
 | ID    | Requisito Funcional                     | Descrição                                                                 |
 |-------|------------------------------------------|---------------------------------------------------------------------------|
