@@ -307,4 +307,15 @@ O Vídeo 1 apresenta uma sessão prática de brainstorming, na qual integrantes 
 *Vídeo 1: Priorização de Requisitos por sessão de Brainstorming *
 
 ### Bibliografia
+
 >[1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf 
+>[2] WIEGERS, Karl; BEATTY, Joy. *Software requirements*. 3. ed. Redmond: Microsoft Press, 2013.
+
+# Histórico de Versões
+
+| Versão | Data       | Descrição                                                      | Autor(es)       | Revisor(es)       |
+|--------|------------|----------------------------------------------------------------|----------------|-----------------|
+| 1.0    | 30/09/2025 | Criação inicial do arquivo, adiciona técnica de priorização First Things First. | Cauã Nicolas   | Gabriel Macial  |
+| 1.1    | 30/09/2025 | Adiciona técnica de priorização MoSCoW | Gabriel Maciel | Cauã Nicolas |
+| 1.1.1  | 30/09/2025 | Adiciona técnica de priorização Brainstorming | Gabriel Maciel | João Lucas |
+| 1.1.2 | 30/09/2025 | Adiciona técnica de priorização $100 | João Gabriel | Gabriel Maciel | 
