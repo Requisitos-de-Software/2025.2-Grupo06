@@ -5,7 +5,7 @@
 >Na fase de priorização, a lista de verificação contribui para avaliar critérios como viabilidade técnica, valor de negócio, riscos envolvidos e urgência de implementação. Dessa forma, os requisitos podem ser classificados em níveis de importância, permitindo que a equipe de desenvolvimento concentre esforços nas funcionalidades de maior impacto para o usuário e para a organização.
 >Portanto, a lista de verificação para elicitação e priorização de requisitos não apenas organiza o processo, mas também assegura que as decisões tomadas sejam fundamentadas, consistentes e transparentes, favorecendo o sucesso do produto final.
 
-# Lista de Verificação - Cenários
+# Lista de Verificação 
 
 | ID  | Item de Verificação | Autor          | Link para Imagem |
 |-----|----------------------|----------------|------------------|

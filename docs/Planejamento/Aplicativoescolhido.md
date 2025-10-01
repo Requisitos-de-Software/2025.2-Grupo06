@@ -25,11 +25,6 @@ Ser um **guia inteligente** que facilite o dia a dia do cidadão, garantindo mob
 ---
 ## Lista de Apps Avaliados
 
-# Aplicativos Analisados
-
-## Introdução
- >Os aplicativos apresentados na Tabela 2 foram selecionados para a análise de requisitos, com base em suas funcionalidades e questões relacionadas ao termo de uso.
-
 | Aplicativo | Finalidade |
 |---|---|
 | [Moovit](#APP1) | Aplicativo de planejamento de viagens para transporte público. <a id="anchor_APP1" href="#APP1"><sup>1</sup></a> |
@@ -101,4 +96,6 @@ Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem c
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
 | 1.0        | 09/09/2025   | Informações do aplicativo  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Daniel Nunes Duarte](https://github.com/DanNunes777)   |
+| 1.1        | 30/09/2025   | Atualização das informações| [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Daniel Nunes Duarte](https://github.com/DanNunes777)   |
+
 
