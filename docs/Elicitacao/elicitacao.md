@@ -248,10 +248,10 @@ A técnica de Brainstorming (ou "Tempestade de Ideias") é um método de elicita
 
 | Versão | Data       | Descrição                                                      | Autor(es)       | Revisor(es)       |
 |--------|------------|----------------------------------------------------------------|----------------|-----------------|
-| 0.1    | 29/09/2025 | Criação inicial do Perfil do Usuário e Requisitos.             | Fernanda Vaz   | N/A             |
-| 1.0    | 30/09/2025 | Criação inicial do arquivo, adiciona dados obtidos na entrevista. | Cauã Nicolas   | Gabriel Macial  |
-| 1.1    | 30/09/2025 | Atualizações e correção das legendas das tabelas e adição da Beatriz. | Fernanda Vaz   | Cauã Nicolas    |
-| 1.2        | 30/09/2025   | Adiciona roteiro, local, resultados e a tabela de requisitos      | [João Ramos](https://github.com/Joaolramos)        | [Gabriel Macial](https://github.com/GabrielMacielBR)       |
+| 1.0    | 29/09/2025 | Criação inicial do Perfil do Usuário e Requisitos.             | Fernanda Vaz   | N/A             |
+| 1.1    | 30/09/2025 | Criação inicial do arquivo, adiciona dados obtidos na entrevista. | Cauã Nicolas   | Gabriel Macial  |
+| 1.2    | 30/09/2025 | Atualizações e correção das legendas das tabelas e adição da Beatriz. | Fernanda Vaz   | Cauã Nicolas    |
+| 1.3        | 30/09/2025   | Adiciona roteiro, local, resultados e a tabela de requisitos      | [João Ramos](https://github.com/Joaolramos)        | [Gabriel Macial](https://github.com/GabrielMacielBR)       |
 
 
 ## Bibliografia
