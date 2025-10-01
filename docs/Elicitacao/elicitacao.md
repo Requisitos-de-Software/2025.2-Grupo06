@@ -61,6 +61,13 @@ A realização das entrevistas seguiu um processo de preparação, execução e 
 
 A estrutura das perguntas seguiu o formato de Pirâmide. A entrevista iniciou com questões fechadas para coletar dados demográficos e de contexto (idade, ocupação, região de residência) e, em seguida, progrediu para questões abertas, permitindo que os entrevistados detalhassem suas experiências, necessidades e opiniões sobre os aplicativos de mobilidade urbana de tranporte público. Após a execução, as respostas foram documentadas para a análise dos requisitos.
 
+### Vídeo
+
+O Vídeo 1 apresenta um trecho da entrevista realizada com usuários de transporte público no Distrito Federal. Nele, são discutidas as principais necessidades, dificuldades e expectativas dos entrevistados em relação aos aplicativos de mobilidade urbana, servindo como base para a identificação dos requisitos do sistema.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYYrl-yUxxM?si=cTxW6wS2mFVKIRey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Vídeo 1: Entrevista* 
+
 ### Roteiro de Perguntas
 1.  Qual a sua idade?
 2.  Qual a sua ocupação (estudante, trabalhador, etc.)?
@@ -252,6 +259,7 @@ A técnica de Brainstorming (ou "Tempestade de Ideias") é um método de elicita
 | 1.1    | 30/09/2025 | Criação inicial do arquivo, adiciona dados obtidos na entrevista. | Cauã Nicolas   | Gabriel Macial  |
 | 1.2    | 30/09/2025 | Atualizações e correção das legendas das tabelas e adição da Beatriz. | Fernanda Vaz   | Cauã Nicolas    |
 | 1.3        | 30/09/2025   | Adiciona roteiro, local, resultados e a tabela de requisitos      | [João Ramos](https://github.com/Joaolramos)        | [Gabriel Macial](https://github.com/GabrielMacielBR)       |
+| 1.4 | 30/09/2025 | Adiciona vídeo da entrevista | Gabriel Maciel | João Ramos | 
 
 
 ## Bibliografia
