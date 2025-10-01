@@ -18,9 +18,10 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | Finalidade    | Obter previsibilidade e confiabilidade nos horários dos ônibus. Facilitar o deslocamento para trabalho, estudo e outras atividades cotidianas. |
  <sub><b> Tabela 01.</b> Autoria: Fernanda Vaz</sub>
 
- ## Perfil Demográfico dos Usuários
-| Campo         | Descrição                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+## Perfil Demográfico dos Usuários
+
+| Campo         | Descrição  |
+|---------------| ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Identificação | Usuários majoritariamente das classes C, D e E, conforme pesquisa da CNT. Inclui estudantes e trabalhadores jovens com renda baixa a média. |
 | Interação     | - Dependência diária do transporte coletivo. <br> - Busca por soluções digitais que aumentem a eficiência dos deslocamentos.              |
 | Finalidade    | Utilizar o transporte público como principal meio de locomoção, com apoio de ferramentas digitais para reduzir incertezas e atrasos.     |
