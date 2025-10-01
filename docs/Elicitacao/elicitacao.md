@@ -165,12 +165,16 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 
 ## Brainstorm
 
+A técnica de Brainstorming (ou "Tempestade de Ideias") é um método de elicitação de requisitos em grupo focado na geração de um grande volume de ideias em um curto período. É uma ferramenta poderosa para estimular a criatividade e descobrir requisitos inovadores ou que não seriam facilmente identificados em entrevistas individuais ou análise de documentos.
 
-## Histórico de Versões
+# Histórico de Versões
 
-| **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
-|------------|--------------|----------------------------|--------------------------|--------------------------|
-| 1.0       | 30/09/2025   | Criação inicial do arquivo, adiciona dados obtidos na entrevista | [Cauã Nicolas](https://github.com/cauanicolas)  | [Gabriel Macial](https://github.com/GabrielMacielBR) |
+| Versão | Data       | Descrição                                                      | Autor(es)       | Revisor(es)       |
+|--------|------------|----------------------------------------------------------------|----------------|-----------------|
+| 0.1    | 29/09/2025 | Criação inicial do Perfil do Usuário e Requisitos.             | Fernanda Vaz   | N/A             |
+| 1.0    | 30/09/2025 | Criação inicial do arquivo, adiciona dados obtidos na entrevista. | Cauã Nicolas   | Gabriel Macial  |
+| 1.1    | 30/09/2025 | Atualizações e correção das legendas das tabelas e adição da Beatriz. | Fernanda Vaz   | Cauã Nicolas    |
+
 
 ## Bibliografia
 >[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
