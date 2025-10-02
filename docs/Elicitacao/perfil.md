@@ -6,6 +6,8 @@ Para compreender melhor os usuários do aplicativo **DF no Ponto**, é necessár
 
 ## Metodologia
 
+
+
 A construção do perfil de usuário foi baseada em análise documental e observação indireta de usuários reais do transporte público do Distrito Federal. Foram utilizadas como fontes:
 - A documentação oficial do aplicativo DF no Ponto.
 - Reportagens sobre o uso do sistema.
