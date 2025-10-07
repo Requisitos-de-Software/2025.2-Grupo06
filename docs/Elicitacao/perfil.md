@@ -1,8 +1,8 @@
+# Perfil de Usuário
+
 ## Introdução
 
-Para compreender adequadamente o público-alvo do aplicativo, torna-se fundamental a elaboração de um perfil de usuário. Conforme definido por Barbosa e Silva[1](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/#FRM1), o perfil de usuário consiste em uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema em desenvolvimento.
-
-Este perfil genérico permite identificar aspectos demográficos, comportamentais, técnicos e contextuais dos usuários, possibilitando que o sistema seja projetado de forma a atender suas necessidades específicas e proporcionar uma experiência adequada ao seu contexto de uso.
+Para compreender melhor os usuários do aplicativo **DF no Ponto**, é necessário elaborar um perfil genérico que represente suas principais características. Segundo Barbosa e Silva (2011), o perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.
 
 ## Objetivos do Usuário
 
@@ -49,6 +49,7 @@ Com base nas semelhanças de comportamento e objetivos, foram definidos grupos:
 ## Referências Bibliográficas
 
  >BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
+ 
  >GOVERNO DO DISTRITO FEDERAL. *DF no Ponto – Manual de uso do aplicativo*. Disponível em: [https://docs.google.com/document/d/1kZ85GVpe1_a8T12T1ToIqyioE7VeNCuGht_-V5zz0Kg](https://docs.google.com/document/d/1kZ85GVpe1_a8T12T1ToIqyioE7VeNCuGht_-V5zz0Kg). Acesso em: 30 set. 2025.
 >G1. *Sistema permite que passageiros acompanhem ônibus em tempo real no DF; saiba como usar*. 2019. Disponível em: [https://g1.globo.com/google/amp/df/distrito-federal/noticia/2019/09/20/sistema-permite-que-passageiros-acompanhem-onibus-em-tempo-real-no-df-saiba-como-usar.ghtml](https://g1.globo.com/google/amp/df/distrito-federal/noticia/2019/09/20/sistema-permite-que-passageiros-acompanhem-onibus-em-tempo-real-no-df-saiba-como-usar.ghtml). Acesso em: 30 set. 2025.
 
@@ -58,6 +59,8 @@ Com base nas semelhanças de comportamento e objetivos, foram definidos grupos:
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)    | Revisor(es)  |
-|--------|------------|----------------------|--------------|--------------|
-| 1.0    | 28/09/2025 | Criação da página.   | Fernanda Vaz | Fernanda Vaz |
+| Versão | Data       | Descrição                          | Autor(es)    | Revisor(es)  |
+|--------|------------|------------------------------------|--------------|--------------|
+| 1.0    | 28/09/2025 | Criação da página.                 | Fernanda Vaz | Fernanda Vaz |
+| 1.1    | 30/09/2025 | Atualização do perfil de usuário. | Fernanda Vaz | Fernanda Vaz |
+

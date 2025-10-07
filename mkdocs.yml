@@ -46,19 +46,26 @@ nav:
       - Heatmap: Planejamento/Heatmap.md
   - Apresentação:
       - Apresentação 1: Apresentação/apresentacao01.md
+      - Apresentação 2: Apresentação/apresentacao02.md
   - 1. Pré-Rastreabilidade:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
-  - 2. Elicitação: 
+  - 2. Elicitação:
       - Perfil de Usuário: Elicitacao/perfil.md
+      - Personas: Elicitacao/personas.md
+      - Cenários: Elicitacao/cenarios.md
       - Elicitação de Requisitos: Elicitacao/elicitacao.md
       - Priorização de Requisitos: Elicitacao/priorizacao.md
   - Atas:
       - Ata 1: Atas de Reunião/ata1.md
       - Ata 2: Atas de Reunião/ata2.md
       - Ata 3: Atas de Reunião/ata3.md
+      - Ata 4: Atas de Reunião/ata4.md
+      - Ata 5: Atas de Reunião/ata5.md
   - Verificações:
       - Inspeção do Grupo 7 - Entrega 1: Verificações/inspec_ent1_grupo7.md
-  - Listas de Verificações: 
-      -  Rich Picture: checklist/lista01.md
+      - Inspeção do Grupo 7 - Entrega 2: Verificações/inspecao2.md
+  - Listas de Verificações:
+      - Rich Picture: checklist/lista01.md
+      - Elicitação e priorização: checklist/lista02.md
   - Contribuições:
       - Tabela de Contribuição: Contribuições/Tabela de Contribuição.md

@@ -1,9 +1,23 @@
-## Lista de verificação para Elicitação de Requisitos e Priorização
+## Introdução
 
->A elicitação de requisitos é uma etapa essencial no processo de desenvolvimento de software, pois permite identificar as necessidades, expectativas e restrições dos stakeholders. Para garantir a qualidade dessa atividade, é importante utilizar uma lista de verificação que auxilie na análise, organização e priorização dos requisitos levantados.
->Essa lista serve como um guia estruturado para verificar se todas as informações relevantes foram coletadas, se os requisitos estão descritos de forma clara e compreensível e se estão alinhados aos objetivos do negócio. Além disso, auxilia na identificação de conflitos, duplicidades e lacunas que podem comprometer a definição correta do escopo do projeto.
->Na fase de priorização, a lista de verificação contribui para avaliar critérios como viabilidade técnica, valor de negócio, riscos envolvidos e urgência de implementação. Dessa forma, os requisitos podem ser classificados em níveis de importância, permitindo que a equipe de desenvolvimento concentre esforços nas funcionalidades de maior impacto para o usuário e para a organização.
->Portanto, a lista de verificação para elicitação e priorização de requisitos não apenas organiza o processo, mas também assegura que as decisões tomadas sejam fundamentadas, consistentes e transparentes, favorecendo o sucesso do produto final.
+O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega.
+
+## Lista de Verificação
+>Fizemos  Listas de Verificação para validar os critérios a serem observados nas entregas do projeto da disciplina. Essa lista tem como objetivo padronizar a avaliação dos artefatos e garantir que todos os pontos relevantes sejam contemplados durante o desenvolvimento.
+
+
+## **Apresentação Etapa**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nIAKmT4AXXk" title="Técnica First Things First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Vídeo 1: Vídeo apresentação etapa (Fonte: João Gabriel. 2025)*
+
+## **Apresentação LV**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iV7QQjFWBr8" title="Técnica de Priorização MoSCoW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Vídeo 2: Vídeo apresentação LV (Fonte: João Gabriel. 2025)*
 
 # Lista de Verificação 
 
@@ -68,18 +82,6 @@
 | 57  | O "Won't Have" foi documentado como itens descartados ou adiados? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 | 58  | Os itens estão organizados como mais importante e menos importante? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
 
----
-*Tabela 1: Lista verificação segunda etapa.*
 
-
-### Referências
-
- >WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond, WA: Microsoft Press, 2013.  
- >VALOREZ, Carlos Edward. *Engenharia de Requisitos: Software Orientado ao Negócio*. 1. ed. [São Paulo]: Editora Ciência Moderna, 2019.  
->BARBOSA, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário*. 1. ed. [Cidade: Editora], 2021.
-
-## Histórico de Versões
-
-| Versão | Data       | Descrição                          | Autor(es)                | Revisor(es) |
-|--------|------------|------------------------------------|--------------------------|-------------|
-| 1.0    | 30/09/2025 | Criação da lista de verificação    | Fernanda, João Gabriel   | Fernanda, Cauã Nicolas    |
+### Bibliografia
+> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf 
