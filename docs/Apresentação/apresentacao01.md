@@ -10,6 +10,8 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
   </iframe>
 </div>
 
+*Vídeo 1: Apresentação*
+
 ## Lista de Verificação
 >Fizemos  Listas de Verificação para validar os critérios a serem observados nas entregas do projeto da disciplina. Essa lista tem como objetivo padronizar a avaliação dos artefatos e garantir que todos os pontos relevantes sejam contemplados durante o desenvolvimento.
 
