@@ -10,7 +10,7 @@ Este relatório apresenta, no Documento 1, a inspeção realizada sobre a Entreg
 
 | Nome            | Responsabilidade              |
 |-----------------|-------------------------------|
-| Giovanna Barbosa (Monitora) | Inspeção do grupo |
+| Giovana Barbosa (Monitora) | Inspeção do grupo |
 
 ##  Histórico de Versões
 
