@@ -54,12 +54,20 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 
 <font size="2"><p style="text-align: center"><b>Tabela 4</b> - Requisitos Não Implementados identificados</p></font>
 
+## Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| Fernanda Vaz    | Elaboração da Análise de Documentos | 
+| João Gabriel    | Elaboração da Análise de Documentos | 
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
 | 1.0    | 29/09/2025 | Criação inicial do arquivo de Análise de Documentos | Fernanda Vaz   | Gabriel Maciel |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Fernanda Vaz |
+| 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | Fernanda Vaz |
 
 ## Bibliografia
 

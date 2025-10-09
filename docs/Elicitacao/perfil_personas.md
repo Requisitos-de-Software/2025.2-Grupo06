@@ -149,12 +149,19 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 
 ---
 
+## Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| Fernanda Vaz    | Elaboração das personas |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                      | Autor(es)                                                   | Revisor(es)                                                |
 |--------|------------|------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
 | 1.0    | 28/09/2025 | Criação da página e elaboração das personas    | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
 | 1.1    | 29/09/2025 | Padronização e melhorias na formatação         | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
+| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
 
 ---
 

@@ -122,6 +122,12 @@ Os requisitos não funcionais de maior prioridade incluem:
 - Funcionamento offline
 - Tempo de carregamento otimizado
 
+## Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| Cauã Nicolas | Aplicação da técnica de priorização First Things First |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es)       |
@@ -129,6 +135,7 @@ Os requisitos não funcionais de maior prioridade incluem:
 | 1.0    | 30/09/2025 | Criação inicial do arquivo, adiciona técnica de priorização First Things First. | Cauã Nicolas   | Gabriel Maciel  |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Cauã Nicolas |
 | 2.1    | 08/10/2025 | Padronização da tabela de requisitos | Gabriel Maciel  | Cauã Nicolas |
+| 2.2   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Gabriel |
 
 ## Bibliografia
 

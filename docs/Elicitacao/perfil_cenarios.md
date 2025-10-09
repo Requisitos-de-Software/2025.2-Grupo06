@@ -9,7 +9,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 **Situação:** Ana está em casa, terminando de se arrumar. Ela precisa sair no momento certo para não esperar muito tempo no ponto de ônibus, mas também não pode se atrasar para o estágio. Ela decide usar o aplicativo "DF no Posto" para verificar a localização do seu ônibus em tempo real.
 
 ---
-### Objetivo
+## Objetivo
 
 - **Por que a Ana quer alcançar esse objetivo?**  
   Para otimizar seu tempo, evitar esperas desnecessárias no ponto de ônibus (ficando exposta ao sol ou à chuva) e garantir que não se atrasará para o estágio.
@@ -24,7 +24,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 ---
 
-### Ambiente
+## Ambiente
 
 - **Em que situação o cenário ocorre?**  
   Ocorre pela manhã, na casa de Ana, antes de sair em direção ao estágio.
@@ -37,7 +37,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 ---
 
-### Ator(es)
+## Ator(es)
 
 - **Quem pode alcançar o objetivo?**  
   Qualquer usuário de transporte público do DF que tenha um smartphone e acesso ao aplicativo.
@@ -51,7 +51,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 ---
 
-### Planejamento
+## Planejamento
 
 - **Como a Ana alcançaria o objetivo atualmente (sem o app)?**  
   Ela teria que confiar em horários fixos (muitas vezes imprecisos) ou simplesmente ir para o ponto e esperar, sem saber quanto tempo levaria.
@@ -64,7 +64,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 ---
 
-### Ação
+## Ação
 
 - **Que ações ela realiza?**  
   1. Abrir o aplicativo.  
@@ -84,7 +84,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 ---
 
-### Evento
+## Evento
 
 - **Quais eventos disparam a necessidade de alcançar o objetivo?**  
   A aproximação do horário de sair para o estágio ou Universidade.
@@ -94,7 +94,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 ---
 
-### Avaliação
+## Avaliação
 
 - **Como a Ana sabe se a ação foi concluída com sucesso?**  
   Ela tem sucesso quando o aplicativo exibe o mapa com a localização atualizada do ônibus e uma previsão de tempo de chegada confiável.
@@ -104,13 +104,22 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 ---
 
-## Referências Bibliográficas
+### Referências Bibliográficas
 <a id="APP1" href="#anchor_APP1">1.</a> CENÁRIOS. In: RETRAINING - Guia facetado de Técnicas de Elicitação de Requisitos. Disponível em: [https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-cenarios](). Acesso em: 30 de set. de 2025.
 
 <a id="APP2" href="#anchor_APP2">2.</a> BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do usuário. Disponível em:[https://aprender3.unb.br/pluginfile.php/3210628/mod_resource/content/2/ihc-ux-%20Personas.pdf]() . Cap. 8.3 - Cenários Pág 158 à 163. Acesso em: 30 de set. de 2025.
 
 ---
 
+### Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| Daniel Nunes    | Elaboração dos cenários |
+
+### Histõrico de Versões
+
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
 | 1.0        | 30/09/2025   | Cenários  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Fernanda Vaz](https://github.com/Fernandavazgit1)   |
+| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | Daniel Nunes |

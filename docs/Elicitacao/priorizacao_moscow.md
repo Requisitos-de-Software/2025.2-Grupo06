@@ -98,13 +98,20 @@ Funcionalidades acordadas como fora do escopo atual:
 - Recursos sociais como compartilhamento de trajeto
 - Funcionalidades de entretenimento
 
-## Histórico de Versões
+### Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| Gabriel Maciel    | Aplicação da técnica de priorização MoSCoW |
+
+##  Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
 | 1.1    | 30/09/2025 | Adiciona técnica de priorização MoSCoW | Gabriel Maciel | Cauã Nicolas |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico  | Gabriel Maciel  | Cauã Nicolas |
 | 2.1    | 08/10/2025 | Padronização da tabela de requisitos | Gabriel Maciel  | Cauã Nicolas |
+| 2.2   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | Cauã Nicolas |
 
 ## Bibliografia
 

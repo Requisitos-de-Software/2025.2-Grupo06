@@ -140,12 +140,26 @@ Funcionalidades importantes mas com uma dissidência:
 
 Funcionalidades que dividiram opiniões igualmente entre essencial e não essencial para o MVP.
 
+### Responsáveis pela Elaboração
+
+## Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| João Lucas    | Aplicação da técnica de priorização In Or Out; Participação na técnica| 
+| Cauã Nicolas    | Participação na técnica | 
+| Daniel Nunes    | Participação na técnica | 
+| Fernanda Vaz    | Participação na técnica | 
+| Gabriel Maciel   | Participação na técnica | 
+| João Gabriel   | Participação na técnica | 
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
-| 1.1.3  | 30/09/2025 | Adiciona técnica de priorização in or out | João Lucas| Gabriel Maciel |
-| 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | João Lucas |
+| 1.1.3  | 30/09/2025 | Adiciona técnica de priorização in or out | João Lucas | Gabriel Maciel |
+| 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | João Lucas  |
+| 2.1   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Lucas |
 
 ## Bibliografia
 

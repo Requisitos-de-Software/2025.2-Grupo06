@@ -93,12 +93,24 @@ Com esses dados, poderiamos criar um MVP bem embasado do que grande parte dos pe
 
 *Vídeo 1: Reunião de priorização de 100 Dollars - Fonte: João Gabriel*
 
+## Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| João Gabriel    | Aplicação da técnica dos 100 Dollars; Participação na técnica| 
+| Cauã Nicolas    | Participação na técnica | 
+| Daniel Nunes    | Participação na técnica | 
+| Fernanda Vaz    | Participação na técnica | 
+| Gabriel Maciel   | Participação na técnica | 
+| João Lucas   | Participação na técnica | 
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
 | 1.1.2  | 30/09/2025 | Adiciona técnica de priorização $100 | João Gabriel | Gabriel Maciel |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | João Gabriel |
+| 2.1   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel | João Gabriel |
 
 ## Bibliografia
 

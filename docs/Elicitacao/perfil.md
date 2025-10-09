@@ -55,6 +55,12 @@ Com base nas semelhanças de comportamento e objetivos, foram definidos grupos:
 
 ---
 
+### Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| Fernanda Vaz    | Elaboração do perfil |
+| João Gabriel    | Elaboração do perfil |
 
 
 ## Histórico de Versões
@@ -63,4 +69,4 @@ Com base nas semelhanças de comportamento e objetivos, foram definidos grupos:
 |--------|------------|------------------------------------|--------------|--------------|
 | 1.0    | 28/09/2025 | Criação da página.                 | Fernanda Vaz | Fernanda Vaz |
 | 1.1    | 30/09/2025 | Atualização do perfil de usuário. | Fernanda Vaz | Fernanda Vaz |
-
+| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |

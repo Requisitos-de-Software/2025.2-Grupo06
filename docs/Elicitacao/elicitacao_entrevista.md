@@ -201,6 +201,15 @@ A partir da análise das respostas coletadas nas entrevistas, foram identificado
 - **RF:** Requisito Funcional.
 - **RNF:** Requisito Não Funcional.
 
+## Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| João Lucas    | Elaboração do roteiro da Entrevista; Elaboração da Entrevista (entrevistador)| 
+| Cauã Nicolas    | Elaboração do roteiro da Entrevista; Elaboração da Entrevista (redator)| 
+| Gabriel Maciel   | Elaboração do roteiro da Entrevista; Elaboração da Entrevista (gravador e editor)| 
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es)       |
@@ -210,6 +219,7 @@ A partir da análise das respostas coletadas nas entrevistas, foram identificado
 | 1.3    | 30/09/2025 | Adiciona roteiro, local, resultados e a tabela de requisitos      | João Ramos        | Gabriel Maciel       |
 | 1.4    | 30/09/2025 | Adiciona vídeo da entrevista | Gabriel Maciel | João Ramos |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Fernanda Vaz |
+| 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Ramos |
 
 ## Bibliografia
 
