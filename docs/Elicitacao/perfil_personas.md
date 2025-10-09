@@ -149,6 +149,10 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 
 ---
 
+## Aplicação de personas no projeto
+
+O uso de personas será um diferencial estratégico no projeto. Elas irão nortear nosso processo de prototipação, tornando-o mais simples e intuitivo, pois estaremos projetando com um usuário claro em mente. Além disso, funcionarão como um filtro eficaz para os requisitos, nos ajudando a decidir quais funcionalidades implementar com base nas necessidades reais do nosso público. A grande vantagem é que saímos da incerteza de criar para um "grupo indefinido" e passamos a ter um foco claro, o que guiará todo o desenvolvimento do projeto de forma muito mais assertiva. O elenco de personas tambem foi usado para ajudar na elaboração dos cenários.
+
 ## Responsáveis pela Elaboração
 
 | Nome            | Responsabilidade              |
@@ -165,6 +169,6 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 
 ---
 
-## Referências Bibliográficas
+## Bibliografia
 >BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2011.
 >**This Person Doesn't Exist**. Imagens geradas através da aplicação de inteligência artificial. Disponível em: https://this-person-does-not-exist.com/. Acesso em: 29 set. 2025.
