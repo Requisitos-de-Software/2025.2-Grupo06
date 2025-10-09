@@ -98,9 +98,7 @@ Com esses dados, poderiamos criar um MVP bem embasado do que grande parte dos pe
 | Nome            | Responsabilidade              |
 |-----------------|-------------------------------|
 | João Gabriel    | Aplicação da técnica dos 100 Dollars; Participação na técnica| 
-| Cauã Nicolas    | Participação na técnica | 
-| Daniel Nunes    | Participação na técnica | 
-| Fernanda Vaz    | Participação na técnica | 
+| Cauã Nicolas    | Participação na técnica |  
 | Gabriel Maciel   | Participação na técnica | 
 | João Lucas   | Participação na técnica | 
 
