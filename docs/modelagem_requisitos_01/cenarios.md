@@ -1,8 +1,15 @@
 ## Descrição
 
-Cenários são descrições detalhadas, elaboradas em linguagem natural, que representam situações ou eventos específicos envolvendo a interação entre atores, ambientes e o sistema. Sua principal função é facilitar a compreensão da dinâmica dessas interações, além de ilustrar o funcionamento esperado do sistema, detalhando seu fluxo e comportamento em diversas circunstâncias. Os cenários desenvolvidos neste trabalho estão apresentados nas tabelas.
+> Um cenário é basicamente uma história sobre pessoas realizando uma atividade [(Rosson e Carroll, 2002)](#ref-rosson-carroll). É uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais.
+> Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e avaliar se um produto satisfaz a necessidade dos seus usuários [(Rosson e Carroll, 2002)](#ref-rosson-carroll). Além de poderosos, os cenários requerem menos custo e tempo quando comparados com modelos e protótipos complexos, o que os torna uma ferramenta importante em todo o processo de design de IHC.
+>
+> *Fonte: Adapatado de [BARBOSA; SILVA, 2010](#ref-barbosa-silva)*
 
 ---
+## Elementos característicos de um cenário (Print)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="0mdibjb"><a href="https://imgur.com/0mdibjb">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script><span style="color:blue;">Fonte: BARBOSA, Simone D. J.; SILVA, Bruno S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010. </span>
+
 
 ## Cenário 1 – Notificações de Chegada (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
@@ -33,9 +40,16 @@ Cenários são descrições detalhadas, elaboradas em linguagem natural, que rep
 | **Avaliação** | Diego sente que contribuiu para a melhoria do serviço e percebe que o aplicativo valoriza a participação dos passageiros. Ele fica satisfeito por poder ajudar outras pessoas que enfrentam os mesmos problemas e melhora sua experiência na plataforma. |
 
 ---
+## bibliográfia.
+>GOOGLE. Gemini. Versão de 9 de outubro de 2025. [S. l.], 2025. Disponível em: https://gemini.google.com. Acesso em: 9 out. 2025.
 
-## Bibliografia
+##  Referência bibliográfica.
+
+<a id="ref-barbosa-silva"></a>
 > BARBOSA, Simone D. J.; SILVA, Bruno S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
+
+<a id="ref-rosson-carroll"></a>
+> ROSSON, M. B.; CARROLL, J. M. *Usability Engineering: Scenario-Based Development of Human-Computer Interaction.* San Francisco: Morgan Kaufmann, 2002..
 
 ---
 

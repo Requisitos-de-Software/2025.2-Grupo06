@@ -3,7 +3,9 @@ docs_dir: ./docs
 markdown_extensions:
   - attr_list
 plugins:
-  - mkdocs-pdf
+  - search
+  # - pdf-export
+
 theme:
   name: material
   logo: assets/logos/logo_small.png
