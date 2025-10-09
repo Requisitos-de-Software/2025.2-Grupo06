@@ -153,8 +153,11 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 
 O uso de personas será um diferencial estratégico no projeto. Elas irão nortear nosso processo de prototipação, tornando-o mais simples e intuitivo, pois estaremos projetando com um usuário claro em mente. Além disso, funcionarão como um filtro eficaz para os requisitos, nos ajudando a decidir quais funcionalidades implementar com base nas necessidades reais do nosso público. A grande vantagem é que saímos da incerteza de criar para um "grupo indefinido" e passamos a ter um foco claro, o que guiará todo o desenvolvimento do projeto de forma muito mais assertiva. O elenco de personas tambem foi usado para ajudar na elaboração dos cenários.
 
+## Responsáveis pela Elaboração
 
-
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| Fernanda Vaz    | Elaboração das personas |
 
 ## Histórico de Versões
 
@@ -162,6 +165,7 @@ O uso de personas será um diferencial estratégico no projeto. Elas irão norte
 |--------|------------|------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
 | 1.0    | 28/09/2025 | Criação da página e elaboração das personas    | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
 | 1.1    | 29/09/2025 | Padronização e melhorias na formatação         | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
+| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
 
 ---
 

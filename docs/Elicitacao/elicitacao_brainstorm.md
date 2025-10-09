@@ -61,12 +61,24 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 - **RF:** Requisito Funcional.
 - **RNF:** Requisito Não Funcional.
 
+## Responsáveis pela Elaboração
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| João Gabriel    | Elaboração do Brainstorm (regência); Participação na técnica| 
+| Cauã Nicolas    | Participação na técnica | 
+| Daniel Nunes    | Participação na técnica | 
+| Fernanda Vaz    | Participação na técnica | 
+| Gabriel Maciel   | Participação na técnica | 
+| João Lucas   | Participação na técnica | 
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
 | 1.5    | 30/09/2025 | Adiciona vídeo do Brainstorming | Gabriel Maciel | João Gabriel |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Fernanda Vaz |
+| 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Gabriel |
 
 ## Bibliografia
 
