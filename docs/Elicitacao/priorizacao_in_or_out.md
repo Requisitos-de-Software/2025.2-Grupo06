@@ -57,7 +57,7 @@ Isso fornece uma direção clara para a equipe de desenvolvimento, que pode foca
 
 ## Vídeo
 
-[![Vídeo 1: Reunião de priorização de In or Out](https://img.youtube.com/vi/LjKYuKdOKN8/0.jpg)](https://www.youtube.com/watch?v=hJTgQuIg4iY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJTgQuIg4iY?si=DxbloHWM7I6F1wwx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Vídeo 1: Reunião de priorização de In or Out - Fonte: João Lucas*
 
