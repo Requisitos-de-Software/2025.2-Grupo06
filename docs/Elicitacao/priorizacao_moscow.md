@@ -21,107 +21,53 @@ A aplicação da técnica MoSCoW seguiu um processo estruturado de análise e cl
 - **Dependências técnicas entre requisitos**
 - **Viabilidade de implementação no escopo atual**
 
-## Descrição dos Requisitos Funcionais e Não Funcionais
-
-A Tabela 1 apresenta a lista completa de requisitos funcionais e não funcionais identificados para o sistema, categorizando cada item conforme seu tipo. Essa organização facilita a visualização das funcionalidades essenciais e das características de qualidade esperadas, servindo como base para as etapas de priorização descritas posteriormente.
-
-### Tabela 1: Lista completa de requisitos identificados
-
-| ID        | Requisito                                                                                           | Tipo           |
-|-----------|-----------------------------------------------------------------------------------------------------|----------------|
-| ENT-F01   | Permitir pesquisa por linhas e rotas de ônibus                                                       | Funcional      |
-| ENT-F02   | Apresentar horários de saída e chegada dos transportes                                               | Funcional      |
-| ENT-F03   | Mostrar em tempo real a localização do ônibus buscado                                                | Funcional      |
-| ENT-F04   | Informar o tempo estimado de chegada do ônibus ao ponto de parada                                    | Funcional      |
-| ENT-F05   | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários                            | Funcional      |
-| ENT-F06   | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes                    | Funcional      |
-| ENT-F07   | Permitir integração com o cartão de transporte, incluindo saldo e recarga                            | Funcional      |
-| ENT-F08   | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal             | Funcional      |
-| ENT-NF01  | Apresentar informações atualizadas e confiáveis, minimizando problemas de pontualidade               | Não Funcional  |
-| ENT-NF02  | Interface intuitiva, clara e de fácil navegação, mesmo para novos usuários                           | Não Funcional  |
-| BRN-F01   | Exibir a localização dos ônibus em tempo real no mapa                                                | Funcional      |
-| BRN-F02   | Mostrar o tempo estimado de chegada do ônibus à parada                                               | Funcional      |
-| BRN-F03   | Permitir planejamento de viagem (origem → destino) com rotas sugeridas                               | Funcional      |
-| BRN-F04   | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais                    | Funcional      |
-| BRN-F05   | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes)                     | Funcional      |
-| BRN-F06   | Indicar lotação do ônibus (vazio, moderado, lotado)                                                  | Funcional      |
-| BRN-F07   | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo)                            | Funcional      |
-| BRN-F08   | Enviar notificação quando o ônibus estiver a X minutos da parada                                     | Funcional      |
-| BRN-F09   | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)                        | Funcional      |
-| BRN-F10   | Manter histórico de viagens do usuário                                                               | Funcional      |
-| BRN-F11   | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário             | Funcional      |
-| BRN-F12   | Exibir preço da passagem por linha ou trajeto                                                        | Funcional      |
-| BRN-F13   | Listar linhas que passam em uma parada específica                                                    | Funcional      |
-| BRN-F14   | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)                  | Funcional      |
-| BRN-F15   | Botão de pânico/emergência para alertar motorista e/ou autoridades                                   | Funcional      |
-| BRN-F16   | Mostrar alertas de trânsito, acidentes e rotas alternativas                                          | Funcional      |
-| BRN-F17   | Permitir compartilhar trajeto em tempo real com outros usuários                                      | Funcional      |
-| BRN-F18   | Oferecer conteúdo de entretenimento durante a viagem (ex.: jogos, notícias)                          | Funcional      |
-| BRN-F19   | Exibir quantidade de assentos preferenciais e totais no ônibus                                       | Funcional      |
-| BRN-F20   | Permitir favoritar linhas ou paradas para acesso rápido                                              | Funcional      |
-| BRN-NF01  | Tempo de atualização da localização do ônibus ≤ 20 segundos                                          | Não Funcional  |
-| BRN-NF02  | Interface acessível para idosos e pessoas com deficiência visual                                     | Não Funcional  |
-| BRN-NF03  | Sistema de notificação com som e vibração                                                            | Não Funcional  |
-| BRN-NF04  | Baixo consumo de bateria e dados móveis                                                              | Não Funcional  |
-| BRN-NF05  | Compatibilidade com dispositivos Android e iOS                                                       | Não Funcional  |
-| BRN-NF06  | Proteção contra reportes falsos de lotação (mecanismo de confiança)                                  | Não Funcional  |
-| BRN-NF07  | Dados de localização e pessoais protegidos por LGPD                                                  | Não Funcional  |
-| BRN-NF08  | Tempo de carregamento da tela principal < 3 segundos                                                 | Não Funcional  |
-| BRN-NF09  | Funcionamento offline para consulta a rotas salvas e horários                                        | Não Funcional  |
-| BRN-NF10  | Integração segura com sistemas de pagamento (recarga de cartão)                                      | Não Funcional  |
-| BRN-NF11  | Alta disponibilidade do sistema (≥ 98% de uptime)                                                    | Não Funcional  |
-| BRN-NF12  | Suporte a múltiplos usuários simultâneos sem lentidão                                                | Não Funcional  |
-
 ## Resultados da Priorização MoSCoW
 
-A Tabela 2 apresenta os requisitos elicitados priorizados pela técnica MoSCoW.
+A Tabela 1 apresenta os requisitos elicitados priorizados pela técnica MoSCoW.
 
-### Tabela 2: Tabela de requisitos priorizados pela técnica MoSCoW
+### Tabela 1: Tabela de requisitos priorizados pela técnica MoSCoW
 
-| Classificação MoSCoW | ID       | Descrição                                                                                         |
-|-----------------------|----------|-------------------------------------------------------------------------------------------------|
-| Must Have | ENT-F01  | Permitir pesquisa por linhas e rotas de ônibus                                                   |
-| Must Have | ENT-F02  | Apresentar horários de saída e chegada dos transportes                                           |
-| Must Have | ENT-F03  | Mostrar em tempo real a localização do ônibus buscado                                            |
-| Must Have | ENT-F04  | Informar o tempo estimado de chegada do ônibus ao ponto de parada                                |
-| Must Have | ENT-F05  | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários                        |
-| Must Have | ENT-F06  | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes                |
-| Could Have | ENT-F07  | Permitir integração com o cartão de transporte, incluindo saldo e recarga                        |
-| Could Have | ENT-F08  | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal         |
-| Must Have | ENT-NF01 | Apresentar informações atualizadas e confiáveis, minimizando problemas de pontualidade           |
-| Must Have | ENT-NF02 | Interface intuitiva, clara e de fácil navegação, mesmo para novos usuários                       |
-| Must Have | BRN-F01  | Exibir a localização dos ônibus em tempo real no mapa                                            |
-| Must Have | BRN-F02  | Mostrar o tempo estimado de chegada do ônibus à parada                                           |
-| Must Have | BRN-F03  | Permitir planejamento de viagem (origem → destino) com rotas sugeridas                           |
-| Must Have | BRN-F04  | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais                |
-| Must Have | BRN-F05  | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes)                 |
-| Could Have | BRN-F06  | Indicar lotação do ônibus (vazio, moderado, lotado)                                              |
-| Could Have | BRN-F07  | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo)                        |
-| Must Have | BRN-F08  | Enviar notificação quando o ônibus estiver a X minutos da parada                                 |
-| Could Have | BRN-F09  | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)                    |
-| Could Have | BRN-F10  | Manter histórico de viagens do usuário                                                           |
-| Could Have | BRN-F11  | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário         |
-| Must Have | BRN-F12  | Exibir preço da passagem por linha ou trajeto                                                    |
-| Must Have | BRN-F13  | Listar linhas que passam em uma parada específica                                                |
-| Could Have | BRN-F14  | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)              |
-| Could Have | BRN-F15  | Botão de pânico/emergência para alertar motorista e/ou autoridades                               |
-| Must Have | BRN-F16  | Mostrar alertas de trânsito, acidentes e rotas alternativas                                      |
-| Won't Have | BRN-F17  | Permitir compartilhar trajeto em tempo real com outros usuários                                  |
-| Won't Have | BRN-F18  | Oferecer conteúdo de entretenimento durante a viagem (ex.: jogos, notícias)                      |
-| Could Have | BRN-F19  | Exibir quantidade de assentos preferenciais e totais no ônibus                                   |
-| Must Have | BRN-F20  | Permitir favoritar linhas ou paradas para acesso rápido                                          |
-| Must Have | BRN-NF01 | Tempo de atualização da localização do ônibus ≤ 20 segundos                                      |
-| Must Have | BRN-NF02 | Interface acessível para idosos e pessoas com deficiência visual                                 |
-| Must Have | BRN-NF03 | Sistema de notificação com som e vibração                                                        |
-| Must Have | BRN-NF04 | Baixo consumo de bateria e dados móveis                                                          |
-| Must Have | BRN-NF05 | Compatibilidade com dispositivos Android e iOS                                                   |
-| Could Have | BRN-NF06 | Proteção contra reportes falsos de lotação (mecanismo de confiança)                              |
-| Must Have | BRN-NF07 | Dados de localização e pessoais protegidos por LGPD                                              |
-| Must Have | BRN-NF08 | Tempo de carregamento da tela principal < 3 segundos                                             |
-| Could Have | BRN-NF09 | Funcionamento offline para consulta a rotas salvas e horários                                    |
-| Could Have | BRN-NF10 | Integração segura com sistemas de pagamento (recarga de cartão)                                  |
-| Must Have | BRN-NF11 | Alta disponibilidade do sistema (≥ 98% de uptime)                                                |
-| Must Have | BRN-NF12 | Suporte a múltiplos usuários simultâneos sem lentidão                                            |
+| Classificação MoSCoW | ID    | Descrição                                                                                         |
+|-----------------------|-------|---------------------------------------------------------------------------------------------------|
+| Must Have | RF01  | Exibir a localização dos ônibus em tempo real no mapa                                            |
+| Must Have | RF02  | Mostrar o tempo estimado de chegada do ônibus à parada                                           |
+| Must Have | RF03  | Permitir planejamento de viagem (origem → destino) com rotas sugeridas                           |
+| Must Have | RF04  | Permitir pesquisa por linhas e rotas de ônibus                                                   |
+| Must Have | RF05  | Apresentar horários de saída e chegada dos transportes                                           |
+| Must Have | RF06  | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes                |
+| Must Have | RF07  | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais                |
+| Must Have | RF08  | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes)                 |
+| Could Have | RF09  | Indicar lotação do ônibus (vazio, moderado, lotado)                                              |
+| Could Have | RF10  | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo)                        |
+| Must Have | RF11  | Enviar notificação quando o ônibus estiver a X minutos da parada                                 |
+| Must Have | RF12  | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários                        |
+| Could Have | RF13  | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)                    |
+| Could Have | RF14  | Permitir integração com o cartão de transporte, incluindo saldo e recarga                        |
+| Could Have | RF15  | Manter histórico de viagens do usuário                                                           |
+| Could Have | RF16  | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário         |
+| Must Have | RF17  | Exibir preço da passagem por linha ou trajeto                                                    |
+| Must Have | RF18  | Listar linhas que passam em uma parada específica                                                |
+| Could Have | RF19  | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)              |
+| Could Have | RF20  | Botão de pânico/emergência para alertar motorista e/ou autoridades                               |
+| Must Have | RF21  | Mostrar alertas de trânsito, acidentes e rotas alternativas                                      |
+| Won't Have | RF22  | Permitir compartilhar trajeto em tempo real com outros usuários                                  |
+| Could Have | RF23  | Exibir quantidade de assentos preferenciais e totais no ônibus                                   |
+| Must Have | RF24  | Permitir favoritar linhas ou paradas para acesso rápido                                          |
+| Could Have | RF25  | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal         |
+| Must Have | RNF01 | As informações de horários e localização dos ônibus devem ser precisas                           |
+| Must Have | RNF02 | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas                            |
+| Must Have | RNF03 | Tempo de atualização da localização ≤ 20 segundos                                                |
+| Must Have | RNF04 | Interface acessível para idosos e pessoas com deficiência visual                                 |
+| Must Have | RNF05 | Sistema de notificação com som e vibração configuráveis                                          |
+| Must Have | RNF06 | Baixo consumo de bateria e dados móveis                                                          |
+| Must Have | RNF07 | Compatibilidade com dispositivos Android e iOS                                                   |
+| Could Have | RNF08 | Proteção contra reportes falsos de lotação (mecanismo de confiança)                              |
+| Must Have | RNF09 | Dados de localização e pessoais protegidos conforme LGPD                                         |
+| Must Have | RNF10 | Tempo de carregamento da tela principal < 3 segundos                                             |
+| Could Have | RNF11 | Funcionamento offline para consulta a rotas salvas e horários                                    |
+| Could Have | RNF12 | Integração segura com sistemas de pagamento (recarga de cartão)                                  |
+| Must Have | RNF13 | Alta disponibilidade do sistema (≥ 98% uptime)                                                   |
+| Must Have | RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão                                            |
 
 ## Análise dos Resultados
 
@@ -157,10 +103,11 @@ Funcionalidades acordadas como fora do escopo atual:
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
 | 1.1    | 30/09/2025 | Adiciona técnica de priorização MoSCoW | Gabriel Maciel | Cauã Nicolas |
-| 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | N/A         |
+| 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico  | Gabriel Maciel  | Cauã Nicolas |
+| 2.1    | 08/10/2025 | Padronização da tabela de requisitos | Gabriel Maciel  | Cauã Nicolas |
 
 ## Bibliografia
 
 >[1] WIEGERS, Karl; BEATTY, Joy. *Software requirements*. 3. ed. Redmond: Microsoft Press, 2013.
 
->[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf
+>[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
