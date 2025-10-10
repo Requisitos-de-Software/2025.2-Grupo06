@@ -4,21 +4,13 @@
 
 De acordo com a metodologia apresentada por [Serrano e Serrano](#referências-bibliográficas), a construção do léxico é uma técnica de engenharia de requisitos que visa descrever os símbolos e a terminologia de uma linguagem de domínio. O objetivo central dessa abordagem é a identificação e definição precisa de palavras ou frases específicas do contexto social e operacional da aplicação em análise.
 
-## Exemplo usado para fazer as tabelas (print)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="XjrICZh"><a href="https://imgur.com/XjrICZh">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Metodologia
 
 A metodologia selecionada para a documentação do vocabulário do projeto é a notação do Léxico Ampliado da Linguagem (LAL), conforme a abordagem de [Serrano e Serrano](#referências-bibliográficas). Esta técnica consiste em descrever formalmente os símbolos da linguagem de domínio, onde cada símbolo é detalhado por meio de duas perspectivas centrais: sua **Noção** (o conceito ou significado) e seu **Impacto** (as ações e efeitos que o símbolo exerce ou sofre no sistema).
 
 ## Metodologia (print)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="IHDYRLn"><a href="https://imgur.com/IHDYRLn">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-## Exemplo LAL (print)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="chUznYC"><a href="https://imgur.com/chUznYC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gLmr9Cbr/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -189,6 +181,9 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FCTE.
 
 ---
+
+## Agradecimentos
+>Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
 
 ## Histórico de Versão
 

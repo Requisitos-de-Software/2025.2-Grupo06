@@ -1,3 +1,6 @@
+## Introdução
+Uma lista de verificação, também conhecida como checklist, é uma ferramenta de organização que serve para reduzir falhas, garantir a consistência e aumentar a eficiência na execução de tarefas.
+
 ## Lista de Verificação Cenários
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
@@ -79,6 +82,10 @@ Item | Avaliação | Avaliador(es) | Data e Hora |
 <a id="ref-3"></a>
 >Diagrama de caso de uso UML: O que é, como fazer e exemplos. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 10 out. 2025.
 
-]] <a id="ref-4"></a>
+<a id="ref-4"></a>
 >BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações. *Processo de Software do MCTIC: Documento Descritivo*. Brasília, DF: MCTIC, 2014. Disponível em: <https://ps.mctic.gov.br/MCTI-PS/workproducts/resources/PS_DocumentoDescritivo.pdf>. Acesso em: 7 out. 2025.
+
+
+## Agradecimentos
+>Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
 
