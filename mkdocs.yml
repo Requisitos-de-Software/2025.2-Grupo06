@@ -60,10 +60,12 @@ nav:
         - Perfil: Elicitacao/perfil.md
         - Personas: Elicitacao/perfil_personas.md
         - Cenários: Elicitacao/perfil_cenarios.md
-      - Técnicas de Elicitação de Requisitos:
-        - Análise de Documentos: Elicitacao/elicitacao_analise_documentos.md
-        - Entrevista: Elicitacao/elicitacao_entrevista.md
-        - Brainstorm: Elicitacao/elicitacao_brainstorm.md
+      - Elicitação de Requisitos:
+          - Tabela Geral de Requisitos Elicitados: Elicitacao/elicitacao_lista_requisitos_elicitados.md
+          - Técnicas de Elicitação de Requisitos: 
+            - Análise de Documentos: Elicitacao/elicitacao_analise_documentos.md
+            - Entrevista: Elicitacao/elicitacao_entrevista.md
+            - Brainstorm: Elicitacao/elicitacao_brainstorm.md
       - Técnicas de Priorização de Requisitos:
         - $100: Elicitacao/priorizacao_100_dollars.md
         - In or Out: Elicitacao/priorizacao_in_or_out.md
