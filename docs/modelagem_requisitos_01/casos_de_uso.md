@@ -176,7 +176,7 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | **Fluxos alternativos**     | **FA01 - Consultar apenas o saldo:**<br>1. Passageiro acessa "Meu Cartão"<br>2. Sistema exibe saldo sem realizar recarga<br><br>**FA02 - Histórico de transações:**<br>1. Passageiro acessa histórico no cartão vinculado<br>2. Sistema exibe últimas transações realizadas<br><br>**FA03 - Vincular novo cartão:**<br>1. Passageiro acessa "Meu Cartão"<br>2. Sistema detecta ausência de cartão vinculado<br>3. Sistema exibe tela de vínculo de cartão<br>4. Passageiro informa número do cartão BRB<br>5. Sistema valida cartão e solicita confirmação<br>6. Passageiro confirma vínculo<br>7. Sistema registra cartão e retorna ao fluxo básico FB04 |
 | **Fluxos de exceção**       | **FE01 - Passageiro sem cartão registrado:**<br>1. Sistema detecta cartão inexistente<br>2. Exibe mensagem "Cartão não encontrado"<br><br>**FE02 - Falha no pagamento:**<br>1. Sistema detecta erro na transação<br>2. Exibe mensagem "Pagamento não processado. Tente novamente"<br><br>**FE03 - Erro de conexão com BRB:**<br>1. Sistema não consegue comunicar com API<br>2. Exibe mensagem "Serviço temporariamente indisponível" |
 | **Data da criação**         | 11/10/2025 |
-| **Rastreabilidade**         | Integração com sistema BRB Mobilidade para consulta e recarga de saldo |
+| **Rastreabilidade**         | ENT07: O aplicativo permite integração com o cartão de transporte, incluindo saldo e recarga.|
 
 
 ## Responsáveis pela elaboração do artefato
