@@ -144,10 +144,6 @@
 
 ---
 
-## Agradecimentos
->Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
-
-
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                        | Autor(es)      | Revisor       |

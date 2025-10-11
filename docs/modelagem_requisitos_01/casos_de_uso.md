@@ -103,7 +103,7 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 
 ---
 
-### UC01 - Avaliação de Linhas de Ônibus(Requisito não implementado)
+### UC01 - Avaliação de Linhas de Ônibus (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
 | **Campo**             | **Descrição** |
@@ -137,6 +137,22 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 | **Data da criação**  | 10/10/2025 |
 | **Rastreabilidade**  | Relacionado com:<br> Consulta de Horários e Rotas<br>Avaliação de Linhas<br> Performance de notificações em tempo real<br> Disponibilidade do sistema<br>Precisão de geolocalização |
 
+### UC03 - Rastreamento de Múltiplas Linhas (Requisito Não Implementado)
+
+| **Campo**             | **Descrição** |
+|----------------------|----------------|
+| **Atores**           | Passageiro e Serviço de GPS (Ônibus e Passageiro) |
+| **Frequência de uso**| Média - Utilizada por passageiros que precisam pegar ônibus de múltiplas linhas para chegar ao seu destino |
+| **Requisitos**       | |
+| **Pré-Condições**    |                |
+| **Condição de entrada** |             |
+| **Fluxo principal**  |                |
+| **Fluxos alternativos** |             |
+| **Fluxos de exceção**|                |
+| **Pós-condições**    |                |
+| **Data da criação**  | 11/10/25 |
+| **Rastreabilidade**  |                |
+
 
 ## Bibliografia
 <a id="ref-Lucid"></a>
@@ -147,12 +163,9 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 <a id="#ref-Lucid"></a>
 > LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 10 out. 2025.
 
-## Agradecimentos
->Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor |
 |:---:|:---|:---|:---|:---|
-| 1.0 | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL| FERNANDA VAZ |
-| 1.2 | 10/10/2025 | Criação inicial do caso de uso e adição de elementos individuais | FERNANDA VAZ | |
+| 1.0 | 08/10/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | Fernanda Vaz |
+| 1.2 | 10/10/2025 | Criação inicial do caso de uso e adição de elementos individuais | Fernanda Vaz | Gabriel Maciel|

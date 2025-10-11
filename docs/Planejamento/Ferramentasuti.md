@@ -7,17 +7,21 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 
 | Logo | Ferramenta | Finalidade |
 |-------------------------------------------------------|------------|-----------------------------------------------|
-| <img src="../../assets/logos/whatsapp.png" width="45"  alt="WhatsApp" /> | WhatsApp | Utilizado como principal canal de comunicação da equipe. <a id="anchor_1" href="#FRM1"><sup>1</sup></a> |
-| <img src="../../assets/logos/gdocs.png" width="45"  alt="Docs" /> | Google Docs | Criação e edição de arquivos de texto de maneira colaborativa entre os membros. <a id="anchor_2" href="#FRM2"><sup>2</sup></a> |
-| <img src="../../assets/logos/youtube.png" width="45"  alt="YouTube" /> | YouTube | Hospedagem dos vídeos produzidos pela equipe(reuniões e apresentações). <a id="anchor_3" href="#FRM3"><sup>3</sup></a> |
-| <img src="../../assets/logos/discord.png" width="45"  alt="Discord" /> | Discord | Canal alternativo de comunicação, e também usado para a realização de reuniões, além de permitir compartilhamento rápido de arquivos. <a id="anchor_4" href="#FRM4"><sup>4</sup></a> |
-| <img src="../../assets/logos/teams.png" width="45"  alt="Teams" /> | Microsoft Teams | Realização de reuniões mais formais, com possibilidade de gravação e posterior transcrição das mesmas. <a id="anchor_5" href="#FRM5"><sup>5</sup></a> |
-| <img src="../../assets/logos/OBS.png" width="45"  alt="OBS" /> | OBS Studio | Utilizado para gravar as reuniões realizadas no Discord. <a id="anchor_6" href="#FRM6"><sup>6</sup></a> |
-| <img src="../../assets/logos/vscode.png" width="45"  alt="VSCode" /> | Visual Studio Code | Editor de código utilizado para criar e editar os arquivos de documentação do projeto. <a id="anchor_7" href="#FRM7"><sup>7</sup></a> |
-| <img src="../../assets/logos/drawio.png" width="45"  alt="Draw.io" /> | Draw.io | Desenvolver diagramas e fluxogramas, como o Rich Picture. <a id="anchor_8" href="#FRM8"><sup>8</sup></a> |
-| <img src="../../assets/logos/excel.png" width="45"  alt="Excel" /> | Microsoft Excel | Organização de informações em planilhas para análise de dados. <a id="anchor_9" href="#FRM9"><sup>9</sup></a> |
-| <img src="../../assets/logos/github1.png" width="45"  alt="GitHub" /> | GitHub | Permite o versionamento e organização do projeto, e o armazenamento da sua documentação, artefatos e rastreabilidade gerada. <a id="anchor_10" href="#FRM10"><sup>10</sup></a> |
-| <img src="../../assets/logos/mkdocs.png" width="45"  alt="MkDocs" /> | MkDocs | Criação e publicação do site para documentação no GitHub Pages. <a id="anchor_11" href="#FRM11"><sup>11</sup></a> |
+| <img src="../../assets/logos/whatsapp.png" width="45"  alt="WhatsApp logo" /> | WhatsApp | Utilizado como principal canal de comunicação da equipe. <a id="anchor_1" href="#FRM1"><sup>1</sup></a> |
+| <img src="../../assets/logos/gdocs.png" width="45"  alt="Docs logo" /> | Google Docs | Criação e edição de arquivos de texto de maneira colaborativa entre os membros. <a id="anchor_2" href="#FRM2"><sup>2</sup></a> |
+| <img src="../../assets/logos/youtube.png" width="45"  alt="YouTube logo" /> | YouTube | Hospedagem dos vídeos produzidos pela equipe(reuniões e apresentações). <a id="anchor_3" href="#FRM3"><sup>3</sup></a> |
+| <img src="../../assets/logos/discord.png" width="45"  alt="Discord logo" /> | Discord | Canal alternativo de comunicação, e também usado para a realização de reuniões, além de permitir compartilhamento rápido de arquivos. <a id="anchor_4" href="#FRM4"><sup>4</sup></a> |
+| <img src="../../assets/logos/teams.png" width="45"  alt="Teams logo" /> | Microsoft Teams | Realização de reuniões mais formais, com possibilidade de gravação e posterior transcrição das mesmas. <a id="anchor_5" href="#FRM5"><sup>5</sup></a> |
+| <img src="../../assets/logos/OBS.png" width="45"  alt="OBS logo" /> | OBS Studio | Utilizado para gravar as reuniões realizadas no Discord. <a id="anchor_6" href="#FRM6"><sup>6</sup></a> |
+| <img src="../../assets/logos/vscode.png" width="45"  alt="VSCode logo" /> | Visual Studio Code | Editor de código utilizado para criar e editar os arquivos de documentação do projeto. <a id="anchor_7" href="#FRM7"><sup>7</sup></a> |
+| <img src="../../assets/logos/drawio.png" width="45"  alt="Draw.io logo" /> | Draw.io | Desenvolver diagramas e fluxogramas, como o Rich Picture. <a id="anchor_8" href="#FRM8"><sup>8</sup></a> |
+| <img src="../../assets/logos/excel.png" width="45"  alt="Excel logo" /> | Microsoft Excel | Organização de informações em planilhas para análise de dados. <a id="anchor_9" href="#FRM9"><sup>9</sup></a> |
+| <img src="../../assets/logos/github1.png" width="45"  alt="GitHub logo" /> | GitHub | Permite o versionamento e organização do projeto, e o armazenamento da sua documentação, artefatos e rastreabilidade gerada. <a id="anchor_10" href="#FRM10"><sup>10</sup></a> |
+| <img src="../../assets/logos/mkdocs.png" width="45"  alt="MkDocs logo" /> | MkDocs | Criação e publicação do site para documentação no GitHub Pages. <a id="anchor_11" href="#FRM11"><sup>11</sup></a> |
+| <img src="../../assets/logos/chatgpt.png" width="45"  alt="ChatGPT logo" /> | ChatGPT | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_12" href="#FRM12"><sup>11</sup></a> |
+| <img src="../../assets/logos/gemini.png" width="45"  alt="Google Gemini logo" /> | Google Gemini | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_13" href="#FRM11"><sup>13</sup></a> |
+| <img src="../../assets/logos/copilot.png" width="45"  alt="Microsoft Copilot logo" /> | Microsoft Copilot | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_14" href="#FRM14"><sup>14</sup></a> |
+
 
 <font size="2"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
 
@@ -44,6 +48,12 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 ><a id="FRM10" href="#anchor_10">10.</a> GitHub. Disponível em: [https://github.com/](). Acesso em: 09 de set. de 2025.
 
 ><a id="FRM11" href="#anchor_11">11.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 09 de set. de 2025.
+
+><a id="FRM12" href="#anchor_12">12.</a> ChatGPT. Disponível em: [https://chat.openai.com/](). Acesso em: 10 de set. de 2025.
+
+><a id="FRM13" href="#anchor_13">13.</a> Google Gemini. Disponível em: [https://gemini.google.com/](). Acesso em: 10 de set. de 2025.
+
+><a id="FRM14" href="#anchor_14">14.</a> Microsoft Copilot. Disponível em: [https://copilot.microsoft.com/](). Acesso em: 10 de set. de 2025.
 
 ## Histórico de Versões
 
