@@ -81,25 +81,41 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 
 ---
 
-# Especificação de Casos de Uso
+## Especificação de Casos de Uso
 
-### Template Tabela para Especificação de Casos de Uso
+### Modelo de Tabela para Especificação de Casos de Uso
 
-### UCXX - Nome do caso de uso
+#### Tabela XX do Requisito Não Implementado UCXX - Nome do caso de uso
 
-| **Campo**             | **Descrição** |
-|----------------------|----------------|
-| **Atores**           |                |
-| **Frequência de uso**|                |
-| **Requisitos**       |                |
-| **Pré-Condições**    |                |
-| **Condição de entrada** |             |
-| **Fluxo principal**  |                |
-| **Fluxos alternativos** |             |
-| **Fluxos de exceção**|                |
-| **Pós-condições**    |                |
-| **Data da criação**  |                |
-| **Rastreabilidade**  |                |
+| **Campo**                   |  **Descrição** |
+|-----------------------------|----------------|
+| **Atores**                  |                |
+| **Descrição do Caso de Uso**|                |
+| **Pré-Condições**           |                |
+| **Pós-condições**           |                |
+| **Fluxo básico**            |                |
+| **Fluxos alternativos**     |                |
+| **Fluxos de exceção**       |                |
+| **Data da criação**         |                |
+| **Rastreabilidade**         |                |
+
+
+A Tabela XX foi construída a partir de informações obtidas da documentação de Especificação de Caso de Uso do Ministério da Ciência, Tecnologia, Informações e Comunicações (MCTIC). Este documento definiu que:
+
+- **Atores**: São entidades que interagem com os casos de uso do sistema;
+- **Descrição do Caso de Uso**: É uma descrição clara, concisa e compreensível que documenta determinado comportamento (ação) de um sistema. É formatado da seguinte forma:
+- **Pré-condições**: É uma descrição do estado em que o sistema deve estar antes da realização do caso de uso em questão;
+- **Pós-condições** : É uma descrição do estado em que o sistema poderá se encontrar após o término do caso de uso em questão;
+- **Fluxo Básico**: É uma descrição que descreve o que o Ator faz e o que o sistema faz em resposta a essa ação, sem explicitar o "porquê" e nem o "como";
+- **Fluxos Alternativos (opcional)**: É uma descrição de um fluxo alternativo devido a variações que podem ocorrer ao fluxo básico. Ao fim deste fluxo, os eventos do fluxo básico são retomados a menos que seja especificado de outra maneira
+- **Fluxos de exceção**: É a descrição de um comportamento de exceção que acontece durante o fluxo básico ou alternativo.
+
+Além das informações sobre Especificação de Casos de Uso extraídas da documentação do MCTIC, foram adicionadas, para fins de rastreabilidade, as linhas:
+
+- **Data de criação**: Contém data inicial da criação da especificação do caso de uso;
+- **Rastreabilidade**: Contém o ID e a descrição de requisitos funcionais que se relacionam ao caso de uso.
+
+- ****
 
 ---
 
@@ -109,10 +125,8 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 | **Campo**             | **Descrição** |
 |----------------------|----------------|
 | **Atores**           |  passageiro |
-| **Frequência de uso**| Média - utilizado após viagens realizadas pelos usuários |
 | **Requisitos**       | RF-01: Sistema deve permitir avaliação de linhas de ônibus
 | **Pré-Condições**    | -passageiro autenticado no sistema<br>- Linha de ônibus disponível para avaliação |
-| **Condição de entrada** | passageiro acessa a funcionalidade de avaliação de linhas  pelo histórico de linhas |
 | **Fluxo principal**  | 1. passageiro seleciona uma linha de ônibus para avaliar<br>2. Sistema exibe formulário de avaliação<br>3. passageiro atribui nota de 1 a 5 estrelas<br>4. passageiro pode adicionar comentário opcional <br>5. passageiro confirma avaliação<br>6. Sistema valida os dados inseridos<br>7. Sistema registra avaliação no banco de dados<br>8. Sistema atualiza média de avaliações da linha<br>9. Sistema exibe mensagem de confirmação<br>10. Sistema retorna à tela anterior |
 | **Fluxos alternativos** | **FA01 - Editar avaliação existente:**<br>1. passageiro acessa suas avaliações anteriores<br>2. Seleciona avaliação para editar<br>3. Sistema carrega dados da avaliação<br>4. passageiro modifica nota e/ou comentário<br>5. Prossegue do passo 5 do fluxo principal<br><br>**FA02 - Visualizar avaliações de outros usuários:**<br>1.  passageiro acessa detalhes da linha<br>2. Sistema exibe média de avaliações e lista de comentários<br>3. passageiro pode filtrar por data ou nota<br>4. Sistema ordena avaliações conforme filtro selecionado<br><br>**FA03 - Cancelar avaliação:**<br>1. passageiro clica em "Cancelar" durante preenchimento<br>2. Sistema exibe confirmação "Descartar avaliação?"<br>3. passageiro confirma<br>4. Sistema descarta dados e retorna à tela anterior |
 | **Fluxos de exceção**| **FE01 - Falha na conexão de internet:**<br>1. Sistema detecta ausência de conectividade ao tentar salvar<br>2. Exibe mensagem "Não foi possível salvar. Verifique sua conexão"<br>3. Sistema salva avaliação localmente<br>4. Reenvia automaticamente quando conexão for restabelecida<br><br>**FE02 - Comentário com conteúdo inadequado:**<br>1. Sistema detecta palavras ofensivas <br>2. Exibe mensagem "Comentário contém conteúdo inadequado"<br>3. Usuário deve revisar e modificar o comentário<br><br>**FE03 - Erro ao salvar avaliação:**<br>1. Sistema tenta salvar mas ocorre erro no servidor<br>2. Exibe mensagem "Erro ao processar avaliação. Tente novamente"<br>3. Mantém dados preenchidos para nova tentativa<br><br>**FE04 - passageiro já avaliou recentemente:**<br>1. Sistema detecta avaliação duplicada no mesmo dia<br>2. Oferece opção de editar avaliação existente<br>3. Se usuário confirmar, redireciona para FA01 |
@@ -142,9 +156,9 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 | **Campo**             | **Descrição** |
 |----------------------|----------------|
 | **Atores**           | Passageiro e Serviço de GPS (Ônibus e Passageiro) |
-| **Frequência de uso**| Média - Utilizada por passageiros que precisam pegar ônibus de múltiplas linhas para chegar ao seu destino |
+| **Frequência de uso**| Média - Utilizada por passageiros que precisam consultar a localização em tempo real de múltiplas linhas de ônibus para chegar ao seu destino |
 | **Requisitos**       | |
-| **Pré-Condições**    |                |
+| **Pré-Condições**    | - Passageiro deve ter conexão com a internet <br> - GPS deve estar ativado <br> - Destino do passageiro deve conter múltiplas linhas de ônibus |
 | **Condição de entrada** |             |
 | **Fluxo principal**  |                |
 | **Fluxos alternativos** |             |
@@ -154,14 +168,26 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 | **Rastreabilidade**  |                |
 
 
+## Responsáveis pela elaboração do artefato
+
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| **Fernanda Vaz** | - Elaboração dos textos de Introdução, Metodologia <br> - Criação inicial do Diagrama de Casos de Uso UML <br> - Elaboração do Diagrama de Casos de Uso UML <br> - Elaboração e documentação dos casos de uso UC01 e UC02| 
+| **Gabriel Maciel** | - Elaboração e documentação do Modelo de Tabela para Especificação de Casos de Uso <br> - Elaboração e documentação dos casos de uso UC03 e UC04 |
+
 ## Bibliografia
 <a id="ref-Lucid"></a>
->LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 8 out. 2025.
+> LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 8 out. 2025.
+
+> MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. *Especificação de Caso de Uso – Sigla do Projeto*. Brasília: MCTIC, Coordenação Geral de Sistemas, [s.d.]. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210641/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf>. Acesso em: 11 out. 2025.
 
 ## Referência bibliográfica
 
 <a id="#ref-Lucid"></a>
 > LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 10 out. 2025.
+
+> MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. *Especificação de Caso de Uso – Sigla do Projeto*. Brasília: MCTIC, Coordenação Geral de Sistemas, [s.d.]. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210641/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf>. Acesso em: 11 out. 2025.
+
 
 ## Histórico de Versão
 
@@ -169,3 +195,4 @@ Tabela 1 – Elementos, descrições e representações gráficas do Diagrama de
 |:---:|:---|:---|:---|:---|
 | 1.0 | 08/10/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | Fernanda Vaz |
 | 1.2 | 10/10/2025 | Criação inicial do caso de uso e adição de elementos individuais | Fernanda Vaz | Gabriel Maciel|
+| 1.3 | 10/10/2025 | Elaboração e documentação do Modelo da Tabela de Especificação de Casos de Uso | Gabriel Maciel | Fernanda Vaz |
