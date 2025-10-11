@@ -60,10 +60,6 @@ A confiabilidade expressa a capacidade do sistema de manter seu nível de desemp
 <a id="ref-wcag"></a>
 >GUIA WCAG. Disponível em: <https://guia-wcag.com>. Acesso em: 9 out. 2025.
 
-
-## Agradecimentos
->Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
-
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor |
