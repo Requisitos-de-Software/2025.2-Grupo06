@@ -83,7 +83,7 @@ Segundo o vídeo do [(Lucidchart, 2025)](#ref-Lucid), os elementos apresentados 
 
 ### Modelo de Tabela para Especificação de Casos de Uso
 
-#### Tabela 2 - UCXX: Nome do caso de uso
+#### Tabela 2 - UCXX: Nome do caso de uso 
 
 | **Campo**                   |  **Descrição** |
 |-----------------------------|----------------|
@@ -117,7 +117,7 @@ Além das informações sobre Especificação de Casos de Uso extraídas da docu
 
 A Tabela 3 apresenta a especificação detalhada do caso de uso UC01, que permite aos passageiros avaliar a qualidade das linhas de ônibus através de um sistema de notas e comentários.
 
-### Tabela 3 - UC01: Avaliação de Linhas de Ônibus
+### Tabela 3 - UC01: Avaliação de Linhas de Ônibus (Requisito não implementado)
 
 | **Campo**             | **Descrição** |
 |----------------------|----------------|
@@ -132,7 +132,7 @@ A Tabela 3 apresenta a especificação detalhada do caso de uso UC01, que permit
 
 A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define o sistema de notificações automáticas para informar os passageiros sobre a chegada iminente dos ônibus.
 
-### Tabela 4 - UC02: Notificações de Chegada de Ônibus
+### Tabela 4 - UC02: Notificações de Chegada de Ônibus (Requisito não implementado)
 
 | **Campo**             | **Descrição** |
 |----------------------|----------------|
@@ -147,7 +147,7 @@ A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define
 
 A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permite aos passageiros visualizar simultaneamente múltiplas linhas de ônibus no mapa e obter informações detalhadas sobre cada uma delas.
 
-### Tabela 5 - UC03: Rastreamento de Múltiplas Linhas
+### Tabela 5 - UC03: Rastreamento de Múltiplas Linhas (Requisito não implementado)
 
 | **Campo**                   |  **Descrição** |
 |-----------------------------|----------------|
