@@ -23,7 +23,7 @@
 
 ---
 
-## Cenário 2 – Avaliação de Linhas (Requisito não implementado)
+## Cenário 2 – Avaliar Linhas  (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
 | **Elemento** | **Descrição** |
@@ -134,7 +134,7 @@
 ## Bibliográfia.
 >GOOGLE. Gemini. Versão de 9 de outubro de 2025. [S. l.], 2025. Disponível em: https://gemini.google.com. Acesso em: 9 out. 2025.
 
-## Referência bibliográfica
+## Referência bibliográfica 
 
 <a id="ref-barbosa-silva"></a>
 > BARBOSA, Simone D. J.; SILVA, Bruno S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
