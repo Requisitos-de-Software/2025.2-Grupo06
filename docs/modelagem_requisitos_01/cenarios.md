@@ -122,16 +122,22 @@
 | **Atores** | Maria Moura Bastos, 65 anos, aposentada. Usa transporte público regularmente no DF e ocasionalmente precisa viajar para cidades do entorno para visitar familiares e amigos. |
 | **Objetivos** | Consultar linhas intermunicipais que atendem Luziânia, visualizar horários de saída da Rodoviária, tempo estimado de viagem e pontos de parada na cidade de destino. |
 | **Planejamento** | Maria abre o app DF no Ponto, acessa a busca e digita "Luziânia". O sistema reconhece que é uma cidade do entorno e exibe as linhas intermunicipais disponíveis. Ela seleciona a rota "Rodoviária do Plano Piloto → Luziânia Centro". |
-| **Ações** | O app exibe as linhas intermunicipais (ex: "Linha 200 - Brasília/Luziânia"), com horários de saída (06:00, 08:00, 10:00, 12:00...), tempo de viagem (aproximadamente 1h15min) e principais pontos de parada em Luziânia. Maria seleciona o horário das 10:00 e salva como favorito. |
+| **Ações** | O app exibe as linhas intermunicipais (ex: "Linha A - Brasília/Luziânia"), com horários de saída (06:00, 08:00, 10:00, 12:00...), tempo de viagem (aproximadamente 1h15min) e principais pontos de parada em Luziânia. Maria seleciona o horário das 10:00 e salva como favorito. |
 | **Eventos** | O sistema integra dados de empresas de transporte intermunicipal do entorno. Exibe informações atualizadas sobre linhas, horários e itinerários. Quando disponível, mostra também a localização em tempo real dos ônibus intermunicipais. Maria recebe uma notificação: "Linha salva com sucesso. Horário selecionado: 10:00". |
 | **Avaliação** | Maria consegue planejar sua viagem a Luziânia sem precisar usar outro aplicativo ou ir até a rodoviária presencialmente para consultar horários. Fica satisfeita com a ampliação da cobertura para o entorno e reconhece que isso torna o app mais completo e útil para quem precisa se deslocar entre o DF e cidades vizinhas. |
 
 ---
 
+## Responsáveis pela elaboração do artefato
 
+| Nome            | Responsabilidade              |
+|-----------------|-------------------------------|
+| **Cauã Nicolas** | - Elaboração dos cenários 7 e 8 |
+| **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
+| **Gabriel Maciel** | - Elaboração dos cenários 3 e 4 |
+| **João Ramos** | - Elaboração dos cenários 5 e 6 |
 
-
-## Bibliográfia.
+## Bibliografia.
 >GOOGLE. Gemini. Versão de 9 de outubro de 2025. [S. l.], 2025. Disponível em: https://gemini.google.com. Acesso em: 9 out. 2025.
 
 ## Referência bibliográfica 
@@ -149,4 +155,7 @@
 | Versão | Data       | Descrição                        | Autor(es)      | Revisor       |
 |:------:|:-----------|:---------------------------------|:---------------|:--------------|
 | 1.0    | 08/10/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | Fernanda Vaz  |
-| 1.1    | 05/10/2025 | Adição dos cenários elaborados.  | Fernanda Vaz   | Gabriel Maciel |
+| 1.1    | 05/10/2025 | Adição dos cenários 1 e 2 | Fernanda Vaz   | Gabriel Maciel |
+| 1.2    | 10/10/2025 | Adição dos cenários 3 e 4 | Gabriel Maciel   | João Ramos |
+| 1.3    | 10/10/2025 | Adição dos cenários 5 e 6 | João Ramos   | Gabriel Maciel |
+| 1.4 | 10/10/2025 | Adição dos cenários 7 e 8 | Cauã Nicolas | Gabriel Maciel |
