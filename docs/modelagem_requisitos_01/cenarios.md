@@ -165,6 +165,40 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 
 *Vídeo 3: Validação dos Cenários 7 e 8*
 
+---
+## Cenário 9 – Planejamento de Viagens (Requisito não implementado)
+
+**Autoria: João Gabriel, 2025.**
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Ambiente ou contexto** | Matheus está se preparando para uma semana de aulas e compromissos fixos. Ele utiliza diferentes meios de transporte ao longo do dia, combinando carro, ônibus e metrô para ir e voltar da faculdade. Nos últimos dias, ele tem sentido dificuldade em organizar os horários de cada trajeto, o que acaba resultando em atrasos ou esperas longas entre um transporte e outro. O aplicativo **DF no Ponto** passa a oferecer uma funcionalidade de **planejamento de viagens**, permitindo que Matheus monte um roteiro diário, salvando rotas com horários e modais utilizados. |
+| **Atores** | Matheus, 21 anos, estudante universitário. Utiliza transporte público e carro diariamente para ir à faculdade e outros compromissos. Valoriza recursos que otimizam tempo e facilitam a organização de sua rotina. Tem familiaridade com tecnologia e costuma planejar seu dia com antecedência. |
+| **Objetivos** | Criar um plano de deslocamento completo, reunindo diferentes meios de transporte, horários e conexões em uma única tela. Ter mais controle sobre sua rotina e reduzir atrasos e esperas desnecessárias. |
+| **Planejamento** | Matheus abre o aplicativo DF no Ponto, acessa a aba "Planejamento de Viagem" e cria um novo roteiro para a semana. Ele adiciona os horários de saída de casa, seleciona a linha de ônibus, a conexão com o metrô e o trecho final de ônibus até o destino. Em seguida, salva a rota para consulta rápida nos próximos dias. |
+| **Ações** | O sistema permite que João insira paradas, linhas e horários estimados, sugerindo conexões ideais com base nas informações oficiais de horários e no histórico de deslocamentos. João confirma o trajeto, adiciona alertas personalizados para cada etapa e ativa notificações para ser avisado com antecedência sobre as saídas. |
+| **Eventos** | O sistema registra a rota criada e gera lembretes automáticos próximos dos horários definidos. Ao longo do dia, João recebe notificações como: "Seu ônibus da linha A205 sai em 10 minutos" ou "Hora de ir para a estação de metrô Central". Se houver atrasos detectados no percurso, o app sinaliza com alertas para ajustes no plano. |
+| **Avaliação** | Matheus sente que sua rotina está mais organizada e consegue reduzir o tempo de espera entre transportes. Ele reconhece que o planejamento de viagens oferece mais previsibilidade e praticidade, melhorando sua experiência diária de deslocamento. |
+
+---
+
+## Cenário 10 – Análise Preditiva de Horários dos Ônibus com IA (Requisito não implementado)
+
+**Autoria: João Gabriel, 2025.**
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Ambiente ou contexto** | Juliana está voltando para casa após a aula noturna e costuma pegar o ônibus da linha A208 às 22h30. Apesar do horário fixo no sistema, ela já percebeu que o ônibus frequentemente atrasa ou adianta alguns minutos, dificultando sua organização e aumentando o tempo de espera no ponto, que é pouco movimentado nesse horário. O aplicativo **Dev no Ponto** passa a utilizar uma funcionalidade de **análise preditiva**, baseada no histórico de viagens, para informar com mais precisão o horário real de chegada do ônibus. |
+| **Atores** | Juliana Ferreira Monteiro, 23 anos, estudante. Utiliza transporte público diariamente, especialmente em horários noturnos. Preza por segurança e previsibilidade para evitar ficar sozinha em pontos de ônibus à noite. Tem facilidade no uso de aplicativos de mobilidade. |
+| **Objetivos** | Receber informações mais precisas sobre o horário de chegada real do ônibus com base em dados históricos e predições inteligentes, evitando esperas longas e aumentando a segurança e confiança no transporte público. |
+| **Planejamento** | Juliana abre o aplicativo, seleciona a linha A208 e ativa a opção "Usar previsão inteligente de horário". Ela programa um alerta para ser notificada 5 minutos antes do horário previsto de chegada real, calculado com base em dados anteriores. |
+| **Ações** | O sistema analisa dados de localização em tempo real combinados com históricos de atrasos e padrões de trânsito da linha. Com base nisso, estima que, embora o horário oficial seja 22h30, a chegada mais provável será às 22h42. Uma notificação sonora e visual é enviada para Juliana no horário correto, permitindo que ela vá até o ponto com tempo justo. |
+| **Eventos** | O algoritmo preditivo atualiza o horário estimado conforme a posição do ônibus muda. Caso ocorra um imprevisto no trajeto, o horário previsto também é ajustado. Na tela, Juliana visualiza a mensagem: "Previsão de chegada: 22h42 (com base em 187 viagens anteriores)". |
+| **Avaliação** | Juliana chega ao ponto pouco antes da chegada real do ônibus, evitando tempo de espera desnecessário. Ela reconhece a utilidade da previsão inteligente e sente mais segurança e tranquilidade ao se deslocar em horários noturnos. A funcionalidade melhora sua experiência com o transporte público e aumenta sua confiança no aplicativo. |
+
+---
+
+
 ## Responsáveis pela elaboração do artefato
 
 | Nome            | Responsabilidade              |
@@ -173,6 +207,7 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 | **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
 | **Gabriel Maciel** | - Elaboração e Validação dos cenários 3 e 4 |
 | **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
+| **João Ramos** | - Elaboração e Validação dos cenários 9 e 10 |
 
 ## Bibliografia
 
@@ -196,6 +231,7 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 | 1.3    | 10/10/2025 | Adição dos cenários 5 e 6 | João Ramos   | Gabriel Maciel |
 | 1.4 | 10/10/2025 | Adição dos cenários 7 e 8 | Cauã Nicolas | Gabriel Maciel |
 | 1.5 | 12/10/2025 | Adição dos vídeos de Validação com usuário dos Cenários 3 a 4 | Gabriel Maciel | João Ramos, Cauã Nicolas |
+| 1.6 | 12/10/2025 | Adição da Validação com usuário dos Cenários 9 a 10 | João Gabriel | João Ramos, Fernanda Vaz |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
