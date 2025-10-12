@@ -169,6 +169,349 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 </div>
 
 ---
+
+## Léxico 04: Estudante
+
+<div align="center">
+
+<p><strong>Tabela 5</strong> - Estudante</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Objeto</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Um dos principais perfis de usuários do sistema, influenciando diretamente o design e funcionalidades gerais do sistema. O comportamento desse grupo ajuda a aprimorar a eficiência e a acessibilidade do aplicativo. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>O usuário do aplicativo que utiliza o transporte público principalmente para se deslocar até instituições de ensino, como escolas, cursos ou universidades. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Discente, aluno, aprendiz</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): João Lucas, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 05: Planejar
+
+<div align="center">
+
+<p><strong>Tabela 6</strong> - Planejar</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Verbo</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Permite que o usuário escolha a melhor opção de deslocamento, otimizando tempo e recursos. É essencial para a usabilidade do aplicativo. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Definir previamente uma rota ou trajeto considerando tempo, distância e destino. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Preparar, criar, gerar </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): João Lucas, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 06: Favorito
+
+<div align="center">
+
+<p><strong>Tabela 7</strong> - Favorito</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Estado</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Facilita o uso recorrente e personalizado do aplicativo, aumentando a eficiência do usuário.  
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Representa linhas, rotas ou pontos que o usuário marcou para acesso rápido. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Preferido, marcado </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): João Lucas, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 07: Destino
+
+<div align="center">
+
+<p><strong>Tabela 8</strong> - Destino</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Objeto</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Determina o cálculo da rota, tempo estimado de chegada sendo essencial para o funcionamento do sistema. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Local definido pelo usuário como o fim de sua viagem ou trajeto. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Propósito, ponto final, local de chegada </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Cauã Nicolas, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 08: Rastrear
+
+<div align="center">
+
+<p><strong>Tabela 9</strong> - Rastrear</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Verbo</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Proporciona transparência e segurança ao usuário, além de aumentar a confiança nas informações do aplicativo.  
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Ação de acompanhar em tempo real a localização de um ônibus, linha. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Monitorar, acompanhar </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Cauã Nicolas, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 09: Agora
+
+<div align="center">
+
+<p><strong>Tabela 10</strong> - Agora</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Estado</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Indica o tempo exato de chegada, sendo fundamental para a funcionalidade de tempo real.   
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Momento em que o ônibus se encontra no ponto de parada ou que acabou de chegar. 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Monitorar, acompanhar </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Cauã Nicolas, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 10: Transporte público
+
+<div align="center">
+
+<p><strong>Tabela 11</strong> - Transporte público</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Objeto</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Núcleo de informação do aplicativo; todas as consultas e rotas dependem de seus dados e horários.    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Sistema coletivo de deslocamento que serve à população, operado por empresas públicas ou privadas.  
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Ônibus, coletivo, mobilidade urbana </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Gabriel Maciel, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 11: Pesquisar
+
+<div align="center">
+
+<p><strong>Tabela 12</strong> - Pesquisar</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Verbo</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Ativa os principais recursos do sistema, permitindo acessar dados essenciais para locomoção.     
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Ação de procurar informações sobre rotas, paradas, linhas ou horários dentro do aplicativo.   
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Ônibus, coletivo, mobilidade urbana </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Gabriel Maciel, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 12: Tempo real
+
+<div align="center">
+
+<p><strong>Tabela 13</strong> - Tempo real</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Estado</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Aumenta a precisão, confiabilidade e a eficiência das decisões do usuário durante o trajeto.      
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Condição em que a localização e horários são atualizadas continuamente.    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Ao vivo, atualização instantânea  </td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Gabriel Maciel, 2025.</small>
+
+</div>
+
+---
+
 # Gravação da validação com usuário (Fernanda)
 
 ## Bibliografia
@@ -188,3 +531,4 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 |:------:|:-----------|:-------------------------------------------|:---------------|:---------------|
 | 1.0    | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL | FERNANDA VAZ   |
 | 1.1    | 08/10/2025 | Adição de léxicos inicial                  | FERNANDA VAZ   | GABRIEL MACIEL |
+| 1.2    | 12/10/2025 | Adição de mais léxicos                     | CAUÃ NICOLAS   | JOÃO LUCAS, GABRIEL MACIEL     |
