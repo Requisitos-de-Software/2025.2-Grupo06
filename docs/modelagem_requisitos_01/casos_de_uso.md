@@ -130,6 +130,8 @@ A Tabela 3 apresenta a especificação detalhada do caso de uso UC01, que permit
 | **Data da criação**  | 10/10/2025 |
 | **Rastreabilidade**  | Relacionado com: <br>Consulta de Horários e Rotas<br> Notificações de Chegada<br> Avaliação de linhas<br> Usabilidade da interface |
 
+*Autoria: Fernanda Vaz, 2025*
+
 A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define o sistema de notificações automáticas para informar os passageiros sobre a chegada iminente dos ônibus.
 
 ### Tabela 4 - UC02: Notificações de Chegada de Ônibus (Requisito não implementado)
@@ -144,6 +146,8 @@ A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define
 | **Pós-condições**    | - Notificação de chegada enviada com sucesso<br>- Log de notificação registrado no sistema<br>- Status de monitoramento atualizado<br>- Estatísticas de uso do serviço atualizadas |
 | **Data da criação**  | 10/10/2025 |
 | **Rastreabilidade**  | Relacionado com:<br> Consulta de Horários e Rotas<br>Avaliação de Linhas<br> Performance de notificações em tempo real<br> Disponibilidade do sistema<br>Precisão de geolocalização |
+
+*Autoria: Fernanda Vaz, 2025*
 
 A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permite aos passageiros visualizar simultaneamente múltiplas linhas de ônibus no mapa e obter informações detalhadas sobre cada uma delas.
 
@@ -161,8 +165,9 @@ A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permit
 | **Data da criação**         |11/10/25|
 | **Rastreabilidade**         | **ENT12**: O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa. |
 
-A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permite aos passageiros consultar saldo e recarregar o cartão BRB Mobilidade diretamente pelo aplicativo, oferecendo praticidade e agilidade nas transações.
+*Autoria: Gabriel Maciel, 2025*
 
+A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permite aos passageiros consultar saldo e recarregar o cartão BRB Mobilidade diretamente pelo aplicativo, oferecendo praticidade e agilidade nas transações.
 
 ### Tabela 6 - UC04: Integração com BRB Mobilidade (Requisito não implementado)
 
@@ -176,8 +181,38 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | **Fluxos alternativos**     | **FA01 - Consultar apenas o saldo:**<br>1. Passageiro acessa "Meu Cartão"<br>2. Sistema exibe saldo sem realizar recarga<br><br>**FA02 - Histórico de transações:**<br>1. Passageiro acessa histórico no cartão vinculado<br>2. Sistema exibe últimas transações realizadas<br><br>**FA03 - Vincular novo cartão:**<br>1. Passageiro acessa "Meu Cartão"<br>2. Sistema detecta ausência de cartão vinculado<br>3. Sistema exibe tela de vínculo de cartão<br>4. Passageiro informa número do cartão BRB<br>5. Sistema valida cartão e solicita confirmação<br>6. Passageiro confirma vínculo<br>7. Sistema registra cartão e retorna ao fluxo básico FB04 |
 | **Fluxos de exceção**       | **FE01 - Passageiro sem cartão registrado:**<br>1. Sistema detecta cartão inexistente<br>2. Exibe mensagem "Cartão não encontrado"<br><br>**FE02 - Falha no pagamento:**<br>1. Sistema detecta erro na transação<br>2. Exibe mensagem "Pagamento não processado. Tente novamente"<br><br>**FE03 - Erro de conexão com BRB:**<br>1. Sistema não consegue comunicar com API<br>2. Exibe mensagem "Serviço temporariamente indisponível" |
 | **Data da criação**         | 11/10/2025 |
-| **Rastreabilidade**         | ENT07: O aplicativo permite integração com o cartão de transporte, incluindo saldo e recarga.|
 
+*Autoria: Gabriel Maciel, 2025*
+
+A Tabela X apresenta a especificação detalhada do caso de uso UC07, que descreve o funcionamento do modo off-line do aplicativo, permitindo aos passageiros acessar informações essenciais mesmo sem conexão à internet, garantindo maior autonomia e acessibilidade durante o uso do sistema.
+
+### Tabela X - UC07: Modo Off-line (Requisito não implementado)
+
+| **Campo**                   |  **Descrição** |
+|-----------------------------|----------------|
+| **Atores**                  | Passageiro |
+| **Descrição do Caso de Uso**| Permite ao passageiro baixar previamente dados de linhas, trajetos, paradas e horários para consultar offline quando estiver sem conexão de internet |
+| **Pré-Condições**           | - Passageiro autenticado no sistema<br>- Conexão Wi-Fi ou dados móveis disponível para download<br>- Espaço de armazenamento suficiente no dispositivo (mínimo 20 MB) |
+| **Pós-condições**           | - Dados salvos localmente no dispositivo<br>- Modo offline ativado e funcional<br>- Informações acessíveis sem necessidade de internet |
+| **Fluxo básico**            | **FB01.** Passageiro conecta-se a uma rede Wi-Fi<br>**FB02.** Passageiro acessa "Configurações" no app<br>**FB03.** Passageiro seleciona opção "Modo Offline"<br>**FB04.** Sistema exibe tela de seleção de conteúdo para download<br>**FB05.** Passageiro seleciona linhas de uso frequente<br>**FB06.** Passageiro seleciona paradas próximas de casa, trabalho ou universidade<br>**FB07.** Sistema calcula tamanho do download (ex: 15 MB)<br>**FB08.** Passageiro confirma download<br>**FB09.** Sistema baixa trajetos, horários, mapas das rotas e lista de paradas<br>**FB10.** Sistema salva dados localmente<br>**FB11.** Sistema confirma: "Dados salvos para consulta offline"<br>**FB12.** No dia seguinte, passageiro perde conexão de internet<br>**FB13.** Sistema detecta ausência de conexão automaticamente<br>**FB14.** Sistema exibe ícone "Modo Offline ativo"<br>**FB15.** Passageiro consulta trajeto, horários e paradas sem internet<br>**FB16.** Sistema exibe dados armazenados localmente |
+| **Fluxos alternativos**     | **FA01 - Atualizar dados offline:**<br>1. Passageiro acessa "Modo Offline" nas configurações<br>2. Seleciona "Atualizar dados"<br>3. Sistema verifica conexão disponível<br>4. Sistema baixa atualizações de horários e rotas<br>5. Substitui dados antigos pelos novos<br>6. Exibe "Dados atualizados com sucesso"<br><br>**FA02 - Remover dados offline:**<br>1. Passageiro acessa "Modo Offline"<br>2. Seleciona "Gerenciar dados"<br>3. Sistema exibe lista de linhas e paradas salvas<br>4. Passageiro seleciona itens para remover<br>5. Confirma remoção<br>6. Sistema libera espaço de armazenamento<br><br>**FA03 - Download parcial:**<br>1. Passageiro seleciona apenas algumas linhas/paradas<br>2. Sistema reduz tamanho do download proporcionalmente<br>3. Salva apenas conteúdo selecionado<br><br>**FA04 - Sincronização automática:**<br>1. Sistema detecta conexão Wi-Fi<br>2. Verifica se há atualizações disponíveis<br>3. Baixa automaticamente novos horários<br>4. Notifica passageiro: "Dados offline atualizados" |
+| **Fluxos de exceção**       | **FE01 - Espaço insuficiente:**<br>1. Sistema detecta falta de espaço durante download<br>2. Exibe mensagem "Espaço insuficiente. Libere XX MB"<br>3. Oferece opção de limpar cache do app<br>4. Passageiro pode escolher menos linhas para reduzir tamanho<br><br>**FE02 - Falha no download:**<br>1. Download é interrompido por perda de conexão<br>2. Sistema salva progresso parcial<br>3. Exibe "Download pausado. Conecte-se para continuar"<br>4. Retoma automaticamente quando conexão retornar<br><br>**FE03 - Dados desatualizados:**<br>1. Sistema detecta que dados offline têm mais de 30 dias<br>2. Exibe banner de alerta: "Dados podem estar desatualizados"<br>3. Sugere atualização quando houver conexão<br>4. Permite uso mas sinaliza como desatualizado<br><br>**FE04 - Tentativa de acessar dado não baixado:**<br>1. Passageiro busca linha não salva no modo offline<br>2. Sistema exibe "Informação não disponível offline"<br>3. Sugere linhas disponíveis salvas<br>4. Oferece download quando conexão retornar<br><br>**FE05 - Dados corrompidos:**<br>1. Sistema detecta erro ao ler dados salvos<br>2. Exibe "Erro nos dados offline. Novo download necessário"<br>3. Remove dados corrompidos automaticamente<br>4. Solicita novo download quando houver conexão |
+| **Data da criação**         | 12/10/2025 |
+| **Rastreabilidade**         | **ENT06**: O sistema deve funcionar em modo offline com dados previamente baixados<br>**BRS06**: Modo offline com funcionalidades básicas |
+
+### Tabela X - UC08: Reportar lotação do ônibus (Requisito não implementado)
+
+| **Campo**                   |  **Descrição** |
+|-----------------------------|----------------|
+| **Atores**                  |                |
+| **Descrição do Caso de Uso**|                |
+| **Pré-Condições**           |                |
+| **Pós-condições**           |                |
+| **Fluxo básico**            |                |
+| **Fluxos alternativos**     |                |
+| **Fluxos de exceção**       |                |
+| **Data da criação**         |                |
+| **Rastreabilidade**         |                |
 
 ## Responsáveis pela elaboração do artefato
 
@@ -208,6 +243,7 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | 1.2 | 10/10/2025 | Criação inicial do caso de uso e adição de elementos individuais | Fernanda Vaz | Gabriel Maciel|
 | 1.3 | 10/10/2025 | Elaboração e documentação do Modelo da Tabela de Especificação de Casos de Uso | Gabriel Maciel | Fernanda Vaz |
 | 1.3.1 | 11/11/2025 | Elaboração e documentação dos casos de uso UC03 e UC04 | Gabriel Maciel | Fernanda Vaz |
+| 1.3.3 | 12/11/2025 | Adição casos de uso UC07 e UC08 | Gabriel Maciel, João Lucas | Cauã Nicolas |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
