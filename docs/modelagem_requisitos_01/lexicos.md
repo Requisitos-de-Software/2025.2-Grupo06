@@ -170,6 +170,14 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 
 ---
 
+### Validação com usuário real dos Léxicos 1, 2 e 3 (Fernanda Vaz)
+
+O vídeo 1 apresenta, entre o trecho 6:20 e 10:00, a validação dos léxicos 4, 5 e 6 com um usuário real.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B57AOMl5WTk?si=f2F1lRRxoZ2GqsvV&amp;start=380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 1: Validação dos Léxicos 1, 2 e 3* 
+
 ## Léxico 04: Estudante
 
 <div align="center">
@@ -283,6 +291,14 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 </div>
 
 ---
+
+### Validação com usuário real dos Léxicos 4, 5 e 6 (João Ramos)
+
+O vídeo 2 apresenta, entre o trecho 3:42 e 6:55, a validação dos léxicos 4, 5 e 6 com um usuário real.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJsODyJZQvk?si=jbqWS4hPGhBX_SA2&amp;start=222" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 1: Validação dos Léxicos 4, 5 e 6*
 
 ## Léxico 07: Destino
 
@@ -398,6 +414,14 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 
 ---
 
+### Validação com usuário real dos Léxicos 7, 8 e 9 (Cauã Nicolas)
+
+O vídeo 3 apresenta, entre o trecho 3:07 e 5:39, a validação dos léxicos 4, 5 e 6 com um usuário real.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZcf-jDlhao?si=_Eg0qO_7vEo617h0&amp;start=187" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 2: Validação dos Léxicos 7, 8 e 9*
+
 ## Léxico 10: Transporte público
 
 <div align="center">
@@ -511,6 +535,14 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 </div>
 
 ---
+
+### Validação com usuário real dos Léxicos 10, 11 e 12 (Gabriel Maciel)
+
+O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 5 e 6 com um usuário real.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wl211vLAZI0?si=EL8QPVtHvj648FMU&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 3: Validação dos Léxicos 10, 11 e 12*
 
 ## Léxico 13: Compromisso
 
@@ -626,17 +658,6 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 
 ---
 
-# Gravação da validação com usuário (Fernanda)
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
-
-
 ## Bibliografia
 >Arquitetura da Informação. Disponível em: <https://redefederal.ifrj.edu.br/simbolos>. Acesso em: 9 out. 2025.
 
@@ -652,10 +673,11 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 
 | Versão | Data       | Descrição                                  | Autor(es)      | Revisor        |
 |:------:|:-----------|:-------------------------------------------|:---------------|:---------------|
-| 1.0    | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL | FERNANDA VAZ   |
-| 1.1    | 08/10/2025 | Adição de léxicos inicial                  | FERNANDA VAZ   | GABRIEL MACIEL |
-| 1.2    | 12/10/2025 | Adição de mais léxicos                     | CAUÃ NICOLAS   | JOÃO LUCAS, GABRIEL MACIEL     |
-| 1.3    | 12/10/2025 | Léxicos 9,10,11                            | JOÃO GABRIEL   | FERNANDA VAZ, JOÃO LUCAS     |
+| 1.0    | 08/10/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | Fernanda Vaz   |
+| 1.1    | 08/10/2025 | Adição de léxicos inicial                  | Fernanda Vaz  | Gabriel Maciel |
+| 1.2    | 12/10/2025 | Adição de mais léxicos                     | Cauã Nicolas   | João Lucas, Gabriel Maciel    |
+| 1.3    | 12/10/2025 | Léxicos 9,10,11                            | João Gabriel   | Fernanda Vaz, João Lucas    |
+| 1.3    | 12/10/2025 | Adiciona vídeos de Validação com usuário real dos Léxicos | Gabriel Maciel  | Fernanda Vaz, JoÃo Lucas, Cauã Nicolas    |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
