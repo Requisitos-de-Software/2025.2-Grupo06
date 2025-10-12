@@ -512,6 +512,120 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 
 ---
 
+## Léxico 13: Compromisso
+
+<div align="center">
+
+<p><strong>Tabela 10</strong> - Compromisso</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Objeto</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Representa o ponto central da rotina do usuário, determinando horários e destinos prioritários que precisam ser cumpridos. Permite que o aplicativo estruture alertas, rotas e informações de deslocamento de forma a garantir que o usuário chegue ao local no tempo planejado.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>É o evento, atividade ou destino para o qual o usuário precisa se deslocar no horário definido — como aulas, consultas, compromissos profissionais ou pessoais.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Comprometimento, obrigação, agenda, compromisso marcado</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): João Gabriel, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 14: Relaxar
+
+<div align="center">
+
+<p><strong>Tabela 11</strong> - Relaxar</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Verbo</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Proporciona ao usuário tranquilidade e confiança no sistema, garantindo que ele receba informações confiáveis sobre deslocamentos e horários. Reduz o estresse associado ao transporte público, permitindo que o usuário não precise monitorar constantemente o trajeto.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Ação de se sentir tranquilo e despreocupado com relação ao deslocamento, confiando que o sistema informará qualquer mudança ou atraso.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Tranquilizar, acalmar, aliviar, descansar</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): João Gabriel, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 15: Organizado
+
+<div align="center">
+
+<p><strong>Tabela 12</strong> - Organizado</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Estado</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Define a situação do usuário que possui toda a sua rotina de deslocamentos planejada no aplicativo — incluindo horários, alertas, transportes e contingências — resultando em maior eficiência no uso do transporte público.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Situação em que os deslocamentos, horários e trajetos estão estruturados, visíveis e atualizados no sistema, reduzindo incertezas e aumentando a previsibilidade.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Planejado, estruturado, sistematizado, preparado</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): João Gabriel, 2025.</small>
+
+</div>
+
+---
+
 # Gravação da validação com usuário (Fernanda)
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
@@ -541,6 +655,7 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 | 1.0    | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL | FERNANDA VAZ   |
 | 1.1    | 08/10/2025 | Adição de léxicos inicial                  | FERNANDA VAZ   | GABRIEL MACIEL |
 | 1.2    | 12/10/2025 | Adição de mais léxicos                     | CAUÃ NICOLAS   | JOÃO LUCAS, GABRIEL MACIEL     |
+| 1.3    | 12/10/2025 | Léxicos 9,10,11                            | JOÃO GABRIEL   | FERNANDA VAZ, JOÃO LUCAS     |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
