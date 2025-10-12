@@ -256,7 +256,206 @@ A Tabela 9 apresenta a especificação detalhada do caso de uso UC08, que permit
 
 *Autoria: João Ramos, 2025*
 
+### Tabela 10 - UC09: Planejamento de Viagens (Requisito não implementado)
 
+A Tabela 10 apresenta a especificação detalhada do caso de uso UC09, que tem como objetivo fornecer alertas personalizados com base no perfil do usuário, permitindo que diferentes públicos (como estudantes, idosos ou moradores de regiões periféricas) recebam informações e notificações relevantes sobre o transporte público. Essa funcionalidade busca tornar a experiência mais personalizada, garantindo que cada usuário tenha acesso a informações específicas que impactam diretamente sua rotina de deslocamento.
+
+<div align="center">
+
+<p><strong>Tabela 10</strong> - UC09: Planejamento de Viagens</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Permite ao passageiro planejar suas viagens com antecedência, definindo origem, destino, horário desejado e preferências, para receber sugestões de rotas e alertas personalizados.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema<br>- Conexão com internet ativa<br>- GPS habilitado (opcional, caso o usuário não informe manualmente a localização)<br>- Banco de dados de rotas e horários atualizado</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Viagem planejada registrada no perfil do usuário<br>- Rotas e horários armazenados<br>- Alertas automáticos configurados para lembrar o passageiro antes do horário planejado</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa aba "Planejar Viagem" no aplicativo<br>
+      <strong>FB02.</strong> Sistema solicita origem e destino<br>
+      <strong>FB03.</strong> Passageiro informa dados manualmente ou usa GPS para detectar localização atual<br>
+      <strong>FB04.</strong> Sistema solicita data e horário de saída ou chegada desejada<br>
+      <strong>FB05.</strong> Passageiro informa preferências (ex: evitar baldeações, priorizar linhas preferidas)<br>
+      <strong>FB06.</strong> Sistema processa as informações e busca as rotas disponíveis<br>
+      <strong>FB07.</strong> Sistema exibe lista de rotas recomendadas, com tempo estimado de chegada e baldeações<br>
+      <strong>FB08.</strong> Passageiro seleciona a rota desejada<br>
+      <strong>FB09.</strong> Sistema salva a viagem planejada no perfil do passageiro<br>
+      <strong>FB10.</strong> Sistema agenda alerta para horário de saída e possíveis imprevistos<br>
+      <strong>FB11.</strong> Passageiro recebe alerta 15 minutos antes do horário de saída planejado
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Inserir paradas intermediárias:</strong><br>
+      1. Passageiro informa parada ou local intermediário<br>
+      2. Sistema recalcula rota<br>
+      3. Exibe novo trajeto com parada incluída<br><br>
+      
+      <strong>FA02 - Escolher rota alternativa:</strong><br>
+      1. Passageiro visualiza mais de uma opção de rota<br>
+      2. Seleciona alternativa com menos baldeações<br>
+      3. Sistema salva nova rota como principal<br><br>
+      
+      <strong>FA03 - Editar planejamento:</strong><br>
+      1. Passageiro acessa lista de viagens planejadas<br>
+      2. Seleciona viagem futura<br>
+      3. Edita horário, destino ou preferências<br>
+      4. Sistema atualiza dados e alerta agendado
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Falha de conexão:</strong><br>
+      1. Sistema perde conexão durante o planejamento<br>
+      2. Exibe "Falha ao carregar rotas. Tente novamente"<br>
+      3. Mantém informações já digitadas para não precisar recomeçar<br><br>
+      
+      <strong>FE02 - Nenhuma rota encontrada:</strong><br>
+      1. Sistema não encontra rotas para o horário informado<br>
+      2. Exibe mensagem: "Nenhuma rota disponível nesse horário"<br>
+      3. Sugere horários alternativos<br><br>
+      
+      <strong>FE03 - GPS desabilitado:</strong><br>
+      1. Passageiro tenta usar localização atual<br>
+      2. Sistema exibe "Ative o GPS para detectar sua localização"<br>
+      3. Usuário pode continuar manualmente<br><br>
+      
+      <strong>FE04 - Conflito de horário:</strong><br>
+      1. Passageiro agenda duas viagens para horários sobrepostos<br>
+      2. Sistema alerta sobre conflito<br>
+      3. Passageiro decide qual manter ou edita uma delas
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>ENT12</strong>: O sistema deve permitir que o usuário planeje viagens com antecedência<br><strong>BRS07</strong>: Planejamento inteligente de rotas com base nas preferências do usuário</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: João Gabriel, 2025</small>
+
+</div>
+
+---
+
+### Tabela 11 - UC10: Análise preditiva de horários de ônibus com IA (Requisito não implementado)
+
+A Tabela 11 apresenta a especificação detalhada do caso de uso UC10, que tem como objetivo disponibilizar uma aba de notícias relacionada ao transporte público, integrando informações de fontes externas, como portais de notícias. Essa funcionalidade visa manter os usuários informados sobre ocorrências, mudanças e melhorias no sistema de transporte, contribuindo para uma comunicação mais transparente e eficiente.
+
+<div align="center">
+
+<p><strong>Tabela 11</strong> - UC10: Análise preditiva de horários de ônibus com IA</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Permite ao passageiro visualizar previsões mais precisas sobre horários de chegada e partida de ônibus, considerando fatores dinâmicos como trânsito, histórico de atrasos e condições climáticas.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema<br>- GPS habilitado ou ponto de embarque informado<br>- Conexão com internet ativa<br>- Algoritmo de IA operacional com base em dados históricos e em tempo real</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Passageiro recebe previsão de horário atualizada em tempo real<br>- Sistema ajusta alertas automáticos conforme variações no horário estimado<br>- Melhor tomada de decisão pelo passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa aba "Previsões de Horário"<br>
+      <strong>FB02.</strong> Sistema detecta ponto de embarque atual ou selecionado<br>
+      <strong>FB03.</strong> Sistema coleta dados históricos da linha e dados em tempo real (GPS do ônibus, trânsito, clima)<br>
+      <strong>FB04.</strong> IA processa e calcula tempo estimado de chegada com precisão aumentada<br>
+      <strong>FB05.</strong> Sistema exibe horário previsto de chegada e partida com status de confiança (ex: 92%)<br>
+      <strong>FB06.</strong> Passageiro decide aguardar ou buscar rota alternativa<br>
+      <strong>FB07.</strong> Sistema atualiza previsão automaticamente a cada intervalo configurado (ex: 30s)<br>
+      <strong>FB08.</strong> Passageiro recebe notificação caso a previsão mude significativamente<br>
+      <strong>FB09.</strong> Sistema armazena dados para otimizar previsões futuras
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Selecionar linha manualmente:</strong><br>
+      1. Passageiro opta por digitar linha<br>
+      2. Sistema busca dados históricos da linha informada<br>
+      3. Exibe previsão personalizada<br><br>
+      
+      <strong>FA02 - Visualizar confiança da previsão:</strong><br>
+      1. Passageiro clica no indicador de confiança<br>
+      2. Sistema exibe fatores que influenciam no cálculo (ex: trânsito intenso, chuva)<br><br>
+      
+      <strong>FA03 - Favoritar linha:</strong><br>
+      1. Passageiro marca linha como favorita<br>
+      2. Sistema passa a exibir previsões prioritárias dessa linha
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Falha na IA:</strong><br>
+      1. Algoritmo não consegue calcular previsão<br>
+      2. Sistema exibe horário estimado padrão<br>
+      3. Informa: "Previsão avançada temporariamente indisponível"<br><br>
+      
+      <strong>FE02 - Falha de conexão:</strong><br>
+      1. Sistema perde conexão<br>
+      2. Exibe "Sem conexão. Previsão não pode ser atualizada"<br>
+      3. Mantém última previsão salva<br><br>
+      
+      <strong>FE03 - Dados insuficientes:</strong><br>
+      1. Linha com poucos registros históricos<br>
+      2. Sistema informa: "Previsão menos precisa — dados insuficientes"<br><br>
+      
+      <strong>FE04 - GPS desabilitado:</strong><br>
+      1. Passageiro não informa localização e GPS está desligado<br>
+      2. Sistema solicita manualmente ponto de embarque
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>ENT13</strong>: O sistema deve exibir previsão inteligente de horários com IA<br><strong>BRS08</strong>: Previsão precisa de chegada de ônibus em tempo real</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: João Gabriel, 2025</small>
+
+</div>
 
 ## Responsáveis pela elaboração do artefato
 
@@ -266,6 +465,7 @@ A Tabela 9 apresenta a especificação detalhada do caso de uso UC08, que permit
 | **Gabriel Maciel** | - Elaboração e documentação do Modelo de Tabela para Especificação de Casos de Uso <br> - Elaboração e documentação dos casos de uso UC03 e UC04 |
 | **Cauã Nicolas** | - Elaboração e documentação dos casos de uso UC05 e UC06 |
 | **João Ramos** | - Elaboração e documentação dos casos de uso UC07 e UC08 |
+| **João Gabriel** | - Elaboração e documentação dos casos de uso UC09 e UC10 |
 
 ## Bibliografia
 <a id="ref-Lucid"></a>
@@ -291,6 +491,7 @@ A Tabela 9 apresenta a especificação detalhada do caso de uso UC08, que permit
 | 1.3.1 | 11/10/2025 | Elaboração e documentação dos casos de uso UC03 e UC04 | Gabriel Maciel | Fernanda Vaz |
 | 1.3.2 | 12/10/2025 | Elaboração e documentação dos casos de uso UC05 e UC06 | Cauã Nicolas | Gabriel Maciel |
 | 1.3.3 | 12/11/2025 | Adição dos casos de uso UC07 e UC08 | Gabriel Maciel, João Ramos | Cauã Nicolas |
+| 1.3.3 | 12/11/2025 | Adição dos casos de uso UC09 e UC10 | João Gabriel | Cauã Nicolas |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
