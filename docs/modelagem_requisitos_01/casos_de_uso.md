@@ -178,6 +178,8 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | **Data da criação**         | 11/10/2025 |
 | **Rastreabilidade**         | ENT07: O aplicativo permite integração com o cartão de transporte, incluindo saldo e recarga.|
 
+A Tabela 7 apresenta a especificação detalhada do caso de uso UC05, que permite aos passageiros vizualizar as viagens realizadas, incluindo horários, rotas, meio de transporte e duração.
+
 
 ### Tabela 7 - UC05: Histórico de Viagens (Requisito não implementado)
 
@@ -192,6 +194,8 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | **Fluxos de Exceção** | 1. Caso o passageiro não possua viagens registradas, o sistema exibe a mensagem “Nenhum histórico encontrado”. <br>2. Se ocorrer falha de conexão, o sistema exibe “Erro ao carregar dados. Verifique sua internet.” |
 | **Data de Criação** | 12/10/2025 |
 | **Rastreabilidade** | **RNI03** — Relacionado aos requisitos não implementados de registrar e exibir viagens realizadas pelo passageiro. |
+
+A Tabela 8 apresenta a especificação detalhada do caso de uso UC06, que é ampliado a cobertura de informações de transporte púlbico, englobando a área do entorno do Distrito Federal.
 
 ### Tabela 8 - UC06: Ampliação da cobertura de informações de transporte do entorno do DF  (Requisito não implementado)
 
