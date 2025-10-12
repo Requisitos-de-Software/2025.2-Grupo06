@@ -179,12 +179,42 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | **Rastreabilidade**         | ENT07: O aplicativo permite integração com o cartão de transporte, incluindo saldo e recarga.|
 
 
+### Tabela 7 - UC05: Histórico de Viagens (Requisito não implementado)
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Atores** | Passageiro|
+| **Descrição** | Permite que o passageiro visualize as viagens realizadas recentemente, incluindo horários, rotas, meios de transporte e duração. |
+| **Pré-condições** | O passageiro deve estar autenticado no aplicativo e ter realizado pelo menos uma viagem registrada. |
+| **Pós-condições** | O sistema exibe uma lista com as viagens concluídas e seus respectivos detalhes. |
+| **Fluxo Básico** | 1. O passageiro acessa o menu principal. <br>2. Seleciona a opção “Histórico de Viagens”. <br>3. O sistema busca os registros anteriores. <br>4. O histórico é exibido com data, horário, rota e meio de transporte. |
+| **Fluxos Alternativos** | 1a. O passageiro filtra o histórico por data, rota ou meio de transporte. <br>1b. O sistema exibe apenas as viagens filtradas. |
+| **Fluxos de Exceção** | 1. Caso o passageiro não possua viagens registradas, o sistema exibe a mensagem “Nenhum histórico encontrado”. <br>2. Se ocorrer falha de conexão, o sistema exibe “Erro ao carregar dados. Verifique sua internet.” |
+| **Data de Criação** | 12/10/2025 |
+| **Rastreabilidade** | **RNI03** — Relacionado aos requisitos não implementados de registrar e exibir viagens realizadas pelo passageiro. |
+
+### Tabela 8 - UC06: Ampliação da cobertura de informações de transporte do entorno do DF  (Requisito não implementado)
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Atores** | Administrador do sistema, Sistema (aplicativo) |
+| **Descrição** | O caso de uso visa expandir as informações de transporte público para as regiões do entorno do Distrito Federal, permitindo que passageiros dessas áreas também tenham acesso a horários, rotas e dados de deslocamento em tempo real. |
+| **Pré-condições** | O sistema deve estar conectado à base de dados atualizada das empresas de transporte do entorno. <br>O administrador deve ter acesso autorizado para cadastrar ou integrar novas informações. |
+| **Pós-condições** | As novas rotas e horários do entorno são disponibilizados para consulta pelos passageiros no aplicativo. |
+| **Fluxo Básico** | 1. O administrador acessa o painel de gestão do sistema. <br>2. Seleciona a opção “Adicionar nova cobertura de transporte”. <br>3. Insere as informações das linhas e horários das regiões do entorno. <br>4. O sistema valida e salva os novos dados. <br>5. Os passageiros passam a visualizar as novas linhas e rotas disponíveis. |
+| **Fluxos Alternativos** | 1a. O sistema realiza integração automática com bases externas de transporte (ex: prefeituras ou consórcios). <br>1b. O administrador apenas confirma a sincronização das informações. |
+| **Fluxos de Exceção** | 1. Se houver erro de integração com o banco de dados externo, o sistema exibe “Falha ao sincronizar dados do entorno”. <br>2. Caso os dados inseridos sejam inválidos, o sistema solicita correção antes de salvar. |
+| **Data de Criação** | 12/10/2025 |
+| **Rastreabilidade** | **ENT08** — Relacionado ao requisito funcional de expansão da cobertura e informações em regiões afastadas do Distrito Federal.  |
+
+
 ## Responsáveis pela elaboração do artefato
 
 | Nome            | Responsabilidade              |
 |-----------------|-------------------------------|
 | **Fernanda Vaz** | - Elaboração dos textos de Introdução, Metodologia <br> - Criação inicial do Diagrama de Casos de Uso UML <br> - Elaboração da [Tabela 1](#tabela-1-elementos-descricoes-e-representacoes-graficas-do-diagrama-de-casos-de-uso) <br> - Elaboração do Diagrama de Casos de Uso UML <br> - Elaboração e documentação dos casos de uso UC01 e UC02| 
 | **Gabriel Maciel** | - Elaboração e documentação do Modelo de Tabela para Especificação de Casos de Uso <br> - Elaboração e documentação dos casos de uso UC03 e UC04 |
+| **Cauã Nicolas** | - Elaboração e documentação dos casos de uso UC05 e UC06 |
 
 ## Bibliografia
 <a id="ref-Lucid"></a>
@@ -208,6 +238,7 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | 1.2 | 10/10/2025 | Criação inicial do caso de uso e adição de elementos individuais | Fernanda Vaz | Gabriel Maciel|
 | 1.3 | 10/10/2025 | Elaboração e documentação do Modelo da Tabela de Especificação de Casos de Uso | Gabriel Maciel | Fernanda Vaz |
 | 1.3.1 | 11/11/2025 | Elaboração e documentação dos casos de uso UC03 e UC04 | Gabriel Maciel | Fernanda Vaz |
+| 1.3.2 | 12/11/2025 | Elaboração e documentação dos casos de uso UC05 e UC06 | Cauã Nicolas | Gabriel Maciel |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
