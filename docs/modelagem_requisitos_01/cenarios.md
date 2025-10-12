@@ -68,6 +68,15 @@
 
 ---
 
+### Validação com usuário real dos Cenários 3 e 4
+
+O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 e 4 com um usuário real, mostrando brevemente o uso das funcionalidades de rastreamento de múltiplas linhas e integração com o BRB Mobilidade no aplicativo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wl211vLAZI0?si=gvEFU5-uOmm7YEkF&amp;start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 1: Validação dos Cenários 3 e 4*
+
+
 ## Cenário 5 - Modo Off-line (Requisito não implementado)
 <span style="color:blue;">Autoria: João Lucas, 2025.</span>
 
@@ -97,6 +106,14 @@
 | **Avaliação** | Juliana consegue evitar um ônibus muito lotado usando informações colaborativas. Sente-se parte de uma comunidade que se ajuda. Reconhece que o sistema de reporte colaborativo melhora a experiência de todos e permite decisões mais informadas sobre quando e qual ônibus pegar. |
 
 ---
+
+### Validação com usuário real dos Cenários 5 e 6
+
+O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 e 6 com um usuário real, demonstrando o funcionamento do modo offline para consulta de horários e trajetos sem internet, além do sistema colaborativo de reporte de lotação dos ônibus no aplicativo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJsODyJZQvk?si=FPa0k0q3IlDfcmQ1&amp;start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 2: Validação dos Cenários 5 e 6*
 
 ## Cenário 7 - Histórico de viagens (Requisito não implementado)
 <span style="color:blue;">Autoria: Cauã Nicolas, 2025.</span>
@@ -128,17 +145,24 @@
 
 ---
 
+### Validação com usuário real dos Cenários 7 e 8
+
+O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 e 8 com um usuário real, mostrando o uso do histórico de viagens para controle de despesas e a consulta de informações sobre linhas intermunicipais do entorno do DF no aplicativo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZcf-jDlhao?si=7Dk0SO2uSn13nDiy&amp;start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 3: Validação dos Cenários 7 e 8*
+
 ## Responsáveis pela elaboração do artefato
 
 | Nome            | Responsabilidade              |
 |-----------------|-------------------------------|
-| **Cauã Nicolas** | - Elaboração dos cenários 7 e 8 |
+| **Cauã Nicolas** | - Elaboração e Validação dos cenários 7 e 8 |
 | **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
-| **Gabriel Maciel** | - Elaboração dos cenários 3 e 4 |
-| **João Ramos** | - Elaboração dos cenários 5 e 6 |
+| **Gabriel Maciel** | - Elaboração e Validação dos cenários 3 e 4 |
+| **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
 
-## Bibliografia.
->GOOGLE. Gemini. Versão de 9 de outubro de 2025. [S. l.], 2025. Disponível em: https://gemini.google.com. Acesso em: 9 out. 2025.
+## Bibliografia
 
 ## Referência bibliográfica 
 
@@ -159,3 +183,4 @@
 | 1.2    | 10/10/2025 | Adição dos cenários 3 e 4 | Gabriel Maciel   | João Ramos |
 | 1.3    | 10/10/2025 | Adição dos cenários 5 e 6 | João Ramos   | Gabriel Maciel |
 | 1.4 | 10/10/2025 | Adição dos cenários 7 e 8 | Cauã Nicolas | Gabriel Maciel |
+| 1.5 | 12/10/2025 | Adição dos vídeos de Validação com usuário dos Cenários 3 a 4 | Gabriel Maciel | João Ramos, Cauã Nicolas |
