@@ -208,3 +208,6 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 | 1.2 | 10/10/2025 | Criação inicial do caso de uso e adição de elementos individuais | Fernanda Vaz | Gabriel Maciel|
 | 1.3 | 10/10/2025 | Elaboração e documentação do Modelo da Tabela de Especificação de Casos de Uso | Gabriel Maciel | Fernanda Vaz |
 | 1.3.1 | 11/11/2025 | Elaboração e documentação dos casos de uso UC03 e UC04 | Gabriel Maciel | Fernanda Vaz |
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

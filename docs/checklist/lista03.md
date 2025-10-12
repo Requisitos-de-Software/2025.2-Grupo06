@@ -67,6 +67,39 @@ Item | Avaliação | Avaliador(es) | Data e Hora |
  <a href="https://ibb.co/4wY7s9DH"><img src="https://i.ibb.co/0pFcB8Wx/image.png" alt="image" border="0"></a>
  
  ---
+# Lista de Verificação – Etapa 3  
+
+| Nº | Item de Verificação | Avaliação (Conforme / Não Conforme / Não aplicável / Sugestão de Melhoria) | Data e Hora | Avaliação do (Grupo / Grupo +1) | Avaliadores |
+|----|----------------------|---------------------------------------------------------------------------|--------------|----------------------------------|--------------|
+| 1  | As especificações dos cenários para o projeto | Conforme | 12/10/2025 - 21:50 | Grupo | FERNANDA VAZ DUARTE DOS SANTOS |
+| 2  | Os léxicos possuem os tipos verbo, objeto, estado? | Conforme | 12/10/2025 - 21:52 | Grupo | CAUA NICOLAS PEREIRA DE OLIVEIRA |
+| 3  | Os léxicos possuem ligações entre si (hiperlinks)? | Conforme | 12/10/2025 - 21:50 | Grupo | GABRIEL MACIEL |
+| 4  | O diagrama de Caso de Uso possui legenda explicando a notação? | Conforme | 12/10/2025 - 21:52 | Grupo +1 | JOAO LUCAS RAMOS DOS REIS |
+| 5  | Há ao menos um caso de uso com pontos de extensão? | Conforme | 12/10/2025 - 21:50 | Grupo | JOAO GABRIEL MILHOMEM DE BRITO |
+| 7  | A especificação do caso de uso contém todos os campos (Nome, Descrição, Atores, Pré/Pós-Condição, Fluxos etc.) preenchidos? | Conforme | 12/10/2025 - 21:52 | Grupo +1 | DANIEL NUNES DUARTE |
+| 8  | Há gravação da participação do cliente/persona na validação dos Léxicos? | Conforme | 12/10/2025 - 21:50 | Grupo | FERNANDA VAZ DUARTE DOS SANTOS |
+| 9  | Há gravação da participação do cliente/persona na validação dos Cenários? | Conforme | 12/10/2025 - 21:52 | Grupo +1 | CAUA NICOLAS PEREIRA DE OLIVEIRA |
+| 10 | Há gravação da participação do cliente/persona na validação do Diagrama e da Especificação de Caso de Uso? | Conforme | 12/10/2025 - 21:50 | Grupo | GABRIEL MACIEL |
+| 11 | Há gravação da participação do cliente/persona na validação da Especificação Suplementar? | Conforme | 12/10/2025 - 21:52 | Grupo +1 | JOAO GABRIEL MILHOMEM DE BRITO |
+| 12 | Cada cenário é rastreável (possui requisito de origem e hiperlink)? | Conforme | 12/10/2025 - 21:50 | Grupo | JOAO LUCAS RAMOS DOS REIS |
+| 13 | Cada especificação de Caso de Uso é rastreável (possui requisito de origem e hiperlink)? | Conforme | 12/10/2025 - 21:52 | Grupo +1 | DANIEL NUNES DUARTE |
+| 14 | Cada RNF da Especificação Suplementar é rastreável (possui requisito de origem e hiperlink)? | Conforme | 12/10/2025 - 21:50 | Grupo | FERNANDA VAZ DUARTE DOS SANTOS |
+| 15 | Todos os RNF da Especificação Suplementar são testáveis? | Conforme | 12/10/2025 - 21:52 | Grupo  | GABRIEL MACIEL |
+| 16 | A Especificação Suplementar indica a plataforma e versão de execução do app? | Conforme | 12/10/2025 - 21:50 | Grupo | JOAO LUCAS RAMOS DOS REIS |
+| 17 | Cada item da lista de verificação de Cenários possui referência com foto do texto de origem? | Conforme | 12/10/2025 - 21:52 | Grupo | CAUA NICOLAS PEREIRA DE OLIVEIRA |
+| 18 | Cada item da lista de verificação de Diagrama de Caso de Uso possui referência com foto do texto de origem? | Conforme | 12/10/2025 - 21:50 | Grupo | JOAO GABRIEL MILHOMEM DE BRITO |
+| 19 | Há item para verificar ator principal/secundário e explicação sobre a diferença? | Conforme | 12/10/2025 - 21:52 | Grupo | DANIEL NUNES DUARTE |
+| 20 | Há item para verificar se o ator principal está à esquerda e há referência bibliográfica sobre isso? | Conforme | 12/10/2025 - 21:50 | Grupo | FERNANDA VAZ DUARTE DOS SANTOS |
+| 21 | Cada item da lista de verificação da Especificação do Caso de Uso possui referência com foto do texto de origem? | Conforme | 12/10/2025 - 21:52 | Grupo  | JOAO LUCAS RAMOS DOS REIS |
+| 22 | Cada item da lista de verificação da Especificação Suplementar possui referência com foto do texto de origem? | Conforme | 12/10/2025 - 21:50 | Grupo | GABRIEL MACIEL |
+| 23 | A gravação da inspeção do próprio grupo e do grupo +1 foi realizada? | Conforme | 12/10/2025 - 21:52 | Grupo | CAUA NICOLAS PEREIRA DE OLIVEIRA |
+| 24 | A lista de verificação dos Cenários possui referência bibliográfica e autor de cada item? | Conforme | 12/10/2025 - 21:50 | Grupo | DANIEL NUNES DUARTE |
+| 25 | A lista de verificação do Diagrama e da Especificação de Caso de Uso possui referência bibliográfica e autor de cada item? | Conforme | 12/10/2025 - 21:52 | Grupo  | FERNANDA VAZ DUARTE DOS SANTOS |
+| 26 | A lista de verificação da Especificação Suplementar possui referência bibliográfica e autor de cada item? | Conforme | 12/10/2025 - 21:50 | Grupo | JOAO GABRIEL MILHOMEM DE BRITO |
+| 27 | Foi realizada a inspeção do grupo +1? | Conforme | 12/10/2025 - 21:52 | Grupo  | GABRIEL MACIEL |
+| 28 | Há agradecimento informando o uso de IA Generativa no documento dos Léxicos? | Conforme | 12/10/2025 - 21:50 | Grupo | CAUA NICOLAS PEREIRA DE OLIVEIRA |
+| 29 | Há agradecimento informando o uso de IA Generativa no documento dos Cenários? | Conforme | 12/10/2025 - 21:52 | Grupo | JOAO LUCAS RAMOS DOS REIS |
+| 30 | Há agradecimento informando o uso de IA Generativa no documento da Especificação Suplementar? | Conforme | 12/10/2025 - 21:50 | Grupo | DANIEL NUNES DUARTE |
 
 
 

@@ -513,6 +513,15 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 ---
 
 # Gravação da validação com usuário (Fernanda)
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
 
 ## Bibliografia
 >Arquitetura da Informação. Disponível em: <https://redefederal.ifrj.edu.br/simbolos>. Acesso em: 9 out. 2025.
@@ -532,3 +541,6 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 | 1.0    | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL | FERNANDA VAZ   |
 | 1.1    | 08/10/2025 | Adição de léxicos inicial                  | FERNANDA VAZ   | GABRIEL MACIEL |
 | 1.2    | 12/10/2025 | Adição de mais léxicos                     | CAUÃ NICOLAS   | JOÃO LUCAS, GABRIEL MACIEL     |
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

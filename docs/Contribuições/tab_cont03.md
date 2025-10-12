@@ -8,7 +8,11 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 
 | Artefato/Atividade | Responsável | Data Início | Data Fim | Link da Atividade |
 |---------------------|-------------|-------------|----------|-------------------|
-| a | a | a | a | a | 
+| Criação de Léxicos, Cenários e Casos de Uso | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Especificação Suplementar | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Especificação de Casos de Uso | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Itens de Verificação sobre o Conteúdo | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+
 
 ---
 *Tabela 1: cronograma realizado da terceira etapa.*
