@@ -52,7 +52,7 @@
 | **Avaliação** | Diego visualiza claramente todos os ônibus e faz uma escolha informada. Pega a Linha C com apenas 3 minutos de espera. Reconhece que a funcionalidade foi essencial para otimizar seu deslocamento, satisfeito com a praticidade e confiabilidade do recurso. |
 
 ---
-### Validação com usuário real dos Cenários 2 e 3
+### Validação com usuário real dos Cenários 1 e 2 (Fernanda Vaz)
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
@@ -78,7 +78,7 @@
 
 ---
 
-### Validação com usuário real dos Cenários 3 e 4
+### Validação com usuário real dos Cenários 3 e 4 (Gabriel Maciel)
 
 O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 e 4 com um usuário real, mostrando brevemente o uso das funcionalidades de rastreamento de múltiplas linhas e integração com o BRB Mobilidade no aplicativo.
 
@@ -117,7 +117,7 @@ O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 
 
 ---
 
-### Validação com usuário real dos Cenários 5 e 6
+### Validação com usuário real dos Cenários 5 e 6 (João Ramos)
 
 O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 e 6 com um usuário real, demonstrando o funcionamento do modo offline para consulta de horários e trajetos sem internet, além do sistema colaborativo de reporte de lotação dos ônibus no aplicativo.
 
@@ -157,7 +157,7 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 
 
 
-### Validação com usuário real dos Cenários 7 e 8
+### Validação com usuário real dos Cenários 7 e 8 (Cauã Nicolas)
 
 O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 e 8 com um usuário real, mostrando o uso do histórico de viagens para controle de despesas e a consulta de informações sobre linhas intermunicipais do entorno do DF no aplicativo.
 
