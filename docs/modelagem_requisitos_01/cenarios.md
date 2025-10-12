@@ -52,6 +52,16 @@
 | **Avaliação** | Diego visualiza claramente todos os ônibus e faz uma escolha informada. Pega a Linha C com apenas 3 minutos de espera. Reconhece que a funcionalidade foi essencial para otimizar seu deslocamento, satisfeito com a praticidade e confiabilidade do recurso. |
 
 ---
+### Validação com usuário real dos Cenários 2 e 3
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 ## Cenário 4 - Integração com BRB Mobilidade (Requisito não implementado)
 <span style="color:blue;">Autoria: Gabriel Maciel, 2025.</span>
@@ -144,16 +154,7 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 | **Avaliação** | Maria consegue planejar sua viagem a Luziânia sem precisar usar outro aplicativo ou ir até a rodoviária presencialmente para consultar horários. Fica satisfeita com a ampliação da cobertura para o entorno e reconhece que isso torna o app mais completo e útil para quem precisa se deslocar entre o DF e cidades vizinhas. |
 
 ---
-### Validação com usuário real dos Cenários 2 e 3
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
 
 
 ### Validação com usuário real dos Cenários 7 e 8
