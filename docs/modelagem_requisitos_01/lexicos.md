@@ -14,11 +14,11 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 
 ---
 
-## Template de Léxicos
+## Léxico 16: Trabalhador
 
 <div align="center">
 
-<p><strong>Tabela 1</strong> - Template Léxicos</p>
+<p><strong>Tabela 14</strong> - Trabalhador</p>
 
 <table>
   <tr>
@@ -26,7 +26,7 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
     <th>Descrição</th>
   </tr>
   <tr>
-    <td><strong>Classificação</strong></td>
+    ---
     <td>Estado/Objeto/Verbo</td>
   </tr>
   <tr>
@@ -658,6 +658,130 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 
 ---
 
+## Léxico 16: Trabalhador
+
+<div align="center">
+
+<p><strong>Tabela 17</strong> - Trabalhador</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Objeto</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Representa o usuário que utiliza o transporte público para deslocamento ao trabalho. Influencia requisitos de confiabilidade, previsibilidade de horários e integrações entre os onibus. Pode acionar funcionalidades como histórico de viagens, alertas personalizados e planejamento de rotas.    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Pessoa que se desloca diariamente ao trabalho utilizando transporte público, como ônibus e/ou metrô, e utiliza o aplicativo para planejar e acompanhar suas viagens.    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Trabalhadora, profissional, CLT</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Daniel Nunes Duarte, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 17: Alertar
+
+<div align="center">
+
+<p><strong>Tabela 18</strong> - Alertar</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Verbo</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Gera notificações ou avisos para o usuário em situações relevantes (aproximação do transporte a parada selecionada, atrasos, mudanças de rota). Impacta a usabilidade e segurança, exigindo mecanismos de delivery confiáveis (push, som, visual).    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>A ação do sistema de enviar uma mensagem ou sinal ao usuário para informar sobre eventos relevantes do transporte, como aproximação, chegada, atraso ou necessidade de mudança de rota. Pode ser sonora, visual ou por notificação no dispositivo.    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Avisar, notificar, sinalizar, comunicar, alarmar</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Daniel Nunes Duarte, 2025.</small>
+
+</div>
+
+---
+
+## Léxico 18: Aproximação do ônibus
+
+<div align="center">
+
+<p><strong>Tabela 19</strong> - Aproximação do ônibus</p>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Classificação</strong></td>
+    <td>Estado</td>
+  </tr>
+  <tr>
+    <td><strong>Impacto</strong></td>
+    <td>
+        Estado que representa quando um ônibus está em rota de chegada a uma parada/estação dentro de um raio ou tempo pré-definido. Pode disparar alertas ao usuário, atualizar estimativas de chegada e influenciar decisões de saída/embarque.    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Noção</strong></td>
+    <td>Condição em que a posição e velocidade do ônibus indicam que ele chegará à parada em um intervalo curto (por exemplo, < 5 minutos ou dentro de um raio de 500 m), conforme cálculo do sistema.    
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dicionário</strong></td>
+    <td>Chegando, perto, iminente, próximo</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autor(a): Daniel Nunes Duarte, 2025.</small>
+
+</div>
+
+---
+
+### Validação com usuário real dos Léxicos 16, 17 e 18 (Daniel Nunes Duarte)
+
+O vídeo 6 apresenta, entre o trecho -:-- e -:-- , a validação dos léxicos 16, 17 e 18 com um usuário real.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wl211vLAZI0?si=EL8QPVtHvj648FMU&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 6: Validação dos Léxicos 16, 17 e 18*
+
+---
+
 ## Bibliografia
 >Arquitetura da Informação. Disponível em: <https://redefederal.ifrj.edu.br/simbolos>. Acesso em: 9 out. 2025.
 
@@ -678,6 +802,7 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 | 1.2    | 12/10/2025 | Adição de mais léxicos                     | Cauã Nicolas   | João Lucas, Gabriel Maciel    |
 | 1.3    | 12/10/2025 | Léxicos 9,10,11                            | João Gabriel   | Fernanda Vaz, João Lucas    |
 | 1.3    | 12/10/2025 | Adiciona vídeos de Validação com usuário real dos Léxicos | Gabriel Maciel  | Fernanda Vaz, JoÃo Lucas, Cauã Nicolas    |
+| 1.4    | 12/10/2025 | Adição dos léxicos 16,17 e 18. | Daniel Nunes Duarte | ----- |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
