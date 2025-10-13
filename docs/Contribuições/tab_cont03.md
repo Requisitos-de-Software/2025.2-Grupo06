@@ -8,10 +8,10 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 
 | Artefato/Atividade | Responsável | Data Início | Data Fim | Link da Atividade |
 |---------------------|-------------|-------------|----------|-------------------|
-| Criação de Léxicos, Cenários e Casos de Uso | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
-| Especificação Suplementar | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
-| Especificação de Casos de Uso | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
-| Itens de Verificação sobre o Conteúdo | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Criação de Léxicos, Cenários e Casos de Uso | Cauã Nicolas, Daniel Nunes Duarte, Fernanda Vaz, Gabriel Maciel, João Gabriel, João Lucas | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Especificação Suplementar | Cauã Nicolas, Daniel Nunes Duarte, Fernanda Vaz, Gabriel Maciel, João Gabriel, João Lucas | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Especificação de Casos de Uso | Cauã Nicolas, Daniel Nunes Duarte, Fernanda Vaz, Gabriel Maciel, João Gabriel, João Lucas | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Itens de Verificação sobre o Conteúdo | Cauã Nicolas, Daniel Nunes Duarte, Fernanda Vaz, Gabriel Maciel, João Gabriel, João Lucas | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
 
 
 ---
