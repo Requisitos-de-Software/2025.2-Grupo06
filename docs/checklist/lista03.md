@@ -87,6 +87,22 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** O nome do sistema está representado no topo do retângulo?[(5)](#ref-6) | Aprovado | João Ramos | 12/10/2025 21:56 |
+ **Print**
+<a href="https://ibb.co/SDBsGbvp"><img src="https://i.ibb.co/LD1kHmpf/Captura-de-tela-de-2025-10-12-22-06-055.png" alt="Captura-de-tela-de-2025-10-12-22-06-055" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **06:** Os atores estão fora do sistema(retângulo)[(6)](#ref-6) | Aprovado | João Ramos | 12/10/2025 21:56 |
+ **Print**
+<a href="https://ibb.co/NMWnDdx"><img src="https://i.ibb.co/2TcYV1q/Captura-de-tela-de-2025-10-12-22-11-077.png" alt="Captura-de-tela-de-2025-10-12-22-11-077" border="0"></a>
+
+---
+
 ## Lista de Verificação Especificação Suplementar
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
@@ -125,7 +141,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------------|
 | **05:** Foram especificados os requisitos de suportabilidade ou manutenibilidade do sistema?[(5)](#ref-8) | Aprovado | João Ramos | 12/10/2025 21:38 |
  **Print**
-<a href="https://ibb.co/n8n9WfDz"><img src="https://i.ibb.co/YTymr8tp/Captura-de-tela-de-2025-10-12-21-44-277.png" alt="Captura-de-tela-de-2025-10-12-21-44-277" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'>enviar imagens para fórum</a><br />
+<a href="https://ibb.co/n8n9WfDz"><img src="https://i.ibb.co/YTymr8tp/Captura-de-tela-de-2025-10-12-21-44-277.png" alt="Captura-de-tela-de-2025-10-12-21-44-277" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'></a><br />
 
 ---
 
