@@ -84,6 +84,40 @@ Os Requisitos de Sistema definem todas as condições necessárias para suportar
 
 <span style="color:blue;">Autoria: Cauã Nicolas, 2025.</span>
 
+## Segurança
+
+A seção de Segurança descreve os requisitos para proteger o aplicativo e os dados dos usuários contra ameaças, ataques e acessos não autorizados. Ela cobre mecanismos de autenticação, autorização, criptografia, registro de eventos (logging) e monitoramento de incidentes.
+
+| ID | Descrição |
+|---|---|
+| RSE01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). |
+| RSE02 | Todas as comunicações entre cliente e servidor devem ser criptografadas usando TLS 1.2 ou superior. |
+| RSE03 | Senhas e credenciais devem ser armazenadas usando hashing seguro (ex.: bcrypt, Argon2) com salt. |
+| RSE04 | Deve existir um mecanismo de controle de sessão que invalide sessões inativas e permita logout remoto. |
+| RSE05 | Registro (logging) de eventos de segurança (tentativas de login, alterações de privilégios, erros críticos) para auditoria. |
+| RSE06 | Proteção contra ataques comuns (XSS, CSRF, injeção de SQL) aplicando validação e sanitização de entrada. |
+
+**Tabela 6:** RSE - Requisito de Segurança
+
+<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
+
+## Privacidade
+
+Esta seção define os requisitos de privacidade e proteção de dados pessoais dos usuários do aplicativo, em conformidade com a legislação aplicável (por exemplo, LGPD) e melhores práticas de minimização de dados e transparência.
+
+| ID | Descrição |
+|---|---|
+| RPV01 | Coleta de dados deve ser limitada ao mínimo necessário para a finalidade declarada e informada ao usuário. |
+| RPV02 | Deve ser fornecido um termo de consentimento claro e acessível, permitindo que o usuário aceite ou recuse coleta de dados sensíveis. |
+| RPV03 | Usuários devem ter mecanismos para visualizar, corrigir e solicitar exclusão de seus dados pessoais. |
+| RPV04 | Dados pessoais armazenados devem ser criptografados em repouso quando tecnicamente viável. |
+| RPV05 | Logs e backups que contenham dados pessoais devem ter acesso restrito e retenção limitada conforme política da organização. |
+| RPV06 | Deve ser realizada uma avaliação de impacto sobre a proteção de dados (DPIA) para funcionalidades que processem dados sensíveis. |
+
+**Tabela 7:** RPV - Requisito de Privacidade
+
+<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
+
 ## Referências bibliográficas
 <a id="ref-mctic"></a>
 >BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações. *Processo de Software do MCTIC: Documento Descritivo*. Brasília, DF: MCTIC, 2014. Disponível em: <https://ps.mctic.gov.br/MCTI-PS/workproducts/resources/PS_DocumentoDescritivo.pdf>. Acesso em: 7 out. 2025.
@@ -98,6 +132,10 @@ Os Requisitos de Sistema definem todas as condições necessárias para suportar
 | 1.0 | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL| FERNANDA VAZ |
 | 1.2 | 08/10/2025 | Adição de especificação suplementar inicial. | FERNANDA VAZ | GABRIEL MACIEL |
 | 1.3 | 12/10/2025 | Adição de componentes de Desempenho e Requisitos do Sistema para especificação suplementar. | JOAO RAMOS | GABRIEL MACIEL |
+| 1.4 | 12/10/2025 | Adição de especificações suplementares (Segurança, Privacidade) | DANIEL NUNES DUARTE | ------
+
+
+ |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
