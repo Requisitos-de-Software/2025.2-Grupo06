@@ -676,7 +676,7 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
   <tr>
     <td><strong>Impacto</strong></td>
     <td>
-        Representa o usuário que utiliza o transporte público para deslocamento ao trabalho. Influencia requisitos de confiabilidade, previsibilidade de horários e integrações entre os onibus. Pode acionar funcionalidades como histórico de viagens, alertas personalizados e planejamento de rotas.    
+        Representa o utilizador do transporte publico que utiliza o transporte público para deslocamento ao trabalho. Influencia requisitos de confiabilidade, previsibilidade de horários e integrações entre os onibus. Pode acionar funcionalidades como histórico de viagens, alertas personalizados e planejamento de rotas.    
     </td>
   </tr>
   <tr>
@@ -714,12 +714,12 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
   <tr>
     <td><strong>Impacto</strong></td>
     <td>
-        Gera notificações ou avisos para o usuário em situações relevantes (aproximação do transporte a parada selecionada, atrasos, mudanças de rota). Impacta a usabilidade e segurança, exigindo mecanismos de delivery confiáveis (push, som, visual).    
+        Gera notificações ou avisos para o passageiro em situações relevantes (aproximação do transporte a parada selecionada, atrasos, mudanças de rota). Impacta a usabilidade e segurança, exigindo mecanismos de delivery confiáveis (push, som, visual).    
     </td>
   </tr>
   <tr>
     <td><strong>Noção</strong></td>
-    <td>A ação do sistema de enviar uma mensagem ou sinal ao usuário para informar sobre eventos relevantes do transporte, como aproximação, chegada, atraso ou necessidade de mudança de rota. Pode ser sonora, visual ou por notificação no dispositivo.    
+    <td>A ação do sistema de enviar uma mensagem ou sinal ao passageiro para informar sobre eventos relevantes do transporte, como aproximação, chegada, atraso ou necessidade de mudança de rota. Pode ser sonora, visual ou por notificação no dispositivo.    
     </td>
   </tr>
   <tr>
@@ -752,7 +752,7 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
   <tr>
     <td><strong>Impacto</strong></td>
     <td>
-        Estado que representa quando um ônibus está em rota de chegada a uma parada/estação dentro de um raio ou tempo pré-definido. Pode disparar alertas ao usuário, atualizar estimativas de chegada e influenciar decisões de saída/embarque.    
+        Estado que representa quando um ônibus está em rota de chegada a uma parada/estação dentro de um raio ou tempo pré-definido. Pode disparar alertas ao Passageiro, atualizar estimativas de chegada e influenciar decisões de saída/embarque.    
     </td>
   </tr>
   <tr>
@@ -772,9 +772,9 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 
 ---
 
-### Validação com usuário real dos Léxicos 16, 17 e 18 (Daniel Nunes Duarte)
+### Validação dos léxicos com um utilizador do transporte publico 16, 17 e 18 (Daniel Nunes Duarte)
 
-O vídeo 6 apresenta, entre o trecho -:-- e -:-- , a validação dos léxicos 16, 17 e 18 com um usuário real.
+O vídeo 6 apresenta, entre o trecho -:-- e -:-- , a validação dos léxicos 16, 17 e 18 com um utilizador do transporte publico.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wl211vLAZI0?si=EL8QPVtHvj648FMU&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
