@@ -28,10 +28,11 @@ A usabilidade representa o esforço necessário para utilizar o aplicativo e a a
 | RU06 | Mensagens de erro e confirmação devem ser claras e objetivas. |
 | RU07 | Padrões visuais e de interação consistentes em todo o aplicativo. |
 | RU08 | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
+| RU09 | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
 
 **Tabela 2:** RU - Requisito de Utilidade/Usabilidade
 
-<span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
+<span style="color:blue;">Autoria: Fernanda Vaz e João Ramos, 2025.</span>
 
 ## Confiabilidade
 A confiabilidade expressa a capacidade do sistema de manter seu nível de desempenho sob condições estabelecidas durante um período determinado. Contempla aspectos como disponibilidade, maturidade, tolerância a falhas, recuperabilidade e estabilidade, assegurando que o aplicativo opere de forma consistente e resiliente.
@@ -54,19 +55,68 @@ A confiabilidade expressa a capacidade do sistema de manter seu nível de desemp
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
 ## Desempenho
-
-De acordo com o documento de Especificação Suplementar do Ministério da Ciência, Tecnologia, Inovações e Comunicações, o desempenho descreve a eficiência do sistema na execução de suas funções sob condições específicas. Inclui tempo de resposta, taxa de transferência, capacidade de atendimento, modos de operação degradada e uso de recursos, garantindo que o sistema mantenha sua performance conforme os requisitos definidos.
+O desempenho define as características de eficiência do sistema, incluindo tempos de resposta para transações, a taxa de transferência de dados e a capacidade de usuários simultâneos que o sistema pode acomodar. Conforme as diretrizes, esta seção detalha os requisitos de performance e a utilização de recursos como memória e disco, garantindo que a aplicação opere dentro dos parâmetros esperados.
 
 ### Desempenho (print da fonte)
+<a href="https://ibb.co/1t56SXb2"><img src="https://i.ibb.co/cSHLm8xT/Captura-de-tela-de-2025-09-28-23-39-57111111111.png" alt="Captura-de-tela-de-2025-09-28-23-39-57111111111" border="0"></a>
 
-![Trecho de texto do documento de Especificação Suplementar](../assets/imagens/espec_sup/desempenho.png)
+| ID | Descrição |
+|---|---|
+| RD | O tempo de rastreio de um veículo em tempo real deve ser menor que 20 segundos. |
 
-| ID | Descrição | Autoria |
-|---|---|---|
-| RC01 | O tempo de atualização da localização do ônibus deve ser menor ou igual a 20 segundos.| Gabriel Maciel |
 
-**Tabela 3:** RD - Requisito de Desempenho
+**Tabela 4:** RD - Requisito de Desempenho
 
+<span style="color:blue;">Autoria: Gabriel Maciel, 2025.</span>
+
+## Requisistos do Sistema
+Os Requisitos de Sistema definem todas as condições necessárias para suportar o aplicativo, garantindo sua correta operação em diferentes ambientes. Esta seção especifica as plataformas de hardware, os sistemas operacionais e as redes suportadas, assegurando que o produto esteja em conformidade com os padrões de plataforma aplicáveis (como Windows, Android, iOS, etc.) e interaja corretamente com outros softwares e periféricos definidos.
+
+### Requistos do Sistema (print da fonte)
+<a href="https://ibb.co/RpNB5wnW"><img src="https://i.ibb.co/6R81dCh5/Captura-de-tela-de-2025-10-12-20-25-322222222222.png" alt="Captura-de-tela-de-2025-10-12-20-25-322222222222" border="0"></a>
+
+| ID | Descrição |
+|---|---|
+| RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis(celulares) |
+
+
+**Tabela 5:** RS - Requisito do Sistena
+
+<span style="color:blue;">Autoria: Cauã Nicolas, 2025.</span>
+
+## Segurança
+
+A seção de Segurança descreve os requisitos para proteger o aplicativo e os dados dos usuários contra ameaças, ataques e acessos não autorizados. Ela cobre mecanismos de autenticação, autorização, criptografia, registro de eventos (logging) e monitoramento de incidentes.
+
+| ID | Descrição |
+|---|---|
+| RSE01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). |
+| RSE02 | Todas as comunicações entre cliente e servidor devem ser criptografadas usando TLS 1.2 ou superior. |
+| RSE03 | Senhas e credenciais devem ser armazenadas usando hashing seguro (ex.: bcrypt, Argon2) com salt. |
+| RSE04 | Deve existir um mecanismo de controle de sessão que invalide sessões inativas e permita logout remoto. |
+| RSE05 | Registro (logging) de eventos de segurança (tentativas de login, alterações de privilégios, erros críticos) para auditoria. |
+| RSE06 | Proteção contra ataques comuns (XSS, CSRF, injeção de SQL) aplicando validação e sanitização de entrada. |
+
+**Tabela 6:** RSE - Requisito de Segurança
+
+<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
+
+## Privacidade
+
+Esta seção define os requisitos de privacidade e proteção de dados pessoais dos usuários do aplicativo, em conformidade com a legislação aplicável (por exemplo, LGPD) e melhores práticas de minimização de dados e transparência.
+
+| ID | Descrição |
+|---|---|
+| RPV01 | Coleta de dados deve ser limitada ao mínimo necessário para a finalidade declarada e informada ao usuário. |
+| RPV02 | Deve ser fornecido um termo de consentimento claro e acessível, permitindo que o usuário aceite ou recuse coleta de dados sensíveis. |
+| RPV03 | Usuários devem ter mecanismos para visualizar, corrigir e solicitar exclusão de seus dados pessoais. |
+| RPV04 | Dados pessoais armazenados devem ser criptografados em repouso quando tecnicamente viável. |
+| RPV05 | Logs e backups que contenham dados pessoais devem ter acesso restrito e retenção limitada conforme política da organização. |
+| RPV06 | Deve ser realizada uma avaliação de impacto sobre a proteção de dados (DPIA) para funcionalidades que processem dados sensíveis. |
+
+**Tabela 7:** RPV - Requisito de Privacidade
+
+<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
 
 ## Referências bibliográficas
 <a id="ref-mctic"></a>
@@ -81,7 +131,11 @@ De acordo com o documento de Especificação Suplementar do Ministério da Ciên
 |:------:|:-----------|:--------------------------------------------|:--------------|:----------------|
 | 1.0 | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL| FERNANDA VAZ |
 | 1.2 | 08/10/2025 | Adição de especificação suplementar inicial. | FERNANDA VAZ | GABRIEL MACIEL |
-| 1.3 | 12/10/2025 | Adição de especificação suplementar de desempenho | Gabriel Maciel | Fernanda Vaz |
+| 1.3 | 12/10/2025 | Adição de componentes de Desempenho e Requisitos do Sistema para especificação suplementar. | JOAO RAMOS | GABRIEL MACIEL |
+| 1.4 | 12/10/2025 | Adição de especificações suplementares (Segurança, Privacidade) | DANIEL NUNES DUARTE | ------
+
+
+ |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

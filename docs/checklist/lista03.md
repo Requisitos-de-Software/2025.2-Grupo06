@@ -8,14 +8,48 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **01:** O cenário possui um ambiente ou contexto?[(1)](#ref-1) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/1fF56YTp/image.png" alt="image" border="0"></a>
- 
- ---
+
+---
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
 | **02:** O cenário possui atores?[(2)](#ref-1) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
 <a href="https://ibb.co/GvHMQK5V"><img src="https://i.ibb.co/TBW0MVgH/image.png" alt="image" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **03:** É uma história de pessoas realizando uma atividade rica em detalhes, baseada em dados reais e potenciais?[(3)](#ref-2) | Aprovado | João Gabriel | 10/10/2025 17:32 |
+ **Print**
+ <a href="https://ibb.co/ym6q8mgx"><img src="https://i.ibb.co/ym6q8mgx/image.png" alt="Cenário Item 3" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **04:** A historia visa capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre o uso de dada tecnologia e explorar soluções de design?[(4)](#ref-2) | Aprovado | João Gabriel | 10/10/2025 17:32 |
+ **Print**
+<a href="https://ibb.co/jss1hwt"><img src="https://i.ibb.co/jss1hwt/image.png" alt="Cenário Item 4" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** Os cenários descreve as ações e experiências dos atores?[(5)](#ref-2) | Aprovado | Cauã Nicolas | 10/10/2025 21:32 |
+ **Print**
+<a href="https://ibb.co/YFpb0Mr1"><img src="https://i.ibb.co/YFpb0Mr1/image.png" alt="Cenário Item 4" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **06:** Os cenários possui elemento do tipo ambiente ou contexto?[(6)](#ref-2) | Aprovado | Cauã Nicolas | 10/10/2025 21:32 |
+ **Print**
+<a href="https://ibb.co/8CgqnBD"><img src="https://i.ibb.co/8CgqnBD/image.png" alt="Cenário Item 4" border="0"></a>
+
+---
 
 ---
 
@@ -33,17 +67,18 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 
 ## Lista de Verificação Léxicos
+
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **01:**O léxico possui** noção e impacto**?[(1)](#ref-2) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
+| **01:** O léxico possui** noção e impacto**?[(1)](#ref-3) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/PGg7C69R/image.png" alt="image" border="0"></a> 
 
- ---
+---
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **02:**O léxico possuium simbolo com zero ou mais sinônimo?[(2)](#ref-2) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
+| **02:** O léxico possuium simbolo com zero ou mais sinônimo?[(2)](#ref-3) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/PGg7C69R/image.png" alt="image" border="0"></a>
 
@@ -65,19 +100,84 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 ---
 
 ## Lista de Verificação Casos de Uso
+
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **01:**O caso de uso possui atores?[(1)](#ref-3) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
+| **01:** O caso de uso possui atores?[(1)](#ref-4) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
 <a href="https://ibb.co/jPDWMsCT"><img src="https://i.ibb.co/RkcB0dX9/image.png" alt="image" border="0"></a>
 
- ---
+---
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **02:**O caso de uso possui Associações?[(2)](#ref-3) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
+| **02:** O caso de uso possui Associações?[(2)](#ref-4) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
 <a href="https://ibb.co/tp5z2CDt"><img src="https://i.ibb.co/Wv10zKfw/image.png" alt="image" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **03:** O diagrama documenta o que o sistema faz do ponto de vista do usuário?[(3)](#ref-5) | Aprovado | João Gabriel | 10/10/2025 17:32 |
+ **Print**
+<a href="https://ibb.co/Kj1Xb0TV"><img src="https://i.ibb.co/Kj1Xb0TV/image.png" alt="Casos de Uso Item 3" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **04:** O diagrama descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários?[(4)](#ref-5) | Aprovado | João Gabriel | 10/10/2025 17:32 |
+ **Print**
+<a href="https://ibb.co/nsddZMWP"><img src="https://i.ibb.co/nsddZMWP/image.png" alt="Casos de Uso Item 4" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** O nome do sistema está representado no topo do retângulo?[(5)](#ref-6) | Aprovado | João Ramos | 12/10/2025 21:56 |
+ **Print**
+<a href="https://ibb.co/SDBsGbvp"><img src="https://i.ibb.co/LD1kHmpf/Captura-de-tela-de-2025-10-12-22-06-055.png" alt="Captura-de-tela-de-2025-10-12-22-06-055" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **06:** Os atores estão fora do sistema(retângulo)[(6)](#ref-6) | Aprovado | João Ramos | 12/10/2025 21:56 |
+ **Print**
+<a href="https://ibb.co/NMWnDdx"><img src="https://i.ibb.co/2TcYV1q/Captura-de-tela-de-2025-10-12-22-11-077.png" alt="Captura-de-tela-de-2025-10-12-22-11-077" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **03:** O diagrama documenta o que o sistema faz do ponto de vista do usuário?[(3)](#ref-5) | Aprovado | João Gabriel | 10/10/2025 17:32 |
+ **Print**
+<a href="https://ibb.co/Kj1Xb0TV"><img src="https://i.ibb.co/Kj1Xb0TV/image.png" alt="Casos de Uso Item 3" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **04:** O diagrama descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários?[(4)](#ref-5) | Aprovado | João Gabriel | 10/10/2025 17:32 |
+ **Print**
+<a href="https://ibb.co/nsddZMWP"><img src="https://i.ibb.co/nsddZMWP/image.png" alt="Casos de Uso Item 4" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** O nome do sistema está representado no topo do retângulo?[(5)](#ref-6) | Aprovado | João Ramos | 12/10/2025 21:56 |
+ **Print**
+<a href="https://ibb.co/SDBsGbvp"><img src="https://i.ibb.co/LD1kHmpf/Captura-de-tela-de-2025-10-12-22-06-055.png" alt="Captura-de-tela-de-2025-10-12-22-06-055" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **06:** Os atores estão fora do sistema(retângulo)[(6)](#ref-6) | Aprovado | João Ramos | 12/10/2025 21:56 |
+ **Print**
+<a href="https://ibb.co/NMWnDdx"><img src="https://i.ibb.co/2TcYV1q/Captura-de-tela-de-2025-10-12-22-11-077.png" alt="Captura-de-tela-de-2025-10-12-22-11-077" border="0"></a>
 
 ---
 
@@ -95,21 +195,48 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 
 ## Lista de Verificação Especificação Suplementar
-Item | Avaliação | Avaliador(es) | Data e Hora |
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **01:** A Especificação Suplementar captura os requisitos de sistema?[(1)](#ref-4) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
+| **01:** A Especificação Suplementar captura os requisitos de sistema?[(1)](#ref-6) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
  <a href="https://ibb.co/rKGP7ft6"><img src="https://i.ibb.co/twMfmPhs/image.png" alt="image" border="0"></a>
 
- ---
+---
 
- Item | Avaliação | Avaliador(es) | Data e Hora |
+| Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **02:**A Especificação Suplementar possui analise de usabilidade?[(2)](#ref-4) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
+| **02:** A Especificação Suplementar possui analise de usabilidade?[(2)](#ref-6) | Aprovado | Fernanda Vaz | 09/10/2025 20:50 |
  **Print**
  <a href="https://ibb.co/4wY7s9DH"><img src="https://i.ibb.co/0pFcB8Wx/image.png" alt="image" border="0"></a>
- 
- ---
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **03:** A introdução fornece uma visão geral do documento, incluindo finalidade, escopo, definições, acrônimos, abreviações, referências e visão geral da Especificação Suplementar?[(3)](#ref-7) | Aprovado | João Gabriel | 10/10/2025 17:32 |
+ **Print**
+ <a href="https://ibb.co/0V9pjgFc"><img src="https://i.ibb.co/0V9pjgFc/image.png" alt="Especificação Item 3" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **04:** Foram especificados os requisitos de confiabilidade(como disponibilidade, tempo médio de falhas, tempo médio de reparo, exatidão, taxa máxima de erros ou defeitos e taxa de erros ou defeitos)?[(4)](#ref-8) | Aprovado | João Ramos | 12/10/2025 21:37 |
+ **Print**
+<a href="https://ibb.co/jkQPLLdW"><img src="https://i.ibb.co/F4yLBB90/Captura-de-tela-de-2025-10-12-21-41-399.png" alt="Captura-de-tela-de-2025-10-12-21-41-399" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** Foram especificados os requisitos de suportabilidade ou manutenibilidade do sistema?[(5)](#ref-8) | Aprovado | João Ramos | 12/10/2025 21:38 |
+ **Print**
+<a href="https://ibb.co/n8n9WfDz"><img src="https://i.ibb.co/YTymr8tp/Captura-de-tela-de-2025-10-12-21-44-277.png" alt="Captura-de-tela-de-2025-10-12-21-44-277" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'></a><br />
+
+---
+
+
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
@@ -159,7 +286,6 @@ Item | Avaliação | Avaliador(es) | Data e Hora |
 | 28 | Há agradecimento informando o uso de IA Generativa no documento dos Léxicos? | Conforme | 12/10/2025 - 21:50 | Grupo | CAUA NICOLAS PEREIRA DE OLIVEIRA |
 | 29 | Há agradecimento informando o uso de IA Generativa no documento dos Cenários? | Conforme | 12/10/2025 - 21:52 | Grupo | JOAO LUCAS RAMOS DOS REIS |
 | 30 | Há agradecimento informando o uso de IA Generativa no documento da Especificação Suplementar? | Conforme | 12/10/2025 - 21:50 | Grupo | DANIEL NUNES DUARTE |
-
 
 
 

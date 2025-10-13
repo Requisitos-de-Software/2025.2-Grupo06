@@ -165,7 +165,7 @@ A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permit
 | **Data da criação**         |11/10/25|
 | **Rastreabilidade**         | **ENT12**: O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa. |
 
-*Autoria: Gabriel Maciel, 2025*
+*Autoria: Daniel Nunes Duarte, 2025*
 
 A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permite aos passageiros consultar saldo e recarregar o cartão BRB Mobilidade diretamente pelo aplicativo, oferecendo praticidade e agilidade nas transações.
 
@@ -457,15 +457,180 @@ A Tabela 11 apresenta a especificação detalhada do caso de uso UC10, que tem c
 
 </div>
 
+---
+
+### Tabela 12 - UC11: Compartilhamento de Rotas entre Usuários (Requisito não implementado)
+
+A Tabela 12 apresenta a especificação detalhada do caso de uso UC11, que permite ao passageiro compartilhar rotas e planejamentos de viagem com outros usuários do aplicativo, facilitando coordenação de deslocamentos e caronas.
+
+<div align="center">
+
+<p><strong>Tabela 12</strong> - UC11: Compartilhamento de Rotas entre Usuários</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Permite que um passageiro compartilhe uma rota planejada com contatos ou grupos dentro do aplicativo, incluindo horário estimado, pontos de encontro e instruções adicionais.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema<br>- Contatos ou grupos adicionados ao perfil<br>- Conexão com internet ativa</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Rota compartilhada enviada aos contatos selecionados<br>- Notificações de convite/recebimento registradas no sistema</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa a tela de planejamento de viagem<br>
+      <strong>FB02.</strong> Insere origem, destino e horário desejado<br>
+      <strong>FB03.</strong> Seleciona opção "Compartilhar" e escolhe contatos/grupo<br>
+      <strong>FB04.</strong> (Opcional) Adiciona mensagem ou instruções adicionais<br>
+      <strong>FB05.</strong> Sistema envia notificações para os contatos selecionados<br>
+      <strong>FB06.</strong> Contatos recebem convite com detalhes da rota e opção de aceitar/recusar<br>
+      <strong>FB07.</strong> Se aceitarem, sistema agenda lembrete compartilhado e atualiza status
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Compartilhar por link:</strong><br>
+      1. Passageiro escolhe gerar link compartilhável<br>
+      2. Sistema cria link com validade determinada<br>
+      3. Passageiro copia/cola link em outra plataforma<br><br>
+
+      <strong>FA02 - Enviar apenas horário:</strong><br>
+      1. Passageiro opta por enviar apenas lembrete de horário<br>
+      2. Sistema envia notificação com horário e efeito de lembrete
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Contato não encontrado:</strong><br>
+      1. Passageiro seleciona contato removido ou inexistente<br>
+      2. Sistema exibe "Contato não encontrado" e remove da seleção<br><br>
+
+      <strong>FE02 - Falha ao enviar notificação:</strong><br>
+      1. Sistema detecta erro ao notificar contato<br>
+      2. Exibe mensagem "Falha ao enviar convite. Tente novamente"<br>
+      3. Sistema registra tentativa para reenvio automático
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>ENT14</strong>: Compartilhamento de planejamento de viagens entre usuários</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: Daniel Nunes Duarte, 2025</small>
+
+</div>
+
+---
+
+### Tabela 13 - UC12: Acessibilidade e Suporte a Usuários com Deficiência (Requisito não implementado)
+
+A Tabela 13 apresenta a especificação detalhada do caso de uso UC12, que visa garantir que o aplicativo ofereça recursos de acessibilidade, como leitura por voz, contraste alto e navegação por teclado, além de suporte específico para usuários com deficiência.
+
+<div align="center">
+
+<p><strong>Tabela 13</strong> - UC12: Acessibilidade e Suporte a Usuários com Deficiência</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro (usuário com necessidades de acessibilidade)</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Fornece funcionalidades de acessibilidade no aplicativo, incluindo leitor de tela, navegação simplificada, legendas em vídeos e suporte a configurações de contraste e tamanho de fonte.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema (opcional para recursos públicos)<br>- Dispositivo compatível com recursos de acessibilidade<br>- Permissões necessárias concedidas (ex: uso de microfone para comandos de voz)</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Preferências de acessibilidade salvas no perfil do usuário<br>- Interface adaptada conforme configuração escolhida</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa "Configurações de Acessibilidade" no app<br>
+      <strong>FB02.</strong> Escolhe opções desejadas (leitor de tela, contraste alto, tamanho de fonte)<br>
+      <strong>FB03.</strong> Sistema aplica preferências e exibe pré-visualização<br>
+      <strong>FB04.</strong> Passageiro confirma alterações<br>
+      <strong>FB05.</strong> Sistema salva preferências no perfil e ajusta UI em todas as telas
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Ativar comandos de voz:</strong><br>
+      1. Passageiro ativa controle por voz nas configurações<br>
+      2. Sistema solicita permissão de microfone e fornece tutorial<br>
+      3. Usuário passa a navegar por comandos de voz básicos<br><br>
+
+      <strong>FA02 - Modo somente texto:</strong><br>
+      1. Passageiro ativa modo somente texto para leitores braille ou integração com dispositivos assistivos<br>
+      2. Sistema reescreve interfaces para formato texto simplificado
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Permissão negada:</strong><br>
+      1. Usuário nega acesso ao microfone ou recursos necessários<br>
+      2. Sistema exibe instruções para habilitar permissões manualmente<br><br>
+
+      <strong>FE02 - Recurso não suportado pelo dispositivo:</strong><br>
+      1. Sistema detecta hardware/SDK incompatível<br>
+      2. Exibe mensagem explicativa e oferece alternativas (ex: modo texto)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>BRS09</strong>: Requisitos de acessibilidade e conformidade com normas de usabilidade</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: Daniel Nunes Duarte, 2025</small>
+
+</div>
+
+
 ## Responsáveis pela elaboração do artefato
 
 | Nome            | Responsabilidade              |
 |-----------------|-------------------------------|
-| **Fernanda Vaz** | - Elaboração dos textos de Introdução, Metodologia <br> - Criação inicial do Diagrama de Casos de Uso UML <br> - Elaboração da [Tabela 1](#tabela-1-elementos-descricoes-e-representacoes-graficas-do-diagrama-de-casos-de-uso) <br> - Elaboração do Diagrama de Casos de Uso UML <br> - Elaboração e documentação dos casos de uso UC01 e UC02| 
+| **Fernanda Vaz** | - Elaboração dos textos de Introdução, Metodologia <br> - Criação inicial do Diagrama de Casos de Uso UML <br> - Elaboração da [Tabela 1](#tabela-1-elementos-descricoes-e-representacoes-graficas-do-diagrama-de-casos-de-uso) <br> - Elaboração do Diagrama de Casos de Uso UML <br> - Elaboração e documentação dos casos de uso UC01 e UC02 |
 | **Gabriel Maciel** | - Elaboração e documentação do Modelo de Tabela para Especificação de Casos de Uso <br> - Elaboração e documentação dos casos de uso UC03 e UC04 |
 | **Cauã Nicolas** | - Elaboração e documentação dos casos de uso UC05 e UC06 |
 | **João Ramos** | - Elaboração e documentação dos casos de uso UC07 e UC08 |
 | **João Gabriel** | - Elaboração e documentação dos casos de uso UC09 e UC10 |
+| **Daniel Nunes Duarte** | - Elaboração e documentação dos casos de uso UC11 e UC12 |
 
 ## Bibliografia
 <a id="ref-Lucid"></a>
@@ -492,6 +657,7 @@ A Tabela 11 apresenta a especificação detalhada do caso de uso UC10, que tem c
 | 1.3.2 | 12/10/2025 | Elaboração e documentação dos casos de uso UC05 e UC06 | Cauã Nicolas | Gabriel Maciel |
 | 1.3.3 | 12/11/2025 | Adição dos casos de uso UC07 e UC08 | Gabriel Maciel, João Ramos | Cauã Nicolas |
 | 1.3.3 | 12/11/2025 | Adição dos casos de uso UC09 e UC10 | João Gabriel | Cauã Nicolas |
+| 1.4 | 12/10/2025 | Adição dos casos de uso UC11 e UC12 | Daniel Nunes Duarte | ----- |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

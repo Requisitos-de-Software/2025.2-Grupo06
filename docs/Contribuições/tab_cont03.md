@@ -8,10 +8,10 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 
 | Artefato/Atividade | Responsável | Data Início | Data Fim | Link da Atividade |
 |---------------------|-------------|-------------|----------|-------------------|
-| Criação de Léxicos, Cenários e Casos de Uso | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
-| Especificação Suplementar | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
-| Especificação de Casos de Uso | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
-| Itens de Verificação sobre o Conteúdo | Fernanda Vaz | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Criação de Léxicos, Cenários e Casos de Uso | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Especificação Suplementar | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Especificação de Casos de Uso | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
+| Itens de Verificação sobre o Conteúdo | Daniel Nunes Duarte, Fernanda Vaz, João Gabriel | 08/10 | 12/10 | [Acessar Atividade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/cenarios) |
 
 
 ---
@@ -22,3 +22,5 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 | Versão | Data       | Descrição                          | Autor(es)       | Revisor(es)          |
 |--------|------------|------------------------------------|----------------|---------------------|
 | 1.0    | 08/10/2025 | Criação da tabela de Contribuição  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Gabriel](https://github.com/JoaoComTil), [João Lucas](https://github.com/Joaolramos) |
+| 1.1    | 12/10/2025 | Colocação de contribuições | [João Gabriel](https://github.com/JoaoComTil) | [João Gabriel](https://github.com/JoaoComTil), [João Lucas](https://github.com/Joaolramos) |
+| 1.2    | 12/10/2025 | Adicionamento de contribuições | [Daniel Nunes Duarte](https://github.com/DanNunes777) | -------- |
