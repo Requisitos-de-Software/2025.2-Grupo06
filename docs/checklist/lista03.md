@@ -285,7 +285,7 @@ O nome do sistema está representado?
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **16:** Cada ator está interagindo com pelo menos um caso de uso? | Aprovado | Gabriel Maciel | 12/10/2025 22:53 |
+| **16:** Cada ator está interagindo com pelo menos um caso de uso? | Aprovado | Daniel Nunes Duarte | 12/10/2025 22:53 |
  **Print** ![](../assets/imagens/checklist_3/print_2.png) |
 
 
@@ -433,6 +433,7 @@ O nome do sistema está representado?
 
 ## Agradecimentos
 >Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
+
 
 
 
