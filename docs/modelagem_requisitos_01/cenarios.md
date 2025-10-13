@@ -208,12 +208,50 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 
 ---
 
+## Cenário 11 – O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa. (Requisito não implementado)
+<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
+
+| **Elemento** | **Descrição** |
+| :-----------: | :------------ |
+| **Ambiente ou contexto** | Ana está em casa se arrumando antes de sair para o estágio. Ela precisa sair no momento certo para não esperar tempo demais no ponto de ônibus e evitar atrasos. Ela usa o aplicativo para verificar a localização em tempo real do ônibus de suas possiveis linhas. |
+| **Atores** | Ana, estudante universitária que utiliza o ônibus diariamente para ir ao estágio. Tem familiaridade com aplicativos móveis e depende do transporte público. |
+| **Objetivos** | Saber a posição dos ônibus em tempo real e a previsão de chegada no seu ponto, para otimizar seu tempo e evitar esperas desnecessárias. |
+| **Planejamento** | Ana abre o aplicativo "DF no Ponto", busca pela suas linhas e localiza o ponto onde embarcará. Verifica no mapa a posição dos veículos e confere a previsão de chegada para decidir o momento de sair de casa. |
+| **Ações** | 1. Abrir o aplicativo.
+2. Buscar pelas linhas de ônibus na barra de pesquisa.
+3. Selecionar as linhas desejadas.
+4. Visualizar no mapa onde os ônibus daquelas linhas estão.
+5. Clicar no ícone do ônibus mais próximo para ver a previsão de chegada no seu ponto. |
+| **Eventos** | O GPS do ônibus atualiza a posição no sistema; o servidor processa os dados e envia a localização para o app de Ana; o aplicativo mostra a previsão de chegada e, quando o ônibus estiver próximo, informa o tempo restante até a chegada. |
+| **Avaliação** | Ana considera a ação bem-sucedida quando o aplicativo exibe a localização atualizada de todas as linhas de ônibus desejada e uma previsão confiável de chegada. O resultado esperado é que ela saia de casa no momento certo, chegue ao ponto com pouca espera e embarque a tempo para o estágio. |
+
+---
+
+## Cenário 12 – Integração ônibus e metrô (Requisito não implementado)
+<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
+
+| **Elemento** | **Descrição** |
+| :-----------: | :------------ |
+| **Ambiente ou contexto** | Suianne utiliza diariamente ônibus e metrô para ir ao trabalho. Em alguns trechos do trajeto ela precisa transferir entre os dois modais e depende de informações precisas sobre a localização e previsão de chegada tanto dos ônibus quanto dos trens do metrô para sincronizar sua saída de casa e as conexões. |
+| **Atores** | Suianne, trabalhadora da área de vendas que combina ônibus e metrô em seu deslocamento casa→trabalho. Tem familiaridade com apps de mobilidade e valoriza informações de integração entre modais. |
+| **Objetivos** | Visualizar em um único mapa a localização em tempo real dos ônibus e do metrô, com previsões de chegada nas respectivas paradas/estações, para escolher a melhor sequência de embarques e reduzir o tempo de espera. |
+| **Planejamento** | Suianne abre o aplicativo DF no Ponto e seleciona as linhas de ônibus e a estação de metrô que fazem parte do seu trajeto. Ela ativa a visualização integrada para monitorar ambos os modais enquanto se aproxima do ponto de conexão. |
+| **Ações** | 1. Abrir o aplicativo.
+2. Selecionar a linha de ônibus e/ou estação de metrô desejada.
+3. Ativar a opção de "Rastrear múltiplos modais" (ônibus + metrô).
+4. Visualizar no mapa os ícones diferenciados para ônibus e trens e conferir as previsões de chegada.
+5. Decidir o momento de sair de casa ou de seguir para a estação com base nas previsões combinadas. |
+| **Eventos** | Os sistemas de GPS dos ônibus e os dados de sinalização do metrô atualizam as posições no sistema central. O servidor cruza as informações e exibe, no app de Suianne, as previsões de chegada e alertas de conexão. Caso haja atraso em um dos modais, o app sugere alternativas (aguardar próximo ônibus, trocar por outra estação/linha ou ajustar a rota). |
+| **Avaliação** | Suianne considera o recurso eficaz quando consegue sincronizar as conexões com confiança, reduzindo esperas e evitando perder o trem ou o ônibus de conexão. O sucesso é medido pela redução do tempo total de deslocamento e pelo aumento da previsibilidade das integrações. |
+
+---
 
 ## Responsáveis pela elaboração do artefato
 
 | Nome            | Responsabilidade              |
 |-----------------|-------------------------------|
 | **Cauã Nicolas** | - Elaboração e Validação dos cenários 7 e 8 |
+| **Daniel Nunes Duarte** | - Elaboração dos cenários 11 e 12 |
 | **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
 | **Gabriel Maciel** | - Elaboração e Validação dos cenários 3 e 4 |
 | **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
@@ -242,6 +280,7 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | 1.4 | 10/10/2025 | Adição dos cenários 7 e 8 | Cauã Nicolas | Gabriel Maciel |
 | 1.5 | 12/10/2025 | Adição dos vídeos de Validação com usuário dos Cenários 3 a 4 | Gabriel Maciel | João Ramos, Cauã Nicolas |
 | 1.6 | 12/10/2025 | Adição da Validação com usuário dos Cenários 9 a 10 | João Gabriel | João Ramos, Fernanda Vaz |
+| 1.7 | 12/10/2025 | Adição do Cenário 11 e Cenário 12; atualização de autores e validação | Daniel Nunes Duarte | --------- |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
