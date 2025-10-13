@@ -99,7 +99,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
 | **03:** Os léxicos do tipo "verbo" representa uma ação clara e objetiva realizada por um ator ou sistema? | Aprovado | Gabriel Maciel | 12/10/2025 21:00 |
- **Print** ![](../assets/imagens/checklist_3/print_3.png) **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**.
+ **Print** **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**.
  |
 
 ---
@@ -107,6 +107,21 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
 | **04:** Os léxicos do tipo "objeto" é utilizado ou alterado por alguma ação realizada no sistema? | Aprovado | Gabriel Maciel | 12/10/2025 21:00 |
+ **Print** ![](../assets/imagens/checklist_3/print_4.png) **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**. |
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** Os léxicos do tipo estado são decorrentes do impacto? | Aprovado | João Ramos | 12/10/2025 22:40 |
+ **Print**<a href="https://ibb.co/Lh8TNMRv"><img src="https://i.ibb.co/CszjPq8W/Captura-de-tela-de-2025-10-12-22-47-254.png" alt="Captura-de-tela-de-2025-10-12-22-47-254" border="0"><a>
+ **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**. |
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **06:** O léxico possui apenas um tipo(objeto, verbo ou estado)? | Aprovado | João Ramos | 12/10/2025 22:50 |
  **Print** ![](../assets/imagens/checklist_3/print_4.png) **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**. |
 
 ---
