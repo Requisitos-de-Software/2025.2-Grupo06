@@ -76,6 +76,19 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **10:** O ator descrito pelo cenário é derivado de informações de usuários reais (previamente obtidas no processo de desenvolvimento do perfil de usuário)? | Aprovado | Gabriel Maciel | 12/10/2025 21:00 |
  **Print** ![](../assets/imagens/checklist_3/6.png) <br> **Fonte**: **BARBOSA**, Simone Diniz Junqueira *et al.* _Interação Humano-Computador e Experiência do Usuário_. **Rio de Janeiro**: Autopublicação, **2021**. p. **135–190**. |
 
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **11:** O cenário é apresentado como uma narrativa concreta e rica em detalhes contextuais, descrevendo uma "história" sobre pessoas realizando uma atividade, em vez de ser uma lista abstrata de passos?| Aprovado | Daniel Nunes Duarte | 12/10/2025 21:45 |
+ **Print** ![](../assets/imagens/checklist_3/6.png) <br> **Fonte**: **BARBOSA**, Simone Diniz Junqueira *et al.* _Interação Humano-Computador e Experiência do Usuário_. **Rio de Janeiro**: Autopublicação, **2021**. p. **135–190**. |
+
+ ---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **12:**  O cenário demonstra ter sido detalhado e refinado para evitar ambiguidades ou omissões, por exemplo, através de técnicas de questionamento sistemático (perguntando "por quê?", "como?", etc.) para enriquecer a narrativa? | Aprovado | Daniel Nunes Duarte | 12/10/2025 21:45 |
+ **Print** ![](../assets/imagens/checklist_3/6.png) <br> **Fonte**: **BARBOSA**, Simone Diniz Junqueira *et al.* _Interação Humano-Computador e Experiência do Usuário_. **Rio de Janeiro**: Autopublicação, **2021**. p. **135–190**. |
 
 ## Lista de Verificação Léxicos
 
@@ -130,7 +143,21 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
  **Print**<a href="https://ibb.co/Lh8TNMRv"><img src="https://i.ibb.co/CszjPq8W/Captura-de-tela-de-2025-10-12-22-47-254.png" alt="Captura-de-tela-de-2025-10-12-22-47-254" border="0"><a>
  **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**. |
 
+---
+
  | **08:** Os léxico pussui uma noção? | Aprovado | João Ramos | 12/10/2025 22:40 |
+ **Print**<a href="https://ibb.co/VY5rzRHz"><img src="https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png" alt="Captura-de-tela-de-2025-10-12-22-50-233" border="0"></a>
+ **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**. |
+
+---
+
+ | **09:** Apresenta algum dos tipos de estados? | Aprovado | Daniel Nunes Duarte | 12/10/2025 22:45 |
+ **Print**<a href="https://ibb.co/VY5rzRHz"><img src="https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png" alt="Captura-de-tela-de-2025-10-12-22-50-233" border="0"></a>
+ **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**. |
+
+---
+
+ | **10:** Apresenta alguma das noções dos lexicos?  | Aprovado | Daniel Nunes Duarte | 12/10/2025 22:45 |
  **Print**<a href="https://ibb.co/VY5rzRHz"><img src="https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png" alt="Captura-de-tela-de-2025-10-12-22-50-233" border="0"></a>
  **Fonte**: **SERRANO**, Maurício; **SERRANO**, Milene. *Requisitos - Aula 10*. Material apresentado para a disciplina de **Requisitos de Software** no curso de **Engenharia de Software** da **UnB, FCTE**. |
 
@@ -222,7 +249,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------------|
 | **11:** O diagrama de casos de uso UML apresenta o fluxo básico das funcionalidades do sistema? | Aprovado | Gabriel Maciel | 12/10/2025 21:00 |
  **Print** ![](../assets/imagens/checklist_3/print_1.png) |
-
+O nome do sistema está representado?
 ---
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
@@ -247,6 +274,19 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 <a href="https://ibb.co/B56tppQg"><img src="https://i.ibb.co/B56tppQg/image.png" alt="image" border="0"></a>
 
 ---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **15:** O nome do sistema está representado? | Aprovado | Daniel Nunes Duarte | 12/10/2025 22:50 |
+**Print**
+<a href="https://ibb.co/B56tppQg"><img src="https://i.ibb.co/B56tppQg/image.png" alt="image" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **16:** Cada ator está interagindo com pelo menos um caso de uso? | Aprovado | Gabriel Maciel | 12/10/2025 22:53 |
+ **Print** ![](../assets/imagens/checklist_3/print_2.png) |
 
 
 ## Lista de Verificação Especificação Suplementar
@@ -326,10 +366,18 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **10:** Foram definidos critérios de Desempenho, como tempos de resposta para transações específicas ou a capacidade de usuários que o sistema deve suportar? | Aprovado | Daniel Nunes Duarte | 12/10/2025 21:00 |
+| **10:** Foram definidos critérios de Desempenho, como tempos de resposta para transações específicas ou a capacidade de usuários que o sistema deve suportar? | Aprovado | Daniel Nunes Duarte | 12/10/2025 21:10|
  **Print** ![](../assets/imagens/checklist_3/3.png) **Fonte:** **BRASIL**. **Ministério da Ciência, Tecnologia, Inovações e Comunicações**. **Secretaria-Executiva**. **Diretoria de Tecnologia da Informação**. **Coordenação Geral de Sistemas**. **Sigla do Projeto – Nome do Projeto: Especificação Suplementar**. Versão 1.0. Brasília: MCTIC, **[s.d.]**.|
 
 --- 
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **11:** As Interfaces foram detalhadas o suficiente para permitir o desenvolvimento e a verificação? | Aprovado | Daniel Nunes Duarte | 12/10/2025 21:10 |
+ **Print** ![](../assets/imagens/checklist_3/3.png) **Fonte:** **BRASIL**. **Ministério da Ciência, Tecnologia, Inovações e Comunicações**. **Secretaria-Executiva**. **Diretoria de Tecnologia da Informação**. **Coordenação Geral de Sistemas**. **Sigla do Projeto – Nome do Projeto: Especificação Suplementar**. Versão 1.0. Brasília: MCTIC, **[s.d.]**.|
+
+--- 
+
 
 
 # Lista de Verificação – Etapa 3  
@@ -385,5 +433,6 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ## Agradecimentos
 >Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
+
 
 
