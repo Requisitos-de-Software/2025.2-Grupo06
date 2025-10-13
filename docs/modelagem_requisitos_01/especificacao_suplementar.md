@@ -53,6 +53,21 @@ A confiabilidade expressa a capacidade do sistema de manter seu nível de desemp
 
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
+## Desempenho
+
+De acordo com o documento de Especificação Suplementar do Ministério da Ciência, Tecnologia, Inovações e Comunicações, o desempenho descreve a eficiência do sistema na execução de suas funções sob condições específicas. Inclui tempo de resposta, taxa de transferência, capacidade de atendimento, modos de operação degradada e uso de recursos, garantindo que o sistema mantenha sua performance conforme os requisitos definidos.
+
+### Desempenho (print da fonte)
+
+![Trecho de texto do documento de Especificação Suplementar](../assets/imagens/espec_sup/desempenho.png)
+
+| ID | Descrição | Autoria |
+|---|---|---|
+| RC01 | O tempo de atualização da localização do ônibus deve ser menor ou igual a 20 segundos.| Gabriel Maciel |
+
+**Tabela 3:** RD - Requisito de Desempenho
+
+
 ## Referências bibliográficas
 <a id="ref-mctic"></a>
 >BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações. *Processo de Software do MCTIC: Documento Descritivo*. Brasília, DF: MCTIC, 2014. Disponível em: <https://ps.mctic.gov.br/MCTI-PS/workproducts/resources/PS_DocumentoDescritivo.pdf>. Acesso em: 7 out. 2025.
@@ -66,6 +81,7 @@ A confiabilidade expressa a capacidade do sistema de manter seu nível de desemp
 |:------:|:-----------|:--------------------------------------------|:--------------|:----------------|
 | 1.0 | 08/10/2025 | Criação da estrutura inicial do documento. | GABRIEL MACIEL| FERNANDA VAZ |
 | 1.2 | 08/10/2025 | Adição de especificação suplementar inicial. | FERNANDA VAZ | GABRIEL MACIEL |
+| 1.3 | 12/10/2025 | Adição de especificação suplementar de desempenho | Gabriel Maciel | Fernanda Vaz |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
