@@ -324,6 +324,14 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 --- 
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **10:** Foram definidos critérios de Desempenho, como tempos de resposta para transações específicas ou a capacidade de usuários que o sistema deve suportar? | Aprovado | Daniel Nunes Duarte | 12/10/2025 21:00 |
+ **Print** ![](../assets/imagens/checklist_3/3.png) **Fonte:** **BRASIL**. **Ministério da Ciência, Tecnologia, Inovações e Comunicações**. **Secretaria-Executiva**. **Diretoria de Tecnologia da Informação**. **Coordenação Geral de Sistemas**. **Sigla do Projeto – Nome do Projeto: Especificação Suplementar**. Versão 1.0. Brasília: MCTIC, **[s.d.]**.|
+
+--- 
+
+
 # Lista de Verificação – Etapa 3  
 
 | Nº | Item de Verificação | Avaliação (Conforme / Não Conforme / Não aplicável / Sugestão de Melhoria) | Data e Hora | Avaliação do (Grupo / Grupo +1) | Avaliadores |
@@ -377,4 +385,5 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ## Agradecimentos
 >Os autores agradecem o auxílio da ferramenta de Inteligência Artificial Generativa (Google Gemini) no processo de revisão gramatical e estilística deste artigo. A tecnologia foi utilizada para aprimorar a clareza, a concisão e a legibilidade do texto, sendo que toda a responsabilidade pelo conteúdo final, precisão técnica e argumentação permanece integralmente dos autores.
+
 
