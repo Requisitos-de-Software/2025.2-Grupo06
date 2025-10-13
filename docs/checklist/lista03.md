@@ -49,6 +49,18 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
  **Print**
 <a href="https://ibb.co/8CgqnBD"><img src="https://i.ibb.co/8CgqnBD/image.png" alt="Cenário Item 4" border="0"></a>
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **09:** Os cenários possuem eventos(ações externas ou reações produzidas pelo computador ou outras características do ambiente)?[(9)](#ref-9) | Aprovado | João Ramos | 12/10/2025 22:32 |
+ **Print**
+<a href="https://ibb.co/pBFb31FK"><img src="https://i.ibb.co/W4JGcHJz/Captura-de-tela-de-2025-10-12-22-29-344.png" alt="Captura-de-tela-de-2025-10-12-22-29-344" border="0"></a>
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **10:** O cenário tem avaliação(atividade mental dirigida para interpretar a situação)?[(10)](#ref-9) | Aprovado | João Ramos | 12/10/2025 22:32 |
+ **Print**
+<a href="https://ibb.co/XfcRSBVS"><img src="https://i.ibb.co/CpRGhdWh/Captura-de-tela-de-2025-10-12-22-31-233.png" alt="Captura-de-tela-de-2025-10-12-22-31-233" border="0"></a>
+
 ---
 
 ## Lista de Verificação Léxicos
