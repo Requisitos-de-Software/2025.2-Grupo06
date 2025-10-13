@@ -35,6 +35,22 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** Os cenários descreve as ações e experiências dos atores?[(5)](#ref-2) | Aprovado | Cauã Nicolas | 10/10/2025 21:32 |
+ **Print**
+<a href="https://ibb.co/YFpb0Mr1"><img src="https://i.ibb.co/YFpb0Mr1/image.png" alt="Cenário Item 4" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **06:** Os cenários possui elemento do tipo ambiente ou contexto?[(6)](#ref-2) | Aprovado | Cauã Nicolas | 10/10/2025 21:32 |
+ **Print**
+<a href="https://ibb.co/8CgqnBD"><img src="https://i.ibb.co/8CgqnBD/image.png" alt="Cenário Item 4" border="0"></a>
+
+---
+
 ## Lista de Verificação Léxicos
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
