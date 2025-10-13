@@ -208,22 +208,22 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 
 ---
 
-## Cenário 11 – O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa. (Requisito não implementado)
+## Cenário 11 – Alertas de desvio e interrupção de rota (Requisito não implementado)
 <span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
-| **Ambiente ou contexto** | Ana está em casa se arrumando antes de sair para o estágio. Ela precisa sair no momento certo para não esperar tempo demais no ponto de ônibus e evitar atrasos. Ela usa o aplicativo para verificar a localização em tempo real do ônibus de suas possiveis linhas. |
-| **Atores** | Ana, estudante universitária que utiliza o ônibus diariamente para ir ao estágio. Tem familiaridade com aplicativos móveis e depende do transporte público. |
-| **Objetivos** | Saber a posição dos ônibus em tempo real e a previsão de chegada no seu ponto, para otimizar seu tempo e evitar esperas desnecessárias. |
-| **Planejamento** | Ana abre o aplicativo "DF no Ponto", busca pela suas linhas e localiza o ponto onde embarcará. Verifica no mapa a posição dos veículos e confere a previsão de chegada para decidir o momento de sair de casa. |
+| **Ambiente ou contexto** | Ana está em casa se arrumando antes de sair para o estágio. Em alguns dias ocorrem obras, desvios ou ocorrências que alteram o itinerário ou interrompem a circulação de determinada linha. Ana precisa saber, com antecedência, se sua linha sofrerá desvios, atrasos significativos ou cancelamentos para ajustar seu horário de saída e evitar perder a conexão. |
+| **Atores** | Ana, estudante universitária que utiliza ônibus diariamente para ir ao estágio. Possui familiaridade com apps móveis e depende de informações confiáveis sobre circulação e itinerário. |
+| **Objetivos** | Receber alertas em tempo real sobre desvios, interrupções ou mudanças de itinerário nas linhas de interesse, além de receber sugestões de rotas alternativas quando houver impacto no trajeto. |
+| **Planejamento** | Ana marca sua linha favorita e ativa a opção "Alertas de desvio/interrupção" nas configurações do aplicativo. Define um raio de notificações para o ponto onde costuma embarcar e opta por notificações por push e notificações na tela inicial. |
 | **Ações** | 1. Abrir o aplicativo.
-2. Buscar pelas linhas de ônibus na barra de pesquisa.
-3. Selecionar as linhas desejadas.
-4. Visualizar no mapa onde os ônibus daquelas linhas estão.
-5. Clicar no ícone do ônibus mais próximo para ver a previsão de chegada no seu ponto. |
-| **Eventos** | O GPS do ônibus atualiza a posição no sistema; o servidor processa os dados e envia a localização para o app de Ana; o aplicativo mostra a previsão de chegada e, quando o ônibus estiver próximo, informa o tempo restante até a chegada. |
-| **Avaliação** | Ana considera a ação bem-sucedida quando o aplicativo exibe a localização atualizada de todas as linhas de ônibus desejada e uma previsão confiável de chegada. O resultado esperado é que ela saia de casa no momento certo, chegue ao ponto com pouca espera e embarque a tempo para o estágio. |
+2. Selecionar a linha favorita e o ponto de embarque.
+3. Ativar "Alertas de desvio/interrupção" e configurar preferências de notificação.
+4. Receber notificação push quando o sistema detectar um desvio, interrupção ou cancelamento que afete a linha/ponto selecionado.
+5. Consultar as sugestões de rotas alternativas ou estimativas de atraso oferecidas pelo aplicativo e decidir o horário de saída de casa. |
+| **Eventos** | O sistema recebe sinalizações de operadores, sensores ou detecção por GPS de desvios no itinerário; registra interrupções e calcula impacto no tempo de chegada. Em seguida, dispara notificações aos usuários afetados, exibe a causa (obra, acidente, operação) e sugere rotas alternativas ou pontos de embarque diferentes. |
+| **Avaliação** | Ana considera a ação bem-sucedida quando recebe o alerta com antecedência suficiente para ajustar sua saída, visualiza alternativas viáveis e consegue embarcar sem grandes atrasos. O sucesso é medido pela redução do tempo de espera imprevisto e pela capacidade do usuário de escolher uma alternativa que minimize o impacto no deslocamento. |
 
 ---
 
