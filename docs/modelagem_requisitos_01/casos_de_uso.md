@@ -130,7 +130,7 @@ A Tabela 3 apresenta a especificação detalhada do caso de uso UC01, que permit
 | **Data da criação**  | 10/10/2025 |
 | **Rastreabilidade**  | Relacionado com: <br>Consulta de Horários e Rotas<br> Notificações de Chegada<br> Avaliação de linhas<br> Usabilidade da interface |
 
-*Autoria: Daniel Nunes Duarte, 2025*
+*Autoria: Fernanda Vaz, 2025*
 
 A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define o sistema de notificações automáticas para informar os passageiros sobre a chegada iminente dos ônibus.
 

@@ -129,6 +129,23 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **04:** Foram especificados os requisitos de confiabilidade(como disponibilidade, tempo médio de falhas, tempo médio de reparo, exatidão, taxa máxima de erros ou defeitos e taxa de erros ou defeitos)?[(4)](#ref-8) | Aprovado | João Ramos | 12/10/2025 21:37 |
+ **Print**
+<a href="https://ibb.co/jkQPLLdW"><img src="https://i.ibb.co/F4yLBB90/Captura-de-tela-de-2025-10-12-21-41-399.png" alt="Captura-de-tela-de-2025-10-12-21-41-399" border="0"></a>
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **05:** Foram especificados os requisitos de suportabilidade ou manutenibilidade do sistema?[(5)](#ref-8) | Aprovado | João Ramos | 12/10/2025 21:38 |
+ **Print**
+<a href="https://ibb.co/n8n9WfDz"><img src="https://i.ibb.co/YTymr8tp/Captura-de-tela-de-2025-10-12-21-44-277.png" alt="Captura-de-tela-de-2025-10-12-21-44-277" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'>enviar imagens para fórum</a><br />
+
+---
+
+
 # Lista de Verificação – Etapa 3  
 
 | Nº | Item de Verificação | Avaliação (Conforme / Não Conforme / Não aplicável / Sugestão de Melhoria) | Data e Hora | Avaliação do (Grupo / Grupo +1) | Avaliadores |
