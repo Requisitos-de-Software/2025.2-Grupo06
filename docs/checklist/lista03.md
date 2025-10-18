@@ -311,6 +311,7 @@ O nome do sistema está representado?
 |:-----|:----------|:--------------|:-------------------|
 | **03:** A introdução fornece uma visão geral do documento, incluindo finalidade, escopo, definições, acrônimos, abreviações, referências e visão geral da Especificação Suplementar?[(3)](#ref-7) | Aprovado | João Gabriel | 10/10/2025 17:32 |
  **Print**
+ 
  <a href="https://ibb.co/0V9pjgFc"><img src="https://i.ibb.co/0V9pjgFc/image.png" alt="Especificação Item 3" border="0"></a>
 
 ---
