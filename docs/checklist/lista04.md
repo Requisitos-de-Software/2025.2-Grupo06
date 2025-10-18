@@ -57,3 +57,10 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 > **PRESSMAN, R. S.** ***Engenharia de software: uma abordagem profissional***. 7. ed. Porto Alegre: AMGH, 2011.
 
 > LUIZTOOLS. **Product Backlog – Introdução**. YouTube, 5 out. 2020. Disponível em: [YouTube](https://www.youtube.com/watch?v=z4ubaBwjCsU)
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                          | Autor(es)                | Revisor(es) |
+|--------|------------|------------------------------------|--------------------------|-------------|
+| 1.0    | 18/10/2025 | Criação da lista de verificação | Cauã Nicolas | Gabriel Maciel |
+| 1.1 | 18/10/2025 | Adição de itens 1 e 2 das Listas de Verificação: NFR Framework, Histórias de Usuário e Backlog | Gabriel Maciel | Cauã Nicolas |
