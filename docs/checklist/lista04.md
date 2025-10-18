@@ -22,23 +22,38 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **02:** As histórias de usuário são escritas pelos clientes do software? | A avaliar | Gabriel Maciel | 18/10/2025 17:16 |
+| **01:** As histórias de usuário são escritas pelos clientes do software? | A avaliar | Gabriel Maciel | 18/10/2025 17:40 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_4/print_historia_1.png)
 **Fonte:** **PRESSMAN, R. S.** ***Engenharia de software: uma abordagem profissional***. 7. ed. Porto Alegre: AMGH, 2011.
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------------|
-| **02:** O cliente atribuiu valor (uma prioridade) à história de usuário, levando em consideração o retorno que este recurso ou função trará para o negócio global? | A avaliar | Gabriel Maciel | 18/10/2025 17:16 |
+| **02:** O cliente atribuiu valor (uma prioridade) à história de usuário, levando em consideração o retorno que este recurso ou função trará para o negócio global? | A avaliar | Gabriel Maciel | 18/10/2025 17:43 |
 
 ![Fonte do Item 2](../assets/imagens/checklist_4/print_historia_2.png)
 **Fonte:** **PRESSMAN, R. S.** ***Engenharia de software: uma abordagem profissional***. 7. ed. Porto Alegre: AMGH, 2011.
 
-
 ## Lista de Verificação: Backlog
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **01:** O Backlog (Registro pendente de trabalhos) é uma lista que contém a priorização (baseada em retorno que o requisito/funcionalidade trará ao cliente e ao negócio) dos requisitos ou funcionalidades do projeto? | A avaliar | Gabriel Maciel | 18/10/2025 17:58 |
+
+![Fonte do Item 1](../assets/imagens/checklist_4/print_backlog_1.png)
+**Fonte:** **PRESSMAN, R. S.** ***Engenharia de software: uma abordagem profissional***. 7. ed. Porto Alegre: AMGH, 2011.
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------------|
+| **02:** Os itens do Backlog estão descritos de forma detalhada, conforme o princípio "Detailed" da técnica DEEP? | A avaliar | Gabriel Maciel | 18/10/2025 18:12 |
+
+![Fonte do Item 2](../assets/imagens/checklist_4/print_backlog_2.png)
+**Fonte:** LUIZTOOLS. **Product Backlog – Introdução**. YouTube, 5 out. 2020. (Entre 1:33 até 2:30)
 
 ## Referência Bibliográfica
 
 > **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 > **PRESSMAN, R. S.** ***Engenharia de software: uma abordagem profissional***. 7. ed. Porto Alegre: AMGH, 2011.
+
+> LUIZTOOLS. **Product Backlog – Introdução**. YouTube, 5 out. 2020. Disponível em: [YouTube](https://www.youtube.com/watch?v=z4ubaBwjCsU)
