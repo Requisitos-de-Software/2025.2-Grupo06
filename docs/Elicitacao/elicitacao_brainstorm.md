@@ -87,7 +87,7 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | 1.5    | 30/09/2025 | Adiciona vídeo do Brainstorming | Gabriel Maciel | João Gabriel |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Fernanda Vaz |
 | 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Gabriel |
-| 2.2    | 08/10/2025 | Adiciona novos requisitos não elicitados anteriormente  | Gabriel Maciel  | João Gabriel |
+| 2.2    | 18/10/2025 | Adiciona novos requisitos não elicitados anteriormente  | Gabriel Maciel  | João Gabriel |
 
 ## Bibliografia
 
