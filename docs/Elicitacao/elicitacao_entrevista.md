@@ -193,6 +193,15 @@ A partir da análise das respostas coletadas nas entrevistas, foram identificado
 | ENT11 | O sistema permite que os usuários avaliem e visualizem o nível de lotação do ônibus. | RF |
 | ENT12 | O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa. | RF |
 | ENT13 | O rastreamento dos ônibus em tempo real deve ser confiável e sem falhas. | RNF |
+| ENT14 | O aplicativo permite salvar linhas e rotas favoritas para acesso rápido. | RF |
+| ENT15 | O sistema envia notificações personalizadas com base nas rotas favoritas do usuário. | RF |
+| ENT16 | O aplicativo disponibiliza informações sobre acessibilidade dos veículos (ex.: elevadores, espaço para cadeirantes). | RF |
+| ENT17 | O sistema deve garantir tempo de resposta inferior a 3 segundos para consultas de rotas. | RNF |
+| ENT18 | O aplicativo deve funcionar em modo offline para exibir rotas e horários previamente consultados. | RNF |
+| ENT19 | O sistema deve ser compatível com múltiplas plataformas (Android, iOS e Web). | RNF |
+| ENT20 | O aplicativo permite que os usuários reportem problemas (ex.: ônibus lotado, falha no ar-condicionado). | RF |
+| ENT21 | O sistema deve proteger os dados pessoais dos usuários em conformidade com a LGPD. | RNF |
+| ENT22 | O aplicativo oferece suporte multilíngue (português e inglês, no mínimo). | RF |
 
 *Tabela 5: Requisitos identificados através da técnica de Entrevista (Fonte: OLIVEIRA; RAMOS, 2025)*
 
@@ -220,6 +229,7 @@ A partir da análise das respostas coletadas nas entrevistas, foram identificado
 | 1.4    | 30/09/2025 | Adiciona vídeo da entrevista | Gabriel Maciel | João Ramos |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Fernanda Vaz |
 | 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Ramos |
+| 2.2    | 18/10/2025 | Adiciona novos requisitos não elicitados anteriormente  | Gabriel Maciel  | João Gabriel |
 
 ## Bibliografia
 

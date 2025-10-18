@@ -41,18 +41,26 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 - Gamificação para incentivar o uso do transporte público
 - Sistema de feedback colaborativo sobre as condições do serviço
 
-### Requisitos Identificados
+| Identificador | Requisito                                                                 | Tipo | Origem      |
+|---------------|---------------------------------------------------------------------------|------|-------------|
+| BRS01 | Sistema de gamificação para incentivar uso frequente do transporte público | RF   | Brainstorm  |
+| BRS02 | Previsão inteligente de horários baseada em machine learning | RF   | Brainstorm  |
+| BRS03 | Sistema colaborativo de feedback sobre qualidade do serviço | RF   | Brainstorm  |
+| BRS04 | Integração multimodal (ônibus, metrô, bike sharing) | RF   | Brainstorm  |
+| BRS05 | Alertas personalizáveis baseados no perfil do usuário | RF   | Brainstorm  |
+| BRS06 | Modo offline com funcionalidades básicas | RF   | Brainstorm  |
+| BRS07 | Análise preditiva de demanda e ocupação | RF   | Brainstorm  |
+| BRS08 | Interface adaptável para diferentes tipos de usuário | RNF  | Brainstorm  |
+| BRS09 | Sistema de recompensas por uso sustentável (ex.: pontos por evitar carro particular) | RF   | Brainstorm  |
+| BRS10 | Integração com meios de pagamento digitais (Pix, carteiras virtuais) | RF   | Brainstorm  |
+| BRS11 | Relatórios de impacto ambiental (CO₂ economizado pelo uso do transporte público) | RF   | Brainstorm  |
+| BRS12 | Notificações em tempo real sobre eventos que afetam o transporte (acidentes, obras) | RF   | Brainstorm  |
+| BRS13 | Personalização da interface com base em preferências do usuário (tema, acessibilidade) | RNF  | Brainstorm  |
+| BRS14 | Suporte a comandos de voz para facilitar interação durante deslocamentos | RF   | Brainstorm  |
+| BRS15 | Garantia de escalabilidade para suportar grande volume de usuários simultâneos | RNF  | Brainstorm  |
+| BRS16 | Integração com assistentes virtuais (ex.: Alexa, Google Assistant) | RF   | Brainstorm  |
+| BRS17 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)  | RNF | Brainstorm
 
-| Identificador | Requisito                                                                 | Tipo | Origem |
-|---------------|---------------------------------------------------------------------------|------|--------|
-| BRS01 | Sistema de gamificação para incentivar uso frequente do transporte público | RF | Brainstorm |
-| BRS02 | Previsão inteligente de horários baseada em machine learning | RF | Brainstorm |
-| BRS03 | Sistema colaborativo de feedback sobre qualidade do serviço | RF | Brainstorm |
-| BRS04 | Integração multimodal (ônibus, metrô, bike sharing) | RF | Brainstorm |
-| BRS05 | Alertas personalizáveis baseados no perfil do usuário | RF | Brainstorm |
-| BRS06 | Modo offline com funcionalidades básicas | RF | Brainstorm |
-| BRS07 | Análise preditiva de demanda e ocupação | RF | Brainstorm |
-| BRS08 | Interface adaptável para diferentes tipos de usuário | RNF | Brainstorm |
 
 *Tabela 1: Requisitos identificados através da técnica de Brainstorm*
 
@@ -79,6 +87,7 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | 1.5    | 30/09/2025 | Adiciona vídeo do Brainstorming | Gabriel Maciel | João Gabriel |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Fernanda Vaz |
 | 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Gabriel |
+| 2.2    | 08/10/2025 | Adiciona novos requisitos não elicitados anteriormente  | Gabriel Maciel  | João Gabriel |
 
 ## Bibliografia
 
