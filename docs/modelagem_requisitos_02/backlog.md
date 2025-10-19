@@ -92,7 +92,8 @@ Tem como objetivo permitir que usuários avaliem e contribuam para a melhoria co
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-------|:-----|:-----------|:------------|:-------------|
-| 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | |
+| 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
+| 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | |
 
 ## Agradecimentos
 
