@@ -153,7 +153,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **06:** No processo da Sprint Planning Meeting, o Product Owner está priorizando os itens do Product Backlog?  | A avaliar | Cauã Nicolas | 19/10/2025 19:45 |
 
-![Fonte do Item 5](https://i.ibb.co/bRKS7vKs/image.png)  
+![Fonte do Item 6](https://i.ibb.co/bRKS7vKs/image.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
 
 ---
