@@ -198,7 +198,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 |:------:|:----:|:----------|:----------|:------------|
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia e Histórias de Usuário de US01 até US04 | Gabriel Maciel | Fernanda Vaz |
-| 1.2 | 19/10 | Adição de Metodologia e Histórias de Usuário de US09 até US12 | Cauã Nicolas | Gabriel Maciel |
+| 1.2 | 19/10 | Adição de Histórias de Usuário de US09 até US12 | Cauã Nicolas | Gabriel Maciel |
 
 ---
 
