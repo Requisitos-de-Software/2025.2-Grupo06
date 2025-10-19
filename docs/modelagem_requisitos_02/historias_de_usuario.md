@@ -82,7 +82,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-tabel
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-------|:-----|:-----------|:------------|:-------------|
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
-| 1.0 | 18/10 | Adição de Metodologia e Histórias de Usuário de US01 até US04 | Fernanda Vaz | Gabriel Maciel |
+| 1.1 | 19/10 | Adição de Metodologia e Histórias de Usuário de US01 até US04 | Gabriel Maciel | Fernanda Vaz |
 
 ## Agradecimentos
 
