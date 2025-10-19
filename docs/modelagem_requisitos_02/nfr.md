@@ -56,7 +56,15 @@ Segundo  Reinaldo Antônio <sup>[1](#ref-1)</sup> o "Softgoal Interdependency Gr
 
 ## Metodologia
 
-## Usabilidade 
+
+## SIG Usabilidade 
+
+
+
+*Autoria: Fernanda Vaz, 2025.*
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/929a11a2-17f7-4526-93f0-3c97ddc4d236" id="Yya1dj9snOkD"></iframe></div>
+
 
 ## Referência bibliográfica 
 
