@@ -2,6 +2,11 @@ site_name: DF No Ponto
 docs_dir: ./docs
 markdown_extensions:
   - attr_list
+  - admonition           # ADICIONE ESTA LINHA
+  - pymdownx.details     # ADICIONE ESTA LINHA
+  - pymdownx.superfences # ADICIONE ESTA LINHA
+  - tables               # ADICIONE ESTA LINHA
+
 plugins:
   - search
   # - pdf-export
