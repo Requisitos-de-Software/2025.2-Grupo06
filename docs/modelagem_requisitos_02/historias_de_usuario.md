@@ -128,7 +128,6 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
-
 ### US09 - Oferecer recarga de cartão de transporte
 
 *Autoria: Cauã Nicolas, 2025.*
@@ -152,6 +151,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Descrição:** | Como **usuário do transporte público**, eu quero **visualizar o saldo e realizar recargas do meu cartão de transporte no aplicativo**, para que **eu possa acompanhar meu consumo e manter o cartão sempre carregado**. |
 | **Critérios de Aceitação:** | - O sistema deve permitir o login com o número do cartão de transporte.<br>- O aplicativo deve exibir o saldo atualizado em tempo real.<br>- O sistema deve informar o histórico das últimas recargas.<br>- O saldo deve ser atualizado após cada transação.<br>- A integração deve ser segura e validada pela API oficial. |
 | **Prioridade:** | Média |
+
 --- 
 
 ### US11 - Visualizar histórico de viagens
@@ -164,6 +164,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Descrição:** | Como **passageiro**, eu quero **visualizar meu histórico de viagens realizadas**, para que **eu possa acompanhar meus trajetos, horários e valores gastos**. |
 | **Critérios de Aceitação:** | - O sistema deve armazenar data, hora, linha e valor da viagem.<br>- O histórico deve exibir as viagens em ordem cronológica.<br>- O usuário deve poder filtrar por data ou linha.<br>- O histórico deve ser persistente mesmo após sair da conta.<br>- O sistema deve permitir exportar o histórico em formato PDF/CSV. |
 | **Prioridade:** | Média |
+
 --- 
 
 ### US12 - Reportar problemas de viagem
@@ -177,7 +178,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Critérios de Aceitação:** | - O sistema deve permitir selecionar o tipo de problema (motorista, ônibus, cobrança etc.).<br>- O aplicativo deve preencher automaticamente o número do veículo e horário da viagem recente.<br>- O usuário deve poder descrever o problema em campo de texto.<br>- O sistema deve enviar a reclamação para a empresa operadora correta.<br>- O usuário deve receber confirmação de envio e status do problema. |
 | **Prioridade:** | Baixa |
 
-
+---
 
 
 ## Referências Bibliográficas
