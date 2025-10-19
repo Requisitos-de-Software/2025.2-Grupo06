@@ -40,6 +40,24 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **05:** O Framework está usando métodos analíticos para auxiliar na decisão dos status dos softgoals? | A avaliar | Cauã Nicolas | 19/10/2025 19:10 |
+
+![Fonte do Item 4](https://i.ibb.co/Gft9LCGV/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **06:** Os softgoals e seus correlacionados estão sendo representados em um grafo?  | A avaliar | Cauã Nicolas | 19/10/2025 19:12 |
+
+![Fonte do Item 4](https://i.ibb.co/0yKnnpT2/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
 ## Lista de Verificação: Histórias de Usuário
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
