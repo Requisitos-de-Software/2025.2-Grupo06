@@ -160,16 +160,16 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ## Referências Bibliográficas
 
-<a id="ref-1"></a>  
+><a id="ref-1"></a>  
 ¹ **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.  
 
-<a id="ref-2"></a>  
+><a id="ref-2"></a>  
 ² **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.  
 
-<a id="ref-3"></a>  
+><a id="ref-3"></a>  
 ³ **LUIZTOOLS.** *Product Backlog – Introdução*. YouTube, 5 out. 2020. Disponível em: [https://www.youtube.com/watch?v=z4ubaBwjCsU](https://www.youtube.com/watch?v=z4ubaBwjCsU).  
 
-<a id="ref-4"></a>  
+><a id="ref-4"></a>  
 ⁴ **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
 
 ---

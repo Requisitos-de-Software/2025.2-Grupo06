@@ -4,14 +4,66 @@ O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem utili
 ---
 
 ###### Print da Referência 
-
+<p align="center">
 <a href="https://ibb.co/HLCpRH1X"><img src="https://i.ibb.co/qLCFhrXx/image.png" alt="image" border="0"></a>
+ <b>Figura 01 – </b>NFR Framework
+ </p>
+
+## Softgoal Interdependency Graph
+Segundo  Reinaldo Antônio <sup>[1](#ref-1)</sup> o "Softgoal Interdependency Graph" (SIG) é um gráfico que registra as análises do desenvolvedor sobre os softgoals (objetivos não-funcionais) e mostra como eles dependem uns dos outros. Essencialmente, os SIGs armazenam todo o histórico das decisões de desenvolvimento e a lógica do projeto de forma visual e resumida.
+
+
+#### Tipos de Softgoal
+
+
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/h1L3Knr7/image.png" alt="Diagrama do Sistema" width="400">
+ </a>
+  <br>
+  <b>Figura 02 – </b>Tipos de Softgoal
+</p>
+
+
+####  Tipos de decomposições
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/KjWPS9NR/image.png" alt="Diagrama do Sistema" width="600"> 
+ </a>
+  <br>
+  <b>Figura 03 – </b> Tipos de decomposições
+</p>
+
+
+#### Contribuições
+
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/JFyhVHhL/image.png" alt="Diagrama do Sistema" width="600"> 
+ </a>
+  <br>
+  <b>Figura 04 – </b> Exemplos de contribuições "AND" e "OR"
+</p>
+
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/bR8NhdgJ/image.png" alt="Diagrama do Sistema" width="600"> 
+ </a>
+  <br>
+  <b>Figura 05 – </b>Exemplos de contribuições ” MAKE", ”BREAK ", ”HELP" e ”HURT"
+</p>
+
+
+## Metodologia
+
+## Usabilidade 
 
 ## Referência bibliográfica 
 
 <a id="ref-1"></a>
 
 > <sup>1.</sup> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife: Universidade Federal de Pernambuco, 2019.
+
 
 ## Histórico de Versões
 
