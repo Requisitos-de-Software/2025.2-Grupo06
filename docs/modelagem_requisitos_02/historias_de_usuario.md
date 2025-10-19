@@ -128,6 +128,58 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
+
+### US09 - Oferecer recarga de cartão de transporte
+
+*Autoria: Cauã Nicolas, 2025.*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF13** - Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) |
+| **Descrição:** | Como **usuário do transporte público**, eu quero **realizar recargas do meu cartão de transporte diretamente pelo aplicativo**, para que **eu possa evitar filas e ter mais praticidade na recarga**. |
+| **Critérios de Aceitação:** | - O sistema deve permitir escolher o valor da recarga.<br>- O usuário deve poder pagar com cartão, PIX ou outros meios disponíveis.<br>- O aplicativo deve exibir a confirmação da recarga.<br>- O saldo deve ser atualizado após a confirmação do pagamento.<br>- O sistema deve integrar-se à API do BRB Mobilidade (ou equivalente). |
+| **Prioridade:** | Média |
+
+---
+
+### US10 - Permitir integração com o cartão de transporte
+
+*Autoria: Cauã Nicolas, 2025.*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF14** - Permitir integração com o cartão de transporte, incluindo saldo e recarga |
+| **Descrição:** | Como **usuário do transporte público**, eu quero **visualizar o saldo e realizar recargas do meu cartão de transporte no aplicativo**, para que **eu possa acompanhar meu consumo e manter o cartão sempre carregado**. |
+| **Critérios de Aceitação:** | - O sistema deve permitir o login com o número do cartão de transporte.<br>- O aplicativo deve exibir o saldo atualizado em tempo real.<br>- O sistema deve informar o histórico das últimas recargas.<br>- O saldo deve ser atualizado após cada transação.<br>- A integração deve ser segura e validada pela API oficial. |
+| **Prioridade:** | Média |
+--- 
+
+### US11 - Visualizar histórico de viagens
+
+*Autoria: Cauã Nicolas, 2025.*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF15** - Manter histórico de viagens do usuário |
+| **Descrição:** | Como **passageiro**, eu quero **visualizar meu histórico de viagens realizadas**, para que **eu possa acompanhar meus trajetos, horários e valores gastos**. |
+| **Critérios de Aceitação:** | - O sistema deve armazenar data, hora, linha e valor da viagem.<br>- O histórico deve exibir as viagens em ordem cronológica.<br>- O usuário deve poder filtrar por data ou linha.<br>- O histórico deve ser persistente mesmo após sair da conta.<br>- O sistema deve permitir exportar o histórico em formato PDF/CSV. |
+| **Prioridade:** | Média |
+--- 
+
+### US12 - Reportar problemas de viagem
+
+*Autoria: Cauã Nicolas, 2025.*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF16** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário |
+| **Descrição:** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. |
+| **Critérios de Aceitação:** | - O sistema deve permitir selecionar o tipo de problema (motorista, ônibus, cobrança etc.).<br>- O aplicativo deve preencher automaticamente o número do veículo e horário da viagem recente.<br>- O usuário deve poder descrever o problema em campo de texto.<br>- O sistema deve enviar a reclamação para a empresa operadora correta.<br>- O usuário deve receber confirmação de envio e status do problema. |
+| **Prioridade:** | Baixa |
+
+
+
+
 ## Referências Bibliográficas
 
 <a id="ref-1"></a>
@@ -146,6 +198,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 |:------:|:----:|:----------|:----------|:------------|
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia e Histórias de Usuário de US01 até US04 | Gabriel Maciel | Fernanda Vaz |
+| 1.2 | 19/10 | Adição de Metodologia e Histórias de Usuário de US09 até US12 | Cauã Nicolas | Gabriel Maciel |
 
 ---
 
