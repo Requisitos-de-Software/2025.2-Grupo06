@@ -140,6 +140,24 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **05:** O Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários? | A avaliar | Cauã Nicolas | 19/10/2025 19:45 |
+
+![Fonte do Item 5](https://i.ibb.co/BVzsn0dv/image.png)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **06:** No processo da Sprint Planning Meeting, o Product Owner está priorizando os itens do Product Backlog?  | A avaliar | Cauã Nicolas | 19/10/2025 19:45 |
+
+![Fonte do Item 5](https://i.ibb.co/bRKS7vKs/image.png)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
+
+---
+
 ## Referências Bibliográficas
 
 <a id="ref-1"></a>  
@@ -163,3 +181,4 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.0 | 18/10/2025 | Criação da lista de verificação | Cauã Nicolas | Gabriel Maciel |
 | 1.1 | 18/10/2025 | Adição de itens 1 e 2 das Listas de Verificação: NFR Framework, Histórias de Usuário e Backlog | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 18/10/2025 | Adição de novos artefatos (itens 3 e 4) nas Listas de Verificação | Fernanda Vaz | Gabriel Maciel |
+| 1.3 | 19/10/2025 | Adição de novos artefatos (itens 5 e 6) nas Listas de Verificação | Cauã Nicolas | Gabriel Maciel |
