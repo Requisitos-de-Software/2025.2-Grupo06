@@ -44,7 +44,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **05:** O Framework está usando métodos analíticos para auxiliar na decisão dos status dos softgoals? | A avaliar | Cauã Nicolas | 19/10/2025 19:10 |
 
-![Fonte do Item 4](https://i.ibb.co/Gft9LCGV/image.png)  
+![Fonte do Item 5](https://i.ibb.co/Gft9LCGV/image.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -53,7 +53,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **06:** Os softgoals e seus correlacionados estão sendo representados em um grafo?  | A avaliar | Cauã Nicolas | 19/10/2025 19:12 |
 
-![Fonte do Item 4](https://i.ibb.co/0yKnnpT2/image.png)  
+![Fonte do Item 6](https://i.ibb.co/0yKnnpT2/image.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -86,6 +86,24 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **04:** Clientes e desenvolvedores trabalham juntos para decidir como agrupar histórias para a versão seguinte? | A avaliar | Fernanda Vaz | 18/10/2025 19:00 |
 
 ![Fonte do Item 4](https://i.ibb.co/0WRXV3r/image.png)  
+**Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **05:** As histórias de usuário estão descrevendo o resultado para o software ser construído?  | A avaliar | Cauã Nicolas | 19/10/2025 19:30 |
+
+![Fonte do Item 5](https://i.ibb.co/hR2qmvDT/image.png)  
+**Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **06:** Em casos de histórias que requer um maior tempo de preparo, está sendo proposto ao cliente para que a história seja dividida em partes menores (histórias menores)?  | A avaliar | Cauã Nicolas | 19/10/2025 19:30 |
+
+![Fonte do Item 6](https://i.ibb.co/ZqNDzQG/image.png)  
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.
 
 ---
