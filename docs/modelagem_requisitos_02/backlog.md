@@ -50,33 +50,33 @@ A priorização das histórias dentro de cada épico foi realizada considerando 
 
 Tem como objetivo permitir que passageiros acompanhem a localização e status dos ônibus em tempo real.
 
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) |
-| -- | ------------------- | ---------- | ------------------------ |
-| **US04** | Como **passageiro que precisa escolher entre várias opções de transporte**, eu quero **rastrear múltiplas linhas de ônibus simultaneamente no mapa**, para que **eu possa visualizar e comparar diferentes opções em tempo real e escolher a melhor alternativa para meu deslocamento**. | Alta | **RF35/ENT12** - Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa |
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US04** | Como **passageiro que precisa escolher entre várias opções de transporte**, eu quero **rastrear múltiplas linhas de ônibus simultaneamente no mapa**, para que **eu possa visualizar e comparar diferentes opções em tempo real e escolher a melhor alternativa para meu deslocamento**. | Alta | **RF35/ENT12** - Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | Gabriel Maciel |
 
 ### Épico 2: Filtragem
 
 Tem como objetivo facilitar a localização de linhas, rotas e opções de transporte específicas.
 
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) |
-| -- | ------------------- | ---------- | ------------------------ |
-| **US01** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. | Média | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora |
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US01** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. | Média | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora | Gabriel Maciel |
 
 ### Épico 3: Acessibilidade
 
 Tem como objetivo garantir que o sistema atenda às necessidades de todos os usuários, especialmente aqueles com necessidades especiais.
 
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) |
-| -- | ------------------- | ---------- | ------------------------ |
-| **US02** | Como **passageiro aguardando no ponto de ônibus**, eu quero **acessar uma versão web leve do aplicativo através de QR Code**, para que **eu possa consultar informações sobre linhas e horários rapidamente sem precisar instalar o aplicativo completo no meu dispositivo**. | Média | **RF19/BRS17** - Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) |
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US02** | Como **passageiro aguardando no ponto de ônibus**, eu quero **acessar uma versão web leve do aplicativo através de QR Code**, para que **eu possa consultar informações sobre linhas e horários rapidamente sem precisar instalar o aplicativo completo no meu dispositivo**. | Média | **RF19/BRS17** - Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | Gabriel Maciel |
 
 ### Épico 4: Avaliação
 
 Tem como objetivo permitir que usuários avaliem e contribuam para a melhoria contínua do serviço de transporte público.
 
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) |
-| -- | ------------------- | ---------- | ------------------------ |
-| **US03** | Como **passageiro regular do transporte público**, eu quero **avaliar a qualidade do serviço de cada linha de ônibus que utilizo**, para que **eu possa compartilhar minha experiência e contribuir para a melhoria do serviço, além de ajudar outros passageiros a escolherem as melhores opções**. | Baixa | **RF28/RNI04** - Permitir avaliação da qualidade do serviço de cada linha |
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US03** | Como **passageiro regular do transporte público**, eu quero **avaliar a qualidade do serviço de cada linha de ônibus que utilizo**, para que **eu possa compartilhar minha experiência e contribuir para a melhoria do serviço, além de ajudar outros passageiros a escolherem as melhores opções**. | Baixa | **RF28/RNI04** - Permitir avaliação da qualidade do serviço de cada linha | Gabriel Maciel |
 
 ## Referência bibliográfica
 
