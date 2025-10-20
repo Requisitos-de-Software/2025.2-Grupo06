@@ -124,14 +124,71 @@ O **NFR Framework** permite a utilização de diversos tipos de contribuições 
   <b>Figura 05 – </b>Exemplos de contribuições ” MAKE", ”BREAK ", ”HELP" e ”HURT"
 </p>
 
-## SIG Usabilidade 
+## SIG Acessibilidade
 
 *Autoria: Fernanda Vaz, 2025.*
+
+Os softgoals de acessibilidade foram extraídos dos Requisitos de Acessibilidade definidos na Especificação Suplementar. O diagrama completo deste SIG pode ser visualizado na Figura 06.
 
 <p align="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/929a11a2-17f7-4526-93f0-3c97ddc4d236" id="Yya1dj9snOkD"></iframe>
  <b>Figura 06 – </b> diagrama usabilidade</div>
 </p>
+
+### Especificação dos softgoals do SIG Acessibilidade
+
+#### Softgoals NFR de Acessibilidade
+
+A **Tabela 01** lista os softgoals NFR principais.
+
+| ID | Softgoal | Descrição |
+|---|---|---|
+| SIG-A01 | Usabilidade | Objetivo geral de garantir que o sistema seja acessível e utilizável por todos os usuários, incluindo aqueles com necessidades especiais. |
+| SIG-A02 | Facilidade de Uso | Garantir que a interface seja intuitiva e fácil de usar para todos os perfis de usuários. |
+| SIG-A03 | Acessibilidade | Tornar o sistema acessível para pessoas com deficiências visuais, auditivas, motoras e cognitivas. |
+| SIG-A04 | Satisfação do Usuário | Proporcionar uma experiência positiva e satisfatória aos usuários do sistema. |
+
+**Tabela 01** - Tabela de Especificação de Softgoals NFR do SIG Acessibilidade
+
+#### Softgoals de Operacionalização de Acessibilidade
+
+A **Tabela 02** detalha as softgoals de operacionalizações propostas.
+
+| ID | Operacionalização | Softgoal Pai | Descrição |
+|---|---|---|---|
+| OP-A01 | Usar cores de alto contraste | SIG-A02 | Implementar esquema de cores com alto contraste para facilitar a leitura e visualização. |
+| OP-A02 | Interface intuitiva | SIG-A02 | Desenvolver interface com navegação clara, ícones reconhecíveis e organização lógica. |
+| OP-A03 | Ler com os recursos nativos do celular | SIG-A03 | Garantir compatibilidade com leitores de tela nativos (TalkBack, VoiceOver). |
+| OP-A04 | Alto contraste | SIG-A03 | Oferecer modo de alto contraste para usuários com deficiência visual. |
+| OP-A05 | Promover útil e eficiente | SIG-A04 | Desenvolver funcionalidades que realmente atendam às necessidades dos usuários de forma eficiente. |
+| OP-A06 | Alcançar satisfação | SIG-A04 | Implementar feedback do usuário e melhorias contínuas baseadas nas avaliações. |
+
+**Tabela 02** - Tabela de Especificação de Softgoals de Operacionalização do SIG Acessibilidade
+
+#### Softgoals de Afirmação de Acessibilidade
+
+A **Tabela 03** especifica os softgoals de afirmação.
+
+| ID | Afirmação | Softgoal Pai | Descrição |
+|---|---|---|---|
+| AF-A01 | PT-INF: promove útil e eficiente | SIG-A04 | Promover interface útil e eficiente melhora a satisfação do usuário. |
+
+**Tabela 03** - Tabela de Especificação de Softgoals de Afirmação do SIG Acessibilidade
+
+#### Tabela de Rastreabilidade do SIG Acessibilidade
+
+A **Tabela 04** fornece a rastreabilidade entre todas as softgoals do SIG Acessibilidade e seus requisitos de origem.
+
+| Softgoal | Requisito Origem | Descendentes |
+|---|---|---|
+| SIG-A01 | RA01, RA02, RA03 | SIG-A02, SIG-A03, SIG-A04 |
+| SIG-A02 | RA01 | OP-A01, OP-A02 |
+| SIG-A03 | RA02, RA03 | OP-A03, OP-A04 |
+| SIG-A04 | RA01, RA02, RA03 | OP-A05, OP-A06, AF-A01 |
+
+**Tabela 04** - Tabela de Rastreabilidade das Softgoals do SIG Acessibilidade
+
+
 
 ## SIG Desempenho
 

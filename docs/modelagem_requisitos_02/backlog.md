@@ -108,6 +108,26 @@ Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de 
 
 ---
 
+### Épico 7: Informações em Tempo Real
+
+Tem como objetivo fornecer ao passageiro informações precisas e atualizadas em tempo real sobre horários de ônibus e localização de pontos de parada, permitindo melhor planejamento e redução do tempo de espera.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US05** | Como **passageiro do transporte público**, eu quero **visualizar os horários previstos de saída e chegada dos ônibus**, para que **eu possa planejar melhor meus deslocamentos e evitar longas esperas nos pontos**. | Alta | **RF05** - Exibir horários de saída e chegada dos transportes públicos | Fernanda Vaz |
+| **US06** | Como **passageiro que utiliza transporte público**, eu quero **visualizar em um mapa interativo todos os pontos de ônibus e as linhas que passam por cada um deles**, para que **eu possa identificar o ponto mais próximo e escolher a linha mais conveniente**. | Alta | **RF06** - Exibir pontos de ônibus e linhas em mapa interativo | Fernanda Vaz |
+
+---
+
+### Épico 8: Planejamento de Viagens
+
+Tem como objetivo permitir que o passageiro planeje viagens integradas utilizando diferentes modais de transporte, com informações sobre acessibilidade e opções de rotas, garantindo inclusão e autonomia para todos os usuários.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US07** | Como **passageiro que deseja planejar sua rota**, eu quero **visualizar e integrar informações de diferentes modais de transporte (metrô, ônibus de outras empresas, etc.) no planejamento de rotas**, para que **eu possa escolher a melhor combinação de transportes para chegar ao meu destino**. | Média | **RF07** - Integrar informações de outros modais de transporte | Fernanda Vaz |
+| **US08** | Como **passageiro com mobilidade reduzida**, eu quero **visualizar se o ônibus é acessível para cadeirantes e outras necessidades especiais**, para que **eu possa planejar meu deslocamento com segurança e conforto**. | Alta | **RF08** - Exibir informações de acessibilidade dos veículos | Fernanda Vaz |
+
 ## Referência bibliográfica
 
 <a id="ref-1"></a>
