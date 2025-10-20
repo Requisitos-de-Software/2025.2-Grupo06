@@ -11,8 +11,19 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 | Backlog - Introdução | Fernanda Vaz | 18/10/2025 | 18/10/2025 | [backlog.md](../modelagem_requisitos_02/backlog.md) |
 | Histórias de Usuário - Introdução | Fernanda Vaz | 18/10/2025 | 18/10/2025 | [historias_de_usuario.md](../modelagem_requisitos_02/historias_de_usuario.md) |
 | NFR Framework - Introdução | Fernanda Vaz | 18/10/2025 | 18/10/2025 | [nfr.md](../modelagem_requisitos_02/nfr.md) |
+| Checklist - NFR Framework (Itens 01, 02) | Gabriel Maciel | 18/10/2025 | 18/10/2025 | [lista04.md](../checklist/lista04.md) |
+| Checklist - Histórias de Usuário (Itens 01, 02) | Gabriel Maciel | 18/10/2025 | 18/10/2025 | [lista04.md](../checklist/lista04.md) |
+| Checklist - Backlog (Itens 01, 02) | Gabriel Maciel | 18/10/2025 | 18/10/2025 | [lista04.md](../checklist/lista04.md) |
+| Checklist - NFR Framework (Itens 03, 04) | Fernanda Vaz | 18/10/2025 | 18/10/2025 | [lista04.md](../checklist/lista04.md) |
+| Checklist - Histórias de Usuário (Itens 03, 04) | Fernanda Vaz | 18/10/2025 | 18/10/2025 | [lista04.md](../checklist/lista04.md) |
+| Checklist - Backlog (Itens 03, 04) | Fernanda Vaz | 18/10/2025 | 18/10/2025 | [lista04.md](../checklist/lista04.md) |
 | Backlog - Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | 19/10/2025 | 19/10/2025 | [backlog.md](../modelagem_requisitos_02/backlog.md) |
 | Histórias de Usuário US01 até US04 (Filtro, QR Code, Avaliações, Histórico) | Gabriel Maciel | 19/10/2025 | 19/10/2025 | [historias_de_usuario.md](../modelagem_requisitos_02/historias_de_usuario.md) |
+| Histórias de Usuário US05 até US08 | Fernanda Vaz | 19/10/2025 | 19/10/2025 | [historias_de_usuario.md](../modelagem_requisitos_02/historias_de_usuario.md) |
+| NFR Framework - SIG de Usabilidade | Fernanda Vaz | 19/10/2025 | 19/10/2025 | [nfr.md](../modelagem_requisitos_02/nfr.md) |
+| Checklist - NFR Framework (Itens 05, 06) | Cauã Nicolas | 19/10/2025 | 19/10/2025 | [lista04.md](../checklist/lista04.md) |
+| Checklist - Histórias de Usuário (Itens 05, 06) | Cauã Nicolas | 19/10/2025 | 19/10/2025 | [lista04.md](../checklist/lista04.md) |
+| Checklist - Backlog (Item 05) | Cauã Nicolas | 19/10/2025 | 19/10/2025 | [lista04.md](../checklist/lista04.md) |
 | Histórias de Usuário US09 até US12 | Cauã Nicolas | 19/10/2025 | 19/10/2025 | [historias_de_usuario.md](../modelagem_requisitos_02/historias_de_usuario.md) | 
 
 ---
