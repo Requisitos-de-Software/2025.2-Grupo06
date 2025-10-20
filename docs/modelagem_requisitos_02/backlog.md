@@ -76,53 +76,35 @@ Tem como objetivo garantir que o sistema atenda às necessidades de todos os usu
 
 ---
 
-### Épico 4: Avaliação
+### Épico 4: Avaliar e Reportar
 
-Tem como objetivo permitir que usuários avaliem e contribuam para a melhoria contínua do serviço de transporte público.
+Tem como objetivo permitir que usuários avaliem o serviço de transporte público e reportem problemas relacionados ao transporte (como falhas no ônibus, comportamento inadequado do motorista ou cobranças incorretas) para contribuir com a melhoria contínua do sistema, além de ajudar outras pessoas a tomar decisões informadas sobre qual ônibus utilizar.
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US03** | Como **passageiro regular do transporte público**, eu quero **avaliar a qualidade do serviço de cada linha de ônibus que utilizo**, para que **eu possa compartilhar minha experiência e contribuir para a melhoria do serviço, além de ajudar outros passageiros a escolherem as melhores opções**. | Baixa | **RF28/RNI04** - Permitir avaliação da qualidade do serviço de cada linha | Gabriel Maciel |
+| **US12** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. | Baixa | **RF16** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Cauã Nicolas |
 
 ---
 
-### Épico 5: Recarga 
+### Épico 5: Integração e Recargas
 
-Tem como objetivo permitir que os usuários realizem recargas do cartão de transporte diretamente pelo aplicativo, garantindo praticidade e reduzindo a necessidade de filas ou deslocamentos até pontos físicos de atendimento.
+Tem como objetivo integrar o cartão de transporte ao aplicativo, permitindo que o usuário visualize o saldo, realize recargas de forma unificada e tenha acesso às funcionalidades de gerenciamento do cartão, sem necessidade de acessar sistemas externos.
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US09** | Como **usuário do transporte público**, eu quero **realizar recargas do meu cartão de transporte diretamente pelo aplicativo**, para que **eu possa evitar filas e ter mais praticidade na recarga**. | Média | **RF13** - Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Cauã Nicolas |
-
----
-
-### Épico 6: Integração 
-
-Tem como objetivo integrar o cartão de transporte ao aplicativo, permitindo que o usuário visualize o saldo e realize recargas de forma unificada, sem necessidade de acessar sistemas externos.
-
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
-| -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US10** | Como **usuário do transporte público**, eu quero **visualizar o saldo e realizar recargas do meu cartão de transporte no aplicativo**, para que **eu possa acompanhar meu consumo e manter o cartão sempre carregado**. | Média | **RF14** - Permitir integração com o cartão de transporte, incluindo saldo e recarga | Cauã Nicolas |
 
 ---
 
-### Épico 7: Histórico 
+### Épico 6: Histórico 
 
 Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de viagens realizadas, oferecendo mais controle sobre deslocamentos, horários e gastos com transporte público.
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US11** | Como **passageiro**, eu quero **visualizar meu histórico de viagens realizadas**, para que **eu possa acompanhar meus trajetos, horários e valores gastos**. | Média | **RF15** - Manter histórico de viagens do usuário | Cauã Nicolas |
-
----
-
-### Épico 8: Reportar
-
-Tem como objetivo permitir que os usuários reportem problemas relacionados ao transporte público, como falhas no ônibus, comportamento inadequado do motorista ou cobranças incorretas, para que as empresas responsáveis possam tomar providências.
-
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
-| -- | ------------------- | ---------- | ------------------------ | ------- |
-| **US12** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. | Baixa | **RF16** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Cauã Nicolas |
 
 ---
 
@@ -142,7 +124,8 @@ Tem como objetivo permitir que os usuários reportem problemas relacionados ao t
 |:-------|:-----|:-----------|:------------|:-------------|
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | Cauã Nicolas |
-| 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas |  |
+| 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas | Gabriel Maciel |
+| 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | |
 
 ## Agradecimentos
 
