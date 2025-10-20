@@ -199,6 +199,16 @@ A **Tabela 04** fornece a rastreabilidade entre todas as softgoals do SIG Desemp
 
 **Tabela 04** - Tabela de Rastreabilidade das Softgoals do SIG Desempenho
 
+## SIG Portabilidade/Compatibilidade
+
+*Autoria: Cauã Nicolas, 2025.*
+
+Os softgoals de portabilidade foram extraídos dos Requisitos de Desempenho (RS01-RS05) definidos na Especificação Suplementar. O diagrama completo deste SIG pode ser visualizado na Figura 08.
+
+![SIG Desempenho](../assets/imagens/nfr/NFR%20Portabilidade.svg)
+
+**Figura 08** - Diagrama SIG Portabilidade
+
 ## Referência bibliográfica 
 
 <a id="ref-1"></a>
