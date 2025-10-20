@@ -87,27 +87,18 @@ Tem como objetivo permitir que usuários avaliem o serviço de transporte públi
 
 ---
 
-### Épico 5: Recarga 
+### Épico 5: Integração e Recargas
 
-Tem como objetivo permitir que os usuários realizem recargas do cartão de transporte diretamente pelo aplicativo, garantindo praticidade e reduzindo a necessidade de filas ou deslocamentos até pontos físicos de atendimento.
+Tem como objetivo integrar o cartão de transporte ao aplicativo, permitindo que o usuário visualize o saldo, realize recargas de forma unificada e tenha acesso às funcionalidades de gerenciamento do cartão, sem necessidade de acessar sistemas externos.
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US09** | Como **usuário do transporte público**, eu quero **realizar recargas do meu cartão de transporte diretamente pelo aplicativo**, para que **eu possa evitar filas e ter mais praticidade na recarga**. | Média | **RF13** - Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Cauã Nicolas |
-
----
-
-### Épico 6: Integração 
-
-Tem como objetivo integrar o cartão de transporte ao aplicativo, permitindo que o usuário visualize o saldo e realize recargas de forma unificada, sem necessidade de acessar sistemas externos.
-
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
-| -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US10** | Como **usuário do transporte público**, eu quero **visualizar o saldo e realizar recargas do meu cartão de transporte no aplicativo**, para que **eu possa acompanhar meu consumo e manter o cartão sempre carregado**. | Média | **RF14** - Permitir integração com o cartão de transporte, incluindo saldo e recarga | Cauã Nicolas |
 
 ---
 
-### Épico 7: Histórico 
+### Épico 6: Histórico 
 
 Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de viagens realizadas, oferecendo mais controle sobre deslocamentos, horários e gastos com transporte público.
 
@@ -134,7 +125,7 @@ Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de 
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas | Gabriel Maciel |
-| 1.2.1 | 20/10 | Refatora Épico 4 | Gabriel Maciel | |
+| 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | |
 
 ## Agradecimentos
 
