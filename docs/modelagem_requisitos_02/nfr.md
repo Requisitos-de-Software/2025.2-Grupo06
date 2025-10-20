@@ -124,19 +124,80 @@ O **NFR Framework** permite a utilização de diversos tipos de contribuições 
   <b>Figura 05 – </b>Exemplos de contribuições ” MAKE", ”BREAK ", ”HELP" e ”HURT"
 </p>
 
-
-## Metodologia
-
-
 ## SIG Usabilidade 
 
-
-
 *Autoria: Fernanda Vaz, 2025.*
+
 <p align="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/929a11a2-17f7-4526-93f0-3c97ddc4d236" id="Yya1dj9snOkD"></iframe>
  <b>Figura 06 – </b> diagrama usabilidade</div>
 </p>
+
+## SIG Desempenho
+
+*Autoria: Gabriel Maciel, 2025.*
+
+Os softgoals de desempenho foram extraídos dos Requisitos de Desempenho (RD01-RD04) definidos na Especificação Suplementar. O diagrama completo deste SIG pode ser visualizado na Figura 07.
+
+
+![SIG Desempenho](../assets/imagens/nfr/sig_desempenho.svg)
+
+**Figura 07** - Diagrama SIG Desempenho
+
+### Especificação dos softgoals do SIG Desempenho
+
+#### Softgoals NFR de Desempenho
+
+A **Tabela 01** lista os softgoals NFR principais.
+
+| ID | Softgoal | Descrição |
+|---|---|---|
+| SIG-D01 | Desempenho | Objetivo geral de garantir que o sistema responda rapidamente e utilize recursos eficientemente. |
+| SIG-D02 | Tempo de Resposta Rápido | Garantir operações concluídas em tempos aceitáveis (RD01, RD02). |
+| SIG-D03 | Consumo Eficiente | Minimizar uso de bateria e dados móveis (RD03). |
+| SIG-D04 | Suporte a Múltiplos Usuários | Suportar múltiplos usuários simultâneos (RD04). |
+
+**Tabela 01** - Tabela de Especificação de Softgoals NFR do SIG Desempenho
+
+#### Softgoals de Operacionalização de Desempenho
+
+A **Tabela 02** detalha as softgoals de operacionalizações propostas.
+
+| ID | Operacionalização | Softgoal Pai | Descrição |
+|---|---|---|---|
+| OP-D01 | Rastreamento Otimizado | SIG-D02 | Implementar rastreamento de veículos com latência máxima de 20 segundos. |
+| OP-D02 | Carregamento Rápido da Interface | SIG-D02 | Interface principal carrega em menos de 3 segundos. |
+| OP-D03 | Redução de Requisições | SIG-D03 | Minimizar requisições de rede desnecessárias através de cache e sincronização eficiente. |
+| OP-D04 | Compressão de Dados | SIG-D03 | Aplicar compressão em dados transmitidos para reduzir consumo de dados móveis. |
+| OP-D05 | Tamanho Compacto da Aplicação | SIG-D03 | Manter o tamanho do aplicativo reduzido para economizar espaço de armazenamento em dispositivos com recursos limitados. |
+| OP-D06 | Cache de Informações | SIG-D04 | Armazenar dados de linhas, paradas e horários localmente para reduzir carga de requisições ao servidor. |
+| OP-D07 | Servidor Responsivo | SIG-D04 | Manter infraestrutura de servidor estável e responsiva para processar múltiplas requisições simultâneas de rastreamento e consulta. |
+
+**Tabela 02** - Tabela de Especificação de Softgoals de Operacionalização do SIG Desempenho
+
+#### Softgoals de Afirmação de Desempenho
+
+A **Tabela 03** especifica os softgoals de afirmação.
+
+| ID | Afirmação | Softgoal Pai | Descrição |
+|---|---|---|---|
+| AF-D01 | Satisfação do Usuário | SIG-D02 | Usuários satisfeitos com a velocidade da aplicação. |
+| AF-D02 | Funcionamento em Dispositivos Limitados | SIG-D03, SIG-D04 | Sistema funciona bem em smartphones com recursos reduzidos. |
+
+**Tabela 03** - Tabela de Especificação de Softgoals de Afirmação do SIG Desempenho
+
+#### Tabela de Rastreabilidade do SIG Desempenho
+
+A **Tabela 04** fornece a rastreabilidade entre todas as softgoals do SIG Desempenho e seus requisitos de origem.
+
+| Softgoal | Requisito Origem | Descendentes |
+|---|---|---|
+| SIG-D01 | RD01, RD02, RD03, RD04 | SIG-D02, SIG-D03, SIG-D04 |
+| SIG-D02 | RD01, RD02 | OP-D01, OP-D02, AF-D01 |
+| SIG-D03 | RD03 | OP-D03, OP-D04, OP-D05, AF-D02 |
+| SIG-D04 | RD04 | OP-D06, OP-D07, AF-D02 |
+
+**Tabela 04** - Tabela de Rastreabilidade das Softgoals do SIG Desempenho
 
 ## Referência bibliográfica 
 
@@ -145,7 +206,8 @@ O **NFR Framework** permite a utilização de diversos tipos de contribuições 
 > <sup>1.</sup> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife: Universidade Federal de Pernambuco, 2019.
 
 
-## Bibliográfia 
+## Bibliografia 
+
 > SANTOS, Fernanda Vaz Duarte dos. Diagrama NFR Framework [diagrama]. Lucidchart, 2025. Disponível em: https://lucid.app/lucidchart/929a11a2-17f7-4526-93f0-3c97ddc4d236/edit?beaconFlowId=49E1CE640021DB5A&invitationId=inv_64680c99-fc02-4e69-add7-7707c5326905&page=0_0
 . Acesso em: 19 out. 2025.
 
@@ -153,9 +215,10 @@ O **NFR Framework** permite a utilização de diversos tipos de contribuições 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-------|:-----|:-----------|:------------|:-------------|
-| 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | |
+| 1.0 | 18/10 | Adição de introdução e do SIG Usabilidade | Fernanda Vaz | Gabriel Maciel |
+| 1.1 | 20/10 | Adição do SIG Desempenho | Gabriel Maciel | |
 
 
 ## Agradecimentos
 
->>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
