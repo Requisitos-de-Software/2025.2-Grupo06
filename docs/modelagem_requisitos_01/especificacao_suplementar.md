@@ -81,6 +81,9 @@ Os Requisitos de Sistema definem todas as condições necessárias para suportar
 | ID | Descrição |
 |---|---|
 | RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis(celulares) |
+| RS02 | A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários. |
+| RS03 | O sistema de notificação com som e vibração devem estar devidamente configuráveis. |
+
 
 
 **Tabela 5:** RS - Requisito do Sistena
