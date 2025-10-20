@@ -72,7 +72,7 @@ O desempenho define as características de eficiência do sistema, incluindo tem
 
 <span style="color:blue;">Autoria: Gabriel Maciel, 2025.</span>
 
-## Requisitos do Sistema
+## Requisitos do Sistema (Portabilidade/Compatibilidade)
 Os Requisitos de Sistema definem todas as condições necessárias para suportar o aplicativo, garantindo sua correta operação em diferentes ambientes. Esta seção especifica as plataformas de hardware, os sistemas operacionais e as redes suportadas, assegurando que o produto esteja em conformidade com os padrões de plataforma aplicáveis (como Windows, Android, iOS, etc.) e interaja corretamente com outros softwares e periféricos definidos.
 
 ### Requisitos do Sistema (print da fonte)
