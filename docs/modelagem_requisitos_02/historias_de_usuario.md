@@ -36,7 +36,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 | **Campo** | **Descrição** |
 |-----------|---------------|
-| **Origem:** | **RF26/RF03** - Filtrar ônibus por empresa operadora |
+| **Origem:** | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora |
 | **Descrição:** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. |
 | **Critérios de Aceitação:** | - O sistema deve exibir uma lista completa de todas as empresas operadoras disponíveis no DF<br>- O passageiro deve poder selecionar uma ou múltiplas empresas para filtrar<br>- O mapa deve exibir apenas os ônibus das empresas selecionadas<br>- O sistema deve mostrar o nome da empresa em cada linha de ônibus listada<br>- O filtro deve ser aplicado em tempo real ao selecionar/desselecionar empresas<br>- O sistema deve permitir limpar todos os filtros com um único clique<br>- O passageiro deve poder salvar suas preferências de empresa como padrão<br>- O sistema deve indicar quantas linhas e veículos estão disponíveis para cada empresa<br>- O filtro deve funcionar em conjunto com outros filtros (por linha, região, etc.)<br>- O aplicativo deve manter as configurações de filtro entre sessões |
 | **Prioridade:** | Média |

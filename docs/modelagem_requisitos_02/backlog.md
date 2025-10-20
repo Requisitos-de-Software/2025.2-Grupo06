@@ -60,7 +60,7 @@ Tem como objetivo facilitar a localização de linhas, rotas e opções de trans
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) |
 | -- | ------------------- | ---------- | ------------------------ |
-| **US01** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. | Média | **RF26/RF03** - Filtrar ônibus por empresa operadora |
+| **US01** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. | Média | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora |
 
 ### Épico 3: Acessibilidade
 
