@@ -53,6 +53,8 @@ Tem como objetivo permitir que passageiros acompanhem a localização e status d
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US04** | Como **passageiro que precisa escolher entre várias opções de transporte**, eu quero **rastrear múltiplas linhas de ônibus simultaneamente no mapa**, para que **eu possa visualizar e comparar diferentes opções em tempo real e escolher a melhor alternativa para meu deslocamento**. | Alta | **RF35/ENT12** - Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | Gabriel Maciel |
+| **US13** | Como **passageiro do transporte público**, eu quero **visualizar a localização exata dos ônibus em tempo real no mapa**, para que **eu possa ter certeza de que o ônibus está a caminho e estimar com precisão o tempo de espera no ponto**. | Alta | **RF01/ANADOC** - Exibir a localização dos ônibus em tempo real no mapa | João Gabriel |
+| **US14** | Como **passageiro aguardando no ponto**, eu quero **consultar o tempo estimado de chegada (TEC) do meu ônibus**, para que **eu possa gerenciar meu tempo de espera com mais segurança e tomar decisões (ex: esperar, chamar um táxi, escolher outra rota)**. | Alta | **RF02/ENT04** - Mostrar o tempo estimado de chegada do ônibus à parada | João Gabriel |
 
 ---
 
@@ -63,6 +65,7 @@ Tem como objetivo facilitar a localização de linhas, rotas e opções de trans
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US01** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. | Média | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora | Gabriel Maciel |
+| **US16** | Como **passageiro que sabe qual linha ou destino deseja**, eu quero **pesquisar diretamente por linhas, números de ônibus ou nomes de destinos**, para que **eu possa acessar rapidamente as informações específicas que preciso, sem ter que navegar pelo mapa**. | Média | **RF04/ANADOC** - Permitir pesquisa por linhas e rotas de ônibus | João Gabriel |
 
 ---
 
@@ -114,7 +117,7 @@ Tem como objetivo fornecer ao passageiro informações precisas e atualizadas em
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
-| **US05** | Como **passageiro do transporte público**, eu quero **visualizar os horários previstos de saída e chegada dos ônibus**, para que **eu possa planejar melhor meus deslocamentos e evitar longas esperas nos pontos**. | Alta | **RF05** - Exibir horários de saída e chegada dos transportes públicos | Fernanda Vaz |
+| **US17** | Como **passageiro do transporte público**, eu quero **visualizar os horários previstos de saída e chegada dos ônibus**, para que **eu possa planejar melhor meus deslocamentos e evitar longas esperas nos pontos**. | Alta | **RF05** - Exibir horários de saída e chegada dos transportes públicos | Fernanda Vaz |
 | **US06** | Como **passageiro que utiliza transporte público**, eu quero **visualizar em um mapa interativo todos os pontos de ônibus e as linhas que passam por cada um deles**, para que **eu possa identificar o ponto mais próximo e escolher a linha mais conveniente**. | Alta | **RF06** - Exibir pontos de ônibus e linhas em mapa interativo | Fernanda Vaz |
 
 ---
@@ -145,7 +148,8 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas | Gabriel Maciel |
-| 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | |
+| 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | João Gabriel |
+| 1.2.2 | 20/10 | Adição Épicos 1, 2 e mudança no 7 | João Gabriel | Cauã Nicolas|
 
 ## Agradecimentos
 
