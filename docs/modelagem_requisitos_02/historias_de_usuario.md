@@ -34,6 +34,8 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ### US01 - Filtrar Ônibus por Empresa Operadora
 
+*Autoria: Gabriel Maciel, 2025*
+
 | **Campo** | **Descrição** |
 |-----------|---------------|
 | **Origem:** | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora |
@@ -44,6 +46,8 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 ---
 
 ### US02 - Acesso Web Rápido via QR Code
+
+*Autoria: Gabriel Maciel, 2025*
 
 | **Campo** | **Descrição** |
 |-----------|---------------|
@@ -56,6 +60,8 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ### US03 - Avaliar Qualidade das Linhas
 
+*Autoria: Gabriel Maciel, 2025*
+
 | **Campo** | **Descrição** |
 |-----------|---------------|
 | **Origem:** | **RF28/RNI04** - Permitir avaliação da qualidade do serviço de cada linha |
@@ -66,6 +72,8 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 ---
 
 ### US04 - Rastrear Múltiplas Linhas Simultaneamente
+
+*Autoria: Gabriel Maciel, 2025*
 
 | **Campo** | **Descrição** |
 |-----------|---------------|
