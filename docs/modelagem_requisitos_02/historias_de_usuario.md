@@ -109,16 +109,15 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Prioridade:** | Alta |
 
 ---
-
-### US07 - Permitir Busca por Linha, Número ou Destino no Mapa Interativo
+### US07 - Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais
 
 *Autoria: Fernanda Vaz, 2025.*
 
 | **Campo** | **Descrição** |
 |-----------|---------------|
-| **Origem:** | **RF07** - Permitir busca de linhas, pontos ou destinos no mapa |
-| **Descrição:** | Como **passageiro que deseja planejar sua rota**, eu quero **buscar linhas de ônibus, números de rota ou destinos diretamente no mapa interativo**, para que **eu possa localizar facilmente as opções de transporte que atendem ao meu trajeto desejado**. |
-| **Critérios de Aceitação:** | - O sistema deve permitir busca por número da linha, nome do destino ou ponto de interesse<br>- A busca deve exibir resultados em tempo real conforme o usuário digita<br>- Ao selecionar um resultado, o mapa deve centralizar e destacar a linha ou ponto correspondente<br>- O sistema deve permitir salvar buscas recentes<br>- O aplicativo deve sugerir linhas alternativas para o mesmo destino<br>- O campo de busca deve ser acessível em todas as telas do mapa<br>- O sistema deve permitir limpar facilmente o campo de pesquisa |
+| **Origem:** | **RF07** - Integrar informações de outros modais de transporte |
+| **Descrição:** | Como **passageiro que deseja planejar sua rota**, eu quero **visualizar e integrar informações de diferentes modais de transporte (metrô, ônibus de outras empresas, etc.) no planejamento de rotas**, para que **eu possa escolher a melhor combinação de transportes para chegar ao meu destino**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir opções de rotas que combinem ônibus com metrô<br>- O sistema deve incluir informações de linhas de ônibus de diferentes empresas/operadores<br>- O aplicativo deve mostrar pontos de integração entre diferentes modais<br>- As rotas multimodais devem exibir tempo estimado total da viagem<br>- O sistema deve indicar tempo de caminhada entre conexões<br>- O aplicativo deve mostrar tarifas de cada modal separadamente<br>- O usuário deve poder filtrar rotas por preferência de modal<br>- O sistema deve atualizar informações em tempo real de todos os modais integrados |
 | **Prioridade:** | Média |
 
 ---
