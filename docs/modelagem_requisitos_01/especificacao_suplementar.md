@@ -83,6 +83,8 @@ Os Requisitos de Sistema definem todas as condições necessárias para suportar
 | RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis(celulares) |
 | RS02 | A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários. |
 | RS03 | O sistema de notificação com som e vibração devem estar devidamente configuráveis. |
+| RS04 | O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização. |
+| RS05 | A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. |
 
 
 
