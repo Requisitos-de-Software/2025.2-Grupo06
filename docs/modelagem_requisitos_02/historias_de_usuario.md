@@ -187,6 +187,71 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
+### **US13 - Visualizar Localização dos Ônibus em Tempo Real no Mapa**
+
+_Autoria: João Gabriel, 2025_
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF01/ENT03 - Exibir a localização dos ônibus em tempo real no mapa |
+| **Descrição:** | Como **passageiro do transporte público**, eu quero **visualizar a localização exata dos ônibus em tempo real no mapa**, para que **eu possa ter certeza de que o ônibus está a caminho e estimar com precisão o tempo de espera no ponto**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir ícones de ônibus sobrepostos no mapa interativo.<br>- A posição dos ônibus deve ser atualizada automaticamente a intervalos regulares (ex: a cada 15-30 segundos).<br>- Cada ícone de ônibus deve representar um veículo físico em operação.<br>- Ao tocar no ícone de um ônibus, o sistema deve exibir informações básicas da linha (número, destino).<br>- O mapa deve continuar responsivo e com navegação fluida mesmo com múltiplos ônibus sendo exibidos.<br>- O sistema deve lidar graciosamente com a perda momentânea de conexão, exibindo a última posição conhecida com um indicativo de "dados desatualizados".<br>- A localização deve ser mostrada com uma precisão que permita identificar em qual rua ou avenida o ônibus se encontra. |
+| **Prioridade:** | Alta |
+
+---s
+
+### **US14 - Consultar Tempo Estimado de Chegada do Ônibus**
+
+_Autoria: João Gabriel, 2025_
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF02/ENT04 - Mostrar o tempo estimado de chegada do ônibus à parada |
+| **Descrição:** | Como **passageiro aguardando no ponto**, eu quero **consultar o tempo estimado de chegada (TEC) do meu ônibus**, para que **eu possa gerenciar meu tempo de espera com mais segurança e tomar decisões (ex: esperar, chamar um táxi, escolher outra rota)**. |
+| **Critérios de Aceitação:** | - Ao selecionar um ponto de ônibus no mapa ou em uma lista, o sistema deve listar as linhas que passam por ele.<br>- Para cada linha listada, o sistema deve exibir o tempo estimado de chegada dos próximos ônibus (ex: "Chega em 8 min" ou "Previsto para 14:35").<br>- O TEC deve ser calculado em tempo real com base na localização GPS do ônibus, trânsito e distância do ponto.<br>- A interface deve destacar visualmente se o ônibus está "Próximo" (ex: verde) ou com "Atraso" (ex: laranja/vermelho).<br>- O passageiro deve poder atualizar manualmente a previsão para obter os dados mais recentes.<br>- O sistema deve funcionar para qualquer ponto de ônibus cadastrado no sistema, não apenas para a localização atual do usuário. |
+| **Prioridade:** | Alta |
+
+---
+
+### **US15 - Planejar uma Viagem com Rotas Sugeridas**
+
+_Autoria: João Gabriel, 2025_
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF03 - Permitir planejamento de viagem (origem → destino) com rotas sugeridas |
+| **Descrição:** | Como **passageiro que precisa se deslocar pela cidade**, eu quero **planejar uma viagem informando meu ponto de origem e destino para receber rotas sugeridas de ônibus**, para que **eu possa encontrar a melhor opção de itinerário, mesmo em rotas que não conheço**. |
+| **Critérios de Aceitação:** | - O sistema deve fornecer um campo para inserir endereço de origem e destino (com suporte a autocompletar).<br>- Deve ser possível usar a localização atual como origem.<br>- O sistema deve calcular e apresentar pelo menos 2-3 opções de rotas diferentes.<br>- Cada rota sugerida deve mostrar: linhas a serem utilizadas, pontos de embarque/desembarque, tempo total de viagem e tempo de caminhada.<br>- A rota deve ser desenhada visualmente no mapa.<br>- O sistema deve priorizar rotas com menor tempo total, menor número de baldeações ou que evitem caminhadas longes (com opção de filtro).<br>- As rotas devem considerar os horários de operação das linhas no momento do planejamento. |
+| **Prioridade:** | Média |
+
+---
+
+### **US16 - Pesquisar por Linhas e Rotas de Ônibus**
+
+_Autoria: João Gabriel, 2025_
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF04/ENT01 - Permitir pesquisa por linhas e rotas de ônibus |
+| **Descrição:** | Como **passageiro que sabe qual linha ou destino deseja**, eu quero **pesquisar diretamente por linhas, números de ônibus ou nomes de destinos**, para que **eu possa acessar rapidamente as informações específicas que preciso, sem ter que navegar pelo mapa**. |
+| **Critérios de Aceitação:** | - Deve haver uma barra de busca acessível na tela principal.<br>- A busca deve retornar resultados em tempo real ("search as you type").<br>- A pesquisa deve funcionar por número da linha (ex: "0.108.1"), nome do destino (ex: "Rodoviária") ou termo aproximado (ex: "Eixo Sul").<br>- Ao selecionar um resultado, o sistema deve exibir detalhes da linha, como mapa do percurso, horários e pontos de parada.<br>- O sistema deve permitir salvar linhas como "Favoritas" para acesso rápido futuro.<br>- Deve ser possível visualizar todas as linhas de ônibus em uma lista, com opção de ordenar por número ou nome. |
+| **Prioridade:** | Alta |
+
+---
+
+### **US17 - Visualizar Horários de Saída e Chegada dos Transportes**
+
+_Autoria: João Gabriel, 2025_
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF05/ENT02 - Apresentar horários de saída e chegada dos transportes |
+| **Descrição:** | Como **passageiro que precisa cumprir horários**, eu quero **visualizar os horários programados de saída e chegada dos ônibus em cada ponto**, para que **eu possa planejar minha ida ao ponto com antecedência e não perder o ônibus**. |
+| **Critérios de Aceitação:** | - Ao visualizar os detalhes de uma linha, o usuário deve poder acessar uma aba de "Horários".<br>- O sistema deve exibir uma tabela ou lista com os horários programados de partida dos terminais e chegada aos pontos principais.<br>- Os horários devem ser organizados por dia útil (segunda a sexta), sábado e domingo/feriado.<br>- A interface deve diferenciar claramente entre o horário programado e a previsão em tempo real (TEC da US14).<br>- O usuário deve poder selecionar um ponto específico para ver os horários de passagem previstos naquele local.<br>- Os horários devem ser os oficiais fornecidos pela empresa operadora/DFTrans. |
+| **Prioridade:** | Alta |
+
+---
+
 
 ## Referências Bibliográficas
 
