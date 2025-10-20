@@ -76,13 +76,14 @@ Tem como objetivo garantir que o sistema atenda às necessidades de todos os usu
 
 ---
 
-### Épico 4: Avaliação
+### Épico 4: Avaliar e Reportar
 
-Tem como objetivo permitir que usuários avaliem e contribuam para a melhoria contínua do serviço de transporte público.
+Tem como objetivo permitir que usuários avaliem o serviço de transporte público e reportem problemas relacionados ao transporte (como falhas no ônibus, comportamento inadequado do motorista ou cobranças incorretas) para contribuir com a melhoria contínua do sistema, além de ajudar outras pessoas a tomar decisões informadas sobre qual ônibus utilizar.
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US03** | Como **passageiro regular do transporte público**, eu quero **avaliar a qualidade do serviço de cada linha de ônibus que utilizo**, para que **eu possa compartilhar minha experiência e contribuir para a melhoria do serviço, além de ajudar outros passageiros a escolherem as melhores opções**. | Baixa | **RF28/RNI04** - Permitir avaliação da qualidade do serviço de cada linha | Gabriel Maciel |
+| **US12** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. | Baixa | **RF16** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Cauã Nicolas |
 
 ---
 
@@ -116,16 +117,6 @@ Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de 
 
 ---
 
-### Épico 8: Reportar
-
-Tem como objetivo permitir que os usuários reportem problemas relacionados ao transporte público, como falhas no ônibus, comportamento inadequado do motorista ou cobranças incorretas, para que as empresas responsáveis possam tomar providências.
-
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
-| -- | ------------------- | ---------- | ------------------------ | ------- |
-| **US12** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. | Baixa | **RF16** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Cauã Nicolas |
-
----
-
 ## Referência bibliográfica
 
 <a id="ref-1"></a>
@@ -142,7 +133,8 @@ Tem como objetivo permitir que os usuários reportem problemas relacionados ao t
 |:-------|:-----|:-----------|:------------|:-------------|
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | Cauã Nicolas |
-| 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas |  |
+| 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas | Gabriel Maciel |
+| 1.2.1 | 20/10 | Refatora Épico 4 | Gabriel Maciel | |
 
 ## Agradecimentos
 
