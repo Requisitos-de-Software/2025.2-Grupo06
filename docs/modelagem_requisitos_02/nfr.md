@@ -226,7 +226,8 @@ Os softgoals de portabilidade foram extraídos dos Requisitos de Desempenho (RS0
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-------|:-----|:-----------|:------------|:-------------|
 | 1.0 | 18/10 | Adição de introdução e do SIG Usabilidade | Fernanda Vaz | Gabriel Maciel |
-| 1.1 | 20/10 | Adição do SIG Desempenho | Gabriel Maciel | |
+| 1.1 | 20/10 | Adição do SIG Desempenho | Gabriel Maciel | Cauã Nicolas |
+| 1.2 | 20/10 | Adição do SIG Portabilidade | Cauã Nicolas | |
 
 
 ## Agradecimentos
