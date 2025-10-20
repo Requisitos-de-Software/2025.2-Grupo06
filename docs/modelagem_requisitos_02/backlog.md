@@ -54,6 +54,8 @@ Tem como objetivo permitir que passageiros acompanhem a localização e status d
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US04** | Como **passageiro que precisa escolher entre várias opções de transporte**, eu quero **rastrear múltiplas linhas de ônibus simultaneamente no mapa**, para que **eu possa visualizar e comparar diferentes opções em tempo real e escolher a melhor alternativa para meu deslocamento**. | Alta | **RF35/ENT12** - Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | Gabriel Maciel |
 
+---
+
 ### Épico 2: Filtragem
 
 Tem como objetivo facilitar a localização de linhas, rotas e opções de transporte específicas.
@@ -61,6 +63,8 @@ Tem como objetivo facilitar a localização de linhas, rotas e opções de trans
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US01** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. | Média | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora | Gabriel Maciel |
+
+---
 
 ### Épico 3: Acessibilidade
 
@@ -70,6 +74,8 @@ Tem como objetivo garantir que o sistema atenda às necessidades de todos os usu
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US02** | Como **passageiro aguardando no ponto de ônibus**, eu quero **acessar uma versão web leve do aplicativo através de QR Code**, para que **eu possa consultar informações sobre linhas e horários rapidamente sem precisar instalar o aplicativo completo no meu dispositivo**. | Média | **RF19/BRS17** - Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | Gabriel Maciel |
 
+---
+
 ### Épico 4: Avaliação
 
 Tem como objetivo permitir que usuários avaliem e contribuam para a melhoria contínua do serviço de transporte público.
@@ -78,6 +84,7 @@ Tem como objetivo permitir que usuários avaliem e contribuam para a melhoria co
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US03** | Como **passageiro regular do transporte público**, eu quero **avaliar a qualidade do serviço de cada linha de ônibus que utilizo**, para que **eu possa compartilhar minha experiência e contribuir para a melhoria do serviço, além de ajudar outros passageiros a escolherem as melhores opções**. | Baixa | **RF28/RNI04** - Permitir avaliação da qualidade do serviço de cada linha | Gabriel Maciel |
 
+---
 
 ### Épico 5: Recarga 
 
@@ -87,6 +94,7 @@ Tem como objetivo permitir que os usuários realizem recargas do cartão de tran
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US09** | Como **usuário do transporte público**, eu quero **realizar recargas do meu cartão de transporte diretamente pelo aplicativo**, para que **eu possa evitar filas e ter mais praticidade na recarga**. | Média | **RF13** - Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Cauã Nicolas |
 
+---
 
 ### Épico 6: Integração 
 
@@ -94,7 +102,9 @@ Tem como objetivo integrar o cartão de transporte ao aplicativo, permitindo que
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
-| **US10** | Como **usuário do transporte público**, eu quero **visualizar o saldo e realizar recargas do meu cartão de transporte no aplicativo**, para que **eu possa acompanhar meu consumo e manter o cartão sempre carregado**. | Média | **RF02** - Permitir integração com o cartão de transporte, incluindo saldo e recarga | Cauã Nicolas |
+| **US10** | Como **usuário do transporte público**, eu quero **visualizar o saldo e realizar recargas do meu cartão de transporte no aplicativo**, para que **eu possa acompanhar meu consumo e manter o cartão sempre carregado**. | Média | **RF14** - Permitir integração com o cartão de transporte, incluindo saldo e recarga | Cauã Nicolas |
+
+---
 
 ### Épico 7: Histórico 
 
@@ -102,7 +112,9 @@ Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de 
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
-| **US11** | Como **passageiro**, eu quero **visualizar meu histórico de viagens realizadas**, para que **eu possa acompanhar meus trajetos, horários e valores gastos**. | Média | **RF03** - Manter histórico de viagens do usuário | Cauã Nicolas |
+| **US11** | Como **passageiro**, eu quero **visualizar meu histórico de viagens realizadas**, para que **eu possa acompanhar meus trajetos, horários e valores gastos**. | Média | **RF15** - Manter histórico de viagens do usuário | Cauã Nicolas |
+
+---
 
 ### Épico 8: Reportar
 
@@ -110,7 +122,9 @@ Tem como objetivo permitir que os usuários reportem problemas relacionados ao t
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
-| **US12** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. | Baixa | **RF04** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Cauã Nicolas |
+| **US12** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. | Baixa | **RF16** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Cauã Nicolas |
+
+---
 
 ## Referência bibliográfica
 
@@ -127,7 +141,8 @@ Tem como objetivo permitir que os usuários reportem problemas relacionados ao t
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-------|:-----|:-----------|:------------|:-------------|
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
-| 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | |
+| 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | Cauã Nicolas |
+| 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas |  |
 
 ## Agradecimentos
 
