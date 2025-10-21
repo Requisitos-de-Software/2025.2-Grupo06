@@ -57,6 +57,9 @@ Tem como objetivo permitir que passageiros acompanhem a localização e status d
 | **US14** | Como **passageiro aguardando no ponto**, eu quero **consultar o tempo estimado de chegada (TEC) do meu ônibus**, para que **eu possa gerenciar meu tempo de espera com mais segurança e tomar decisões (ex: esperar, chamar um táxi, escolher outra rota)**. | Alta | **RF02/ENT04** - Mostrar o tempo estimado de chegada do ônibus à parada | João Gabriel |
 | **US17** | Como **passageiro do transporte público**, eu quero **visualizar os horários previstos de saída e chegada dos ônibus**, para que **eu possa planejar melhor meus deslocamentos e evitar longas esperas nos pontos**. | Alta | **RF05** - Exibir horários de saída e chegada dos transportes públicos | Fernanda Vaz |
 | **US06** | Como **passageiro que utiliza transporte público**, eu quero **visualizar em um mapa interativo todos os pontos de ônibus e as linhas que passam por cada um deles**, para que **eu possa identificar o ponto mais próximo e escolher a linha mais conveniente**. | Alta | **RF06** - Exibir pontos de ônibus e linhas em mapa interativo | Fernanda Vaz |
+US22|Como **passageiro do transporte público**, eu quero **visualizar a lotação estimada do ônibus (vazio, moderado, lotado) antes que ele chegue ao ponto**, para que **eu possa decidir se embarco neste veículo ou espero o próximo, buscando mais conforto**.|Alta|**RF09** - Indicar lotação do ônibus (vazio, moderado, lotado)|João Ramos
+US24|Como **passageiro aguardando no ponto**, eu quero **definir um alerta para ser notificado quando o ônibus de uma linha específica estiver a X minutos da minha parada**, para que **eu possa me preparar para o embarque sem precisar checar o aplicativo constantemente**.|Alta|**RF11** - Enviar notificação quando o ônibus estiver a X minutos da parada|João Ramos
+US25|Como **passageiro do transporte público**, eu quero **receber alertas e notificações sobre mudanças inesperadas no serviço, como atrasos significativos, mudanças de rota ou alterações de horário**, para que **eu possa me antecipar a problemas e planejar rotas alternativas**.|Alta|**R12** - Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários|João Ramos
 
 ---
 
@@ -68,6 +71,7 @@ Tem como objetivo facilitar a localização de linhas, rotas e opções de trans
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US01** | Como **passageiro do transporte público**, eu quero **filtrar e visualizar ônibus de acordo com a empresa operadora**, para que **eu possa escolher linhas de empresas específicas de minha preferência ou evitar empresas com as quais tive experiências negativas**. | Média | **RF26/RF03 (Análise de Documentos)** - Filtrar ônibus por empresa operadora | Gabriel Maciel |
 | **US16** | Como **passageiro que sabe qual linha ou destino deseja**, eu quero **pesquisar diretamente por linhas, números de ônibus ou nomes de destinos**, para que **eu possa acessar rapidamente as informações específicas que preciso, sem ter que navegar pelo mapa**. | Média | **RF04/ANADOC** - Permitir pesquisa por linhas e rotas de ônibus | João Gabriel |
+US27|Como **passageiro em um ponto de ônibus**, eu quero **selecionar uma parada (no mapa ou por pesquisa) e ver uma lista de todas as linhas que passam por ela**, para que **eu possa descobrir rapidamente quais são minhas opções de transporte naquela localização**.|Alta|**RF18 (BRS)** - Listar linhas que passam em uma parada específica|João Ramos
 
 ---
 
@@ -82,7 +86,7 @@ Tem como objetivo garantir que o sistema atenda às necessidades de todos os usu
 | **US19** | Como **usuário que não fala português ou turista visitando o Distrito Federal**, eu quero **utilizar o aplicativo em diferentes idiomas, especialmente em português e inglês**, para que **eu possa compreender facilmente todas as informações sobre linhas, horários e navegação no aplicativo**. | Média | **RF36/ENT22** - Oferecer suporte multilíngue (português e inglês, no mínimo) | Gabriel Maciel |
 | **US20** | Como **usuário que utiliza frequentemente determinadas linhas de ônibus**, eu quero **poder favoritar linhas ou paradas específicas**, para que eu **consiga acessá-las rapidamente sem precisar pesquisar toda vez**. | Média | **RF24** - Permitir favoritar linhas ou paradas para acesso rápido | Cauã Nicolas |
 | **US21** | Como **usuário que mora em áreas afastadas do Distrito Federal**, eu quero **ter acesso às informações de linhas e horários de ônibus da minha região**, para que eu **possa planejar minhas viagens com a mesma praticidade que os usuários das regiões centrais**. | Média | **RF25** - Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Cauã Nicolas |
-
+US26|Como **passageiro com conexão de internet limitada ou instável**, eu quero **acessar os horários programados das linhas e minhas rotas salvas mesmo estando offline**, para que **eu possa planejar meus deslocamentos essenciais sem depender de uma conexão de dados ativa**.|Média|**RFN-11 (RNI05/ENT18/BRS06)** - Funcionamento offline para consulta a rotas salvas e horários|João Ramos
 ---
 
 ### Épico 4: Avaliar e Reportar
@@ -93,7 +97,7 @@ Tem como objetivo permitir que usuários avaliem o serviço de transporte públi
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US03** | Como **passageiro regular do transporte público**, eu quero **avaliar a qualidade do serviço de cada linha de ônibus que utilizo**, para que **eu possa compartilhar minha experiência e contribuir para a melhoria do serviço, além de ajudar outros passageiros a escolherem as melhores opções**. | Baixa | **RF28/RNI04** - Permitir avaliação da qualidade do serviço de cada linha | Gabriel Maciel |
 | **US12** | Como **usuário do transporte público**, eu quero **reportar problemas ocorridos durante uma viagem (como comportamento do motorista, falhas no ônibus ou cobrança incorreta)**, para que **a empresa responsável possa investigar e melhorar o serviço**. | Baixa | **RF16** - Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Cauã Nicolas |
-
+US23|Como **passageiro que está dentro do ônibus**, eu quero **reportar o nível de lotação atual do veículo (vazio, moderado, lotado)**, para que **eu possa contribuir com o sistema colaborativo e ajudar outros passageiros a tomar decisões**.|Média|**R10** - Permitir que usuários reportem a lotação do ônibus (sistema colaborativo)|João Ramos
 ---
 
 ### Épico 5: Integração e Recargas
@@ -125,6 +129,7 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US07** | Como **passageiro que deseja planejar sua rota**, eu quero **visualizar e integrar informações de diferentes modais de transporte (metrô, ônibus de outras empresas, etc.) no planejamento de rotas**, para que **eu possa escolher a melhor combinação de transportes para chegar ao meu destino**. | Média | **RF07** - Integrar informações de outros modais de transporte | Fernanda Vaz |
 | **US08** | Como **passageiro com mobilidade reduzida**, eu quero **visualizar se o ônibus é acessível para cadeirantes e outras necessidades especiais**, para que **eu possa planejar meu deslocamento com segurança e conforto**. | Alta | **RF08** - Exibir informações de acessibilidade dos veículos | Fernanda Vaz |
+US28|Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero **ser informado sobre incidentes de trânsito (acidentes, congestionamentos, obras) que afetam as rotas de ônibus**, para que **eu possa entender a causa de atrasos e receber sugestões de rotas alternativas**.|Média|**RF21 (BRS12)** - Mostrar alertas de trânsito, acidentes e rotas alternativas|João Ramos
 
 ---
 

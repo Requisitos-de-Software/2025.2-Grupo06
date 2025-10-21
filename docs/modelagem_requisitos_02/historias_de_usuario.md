@@ -304,6 +304,98 @@ _Autoria: João Gabriel, 2025_
 
 ---
 
+### **US22 - Visualizar Lotação Estimada do Ônibus**
+
+*Autoria: João Ramos, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF09** - Indicar lotação do ônibus (vazio, moderado, lotado) |
+| **Descrição:** | Como **passageiro do transporte público**, eu quero **visualizar a lotação estimada do ônibus (vazio, moderado, lotado) antes que ele chegue ao ponto**, para que **eu possa decidir se embarco neste veículo ou espero o próximo, buscando mais conforto**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir um indicador visual claro de lotação (ex: ícones ou cores) para cada ônibus em tempo real.<br>- Os níveis de lotação devem ser "Vazio", "Moderado" e "Lotado".<br>- A informação de lotação deve estar visível na lista de próximos ônibus do ponto e ao selecionar um veículo no mapa.<br>- O sistema deve possuir uma legenda clara explicando o significado de cada indicador de lotação.<br>- A informação de lotação deve ser atualizada em tempo real com base em sensores no veículo ou dados colaborativos (US19).<br>- Caso a informação não esteja disponível, o sistema deve indicar "Lotação não informada". |
+| **Prioridade:** | Alta |
+
+---
+
+### **US23 - Reportar Lotação do Ônibus (Colaborativo)**
+
+*Autoria: João Ramos, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **R10** - Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) |
+| **Descrição:** | Como **passageiro que está dentro do ônibus**, eu quero **reportar o nível de lotação atual do veículo (vazio, moderado, lotado)**, para que **eu possa contribuir com o sistema colaborativo e ajudar outros passageiros a tomar decisões**. |
+| **Critérios de Aceitação:** | - O sistema deve permitir o reporte de lotação apenas para passageiros que estão próximos ou dentro da rota do veículo (validação por GPS).<br>- O usuário deve poder escolher entre três opções simples: "Vazio", "Moderado", "Lotado".<br>- O reporte deve ser rápido e acessível (ex: 2 cliques).<br>- O sistema deve agregar os reportes recebidos nos últimos minutos para calcular o status de lotação (usado na US18).<br>- O sistema deve limitar a frequência de reportes por usuário/veículo para evitar spam (ex: um reporte a cada 10 minutos por veículo).<br>- O usuário deve receber uma confirmação visual de que seu reporte foi registrado com sucesso. |
+| **Prioridade:** | Média |
+
+---
+
+### **US24 - Receber Alerta de Proximidade do Ônibus**
+
+*Autoria: João Ramos, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF11** - Enviar notificação quando o ônibus estiver a X minutos da parada |
+| **Descrição:** | Como **passageiro aguardando no ponto**, eu quero **definir um alerta para ser notificado quando o ônibus de uma linha específica estiver a X minutos da minha parada**, para que **eu possa me preparar para o embarque sem precisar checar o aplicativo constantemente**. |
+| **Critérios de Aceitação:** | - O usuário deve poder selecionar uma linha e um ponto de parada para ativar o alerta.<br>- O sistema deve permitir que o usuário configure o tempo de antecedência do alerta (ex: 3 min, 5 min, 10 min).<br>- A notificação deve ser enviada como "push notification" no dispositivo móvel.<br>- A notificação deve funcionar mesmo se o aplicativo estiver em segundo plano.<br>- A notificação deve informar claramente a linha e o tempo restante (ex: "Sua linha 108 está a 5 minutos").<br>- O alerta deve ser único (não repetitivo) e ser desativado automaticamente após a notificação ou passagem do veículo.<br>- O usuário deve poder cancelar o alerta a qualquer momento antes de ser disparado. |
+| **Prioridade:** | Alta |
+
+---
+
+### **US25 - Receber Alertas de Alterações no Serviço**
+
+*Autoria: João Ramos, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **R12** - Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários |
+| **Descrição:** | Como **passageiro do transporte público**, eu quero **receber alertas e notificações sobre mudanças inesperadas no serviço, como atrasos significativos, mudanças de rota ou alterações de horário**, para que **eu possa me antecipar a problemas e planejar rotas alternativas**. |
+| **Critérios de Aceitação:** | - O sistema deve enviar notificações "push" para incidentes relevantes (ex: greves, bloqueios de via, desvios longos).<br>- O usuário deve poder configurar se deseja receber alertas de todas as linhas ou apenas de suas "Linhas Favoritas".<br>- Os alertas devem ser claros, indicando a(s) linha(s) afetada(s), o tipo de problema e a região impactada.<br>- O aplicativo deve ter uma seção de "Avisos" ou "Status do Serviço" onde todos os alertas ativos possam ser consultados.<br>- Os alertas devem ser emitidos pela central de controle ou operadora.<br>- A notificação deve ser removida automaticamente quando o problema for resolvido. |
+| **Prioridade:** | Alta |
+
+---
+
+---
+
+### US26 - Consultar Horários e Rotas Salvas Offline
+
+*Autoria: João Ramos, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RFN-11 (RNI05/ENT18/BRS06)** - Funcionamento offline para consulta a rotas salvas e horários |
+| **Descrição:** | Como **passageiro com conexão de internet limitada ou instável**, eu quero **acessar os horários programados das linhas e minhas rotas salvas mesmo estando offline**, para que **eu possa planejar meus deslocamentos essenciais sem depender de uma conexão de dados ativa**. |
+| **Critérios de Aceitação:** | - O aplicativo deve armazenar localmente (cache) a tabela de horários programados (dias úteis, sábados, domingos) de todas as linhas.<br>- O usuário deve poder salvar rotas específicas (criadas no planejador de viagem) para acesso offline.<br>- Ao abrir o app sem internet, o sistema deve entrar em "Modo Offline" e exibir um aviso claro.<br>- No Modo Offline, as funções de tempo real (localização de ônibus, TEC) devem ser desabilitadas.<br>- O usuário deve conseguir pesquisar e visualizar os horários programados de qualquer linha.<br>- O usuário deve conseguir acessar sua lista de "Rotas Salvas" offline.<br>- Os dados offline devem ser atualizados automaticamente em segundo plano quando o app estiver online. |
+| **Prioridade:** | Média |
+
+---
+
+### US27 - Listar Linhas por Ponto de Parada
+
+*Autoria: João Ramos, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF18 (BRS)** - Listar linhas que passam em uma parada específica |
+| **Descrição:** | Como **passageiro em um ponto de ônibus**, eu quero **selecionar uma parada (no mapa ou por pesquisa) e ver uma lista de todas as linhas que passam por ela**, para que **eu possa descobrir rapidamente quais são minhas opções de transporte naquela localização**. |
+| **Critérios de Aceitação:** | - O usuário deve poder clicar em um ícone de ponto de ônibus no mapa para selecioná-lo.<br>- O usuário deve poder pesquisar por um ponto usando seu código ou nome/endereço.<br>- Ao selecionar um ponto, o sistema deve exibir uma lista clara com todas as linhas de ônibus associadas a ele.<br>- A lista deve mostrar o número da linha e seu destino principal.<br>- O sistema deve exibir o Tempo Estimado de Chegada (TEC) dos próximos veículos de cada linha listada (integração com US14).<br>- O usuário deve poder clicar em uma linha da lista para ver seus detalhes (rota completa, horários). |
+| **Prioridade:** | Alta |
+
+---
+
+### US28 - Visualizar Alertas de Trânsito e Rotas Alternativas
+
+*Autoria: João Ramos, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF21 (BRS12)** - Mostrar alertas de trânsito, acidentes e rotas alternativas |
+| **Descrição:** | Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero **ser informado sobre incidentes de trânsito (acidentes, congestionamentos, obras) que afetam as rotas de ônibus**, para que **eu possa entender a causa de atrasos e receber sugestões de rotas alternativas**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir ícones no mapa indicando a localização e o tipo de incidente de trânsito relevante (ex: acidente, obra, via bloqueada).<br>- O planejador de rotas (US15) deve considerar o trânsito em tempo real para calcular o tempo estimado da viagem.<br>- Se um incidente grave impactar uma rota planejada ou favorita, o sistema deve enviar um alerta (similar à US21).<br>- Ao visualizar uma rota impactada por trânsito, o sistema deve recalcular e sugerir rotas alternativas, se disponíveis.<br>- As informações de trânsito devem ser obtidas de uma fonte externa confiável (ex: API de tráfego).<br>- O usuário deve poder tocar em um ícone de incidente para obter mais detalhes. |
+| **Prioridade:** | Média |
+
+---
 ## Referências Bibliográficas
 
 <a id="ref-1"></a>
