@@ -152,9 +152,9 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas | Gabriel Maciel |
-| 1.3 | 21/10 | Adição de US18 ao Épico 5 e US19 ao Épico 3 | Gabriel Maciel | João Gabriel |
 | 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | João Gabriel |
 | 1.2.2 | 20/10 | Adição Épicos 1, 2 e mudança no 7 | João Gabriel | Cauã Nicolas|
+| 1.3 | 21/10 | Adição de US18 e US19 ao Épico 3 | Gabriel Maciel |  |
 
 ## Agradecimentos
 
