@@ -564,6 +564,204 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | **Conflitos** | Pode conflitar com limitações de layout em dispositivos muito pequenos; trade-offs entre detalhe e simplicidade. |
 | **Histórico** | Criado em 21/10/2025 — Autor: Cauã Nicolas |
 
+# SIG Confiabilidade
+
+*Autoria: João Gabriel, 2025*
+
+Os softgoals de confiabilidade foram extraídos dos Requisitos de Confiabilidade (RC01-RC07) definidos na Especificação Suplementar.
+
+![SIG Confiabilidade](../assets/imagens/nfr/Diagrama_Confiabilidade.svg)
+
+<center>
+<font size="3">Figura 09 – Diagrama SIG Confiabilidade.</font>
+</center>
+
+---
+
+#### Softgoals NFR
+
+A **Tabela 10** lista os softgoals NFR principais.
+
+<center>
+<font size="3">Tabela 10 – Softgoals NFR do SIG Confiabilidade.</font>
+</center>
+
+| ID | Softgoal | Descrição |
+|---|---|---|
+| SIG-C01 | Confiabilidade | Garantir operação consistente e resiliente do sistema |
+| SIG-C02 | Disponibilidade | Sistema deve operar sem falhas críticas |
+| SIG-C03 | Tolerância a Falhas | Sistema deve continuar operando mesmo com falhas parciais |
+| SIG-C04 | Recuperabilidade | Capacidade de recuperar dados e restabelecer operação após falhas |
+| SIG-C05 | Estabilidade em Rede Instável | Funcionamento adequado em condições de conectividade intermitente |
+| SIG-C06 | Atomicidade | Transações completadas integralmente ou revertidas sem estados parciais |
+| SIG-C07 | Monitoramento | Sistema deve detectar e reportar falhas automaticamente |
+| SIG-C08 | Consistência de Dados | Dados devem permanecer consistentes entre sessões e dispositivos |
+
+---
+
+#### Softgoals de Operacionalização
+
+**Tabela 11** - Tabela de Especificação de Softgoals de Operacionalização do SIG Confiabilidade
+
+<center>
+<font size="3">Tabela 11 – Softgoals de Operacionalização do SIG Confiabilidade.</font>
+</center>
+
+| ID | Operacionalização | Softgoal Pai | Descrição |
+|---|---|---|---|
+| OP-C01 | Sem Falhas Críticas | SIG-C02 | Implementar tratamento robusto para evitar falhas que impeçam uso do sistema |
+| OP-C02 | Continuidade com Falhas Parciais | SIG-C03 | Manter funcionalidades essenciais mesmo com falhas em serviços secundários |
+| OP-C03 | Recuperação de Dados | SIG-C04 | Restaurar dados e operação após falhas do sistema |
+| OP-C04 | Transações Resilientes | SIG-C05, SIG-C06 | Garantir atomicidade mesmo em condições de rede instável |
+| OP-C05 | Consistência entre Dispositivos | SIG-C08 | Sincronizar dados entre diferentes sessões e dispositivos |
+| OP-C06 | Reporte Automático de Logs | SIG-C07 | Detectar e registrar falhas automaticamente para análise |
+| OP-C07 | Reporte Manual por Usuário | SIG-C07 | Permitir que usuários reportem erros observados manualmente |
+
+---
+
+#### Softgoals de Afirmação
+
+A **Tabela 12** especifica os softgoals de afirmação.
+
+<center>
+<font size="3">Tabela 12 – Softgoals de Afirmação do SIG Confiabilidade.</font>
+</center>
+
+| ID | Afirmação | Softgoal Pai | Descrição |
+|---|---|---|---|
+| AF-C01 | Confiança do Usuário | SIG-C02, SIG-C03 | Usuários confiam no sistema para deslocamentos críticos |
+| AF-C02 | Experiência Consistente | SIG-C04, SIG-C08 | Experiência uniforme independente de condições externas |
+| AF-C03 | Resiliência Operacional | SIG-C05, SIG-C06 | Sistema mantém operação em cenários adversos |
+
+---
+
+#### Rastreabilidade
+
+<center>
+<font size="3">Tabela 13 – Rastreabilidade dos Softgoals do SIG Confiabilidade.</font>
+</center>
+
+| Softgoal | Requisito Origem | Descendentes |
+|---|---|---|
+| SIG-C01 | RC01, RC02, RC03, RC04, RC05, RC06, RC07 | SIG-C02, SIG-C03, SIG-C04, SIG-C05, SIG-C06, SIG-C07, SIG-C08 |
+| SIG-C02 | RC01 | OP-C01, AF-C01 |
+| SIG-C03 | RC02 | OP-C02, AF-C01 |
+| SIG-C04 | RC03 | OP-C03, AF-C02 |
+| SIG-C05 | RC04 | OP-C04, AF-C03 |
+| SIG-C06 | RC05 | OP-C04, AF-C03 |
+| SIG-C07 | RC06 | OP-C06, OP-C07 |
+| SIG-C08 | RC07 | OP-C05, AF-C02 |
+
+---
+
+### Cartão de Especificação de Requisitos Não-Funcionais do SIG Confiabilidade
+
+#### RC01 - Operação sem Falhas Críticas
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RC01 / RNF16 |
+| **Classificação** | Requisito Não-Funcional de Confiabilidade - Disponibilidade |
+| **Descrição** | Sistema deve operar sem falhas críticas que impeçam o uso das funcionalidades principais |
+| **Justificativa** | Garantir que usuários possam confiar no sistema para planejamento de deslocamentos essenciais |
+| **Origem** | Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade |
+| **Critério de Ajuste** | Uptime ≥ 99.5%; Zero falhas críticas em produção; MTBF ≥ 720 horas |
+| **Dependências** | RF01, RF02, RF35 |
+| **Prioridade** | 10 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
+
+#### RC02 - Operação com Falhas Parciais
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RC02 / RNF17 |
+| **Classificação** | Requisito Não-Funcional de Confiabilidade - Tolerância a Falhas |
+| **Descrição** | O sistema deve continuar operando mesmo com falhas parciais em serviços secundários |
+| **Justificativa** | Manter funcionalidades críticas disponíveis mesmo quando serviços auxiliares falharem |
+| **Origem** | Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade |
+| **Critério de Ajuste** | Funcionalidades principais disponíveis com ≤ 1 serviço secundário offline; Degradação graciosa implementada |
+| **Dependências** | RF13, RF14, RF15 |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
+
+#### RC03 - Recuperação de Dados
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RC03 / RNF18 |
+| **Classificação** | Requisito Não-Funcional de Confiabilidade - Recuperabilidade |
+| **Descrição** | Capacidade de recuperar dados e restabelecer operação após falhas |
+| **Justificativa** | Proteger dados do usuário contra perda e garantir rápida recuperação do sistema |
+| **Origem** | Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade |
+| **Critério de Ajuste** | RTO ≤ 1 hora; RPO ≤ 15 minutos; Backup automático a cada 24 horas |
+| **Dependências** | RF15, RF24 |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
+
+#### RC04 - Funcionamento com Rede Instável
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RC04 / RNF19 |
+| **Classificação** | Requisito Não-Funcional de Confiabilidade - Estabilidade |
+| **Descrição** | Funcionamento adequado em condições de rede instável com conectividade intermitente |
+| **Justificativa** | Garantir usabilidade em áreas com cobertura irregular de internet |
+| **Origem** | Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade |
+| **Critério de Ajuste** | Funcionalidades offline disponíveis; Sincronização automática ao reconectar; Cache local de 48 horas |
+| **Dependências** | RNF11, RF04, RF05 |
+| **Prioridade** | 8 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
+
+#### RC05 - Atomicidade de Transações
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RC05 / RNF20 |
+| **Classificação** | Requisito Não-Funcional de Confiabilidade - Atomicidade |
+| **Descrição** | Transações devem ser completadas integralmente ou revertidas sem estados parciais |
+| **Justificativa** | Evitar situações de inconsistência financeira e dados corrompidos |
+| **Origem** | Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade |
+| **Critério de Ajuste** | 100% das transações atômicas; Rollback automático em falhas; Log de todas as operações |
+| **Dependências** | RF13, RF14 |
+| **Prioridade** | 10 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
+
+#### RC06 - Detecção e Reporte de Falhas
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RC06 / RNF21 |
+| **Classificação** | Requisito Não-Funcional de Confiabilidade - Monitoramento |
+| **Descrição** | Sistema deve detectar e reportar falhas automaticamente em logs |
+| **Justificativa** | Permitir identificação e correção proativa de problemas |
+| **Origem** | Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade |
+| **Critério de Ajuste** | Logging centralizado; Alertas automáticos para falhas críticas; Dashboard de monitoramento |
+| **Dependências** | Todos os requisitos funcionais |
+| **Prioridade** | 7 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
+
+#### RC07 - Consistência de Dados
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RC07 / RNF22 |
+| **Classificação** | Requisito Não-Funcional de Confiabilidade - Consistência |
+| **Descrição** | Dados devem permanecer consistentes entre diferentes sessões e dispositivos |
+| **Justificativa** | Garantir experiência uniforme independente do dispositivo de acesso |
+| **Origem** | Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade |
+| **Critério de Ajuste** | Sincronização em tempo real; Resolução de conflitos; Consistência eventual ≤ 5 segundos |
+| **Dependências** | RF15, RF24, RF37 |
+| **Prioridade** | 8 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
+
+---
 
 ## Referência bibliográfica 
 
@@ -595,6 +793,7 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | 1.3 | 20/10 | Adição do SIG Acessibilidade | Fernanda vaz  | Gabriel Maciel |
 | 1.4 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Desempenho | Gabriel Maciel | Cauã Nicolas |
 | 1.5 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Portabilidade | Cauã Nicolas | Gabriel Maciel |
+| 1.6 | 21/10 | Adição Seção de Confiabilidade | João Gabriel | João Lucas |
 
 ---
 
