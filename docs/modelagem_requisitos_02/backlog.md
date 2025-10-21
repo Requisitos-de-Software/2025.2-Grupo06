@@ -166,6 +166,7 @@ Tem como objetivo gerenciar a identidade, autenticação e preferências dos usu
 | 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | Cauã Nicolas |
 | 1.5 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
 | 1.6 | 21/10 | Adição de US29 e US15 ao Épico 7 | João Gabriel | João Lucas |
+| 1.7 | 21/10 | Adição de itens aos Épicos 2, 3 e 7 | João Lucas | João Gabriel |
 
 ## Agradecimentos
 

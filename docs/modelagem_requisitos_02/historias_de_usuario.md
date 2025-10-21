@@ -443,6 +443,7 @@ _Autoria: João Gabriel, 2025_
 | 1.3 | 21/10 | Adição de Histórias de Usuário de US18 e US19 | Gabriel Maciel | João Gabriel |
 | 1.4 | 21/10 | Adição de Histórias de Usuário de US20 e US21 | Cauã Nicolas | Gabriel Maciel |
 | 1.5 | 21/10 | Adição de Histórias de Usuário de US29 | João Gabriel | Gabriel Maciel |
+| 1.5 | 21/10 | Adição de Histórias de Usuário de USS 22, US23, US24, US25, US26, US27 e US28 | João Lucas | Gabriel Maciel |
 
 
 ---
