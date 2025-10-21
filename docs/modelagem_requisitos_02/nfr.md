@@ -34,6 +34,8 @@ O Cartão de Especificação de Requisitos segue o padrão utilizado no NFR Fram
 | **Conflitos** | Requisitos conflitantes com este |
 | **Histórico** | Data de criação e de modificações |
 
+##### PRINT
+<a href="https://ibb.co/QqScJ5N"><img src="https://i.ibb.co/2LV6Fbt/image.png" alt="image" border="0"></a>
 ---
 
 ### Tipos de Softgoal
