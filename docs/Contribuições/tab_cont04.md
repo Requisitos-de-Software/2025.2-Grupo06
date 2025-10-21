@@ -36,4 +36,4 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 | Versão | Data       | Descrição                          | Autor(es)       | Revisor(es)          |
 |--------|------------|------------------------------------|----------------|---------------------|
 | 1.0    | 08/10/2025 | Criação da tabela de Contribuição  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Gabriel](https://github.com/JoaoComTil), [João Lucas](https://github.com/Joaolramos) |
-| 1.1 | 20/10/2025 | Registro parcial de atividades executadas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | |
+| 1.1 | 20/10/2025 | Registro parcial de atividades executadas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | Cauã Nicolas |
