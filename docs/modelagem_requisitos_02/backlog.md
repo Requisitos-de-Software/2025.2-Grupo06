@@ -143,7 +143,7 @@ Tem como objetivo gerenciar a identidade, autenticação e preferências dos usu
 |---|---|---|---|---|
 | **US30** | Como **usuário do aplicativo**, eu quero **criar uma conta e fazer login de forma segura**, para que **eu possa acessar funcionalidades personalizadas como favoritos, histórico de viagens, recargas e avaliações**. | Alta | **RF37** - Permitir cadastro, login e autenticação de usuários no sistema | João Gabriel |
 
-### Épico 10: Sustentabilidade e Impacto Ambiental
+### Épico 09: Sustentabilidade e Impacto Ambiental
 
 Tem como objetivo promover a conscientização ambiental dos usuários do aplicativo **DF no Ponto**, incentivando o uso contínuo do transporte público por meio da exibição de relatórios sobre a redução das emissões de CO₂.  
 Essas funcionalidades visam destacar a contribuição ecológica individual e coletiva dos passageiros, fortalecendo o engajamento com práticas sustentáveis e reforçando o compromisso do sistema com a mobilidade urbana verde.
