@@ -71,11 +71,13 @@ Tem como objetivo facilitar a localização de linhas, rotas e opções de trans
 
 ### Épico 3: Acessibilidade
 
-Tem como objetivo garantir que o sistema atenda às necessidades de todos os usuários, especialmente aqueles com necessidades especiais.
+Tem como objetivo garantir que o sistema atenda às necessidades de todos os usuários, especialmente aqueles com necessidades especiais, oferecendo alternativas de acesso, múltiplos idiomas e interfaces acessíveis para facilitar a interação.
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US02** | Como **passageiro aguardando no ponto de ônibus**, eu quero **acessar uma versão web leve do aplicativo através de QR Code**, para que **eu possa consultar informações sobre linhas e horários rapidamente sem precisar instalar o aplicativo completo no meu dispositivo**. | Média | **RF19/BRS17** - Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | Gabriel Maciel |
+| **US18** | Como **usuário do transporte público**, eu quero **utilizar assistentes virtuais como Alexa ou Google Assistant para acessar informações de ônibus**, para que **eu possa consultar horários, localização de ônibus e planejar viagens sem precisar abrir o aplicativo manualmente**. | Baixa | **RF34/BRS16** - Integração com assistentes virtuais (Alexa, Google Assistant) | Gabriel Maciel |
+| **US19** | Como **usuário que não fala português ou turista visitando o Distrito Federal**, eu quero **utilizar o aplicativo em diferentes idiomas, especialmente em português e inglês**, para que **eu possa compreender facilmente todas as informações sobre linhas, horários e navegação no aplicativo**. | Média | **RF36/ENT22** - Oferecer suporte multilíngue (português e inglês, no mínimo) | Gabriel Maciel |
 
 ---
 
@@ -131,6 +133,8 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | **US07** | Como **passageiro que deseja planejar sua rota**, eu quero **visualizar e integrar informações de diferentes modais de transporte (metrô, ônibus de outras empresas, etc.) no planejamento de rotas**, para que **eu possa escolher a melhor combinação de transportes para chegar ao meu destino**. | Média | **RF07** - Integrar informações de outros modais de transporte | Fernanda Vaz |
 | **US08** | Como **passageiro com mobilidade reduzida**, eu quero **visualizar se o ônibus é acessível para cadeirantes e outras necessidades especiais**, para que **eu possa planejar meu deslocamento com segurança e conforto**. | Alta | **RF08** - Exibir informações de acessibilidade dos veículos | Fernanda Vaz |
 
+---
+
 ## Referência bibliográfica
 
 <a id="ref-1"></a>
@@ -148,6 +152,7 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia, Épicos e Histórias de Usuário | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas | Gabriel Maciel |
+| 1.3 | 21/10 | Adição de US18 ao Épico 5 e US19 ao Épico 3 | Gabriel Maciel | João Gabriel |
 | 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | João Gabriel |
 | 1.2.2 | 20/10 | Adição Épicos 1, 2 e mudança no 7 | João Gabriel | Cauã Nicolas|
 
