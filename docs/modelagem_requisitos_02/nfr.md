@@ -15,6 +15,25 @@ O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem utili
 ## Softgoal Interdependency Graph
 Segundo Reinaldo Antônio <sup>[1](#ref-1)</sup> o "Softgoal Interdependency Graph" (SIG) é um gráfico que registra as análises do desenvolvedor sobre os softgoals (objetivos não-funcionais) e mostra como eles dependem uns dos outros. Essencialmente, os SIGs armazenam todo o histórico das decisões de desenvolvimento e a lógica do projeto de forma visual e resumida.
 
+Conforme Silva <sup>[1](#ref-1)</sup>, após a construção de uma taxonomia de Requisitos Não-Funcionais, é iniciada a criação de um Catálogo de RNFs, organizando todos os requisitos encontrados com suas definições, atributos, restrições e exemplos. Nesta etapa é realizada a construção de um grafo de Interdependência de Softgoal - Softgoal Interdependency Graph (SIG) com os Requisitos Não-Funcionais, adotando a notação do NFR Framework proposto por Chung et al. (2000). Além disso, para a documentação detalhada dos requisitos, adota-se o Cartão de Especificação baseado no cartão (snowcard) do processo Volere (Robertson; Robertson, 2012), que permite a escrita de exemplos do catálogo em um contexto real do sistema. Este cartão foi utilizado por se adequar bem à abordagem de análise de requisitos não-funcionais e por ser bastante utilizado no meio acadêmico.
+
+### Cartão de Especificação de Requisitos
+
+O Cartão de Especificação de Requisitos segue o padrão utilizado no NFR Framework para documentação detalhada de cada requisito não-funcional. Este cartão, baseado no processo Volere, estrutura-se com os seguintes campos:
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | Um número sequencial para identificar o requisito |
+| **Classificação** | Classificação do tipo de requisito |
+| **Descrição** | Declaração única do significado do requisito |
+| **Justificativa** | Justificativa sobre a criação do requisito |
+| **Origem** | Origem do requisito (stakeholder, norma técnica, etc.) |
+| **Critério de Ajuste** | Métrica do requisito que possa ser testada e que deve ser satisfeita |
+| **Dependências** | Requisitos relacionados a este |
+| **Prioridade** | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10) |
+| **Conflitos** | Requisitos conflitantes com este |
+| **Histórico** | Data de criação e de modificações |
+
 ---
 
 ### Tipos de Softgoal
@@ -95,6 +114,10 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 ---
 
 ### Especificação dos Softgoals do SIG Usabilidade
+
+Cartão de Especificação
+
+
 
 #### Softgoals NFR
 
@@ -228,6 +251,70 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ---
 
+### Cartão de Especificação de Requisitos Não-Funcionais do SIG Desempenho
+
+#### RD01 - Rastreamento de Veículos em Tempo Real
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RD01 / RNF03 |
+| **Classificação** | Requisito Não-Funcional de Desempenho |
+| **Descrição** | O sistema deve rastrear a localização de ônibus em tempo real com latência máxima de 20 segundos entre atualizações. |
+| **Justificativa** | Essencial para que passageiros recebam informações precisas sobre a proximidade de ônibus, permitindo melhor planejamento de trajetos. |
+| **Origem** | Elicitação de Requisitos: Entrevista (ENT09, ENT13) |
+| **Critério de Ajuste** | Latência máxima de 20 segundos; precisão de localização de ±50 metros. |
+| **Dependências** | RF35, RD04 |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 |
+
+#### RD02 - Tempo de Carregamento Rápido
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RD02 / RNF06 |
+| **Classificação** | Requisito Não-Funcional de Desempenho |
+| **Descrição** | A interface mobile da aplicação deve ser carregada em no máximo 3 segundos em conexões 4G. |
+| **Justificativa** | Melhor experiência do usuário e redução de abandono de uso do aplicativo devido a lentidão. |
+| **Origem** | Elicitação de Requisitos: Entrevista (ENT17) |
+| **Critério de Ajuste** | Tempo de carregamento ≤ 3 segundos; testado em dispositivos com conexão 3G/4G. |
+| **Dependências** | OP-D02, RD03 |
+| **Prioridade** | 8 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 |
+
+#### RD03 - Consumo Eficiente de Bateria e Dados
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RD03 / RNF10 |
+| **Classificação** | Requisito Não-Funcional de Desempenho |
+| **Descrição** | O sistema deve suportar pelo menos 10.000 usuários simultâneos com tempo de resposta menor que 2 segundos. |
+| **Justificativa** | Permitir acesso a usuários com dispositivos antigos ou com planos de dados limitados, expandindo o alcance do sistema. |
+| **Origem** | Elicitação de Requisitos: Análise de Documentos |
+| **Critério de Ajuste** | Consumo de bateria ≤ 5% por hora em uso ativo; tamanho do app ≤ 50MB. |
+| **Dependências** | OP-D03, OP-D04, OP-D05 |
+| **Prioridade** | 7 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 |
+
+#### RD04 - Suporte a Múltiplos Usuários Simultâneos
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RD04 / RNF14 |
+| **Classificação** | Requisito Não-Funcional de Desempenho |
+| **Descrição** | Os dados de localização de ônibus devem ser sincronizados com o servidor em tempo real, com no máximo 15 segundos de latência. |
+| **Justificativa** | Garantir que o sistema mantenha a qualidade de serviço mesmo durante picos de uso, como horários de pico de deslocamento. |
+| **Origem** | Elicitação de Requisitos: Brainstorm (BRS15) |
+| **Critério de Ajuste** | Suportar ≥ 10.000 usuários simultâneos; tempo de resposta ≤ 2 segundos mesmo em carga máxima. |
+| **Dependências** | OP-D06, OP-D07, RD01, RD02 |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 |
+
+---
+
 ## SIG Portabilidade/Compatibilidade
 
 *Autoria: Cauã Nicolas, 2025.*
@@ -268,11 +355,12 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 | 1.1 | 20/10 | Adição do SIG Desempenho | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 20/10 | Adição do SIG Portabilidade | Cauã Nicolas |  |
 | 1.3 | 20/10 | Adição do SIG Acessibilidade | Fernanda vaz  | — |
+| 1.4 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Desemepnho | Gabriel Maciel | |
 ---
 
 ## Agradecimentos
 
->>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho.  
+Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho.  
 Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística, bem como na formatação e estruturação das tabelas e figuras.  
 Os autores assumem total responsabilidade pelo conteúdo e originalidade do trabalho.  
 A ferramenta **não figura como autora desta publicação**.
