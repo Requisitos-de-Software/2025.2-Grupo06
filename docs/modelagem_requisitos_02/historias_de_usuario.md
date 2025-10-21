@@ -453,6 +453,58 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
+## **US33 - Exibir Preço da Passagem por Linha ou Trajeto**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF17** - Exibir preço da passagem por linha ou trajeto |
+| **Descrição:** | Como **passageiro que utiliza o transporte público**, eu quero **visualizar o preço da passagem de cada linha ou trajeto**, para que **eu possa planejar meus gastos e comparar opções de transporte antes de embarcar**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir o preço da passagem junto às informações da linha e rota.<br>- Os valores devem ser atualizados automaticamente conforme ajustes tarifários oficiais.<br>- O sistema deve indicar claramente se há integrações ou descontos aplicáveis.<br>- O preço deve aparecer tanto na visualização de linhas quanto no planejador de rotas.<br>- O aplicativo deve informar a data da última atualização tarifária.<br>- O usuário deve poder acessar uma tabela completa de tarifas por região e empresa operadora. |
+| **Prioridade:** | Média |
+
+---
+
+## **US34 - Botão de Pânico/Emergência para Alertar Motorista e/ou Autoridades**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF20** - Botão de pânico/emergência para alertar motorista e/ou autoridades |
+| **Descrição:** | Como **passageiro em situação de emergência dentro do ônibus**, eu quero **acessar rapidamente um botão de pânico no aplicativo**, para que **eu possa alertar o motorista e/ou as autoridades competentes de forma discreta e segura**. |
+| **Critérios de Aceitação:** | - O aplicativo deve disponibilizar um botão de pânico acessível na tela principal.<br>- O acionamento deve gerar alerta imediato para o motorista e a central de controle.<br>- O sistema deve enviar a localização exata do ônibus e do passageiro no momento do alerta.<br>- O alerta deve ser discreto, sem emitir som ou vibração visível.<br>- O sistema deve registrar o evento com data, hora e identificação do veículo.<br>- Deve haver confirmação visual de que o alerta foi enviado com sucesso.<br>- O botão deve possuir mecanismos para evitar acionamentos acidentais (ex: confirmação dupla). |
+| **Prioridade:** | Alta |
+
+---
+
+## **US35 - Permitir Compartilhar Trajeto em Tempo Real com Outros Usuários**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF22** - Permitir compartilhar trajeto em tempo real com outros usuários |
+| **Descrição:** | Como **passageiro em deslocamento**, eu quero **compartilhar meu trajeto em tempo real com familiares ou amigos**, para que **eles possam acompanhar meu percurso e saber quando cheguei em segurança ao destino**. |
+| **Critérios de Aceitação:** | - O sistema deve permitir o compartilhamento de localização via link (WhatsApp, SMS, e-mail etc.).<br>- O link deve permitir que terceiros visualizem o trajeto atual e o tempo estimado de chegada.<br>- O usuário deve poder encerrar o compartilhamento a qualquer momento.<br>- O sistema deve indicar quando o compartilhamento estiver ativo.<br>- A funcionalidade deve funcionar em segundo plano.<br>- O compartilhamento deve expirar automaticamente após o término da viagem ou tempo limite configurado (ex: 1 hora). |
+| **Prioridade:** | Alta |
+
+---
+
+## **US36 - Suporte a Comandos de Voz para Facilitar Interação Durante Deslocamentos**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF33** - Suporte a comandos de voz para facilitar interação durante deslocamentos |
+| **Descrição:** | Como **passageiro em deslocamento**, eu quero **utilizar comandos de voz para acessar informações do aplicativo**, para que **eu possa interagir com o sistema de forma segura e prática sem precisar tocar no celular**. |
+| **Critérios de Aceitação:** | - O sistema deve reconhecer comandos de voz para ações comuns (ex: "mostrar tempo de chegada", "linha 108", "favoritos").<br>- Os comandos de voz devem funcionar mesmo com o aplicativo em segundo plano.<br>- O aplicativo deve responder por áudio e/ou texto conforme a configuração do usuário.<br>- O reconhecimento de voz deve funcionar offline para comandos básicos.<br>- O sistema deve suportar diferentes sotaques e variações da língua portuguesa.<br>- Deve haver um botão dedicado para ativar/desativar a função de voz.<br>- O aplicativo deve garantir privacidade e não gravar comandos sem autorização explícita. |
+| **Prioridade:** | Média |
+
+---
+
 ## Referências Bibliográficas
 
 <a id="ref-1"></a>
@@ -478,6 +530,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | 1.6 | 21/10 | Adição de Histórias de Usuário de US05 até US10 | Fernanda Vaz | João Gabriel |
 | 1.7 | 21/10 | Adição de Histórias de Usuário de US24 até US30 | João Ramos | Fernanda Vaz |
 | 1.8 | 21/10 | Adição de Histórias de Usuário de US31 e US32 | João Gabriel | Gabriel Maciel |
+| 1.9 | 21/10 | Adição das Histórias de Usuário de US31 a US34 | Daniel Nunes Duarte | --------- |
 
 ---
 
