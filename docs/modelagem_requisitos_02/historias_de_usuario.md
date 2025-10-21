@@ -278,6 +278,31 @@ _Autoria: João Gabriel, 2025_
 
 ---
 
+### **US20 - Permitir favoritar linhas ou paradas para acesso rápido**
+
+*Autoria: Cauã Nicolas, 2025*
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF24 – Permitir favoritar linhas ou paradas para acesso rápido. |
+| **Descrição:** | Como **usuário que utiliza frequentemente determinadas linhas de ônibus**, eu quero **poder favoritar linhas ou paradas específicas**, para que eu **consiga acessá-las rapidamente sem precisar pesquisar toda vez**. |
+| **Critérios de Aceitação:** | - O usuário deve conseguir favoritar uma linha ou parada com apenas um toque.<br>- As linhas e paradas favoritas devem aparecer em uma seção dedicada ("Favoritos").<br>- Deve ser possível desfavoritar uma linha ou parada a qualquer momento.<br>- As informações favoritas devem permanecer salvas entre sessões do aplicativo.<br> |
+| **Prioridade:** | Média |
+
+---
+
+### **US21 - Ampliar a cobertura e exibir informações em regiões afastadas do DF**
+
+*Autoria: Cauã Nicolas, 2025*
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RS25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal. |
+| **Descrição:** | Como **usuário que mora em áreas afastadas do Distrito Federal**, eu quero **ter acesso às informações de linhas e horários de ônibus da minha região**, para que eu possa **planejar minhas viagens com a mesma praticidade que os usuários das regiões centrais**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir linhas e horários que atendem regiões mais afastadas do DF.<br>- As informações de localização e tempo estimado de chegada devem funcionar nessas áreas.<br>- A cobertura deve incluir pelo menos as principais paradas e rotas de regiões periféricas.<br>- Deve haver atualização automática quando novas linhas forem adicionadas.<br> |
+| **Prioridade:** | Média |
+
+---
 
 ## Referências Bibliográficas
 
@@ -300,6 +325,8 @@ _Autoria: João Gabriel, 2025_
 | 1.2 | 19/10 | Adição de Histórias de Usuário de US09 até US12 | Cauã Nicolas | Gabriel Maciel |
 | 1.2 | 19/10 | Adição de Histórias de Usuário de US13 até US17 | João Gabriel | Cauã Nicolas |
 | 1.3 | 21/10 | Adição de Histórias de Usuário de US18 e US19 | Gabriel Maciel | João Gabriel |
+| 1.4 | 21/10 | Adição de Histórias de Usuário de US20 e US21 | Cauã Nicolas | Gabriel Maciel |
+
 
 ---
 
