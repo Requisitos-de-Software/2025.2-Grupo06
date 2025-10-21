@@ -46,6 +46,7 @@ Cada requisito está vinculado à técnica de elicitação que o originou, permi
 | RF34  | Integração com assistentes virtuais (Alexa, Google Assistant)                               | Funcional      | Elicitação de Requisitos: Brainstorm (BRS16) |
 | RF35  | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa                 | Funcional      | Elicitação de Requisitos: Entrevista (ENT12) |
 | RF36  | Oferecer suporte multilíngue (português e inglês, no mínimo)                                | Funcional      | Elicitação de Requisitos: Entrevista (ENT22) |
+| RF37  | Permitir cadastro, login e autenticação de usuários no sistema                              | Funcional      | Elicitação de Requisitos: Brainstorm (BRS18) |
 | RNF01 | As informações de horários e localização dos ônibus devem ser precisas.                     | Não Funcional  | Elicitação de Requisitos: Entrevista (ENT09) |
 | RNF02 | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas.                      | Não Funcional  | Elicitação de Requisitos: Entrevista (ENT13) |
 | RNF03 | Tempo de atualização da localização ≤ 20 segundos.                                          | Não Funcional  | |

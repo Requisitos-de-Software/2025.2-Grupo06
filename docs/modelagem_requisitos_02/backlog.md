@@ -135,6 +135,14 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 
 ---
 
+### Épico 8: Gestão de Usuário e Conta
+
+Tem como objetivo gerenciar a identidade, autenticação e preferências dos usuários no sistema, proporcionando experiência personalizada e segura.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+|---|---|---|---|---|
+| **US30** | Como **usuário do aplicativo**, eu quero **criar uma conta e fazer login de forma segura**, para que **eu possa acessar funcionalidades personalizadas como favoritos, histórico de viagens, recargas e avaliações**. | Alta | **RF37** - Permitir cadastro, login e autenticação de usuários no sistema | João Gabriel |
+
 ## Referência bibliográfica
 
 <a id="ref-1"></a>
@@ -156,7 +164,8 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | 1.2.2 | 20/10 | Adição Épicos 1, 2 e mudança no 7 | João Gabriel | Cauã Nicolas|
 | 1.3 | 21/10 | Adição de US18 e US19 ao Épico 3 | Gabriel Maciel | Cauã Nicolas |
 | 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | Cauã Nicolas |
-| 1.3 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
+| 1.5 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
+| 1.6 | 21/10 | Adição de US29 e US15 ao Épico 7 | João Gabriel | João Lucas |
 
 ## Agradecimentos
 
