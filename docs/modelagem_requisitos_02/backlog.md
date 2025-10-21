@@ -87,6 +87,9 @@ Tem como objetivo garantir que o sistema atenda às necessidades de todos os usu
 | **US20** | Como **usuário que utiliza frequentemente determinadas linhas de ônibus**, eu quero **poder favoritar linhas ou paradas específicas**, para que eu **consiga acessá-las rapidamente sem precisar pesquisar toda vez**. | Média | **RF24** - Permitir favoritar linhas ou paradas para acesso rápido | Cauã Nicolas |
 | **US21** | Como **usuário que mora em áreas afastadas do Distrito Federal**, eu quero **ter acesso às informações de linhas e horários de ônibus da minha região**, para que eu **possa planejar minhas viagens com a mesma praticidade que os usuários das regiões centrais**. | Média | **RF25** - Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Cauã Nicolas |
 US26|Como **passageiro com conexão de internet limitada ou instável**, eu quero **acessar os horários programados das linhas e minhas rotas salvas mesmo estando offline**, para que **eu possa planejar meus deslocamentos essenciais sem depender de uma conexão de dados ativa**.|Média|**RFN-11 (RNI05/ENT18/BRS06)** - Funcionamento offline para consulta a rotas salvas e horários|João Ramos
+| **US34** | Como **passageiro em deslocamento**, eu quero **utilizar comandos de voz para acessar informações do aplicativo**, para que **eu possa interagir com o sistema de forma segura e prática sem precisar tocar no celular**. | Média | **RF33** - Suporte a comandos de voz para facilitar interação durante deslocamentos | Daniel Nunes Duarte |
+
+
 ---
 
 ### Épico 4: Avaliar e Reportar
@@ -132,6 +135,8 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | **US28** | Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero **ser informado sobre incidentes de trânsito (acidentes, congestionamentos, obras) que afetam as rotas de ônibus**, para que **eu possa entender a causa de atrasos e receber sugestões de rotas alternativas**. | Média | **RF21 (BRS12)** - Mostrar alertas de trânsito, acidentes e rotas alternativas | João Ramos |
 | **US15** | Como **passageiro que precisa se deslocar pela cidade**, eu quero **planejar uma viagem informando meu ponto de origem e destino para receber rotas sugeridas de ônibus**, para que **eu possa encontrar a melhor opção de itinerário, mesmo em rotas que não conheço**. | Alta | **RF03/ANADOC** - Permitir planejamento de viagem (origem → destino) com rotas sugeridas | João Gabriel |
 | **US29** | Como **passageiro que depende de horários precisos**, eu quero **receber previsões inteligentes de horários de chegada baseadas em dados históricos e machine learning**, para que **eu possa evitar esperas longas nos pontos, especialmente em horários noturnos, e ter mais segurança e confiança no transporte público**. | Média | **RF30/BRS02** - Previsão inteligente de horários baseada em dados históricos e machine learning | João Gabriel |
+| **US31** | Como **passageiro que utiliza o transporte público**, eu quero **visualizar o preço da passagem de cada linha ou trajeto**, para que **eu possa planejar meus gastos e comparar opções de transporte antes de embarcar**. | Média | **RF17** - Exibir preço da passagem por linha ou trajeto | Daniel Nunes Duarte |
+| **US35** | Como **usuário do transporte público**, eu quero **visualizar todos os veículos que estão em operação no momento**, para que **eu possa saber quais linhas estão ativas e planejar meus deslocamentos com base na disponibilidade real do serviço**. | Alta | **RF27** - Visualizar quais veículos estão em operação no momento | Daniel Nunes Duarte |
 
 ---
 
