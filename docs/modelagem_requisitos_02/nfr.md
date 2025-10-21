@@ -229,6 +229,7 @@ A **Tabela 05** lista os softgoals NFR principais.
 | OP-D05 | Tamanho Compacto da Aplicação | SIG-D03 | Manter o tamanho do aplicativo reduzido para economizar espaço de armazenamento em dispositivos com recursos limitados. |
 | OP-D06 | Cache de Informações | SIG-D04 | Armazenar dados de linhas, paradas e horários localmente para reduzir carga de requisições ao servidor. |
 | OP-D07 | Servidor Responsivo | SIG-D04 | Manter infraestrutura de servidor estável e responsiva para processar múltiplas requisições simultâneas de rastreamento e consulta. |
+
 ---
 
 #### Softgoals de Afirmação
@@ -276,7 +277,7 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | **Dependências** | RF35, RD04 |
 | **Prioridade** | 9 |
 | **Conflitos** | Nenhum |
-| **Histórico** | Criado em 21/10/2025 |
+| **Histórico** | Criado em 21/10/2025 — Autor: Gabriel Maciel |
 
 #### RD02 - Tempo de Carregamento Rápido
 
@@ -291,7 +292,7 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | **Dependências** | OP-D02, RD03 |
 | **Prioridade** | 8 |
 | **Conflitos** | Nenhum |
-| **Histórico** | Criado em 21/10/2025 |
+| **Histórico** | Criado em 21/10/2025 — Autor: Gabriel Maciel |
 
 #### RD03 - Consumo Eficiente de Bateria e Dados
 
@@ -306,7 +307,7 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | **Dependências** | OP-D03, OP-D04, OP-D05 |
 | **Prioridade** | 7 |
 | **Conflitos** | Nenhum |
-| **Histórico** | Criado em 21/10/2025 |
+| **Histórico** | Criado em 21/10/2025 — Autor: Gabriel Maciel |
 
 #### RD04 - Suporte a Múltiplos Usuários Simultâneos
 
@@ -321,7 +322,7 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | **Dependências** | OP-D06, OP-D07, RD01, RD02 |
 | **Prioridade** | 9 |
 | **Conflitos** | Nenhum |
-| **Histórico** | Criado em 21/10/2025 |
+| **Histórico** | Criado em 21/10/2025  — Autor: Gabriel Maciel |
 
 ---
 
@@ -336,6 +337,84 @@ A **Tabela 07** especifica os softgoals de afirmação.
 </center>
 
 ---
+
+### Cartão de Especificação de Requisitos Não-Funcionais do SIG Portabilidade
+
+#### RS01 - Funcionalidade e Responsividade em Navegadores Móveis
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RS01 |
+| **Classificação** | Requisito do Sistema (Funcionalidade / Usabilidade) |
+| **Descrição** | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis (celulares). |
+| **Justificativa** | Garantir acesso amplo sem necessidade de instalação e assegurar boa experiência em dispositivos móveis. |
+| **Origem** | Documento de requisitos / Entrevistas (RFxx) |
+| **Critério de Ajuste** | - Layout adaptativo em telas de 320px a 1080px.<br>- Elementos interativos acessíveis e tocáveis conforme WCAG; testes em 3 navegadores móveis principais. |
+| **Dependências** | Depende de práticas de CSS responsivo, frameworks front-end e testes de usabilidade. |
+| **Prioridade** | 9 |
+| **Conflitos** | Pode conflitar com requisitos de desempenho se renderização for pesada. |
+| **Histórico** | Criado em 21/10/2025 — Autor: Cauã Nicolas |
+
+#### RS02 - Funcionamento Offline
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RS02 |
+| **Classificação** | Requisito do Sistema (Disponibilidade / Operacionalidade) |
+| **Descrição** | A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários. |
+| **Justificativa** | Usuários em áreas com conectividade limitada precisam acessar informações básicas sem conexão. |
+| **Origem** | Documento de requisitos / Entrevistas (RFxx) |
+| **Critério de Ajuste** | - Dados essenciais (rotas e horários salvos) acessíveis offline.<br>- Tempo de sincronização de dados ao reconectar ≤ 10s para atualizações incrementais. |
+| **Dependências** | Implementação de cache local (IndexedDB/LocalStorage) e sincronização de dados. |
+| **Prioridade** | 9 |
+| **Conflitos** | Armazenamento local pode aumentar uso de espaço no dispositivo; segurança de dados offline. |
+| **Histórico** | Criado em 21/10/2025 — Autor: Cauã Nicolas |
+
+#### RS03 - Configuração de Notificações (Som e Vibração)
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RS03 |
+| **Classificação** | Requisito do Sistema (Notificações / Usabilidade) |
+| **Descrição** | O sistema de notificação com som e vibração deve estar devidamente configurável pelo usuário. |
+| **Justificativa** | Permitir ao usuário adaptar notificações conforme preferências e necessidades (p.ex., modo silencioso). |
+| **Origem** | Documento de requisitos / Entrevistas (RFxx) |
+| **Critério de Ajuste** | - Usuário pode ativar/desativar som e vibração independentemente.<br>- Preferências persistidas entre sessões. |
+| **Dependências** | API de notificações do navegador/dispositivo; armazenamento de preferências do usuário. |
+| **Prioridade** | 8 |
+| **Conflitos** | Pode conflitar com políticas de plataforma sobre uso de som/vibração em segundo plano. |
+| **Histórico** | Criado em 21/10/2025 — Autor: Cauã Nicolas |
+
+#### RS04 - Compatibilidade com APIs Externas
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RS04 |
+| **Classificação** | Requisito do Sistema (Integração) |
+| **Descrição** | O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização. |
+| **Justificativa** | Integração com provedores externos é essencial para dados em tempo real e funcionalidade correta do app. |
+| **Origem** | Documento de requisitos / Análise de APIs (RFxx) |
+| **Critério de Ajuste** | - Suporte a formatos JSON/GeoJSON e autenticação via API keys/OAuth.<br>- Testes de integração automatizados com provedores principais. |
+| **Dependências** | Contratos/SLAs com provedores (BRB Mobilidade, APIs de mapas). |
+| **Prioridade** | 9 |
+| **Conflitos** | Dependência externa pode afetar disponibilidade; necessidade de adaptação a mudanças de API. |
+| **Histórico** | Criado em 21/10/2025 — Autor: Cauã Nicolas |
+
+#### RS05 - Ajuste Automático de Layout
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RS05 |
+| **Classificação** | Requisito do Sistema (Usabilidade / Compatibilidade) |
+| **Descrição** | A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. |
+| **Justificativa** | Garantir que usuários em dispositivos diversos tenham experiência consistente e legível. |
+| **Origem** | Documento de requisitos / Entrevistas (RFxx) |
+| **Critério de Ajuste** | - Tipografia e espaçamento adaptativos; elementos acessíveis em dispositivos pequenos.<br>- Pontuação mínima em testes de usabilidade de 80% para tarefas básicas. |
+| **Dependências** | Frameworks de UI responsiva, testes de usabilidade e guidelines WCAG. |
+| **Prioridade** | 9 |
+| **Conflitos** | Pode conflitar com limitações de layout em dispositivos muito pequenos; trade-offs entre detalhe e simplicidade. |
+| **Histórico** | Criado em 21/10/2025 — Autor: Cauã Nicolas |
+
 
 ## Referência bibliográfica 
 
@@ -365,7 +444,8 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | 1.1 | 20/10 | Adição do SIG Desempenho | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 20/10 | Adição do SIG Portabilidade | Cauã Nicolas | Gabriel Maciel |
 | 1.3 | 20/10 | Adição do SIG Acessibilidade | Fernanda vaz  | Gabriel Maciel |
-| 1.4 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Desemepnho | Gabriel Maciel | |
+| 1.4 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Desempenho | Gabriel Maciel | Cauã Nicolas |
+| 1.5 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Portabilidade | Gabriel Maciel | Cauã Nicolas |
 ---
 
 ## Agradecimentos
