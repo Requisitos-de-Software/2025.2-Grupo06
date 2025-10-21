@@ -445,7 +445,7 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | 1.2 | 20/10 | Adição do SIG Portabilidade | Cauã Nicolas | Gabriel Maciel |
 | 1.3 | 20/10 | Adição do SIG Acessibilidade | Fernanda vaz  | Gabriel Maciel |
 | 1.4 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Desempenho | Gabriel Maciel | Cauã Nicolas |
-| 1.5 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Portabilidade | Gabriel Maciel | Cauã Nicolas |
+| 1.5 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Portabilidade | Cauã Nicolas | Gabriel Maciel |
 
 ---
 
