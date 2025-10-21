@@ -80,6 +80,8 @@ Tem como objetivo garantir que o sistema atenda às necessidades de todos os usu
 | **US02** | Como **passageiro aguardando no ponto de ônibus**, eu quero **acessar uma versão web leve do aplicativo através de QR Code**, para que **eu possa consultar informações sobre linhas e horários rapidamente sem precisar instalar o aplicativo completo no meu dispositivo**. | Média | **RF19/BRS17** - Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | Gabriel Maciel |
 | **US18** | Como **usuário do transporte público**, eu quero **utilizar assistentes virtuais como Alexa ou Google Assistant para acessar informações de ônibus**, para que **eu possa consultar horários, localização de ônibus e planejar viagens sem precisar abrir o aplicativo manualmente**. | Baixa | **RF34/BRS16** - Integração com assistentes virtuais (Alexa, Google Assistant) | Gabriel Maciel |
 | **US19** | Como **usuário que não fala português ou turista visitando o Distrito Federal**, eu quero **utilizar o aplicativo em diferentes idiomas, especialmente em português e inglês**, para que **eu possa compreender facilmente todas as informações sobre linhas, horários e navegação no aplicativo**. | Média | **RF36/ENT22** - Oferecer suporte multilíngue (português e inglês, no mínimo) | Gabriel Maciel |
+| **US20** | Como **usuário que utiliza frequentemente determinadas linhas de ônibus**, eu quero **poder favoritar linhas ou paradas específicas**, para que eu **consiga acessá-las rapidamente sem precisar pesquisar toda vez**. | Média | **RF24** - Permitir favoritar linhas ou paradas para acesso rápido | Cauã Nicolas |
+| **US21** | Como **usuário que mora em áreas afastadas do Distrito Federal**, eu quero **ter acesso às informações de linhas e horários de ônibus da minha região**, para que eu **possa planejar minhas viagens com a mesma praticidade que os usuários das regiões centrais**. | Média | **RF25** - Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Cauã Nicolas |
 
 ---
 
@@ -145,8 +147,9 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | 1.2 | 20/10 | Adição de Épicos  | Cauã Nicolas | Gabriel Maciel |
 | 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | João Gabriel |
 | 1.2.2 | 20/10 | Adição Épicos 1, 2 e mudança no 7 | João Gabriel | Cauã Nicolas|
-| 1.3 | 21/10 | Adição de US18 e US19 ao Épico 3 | Gabriel Maciel |  |
-| 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | |
+| 1.3 | 21/10 | Adição de US18 e US19 ao Épico 3 | Gabriel Maciel | Cauã Nicolas |
+| 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | Cauã Nicolas |
+| 1.3 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
 
 ## Agradecimentos
 

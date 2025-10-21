@@ -297,7 +297,7 @@ _Autoria: João Gabriel, 2025_
 
 | Campo | Descrição |
 |---|---|
-| **Origem:** | RS25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal. |
+| **Origem:** | RF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal. |
 | **Descrição:** | Como **usuário que mora em áreas afastadas do Distrito Federal**, eu quero **ter acesso às informações de linhas e horários de ônibus da minha região**, para que eu possa **planejar minhas viagens com a mesma praticidade que os usuários das regiões centrais**. |
 | **Critérios de Aceitação:** | - O sistema deve exibir linhas e horários que atendem regiões mais afastadas do DF.<br>- As informações de localização e tempo estimado de chegada devem funcionar nessas áreas.<br>- A cobertura deve incluir pelo menos as principais paradas e rotas de regiões periféricas.<br>- Deve haver atualização automática quando novas linhas forem adicionadas.<br> |
 | **Prioridade:** | Média |
