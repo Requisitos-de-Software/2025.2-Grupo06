@@ -109,7 +109,8 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Prioridade:** | Alta |
 
 ---
-### **US07 - Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais**
+
+### **US07 - Integrar Informações de Outros Modais (Metrô, Outros Ônibus) em Rotas Multimodais**
 
 *Autoria: Fernanda Vaz, 2025.*
 
@@ -135,7 +136,42 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
-### **US09 - Oferecer recarga de cartão de transporte**
+### **US09 - Sistema de Recompensas por Uso Sustentável do Transporte Público**
+
+*Autoria: Fernanda Vaz, 2025.*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF31** – Sistema de recompensas por uso sustentável do transporte público – *Elicitação de Requisitos: Brainstorm (BRS09)* |
+| **Descrição:** | Como **usuário frequente do transporte público**, eu quero **receber recompensas e reconhecimento por utilizar o transporte coletivo de forma constante e sustentável**, para que **eu me sinta incentivado a manter hábitos de mobilidade ecológicos e contribuir para a redução da poluição urbana**. |
+| **Critérios de Aceitação:** | - O sistema deve atribuir pontos a cada viagem registrada pelo usuário.<br>- O usuário deve poder acompanhar seu progresso em um painel de sustentabilidade.<br>- O sistema deve permitir resgatar recompensas simbólicas ou benefícios (ex.: badges, selos, descontos ou parcerias).<br>- As recompensas devem ser concedidas com base em critérios definidos (ex.: número de viagens, CO₂ economizado, dias consecutivos de uso).<br>- O aplicativo deve exibir notificações quando o usuário atingir novas metas ou conquistas.<br>- As informações de desempenho devem poder ser compartilhadas em redes sociais.<br>- O sistema deve integrar as métricas de CO₂ economizado do requisito **RF32** para fortalecer a conexão com o impacto ambiental positivo. |
+| **Prioridade:** | Média |
+
+---
+
+### **US10 - Exibir Relatórios de Impacto Ambiental (CO₂ Economizado)**
+
+*Autoria: Fernanda Vaz, 2025.*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF32** – Exibir relatórios de impacto ambiental (CO₂ economizado) – Elicitação de Requisitos: **Brainstorm (BRS11)** |
+| **Descrição:** | Como **usuário consciente e engajado com sustentabilidade**, eu quero **visualizar relatórios de impacto ambiental que mostrem a quantidade de CO₂ que deixei de emitir ao utilizar o transporte público**, para que **eu possa compreender minha contribuição positiva para o meio ambiente e ser incentivado a continuar utilizando o aplicativo de forma sustentável**. |
+| **Critérios de Aceitação:** | - O sistema deve calcular automaticamente a estimativa de CO₂ economizado com base nas viagens realizadas pelo usuário.<br>- O relatório deve exibir os resultados diários, semanais e mensais de emissões evitadas.<br>- As informações devem ser apresentadas em formato visual (gráficos, ícones ou barras comparativas).<br>- O aplicativo deve permitir que o usuário compartilhe seus resultados em redes sociais.<br>- O cálculo deve ser baseado em parâmetros reconhecidos de emissão média de veículos por quilômetro (padrões ambientais oficiais).<br>- O relatório deve permitir comparar o desempenho do usuário com a média geral dos demais usuários.<br>- As informações devem estar disponíveis em uma seção específica do aplicativo ("Sustentabilidade" ou "Impacto Ambiental"). |
+| **Prioridade:** | Média |
+
+---
+
+## Validação(Fernanda Vaz)
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/_up-xi0eqpo"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+
+### **US11 - Oferecer Recarga de Cartão de Transporte**
 
 *Autoria: Cauã Nicolas, 2025.*
 
@@ -148,7 +184,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
-### **US10 - Permitir integração com o cartão de transporte**
+### **US12 - Permitir Integração com o Cartão de Transporte**
 
 *Autoria: Cauã Nicolas, 2025.*
 
@@ -161,7 +197,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 --- 
 
-### **US11 - Visualizar histórico de viagens**
+### **US13 - Visualizar Histórico de Viagens**
 
 *Autoria: Cauã Nicolas, 2025.*
 
@@ -174,7 +210,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 --- 
 
-### **US12 - Reportar problemas de viagem**
+### **US14 - Reportar Problemas de Viagem**
 
 *Autoria: Cauã Nicolas, 2025.*
 
@@ -187,124 +223,124 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
-### **US13 - Visualizar Localização dos Ônibus em Tempo Real no Mapa**
+### **US15 - Visualizar Localização dos Ônibus em Tempo Real no Mapa**
 
-_Autoria: João Gabriel, 2025_
+*Autoria: João Gabriel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF01/ENT03 - Exibir a localização dos ônibus em tempo real no mapa |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF01/ENT03** - Exibir a localização dos ônibus em tempo real no mapa |
 | **Descrição:** | Como **passageiro do transporte público**, eu quero **visualizar a localização exata dos ônibus em tempo real no mapa**, para que **eu possa ter certeza de que o ônibus está a caminho e estimar com precisão o tempo de espera no ponto**. |
 | **Critérios de Aceitação:** | - O sistema deve exibir ícones de ônibus sobrepostos no mapa interativo.<br>- A posição dos ônibus deve ser atualizada automaticamente a intervalos regulares (ex: a cada 15-30 segundos).<br>- Cada ícone de ônibus deve representar um veículo físico em operação.<br>- Ao tocar no ícone de um ônibus, o sistema deve exibir informações básicas da linha (número, destino).<br>- O mapa deve continuar responsivo e com navegação fluida mesmo com múltiplos ônibus sendo exibidos.<br>- O sistema deve lidar graciosamente com a perda momentânea de conexão, exibindo a última posição conhecida com um indicativo de "dados desatualizados".<br>- A localização deve ser mostrada com uma precisão que permita identificar em qual rua ou avenida o ônibus se encontra. |
 | **Prioridade:** | Alta |
 
 ---
 
-### **US14 - Consultar Tempo Estimado de Chegada do Ônibus**
+### **US16 - Consultar Tempo Estimado de Chegada do Ônibus**
 
-_Autoria: João Gabriel, 2025_
+*Autoria: João Gabriel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF02/ENT04 - Mostrar o tempo estimado de chegada do ônibus à parada |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF02/ENT04** - Mostrar o tempo estimado de chegada do ônibus à parada |
 | **Descrição:** | Como **passageiro aguardando no ponto**, eu quero **consultar o tempo estimado de chegada (TEC) do meu ônibus**, para que **eu possa gerenciar meu tempo de espera com mais segurança e tomar decisões (ex: esperar, chamar um táxi, escolher outra rota)**. |
 | **Critérios de Aceitação:** | - Ao selecionar um ponto de ônibus no mapa ou em uma lista, o sistema deve listar as linhas que passam por ele.<br>- Para cada linha listada, o sistema deve exibir o tempo estimado de chegada dos próximos ônibus (ex: "Chega em 8 min" ou "Previsto para 14:35").<br>- O TEC deve ser calculado em tempo real com base na localização GPS do ônibus, trânsito e distância do ponto.<br>- A interface deve destacar visualmente se o ônibus está "Próximo" (ex: verde) ou com "Atraso" (ex: laranja/vermelho).<br>- O passageiro deve poder atualizar manualmente a previsão para obter os dados mais recentes.<br>- O sistema deve funcionar para qualquer ponto de ônibus cadastrado no sistema, não apenas para a localização atual do usuário. |
 | **Prioridade:** | Alta |
 
 ---
 
-### **US15 - Planejar uma Viagem com Rotas Sugeridas**
+### **US17 - Planejar uma Viagem com Rotas Sugeridas**
 
-_Autoria: João Gabriel, 2025_
+*Autoria: João Gabriel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF03 - Permitir planejamento de viagem (origem → destino) com rotas sugeridas |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF03** - Permitir planejamento de viagem (origem → destino) com rotas sugeridas |
 | **Descrição:** | Como **passageiro que precisa se deslocar pela cidade**, eu quero **planejar uma viagem informando meu ponto de origem e destino para receber rotas sugeridas de ônibus**, para que **eu possa encontrar a melhor opção de itinerário, mesmo em rotas que não conheço**. |
-| **Critérios de Aceitação:** | - O sistema deve fornecer um campo para inserir endereço de origem e destino (com suporte a autocompletar).<br>- Deve ser possível usar a localização atual como origem.<br>- O sistema deve calcular e apresentar pelo menos 2-3 opções de rotas diferentes.<br>- Cada rota sugerida deve mostrar: linhas a serem utilizadas, pontos de embarque/desembarque, tempo total de viagem e tempo de caminhada.<br>- A rota deve ser desenhada visualmente no mapa.<br>- O sistema deve priorizar rotas com menor tempo total, menor número de baldeações ou que evitem caminhadas longes (com opção de filtro).<br>- As rotas devem considerar os horários de operação das linhas no momento do planejamento. |
+| **Critérios de Aceitação:** | - O sistema deve fornecer um campo para inserir endereço de origem e destino (com suporte a autocompletar).<br>- Deve ser possível usar a localização atual como origem.<br>- O sistema deve calcular e apresentar pelo menos 2-3 opções de rotas diferentes.<br>- Cada rota sugerida deve mostrar: linhas a serem utilizadas, pontos de embarque/desembarque, tempo total de viagem e tempo de caminhada.<br>- A rota deve ser desenhada visualmente no mapa.<br>- O sistema deve priorizar rotas com menor tempo total, menor número de baldeações ou que evitem caminhadas longas (com opção de filtro).<br>- As rotas devem considerar os horários de operação das linhas no momento do planejamento. |
 | **Prioridade:** | Média |
 
 ---
 
-### **US16 - Pesquisar por Linhas e Rotas de Ônibus**
+### **US18 - Pesquisar por Linhas e Rotas de Ônibus**
 
-_Autoria: João Gabriel, 2025_
+*Autoria: João Gabriel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF04/ENT01 - Permitir pesquisa por linhas e rotas de ônibus |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF04/ENT01** - Permitir pesquisa por linhas e rotas de ônibus |
 | **Descrição:** | Como **passageiro que sabe qual linha ou destino deseja**, eu quero **pesquisar diretamente por linhas, números de ônibus ou nomes de destinos**, para que **eu possa acessar rapidamente as informações específicas que preciso, sem ter que navegar pelo mapa**. |
 | **Critérios de Aceitação:** | - Deve haver uma barra de busca acessível na tela principal.<br>- A busca deve retornar resultados em tempo real ("search as you type").<br>- A pesquisa deve funcionar por número da linha (ex: "0.108.1"), nome do destino (ex: "Rodoviária") ou termo aproximado (ex: "Eixo Sul").<br>- Ao selecionar um resultado, o sistema deve exibir detalhes da linha, como mapa do percurso, horários e pontos de parada.<br>- O sistema deve permitir salvar linhas como "Favoritas" para acesso rápido futuro.<br>- Deve ser possível visualizar todas as linhas de ônibus em uma lista, com opção de ordenar por número ou nome. |
 | **Prioridade:** | Alta |
 
 ---
 
-### **US17 - Visualizar Horários de Saída e Chegada dos Transportes**
+### **US19 - Visualizar Horários de Saída e Chegada dos Transportes**
 
-_Autoria: João Gabriel, 2025_
+*Autoria: João Gabriel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF05/ENT02 - Apresentar horários de saída e chegada dos transportes |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF05/ENT02** - Apresentar horários de saída e chegada dos transportes |
 | **Descrição:** | Como **passageiro que precisa cumprir horários**, eu quero **visualizar os horários programados de saída e chegada dos ônibus em cada ponto**, para que **eu possa planejar minha ida ao ponto com antecedência e não perder o ônibus**. |
 | **Critérios de Aceitação:** | - Ao visualizar os detalhes de uma linha, o usuário deve poder acessar uma aba de "Horários".<br>- O sistema deve exibir uma tabela ou lista com os horários programados de partida dos terminais e chegada aos pontos principais.<br>- Os horários devem ser organizados por dia útil (segunda a sexta), sábado e domingo/feriado.<br>- A interface deve diferenciar claramente entre o horário programado e a previsão em tempo real (TEC da US14).<br>- O usuário deve poder selecionar um ponto específico para ver os horários de passagem previstos naquele local.<br>- Os horários devem ser os oficiais fornecidos pela empresa operadora/DFTrans. |
 | **Prioridade:** | Alta |
 
 ---
 
-### **US18 - Integração com Assistentes Virtuais**
+### **US20 - Integração com Assistentes Virtuais**
 
 *Autoria: Gabriel Maciel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF34/BRS16 - Integração com assistentes virtuais (Alexa, Google Assistant) |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF34/BRS16** - Integração com assistentes virtuais (Alexa, Google Assistant) |
 | **Descrição:** | Como **usuário do transporte público**, eu quero **utilizar assistentes virtuais como Alexa ou Google Assistant para acessar informações de ônibus**, para que **eu possa consultar horários, localização de ônibus e planejar viagens sem precisar abrir o aplicativo manualmente**. |
 | **Critérios de Aceitação:** | - O sistema deve permitir integração com Alexa e Google Assistant (inicialmente).<br>- O usuário deve poder fazer perguntas de voz como "Qual o próximo ônibus para o Eixo Sul?"<br>- O assistente deve retornar informações de tempo estimado de chegada do ônibus.<br>- O assistente deve permitir consultar saldo do cartão de transporte do usuário.<br>- O assistente deve permitir realizar recargas de cartão (com confirmação de segurança).<br>- O assistente deve autenticar o usuário de forma segura antes de acessar dados pessoais.<br>- A integração deve funcionar de forma responsiva (respostas em menos de 3 segundos).<br>- O usuário deve poder desabilitar a integração a qualquer momento nas configurações da conta. |
 | **Prioridade:** | Baixa |
 
 ---
 
-### **US19 - Suporte Multilíngue**
+### **US21 - Suporte Multilíngue**
 
 *Autoria: Gabriel Maciel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF36/ENT22 - Oferecer suporte multilíngue (português e inglês, no mínimo) |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF36/ENT22** - Oferecer suporte multilíngue (português e inglês, no mínimo) |
 | **Descrição:** | Como **usuário que não fala português ou turista visitando o Distrito Federal**, eu quero **utilizar o aplicativo em diferentes idiomas, especialmente em português e inglês**, para que **eu possa compreender facilmente todas as informações sobre linhas, horários e navegação no aplicativo**. |
-| **Critérios de Aceitação:** | - O aplicativo deve suportar, no mínimo, português (Brasil) e inglês.<br>- O usuário deve poder alterar o idioma nas configurações do aplicativo.<br>- O idioma selecionado deve ser mantido entre sessões (persistência).<br>- Todos os textos da interface devem estar traduzidos no idioma selecionado (nomes de linhas, horários, mensagens de erro, etc.).<br>- As instruções do sistema e notificações devem estar disponíveis no idioma escolhido.<br>- Os nomes dos destinos e pontos de parada devem ser exibidos em ambos os idiomas quando possível.<br>- A detecção de idioma do dispositivo deve ser usada para pré-definir o idioma do aplicativo na primeira instalação.<br>- O aplicativo deve estar conformidade com as diretrizes de localização internacional (RTL, formatação de números e datas). |
+| **Critérios de Aceitação:** | - O aplicativo deve suportar, no mínimo, português (Brasil) e inglês.<br>- O usuário deve poder alterar o idioma nas configurações do aplicativo.<br>- O idioma selecionado deve ser mantido entre sessões (persistência).<br>- Todos os textos da interface devem estar traduzidos no idioma selecionado (nomes de linhas, horários, mensagens de erro, etc.).<br>- As instruções do sistema e notificações devem estar disponíveis no idioma escolhido.<br>- Os nomes dos destinos e pontos de parada devem ser exibidos em ambos os idiomas quando possível.<br>- A detecção de idioma do dispositivo deve ser usada para pré-definir o idioma do aplicativo na primeira instalação.<br>- O aplicativo deve estar em conformidade com as diretrizes de localização internacional (RTL, formatação de números e datas). |
 | **Prioridade:** | Média |
 
 ---
 
-### **US20 - Permitir favoritar linhas ou paradas para acesso rápido**
+### **US22 - Permitir Favoritar Linhas ou Paradas para Acesso Rápido**
 
 *Autoria: Cauã Nicolas, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF24 – Permitir favoritar linhas ou paradas para acesso rápido. |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF24** – Permitir favoritar linhas ou paradas para acesso rápido. |
 | **Descrição:** | Como **usuário que utiliza frequentemente determinadas linhas de ônibus**, eu quero **poder favoritar linhas ou paradas específicas**, para que eu **consiga acessá-las rapidamente sem precisar pesquisar toda vez**. |
-| **Critérios de Aceitação:** | - O usuário deve conseguir favoritar uma linha ou parada com apenas um toque.<br>- As linhas e paradas favoritas devem aparecer em uma seção dedicada ("Favoritos").<br>- Deve ser possível desfavoritar uma linha ou parada a qualquer momento.<br>- As informações favoritas devem permanecer salvas entre sessões do aplicativo.<br> |
+| **Critérios de Aceitação:** | - O usuário deve conseguir favoritar uma linha ou parada com apenas um toque.<br>- As linhas e paradas favoritas devem aparecer em uma seção dedicada ("Favoritos").<br>- Deve ser possível desfavoritar uma linha ou parada a qualquer momento.<br>- As informações favoritas devem permanecer salvas entre sessões do aplicativo. |
 | **Prioridade:** | Média |
 
 ---
 
-### **US21 - Ampliar a cobertura e exibir informações em regiões afastadas do DF**
+### **US23 - Ampliar a Cobertura e Exibir Informações em Regiões Afastadas do DF**
 
 *Autoria: Cauã Nicolas, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal. |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF25** – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal. |
 | **Descrição:** | Como **usuário que mora em áreas afastadas do Distrito Federal**, eu quero **ter acesso às informações de linhas e horários de ônibus da minha região**, para que eu possa **planejar minhas viagens com a mesma praticidade que os usuários das regiões centrais**. |
-| **Critérios de Aceitação:** | - O sistema deve exibir linhas e horários que atendem regiões mais afastadas do DF.<br>- As informações de localização e tempo estimado de chegada devem funcionar nessas áreas.<br>- A cobertura deve incluir pelo menos as principais paradas e rotas de regiões periféricas.<br>- Deve haver atualização automática quando novas linhas forem adicionadas.<br> |
+| **Critérios de Aceitação:** | - O sistema deve exibir linhas e horários que atendem regiões mais afastadas do DF.<br>- As informações de localização e tempo estimado de chegada devem funcionar nessas áreas.<br>- A cobertura deve incluir pelo menos as principais paradas e rotas de regiões periféricas.<br>- Deve haver atualização automática quando novas linhas forem adicionadas. |
 | **Prioridade:** | Média |
 
 ---
 
-### **US22 - Visualizar Lotação Estimada do Ônibus**
+### **US24 - Visualizar Lotação Estimada do Ônibus**
 
 *Autoria: João Ramos, 2025*
 
@@ -312,25 +348,30 @@ _Autoria: João Gabriel, 2025_
 |-----------|---------------|
 | **Origem:** | **RF09** - Indicar lotação do ônibus (vazio, moderado, lotado) |
 | **Descrição:** | Como **passageiro do transporte público**, eu quero **visualizar a lotação estimada do ônibus (vazio, moderado, lotado) antes que ele chegue ao ponto**, para que **eu possa decidir se embarco neste veículo ou espero o próximo, buscando mais conforto**. |
+<<<<<<< HEAD
+| **Critérios de Aceitação:** | - O sistema deve exibir um indicador visual claro de lotação (ex: ícones ou cores) para cada ônibus em tempo real.<br>- Os níveis de lotação devem ser "Vazio", "Moderado" e "Lotado".<br>- A informação de lotação deve estar visível na lista de próximos ônibus do ponto e ao selecionar um veículo no mapa.<br>- O sistema deve possuir uma legenda clara explicando o significado de cada indicador de lotação.<br>- A informação de lotação deve ser atualizada em tempo real com base em sensores no veículo ou dados colaborativos (US25).<br>- Caso a informação não esteja disponível, o sistema deve indicar "Lotação não informada". |
+| **Prioridade:** | Alta |
+=======
 | **Critérios de Aceitação:** | - O sistema deve exibir um indicador visual claro de lotação (ex: ícones ou cores) para cada ônibus em tempo real.<br>- Os níveis de lotação devem ser "Vazio", "Moderado" e "Lotado".<br>- A informação de lotação deve estar visível na lista de próximos ônibus do ponto e ao selecionar um veículo no mapa.<br>- O sistema deve possuir uma legenda clara explicando o significado de cada indicador de lotação.<br>- A informação de lotação deve ser atualizada em tempo real com base em sensores no veículo ou dados colaborativos (US19).<br>- Caso a informação não esteja disponível, o sistema deve indicar "Lotação não informada". |
 | **Prioridade:** | Média |
+>>>>>>> b33cd68b0c9d80b5a4a97d116192824952f80984
 
 ---
 
-### **US23 - Reportar Lotação do Ônibus (Colaborativo)**
+### **US25 - Reportar Lotação do Ônibus (Colaborativo)**
 
 *Autoria: João Ramos, 2025*
 
 | **Campo** | **Descrição** |
 |-----------|---------------|
-| **Origem:** | **R10** - Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) |
+| **Origem:** | **RF10** - Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) |
 | **Descrição:** | Como **passageiro que está dentro do ônibus**, eu quero **reportar o nível de lotação atual do veículo (vazio, moderado, lotado)**, para que **eu possa contribuir com o sistema colaborativo e ajudar outros passageiros a tomar decisões**. |
-| **Critérios de Aceitação:** | - O sistema deve permitir o reporte de lotação apenas para passageiros que estão próximos ou dentro da rota do veículo (validação por GPS).<br>- O usuário deve poder escolher entre três opções simples: "Vazio", "Moderado", "Lotado".<br>- O reporte deve ser rápido e acessível (ex: 2 cliques).<br>- O sistema deve agregar os reportes recebidos nos últimos minutos para calcular o status de lotação (usado na US18).<br>- O sistema deve limitar a frequência de reportes por usuário/veículo para evitar spam (ex: um reporte a cada 10 minutos por veículo).<br>- O usuário deve receber uma confirmação visual de que seu reporte foi registrado com sucesso. |
+| **Critérios de Aceitação:** | - O sistema deve permitir o reporte de lotação apenas para passageiros que estão próximos ou dentro da rota do veículo (validação por GPS).<br>- O usuário deve poder escolher entre três opções simples: "Vazio", "Moderado", "Lotado".<br>- O reporte deve ser rápido e acessível (ex: 2 cliques).<br>- O sistema deve agregar os reportes recebidos nos últimos minutos para calcular o status de lotação (usado na US24).<br>- O sistema deve limitar a frequência de reportes por usuário/veículo para evitar spam (ex: um reporte a cada 10 minutos por veículo).<br>- O usuário deve receber uma confirmação visual de que seu reporte foi registrado com sucesso. |
 | **Prioridade:** | Média |
 
 ---
 
-### **US24 - Receber Alerta de Proximidade do Ônibus**
+### **US26 - Receber Alerta de Proximidade do Ônibus**
 
 *Autoria: João Ramos, 2025*
 
@@ -343,22 +384,20 @@ _Autoria: João Gabriel, 2025_
 
 ---
 
-### **US25 - Receber Alertas de Alterações no Serviço**
+### **US27 - Receber Alertas de Alterações no Serviço**
 
 *Autoria: João Ramos, 2025*
 
 | **Campo** | **Descrição** |
 |-----------|---------------|
-| **Origem:** | **R12** - Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários |
+| **Origem:** | **RF12** - Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários |
 | **Descrição:** | Como **passageiro do transporte público**, eu quero **receber alertas e notificações sobre mudanças inesperadas no serviço, como atrasos significativos, mudanças de rota ou alterações de horário**, para que **eu possa me antecipar a problemas e planejar rotas alternativas**. |
 | **Critérios de Aceitação:** | - O sistema deve enviar notificações "push" para incidentes relevantes (ex: greves, bloqueios de via, desvios longos).<br>- O usuário deve poder configurar se deseja receber alertas de todas as linhas ou apenas de suas "Linhas Favoritas".<br>- Os alertas devem ser claros, indicando a(s) linha(s) afetada(s), o tipo de problema e a região impactada.<br>- O aplicativo deve ter uma seção de "Avisos" ou "Status do Serviço" onde todos os alertas ativos possam ser consultados.<br>- Os alertas devem ser emitidos pela central de controle ou operadora.<br>- A notificação deve ser removida automaticamente quando o problema for resolvido. |
 | **Prioridade:** | Alta |
 
 ---
 
----
-
-### US26 - Consultar Horários e Rotas Salvas Offline
+### **US28 - Consultar Horários e Rotas Salvas Offline**
 
 *Autoria: João Ramos, 2025*
 
@@ -371,7 +410,7 @@ _Autoria: João Gabriel, 2025_
 
 ---
 
-### US27 - Listar Linhas por Ponto de Parada
+### **US29 - Listar Linhas por Ponto de Parada**
 
 *Autoria: João Ramos, 2025*
 
@@ -379,12 +418,12 @@ _Autoria: João Gabriel, 2025_
 |-----------|---------------|
 | **Origem:** | **RF18 (BRS)** - Listar linhas que passam em uma parada específica |
 | **Descrição:** | Como **passageiro em um ponto de ônibus**, eu quero **selecionar uma parada (no mapa ou por pesquisa) e ver uma lista de todas as linhas que passam por ela**, para que **eu possa descobrir rapidamente quais são minhas opções de transporte naquela localização**. |
-| **Critérios de Aceitação:** | - O usuário deve poder clicar em um ícone de ponto de ônibus no mapa para selecioná-lo.<br>- O usuário deve poder pesquisar por um ponto usando seu código ou nome/endereço.<br>- Ao selecionar um ponto, o sistema deve exibir uma lista clara com todas as linhas de ônibus associadas a ele.<br>- A lista deve mostrar o número da linha e seu destino principal.<br>- O sistema deve exibir o Tempo Estimado de Chegada (TEC) dos próximos veículos de cada linha listada (integração com US14).<br>- O usuário deve poder clicar em uma linha da lista para ver seus detalhes (rota completa, horários). |
+| **Critérios de Aceitação:** | - O usuário deve poder clicar em um ícone de ponto de ônibus no mapa para selecioná-lo.<br>- O usuário deve poder pesquisar por um ponto usando seu código ou nome/endereço.<br>- Ao selecionar um ponto, o sistema deve exibir uma lista clara com todas as linhas de ônibus associadas a ele.<br>- A lista deve mostrar o número da linha e seu destino principal.<br>- O sistema deve exibir o Tempo Estimado de Chegada (TEC) dos próximos veículos de cada linha listada (integração com US16).<br>- O usuário deve poder clicar em uma linha da lista para ver seus detalhes (rota completa, horários). |
 | **Prioridade:** | Alta |
 
 ---
 
-### US28 - Visualizar Alertas de Trânsito e Rotas Alternativas
+### **US30 - Visualizar Alertas de Trânsito e Rotas Alternativas**
 
 *Autoria: João Ramos, 2025*
 
@@ -392,33 +431,114 @@ _Autoria: João Gabriel, 2025_
 |-----------|---------------|
 | **Origem:** | **RF21 (BRS12)** - Mostrar alertas de trânsito, acidentes e rotas alternativas |
 | **Descrição:** | Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero **ser informado sobre incidentes de trânsito (acidentes, congestionamentos, obras) que afetam as rotas de ônibus**, para que **eu possa entender a causa de atrasos e receber sugestões de rotas alternativas**. |
-| **Critérios de Aceitação:** | - O sistema deve exibir ícones no mapa indicando a localização e o tipo de incidente de trânsito relevante (ex: acidente, obra, via bloqueada).<br>- O planejador de rotas (US15) deve considerar o trânsito em tempo real para calcular o tempo estimado da viagem.<br>- Se um incidente grave impactar uma rota planejada ou favorita, o sistema deve enviar um alerta (similar à US21).<br>- Ao visualizar uma rota impactada por trânsito, o sistema deve recalcular e sugerir rotas alternativas, se disponíveis.<br>- As informações de trânsito devem ser obtidas de uma fonte externa confiável (ex: API de tráfego).<br>- O usuário deve poder tocar em um ícone de incidente para obter mais detalhes. |
+| **Critérios de Aceitação:** | - O sistema deve exibir ícones no mapa indicando a localização e o tipo de incidente de trânsito relevante (ex: acidente, obra, via bloqueada).<br>- O planejador de rotas (US17) deve considerar o trânsito em tempo real para calcular o tempo estimado da viagem.<br>- Se um incidente grave impactar uma rota planejada ou favorita, o sistema deve enviar um alerta (similar à US27).<br>- Ao visualizar uma rota impactada por trânsito, o sistema deve recalcular e sugerir rotas alternativas, se disponíveis.<br>- As informações de trânsito devem ser obtidas de uma fonte externa confiável (ex: API de tráfego).<br>- O usuário deve poder tocar em um ícone de incidente para obter mais detalhes. |
 | **Prioridade:** | Média |
 
 ---
 
-### US29 - Receber Previsão Inteligente de Horários com Base em Dados Históricos
+### **US31 - Receber Previsão Inteligente de Horários com Base em Dados Históricos**
 
-_Autoria: João Gabriel, 2025_
+*Autoria: João Gabriel, 2025*
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF30/BRS02 - Previsão inteligente de horários baseada em dados históricos e machine learning |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF30/BRS02** - Previsão inteligente de horários baseada em dados históricos e machine learning |
 | **Descrição:** | Como **passageiro que depende de horários precisos**, eu quero **receber previsões inteligentes de horários de chegada baseadas em dados históricos e machine learning**, para que **eu possa evitar esperas longas nos pontos, especialmente em horários noturnos, e ter mais segurança e confiança no transporte público**. |
 | **Critérios de Aceitação:** | - O sistema deve analisar dados históricos de pelo menos 30 dias para gerar previsões<br>- A previsão inteligente deve considerar: padrões de trânsito, horários do dia, dias da semana e eventos especiais<br>- O usuário deve poder ativar/desativar a "previsão inteligente" nas configurações<br>- O sistema deve exibir o horário previsto com indicação visual de confiabilidade (ex: "Alta confiança" baseada em 100+ viagens)<br>- O usuário deve poder programar notificações personalizadas (ex: "5 minutos antes da chegada prevista")<br>- O sistema deve atualizar as previsões em tempo real conforme a posição do ônibus muda<br>- Deve ser mostrada a base estatística da previsão (ex: "Baseado em 187 viagens anteriores")<br>- A interface deve diferenciar claramente entre horário oficial e horário previsto inteligente<br>- O sistema deve funcionar mesmo com conexão limitada, usando os últimos dados preditivos calculados<br>- O algoritmo deve aprender continuamente com novos dados de viagens |
 | **Prioridade:** | Média |
 
-### US30 - Criar Conta e Fazer Login no Aplicativo
+---
 
-_Autoria: João Gabriel, 2025_
+### **US32 - Criar Conta e Fazer Login no Aplicativo**
 
-| Campo | Descrição |
-|---|---|
-| **Origem:** | RF37 - Permitir cadastro, login e autenticação de usuários no sistema |
+*Autoria: João Gabriel, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF37** - Permitir cadastro, login e autenticação de usuários no sistema |
 | **Descrição:** | Como **usuário do aplicativo**, eu quero **criar uma conta e fazer login de forma segura**, para que **eu possa acessar funcionalidades personalizadas como favoritos, histórico de viagens, recargas e avaliações**. |
 | **Critérios de Aceitação:** | - O usuário deve poder criar conta com e-mail e senha<br>- Deve ser possível fazer login com e-mail e senha<br>- O sistema deve manter a sessão do usuário ativa entre aberturas do aplicativo<br>- Deve haver opção de "Lembrar meus dados" para login automático<br>- O sistema deve permitir recuperação de senha por e-mail<br>- Os dados de login devem ser armazenados de forma segura<br>- O usuário deve poder fazer logout da conta<br>- O sistema deve validar e-mail durante o cadastro<br>- Deve ser possível acessar algumas funcionalidades básicas sem login (modo visitante) |
 | **Prioridade:** | Alta |
 
+---
+
+## **US33 - Exibir Preço da Passagem por Linha ou Trajeto**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF17** - Exibir preço da passagem por linha ou trajeto |
+| **Descrição:** | Como **passageiro que utiliza o transporte público**, eu quero **visualizar o preço da passagem de cada linha ou trajeto**, para que **eu possa planejar meus gastos e comparar opções de transporte antes de embarcar**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir o preço da passagem junto às informações da linha e rota.<br>- Os valores devem ser atualizados automaticamente conforme ajustes tarifários oficiais.<br>- O sistema deve indicar claramente se há integrações ou descontos aplicáveis.<br>- O preço deve aparecer tanto na visualização de linhas quanto no planejador de rotas.<br>- O aplicativo deve informar a data da última atualização tarifária.<br>- O usuário deve poder acessar uma tabela completa de tarifas por região e empresa operadora. |
+| **Prioridade:** | Média |
+
+---
+
+## **US34 - Botão de Pânico/Emergência para Alertar Motorista e/ou Autoridades**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF20** - Botão de pânico/emergência para alertar motorista e/ou autoridades |
+| **Descrição:** | Como **passageiro em situação de emergência dentro do ônibus**, eu quero **acessar rapidamente um botão de pânico no aplicativo**, para que **eu possa alertar o motorista e/ou as autoridades competentes de forma discreta e segura**. |
+| **Critérios de Aceitação:** | - O aplicativo deve disponibilizar um botão de pânico acessível na tela principal.<br>- O acionamento deve gerar alerta imediato para o motorista e a central de controle.<br>- O sistema deve enviar a localização exata do ônibus e do passageiro no momento do alerta.<br>- O alerta deve ser discreto, sem emitir som ou vibração visível.<br>- O sistema deve registrar o evento com data, hora e identificação do veículo.<br>- Deve haver confirmação visual de que o alerta foi enviado com sucesso.<br>- O botão deve possuir mecanismos para evitar acionamentos acidentais (ex: confirmação dupla). |
+| **Prioridade:** | Alta |
+
+---
+
+## **US35 - Permitir Compartilhar Trajeto em Tempo Real com Outros Usuários**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF22** - Permitir compartilhar trajeto em tempo real com outros usuários |
+| **Descrição:** | Como **passageiro em deslocamento**, eu quero **compartilhar meu trajeto em tempo real com familiares ou amigos**, para que **eles possam acompanhar meu percurso e saber quando cheguei em segurança ao destino**. |
+| **Critérios de Aceitação:** | - O sistema deve permitir o compartilhamento de localização via link (WhatsApp, SMS, e-mail etc.).<br>- O link deve permitir que terceiros visualizem o trajeto atual e o tempo estimado de chegada.<br>- O usuário deve poder encerrar o compartilhamento a qualquer momento.<br>- O sistema deve indicar quando o compartilhamento estiver ativo.<br>- A funcionalidade deve funcionar em segundo plano.<br>- O compartilhamento deve expirar automaticamente após o término da viagem ou tempo limite configurado (ex: 1 hora). |
+| **Prioridade:** | Alta |
+
+---
+
+## **US36 - Suporte a Comandos de Voz para Facilitar Interação Durante Deslocamentos**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF33** - Suporte a comandos de voz para facilitar interação durante deslocamentos |
+| **Descrição:** | Como **passageiro em deslocamento**, eu quero **utilizar comandos de voz para acessar informações do aplicativo**, para que **eu possa interagir com o sistema de forma segura e prática sem precisar tocar no celular**. |
+| **Critérios de Aceitação:** | - O sistema deve reconhecer comandos de voz para ações comuns (ex: "mostrar tempo de chegada", "linha 108", "favoritos").<br>- Os comandos de voz devem funcionar mesmo com o aplicativo em segundo plano.<br>- O aplicativo deve responder por áudio e/ou texto conforme a configuração do usuário.<br>- O reconhecimento de voz deve funcionar offline para comandos básicos.<br>- O sistema deve suportar diferentes sotaques e variações da língua portuguesa.<br>- Deve haver um botão dedicado para ativar/desativar a função de voz.<br>- O aplicativo deve garantir privacidade e não gravar comandos sem autorização explícita. |
+| **Prioridade:** | Média |
+
+---
+
+## **US37 - Visualizar Quais Veículos Estão em Operação no Momento**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF27** - Visualizar quais veículos estão em operação no momento |
+| **Descrição:** | Como **usuário do transporte público**, eu quero **visualizar todos os veículos que estão em operação no momento**, para que **eu possa saber quais linhas estão ativas e planejar meus deslocamentos com base na disponibilidade real do serviço**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir no mapa apenas os veículos em operação no momento, com atualização em tempo real.<br>- Cada veículo em operação deve estar identificado com número da linha e destino.<br>- O usuário deve poder filtrar veículos por empresa operadora, linha ou região.<br>- O sistema deve permitir visualizar o total de veículos ativos em determinado horário.<br>- A interface deve indicar visualmente veículos em operação e os que estão fora de serviço (ex: cores diferentes).<br>- O aplicativo deve atualizar as informações automaticamente a cada 30 segundos. |
+| **Prioridade:** | Alta |
+
+---
+
+## **US38 - Sistema de Gamificação para Incentivar o Uso do Transporte Público**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF29** - Sistema de gamificação para incentivar uso do transporte público |
+| **Descrição:** | Como **usuário frequente do transporte público**, eu quero **participar de um sistema de pontuação e recompensas baseado nas minhas viagens**, para que **eu me sinta motivado a utilizar mais o transporte coletivo e ganhar benefícios**. |
+| **Critérios de Aceitação:** | - O sistema deve registrar automaticamente as viagens realizadas pelo usuário (baseadas em histórico ou integração com o cartão de transporte).<br>- O usuário deve acumular pontos conforme a frequência e distância percorrida.<br>- O aplicativo deve exibir o saldo de pontos e o nível atual (ex: Bronze, Prata, Ouro).<br>- O sistema deve permitir trocar pontos por recompensas (ex: descontos, brindes ou passes gratuitos).<br>- Deve haver um painel com ranking entre usuários (opcional).<br>- O sistema deve enviar notificações quando o usuário atingir novas metas ou conquistas.<br>- As informações de pontuação e recompensas devem ser atualizadas em tempo real. |
+| **Prioridade:** | Média |
+
+---
 
 ## Referências Bibliográficas
 
@@ -438,16 +558,17 @@ _Autoria: João Gabriel, 2025_
 |:------:|:----:|:----------|:----------|:------------|
 | 1.0 | 18/10 | Adição de introdução | Fernanda Vaz | Gabriel Maciel |
 | 1.1 | 19/10 | Adição de Metodologia e Histórias de Usuário de US01 até US04 | Gabriel Maciel | Fernanda Vaz |
-| 1.2 | 19/10 | Adição de Histórias de Usuário de US09 até US12 | Cauã Nicolas | Gabriel Maciel |
-| 1.2 | 19/10 | Adição de Histórias de Usuário de US13 até US17 | João Gabriel | Cauã Nicolas |
-| 1.3 | 21/10 | Adição de Histórias de Usuário de US18 e US19 | Gabriel Maciel | João Gabriel |
-| 1.4 | 21/10 | Adição de Histórias de Usuário de US20 e US21 | Cauã Nicolas | Gabriel Maciel |
-| 1.5 | 21/10 | Adição de Histórias de Usuário de US29 | João Gabriel | Gabriel Maciel |
-| 1.5 | 21/10 | Adição de Histórias de Usuário de USS 22, US23, US24, US25, US26, US27 e US28 | João Lucas | Gabriel Maciel |
-
+| 1.2 | 19/10 | Adição de Histórias de Usuário de US11 até US14 | Cauã Nicolas | Gabriel Maciel |
+| 1.3 | 19/10 | Adição de Histórias de Usuário de US15 até US19 | João Gabriel | Cauã Nicolas |
+| 1.4 | 21/10 | Adição de Histórias de Usuário de US20 e US21 | Gabriel Maciel | João Gabriel |
+| 1.5 | 21/10 | Adição de Histórias de Usuário de US22 e US23 | Cauã Nicolas | Gabriel Maciel |
+| 1.6 | 21/10 | Adição de Histórias de Usuário de US05 até US10 | Fernanda Vaz | João Gabriel |
+| 1.7 | 21/10 | Adição de Histórias de Usuário de US24 até US30 | João Ramos | Fernanda Vaz |
+| 1.8 | 21/10 | Adição de Histórias de Usuário de US31 e US32 | João Gabriel | Gabriel Maciel |
+| 1.9 | 21/10 | Adição das Histórias de Usuário de US33 a US38 | Daniel Nunes Duarte | --------- |
 
 ---
 
 ## Agradecimentos
 
-Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

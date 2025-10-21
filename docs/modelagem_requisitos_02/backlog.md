@@ -87,6 +87,9 @@ Tem como objetivo garantir que o sistema atenda às necessidades de todos os usu
 | **US20** | Como **usuário que utiliza frequentemente determinadas linhas de ônibus**, eu quero **poder favoritar linhas ou paradas específicas**, para que eu **consiga acessá-las rapidamente sem precisar pesquisar toda vez**. | Média | **RF24** - Permitir favoritar linhas ou paradas para acesso rápido | Cauã Nicolas |
 | **US21** | Como **usuário que mora em áreas afastadas do Distrito Federal**, eu quero **ter acesso às informações de linhas e horários de ônibus da minha região**, para que eu **possa planejar minhas viagens com a mesma praticidade que os usuários das regiões centrais**. | Média | **RF25** - Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Cauã Nicolas |
 US26|Como **passageiro com conexão de internet limitada ou instável**, eu quero **acessar os horários programados das linhas e minhas rotas salvas mesmo estando offline**, para que **eu possa planejar meus deslocamentos essenciais sem depender de uma conexão de dados ativa**.|Média|**RFN-11 (RNI05/ENT18/BRS06)** - Funcionamento offline para consulta a rotas salvas e horários|João Ramos
+| **US34** | Como **passageiro em deslocamento**, eu quero **utilizar comandos de voz para acessar informações do aplicativo**, para que **eu possa interagir com o sistema de forma segura e prática sem precisar tocar no celular**. | Média | **RF33** - Suporte a comandos de voz para facilitar interação durante deslocamentos | Daniel Nunes Duarte |
+
+
 ---
 
 ### Épico 4: Avaliar e Reportar
@@ -132,6 +135,8 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | **US28** | Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero **ser informado sobre incidentes de trânsito (acidentes, congestionamentos, obras) que afetam as rotas de ônibus**, para que **eu possa entender a causa de atrasos e receber sugestões de rotas alternativas**. | Média | **RF21 (BRS12)** - Mostrar alertas de trânsito, acidentes e rotas alternativas | João Ramos |
 | **US15** | Como **passageiro que precisa se deslocar pela cidade**, eu quero **planejar uma viagem informando meu ponto de origem e destino para receber rotas sugeridas de ônibus**, para que **eu possa encontrar a melhor opção de itinerário, mesmo em rotas que não conheço**. | Alta | **RF03/ANADOC** - Permitir planejamento de viagem (origem → destino) com rotas sugeridas | João Gabriel |
 | **US29** | Como **passageiro que depende de horários precisos**, eu quero **receber previsões inteligentes de horários de chegada baseadas em dados históricos e machine learning**, para que **eu possa evitar esperas longas nos pontos, especialmente em horários noturnos, e ter mais segurança e confiança no transporte público**. | Média | **RF30/BRS02** - Previsão inteligente de horários baseada em dados históricos e machine learning | João Gabriel |
+| **US31** | Como **passageiro que utiliza o transporte público**, eu quero **visualizar o preço da passagem de cada linha ou trajeto**, para que **eu possa planejar meus gastos e comparar opções de transporte antes de embarcar**. | Média | **RF17** - Exibir preço da passagem por linha ou trajeto | Daniel Nunes Duarte |
+| **US35** | Como **usuário do transporte público**, eu quero **visualizar todos os veículos que estão em operação no momento**, para que **eu possa saber quais linhas estão ativas e planejar meus deslocamentos com base na disponibilidade real do serviço**. | Alta | **RF27** - Visualizar quais veículos estão em operação no momento | Daniel Nunes Duarte |
 
 ---
 
@@ -142,6 +147,45 @@ Tem como objetivo gerenciar a identidade, autenticação e preferências dos usu
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 |---|---|---|---|---|
 | **US30** | Como **usuário do aplicativo**, eu quero **criar uma conta e fazer login de forma segura**, para que **eu possa acessar funcionalidades personalizadas como favoritos, histórico de viagens, recargas e avaliações**. | Alta | **RF37** - Permitir cadastro, login e autenticação de usuários no sistema | João Gabriel |
+
+### Épico 09: Sustentabilidade e Impacto Ambiental
+
+Tem como objetivo promover a conscientização ambiental dos usuários do aplicativo **DF no Ponto**, incentivando o uso contínuo do transporte público por meio da exibição de relatórios sobre a redução das emissões de CO₂.  
+Essas funcionalidades visam destacar a contribuição ecológica individual e coletiva dos passageiros, fortalecendo o engajamento com práticas sustentáveis e reforçando o compromisso do sistema com a mobilidade urbana verde.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US09** | Como **usuário consciente sobre sustentabilidade**, eu quero **visualizar relatórios de impacto ambiental que indiquem o quanto de CO₂ deixei de emitir ao utilizar o transporte público**, para que **eu possa acompanhar minha contribuição para a preservação ambiental e ser incentivado a continuar utilizando o transporte coletivo**. | Média | **RF32** – Exibir relatórios de impacto ambiental (CO₂ economizado) | Fernanda Vaz |
+| **US10** | Como **usuário consciente e engajado com sustentabilidade**, eu quero **visualizar relatórios de impacto ambiental que mostrem a quantidade de CO₂ que deixei de emitir ao utilizar o transporte público**, para que **eu possa compreender minha contribuição positiva para o meio ambiente e ser incentivado a continuar utilizando o aplicativo de forma sustentável**. | Média | **RF32** – Exibir relatórios de impacto ambiental (CO₂ economizado) – *Elicitação de Requisitos: Brainstorm (BRS11)* | Fernanda Vaz |
+
+---
+
+### Épico 10: Segurança
+
+Tem como objetivo garantir a integridade física e a sensação de segurança dos passageiros durante suas viagens, fornecendo mecanismos ágeis e discretos para alertar motoristas, operadores e autoridades em situações de risco ou emergência.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US32** | Como **passageiro em situação de emergência dentro do ônibus**, eu quero **acessar rapidamente um botão de pânico no aplicativo**, para que **eu possa alertar o motorista e/ou as autoridades competentes de forma discreta e segura**. | Alta | **RF20** - Botão de pânico/emergência para alertar motorista e/ou autoridades | Daniel Nunes Duarte |
+| **US33** | Como **passageiro em deslocamento**, eu quero **compartilhar meu trajeto em tempo real com familiares ou amigos**, para que **eles possam acompanhar meu percurso e saber quando cheguei em segurança ao destino**. | Alta | **RF22** - Permitir compartilhar trajeto em tempo real com outros usuários | Daniel Nunes Duarte |
+
+---
+
+### Épico 11: Gamificação e Engajamento
+
+Visa incentivar o uso do transporte público por meio de mecanismos de gamificação, recompensas e reconhecimento de comportamento positivo, tornando a experiência do usuário mais envolvente e estimulando a fidelização ao sistema.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US36** | Como **usuário frequente do transporte público**, eu quero **participar de um sistema de pontuação e recompensas baseado nas minhas viagens**, para que **eu me sinta motivado a utilizar mais o transporte coletivo e ganhar benefícios**. | Média | **RF29** - Sistema de gamificação para incentivar uso do transporte público | Daniel Nunes Duarte |
+
+## Validação(Fernanda Vaz)
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/_up-xi0eqpo"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 ## Referência bibliográfica
 
@@ -166,7 +210,9 @@ Tem como objetivo gerenciar a identidade, autenticação e preferências dos usu
 | 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | Cauã Nicolas |
 | 1.5 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
 | 1.6 | 21/10 | Adição de US29 e US15 ao Épico 7 | João Gabriel | João Lucas |
+| 1.7 | 21/10 | Adição de US31 a US36. Criação dos Épicos 10 e 11. Oganização dos US31 ao US36  | Daniel Nunes Duarte | 
 | 1.7 | 21/10 | Adição de itens aos Épicos 2, 3 e 7 | João Lucas | João Gabriel |
+-------- |
 
 ## Agradecimentos
 

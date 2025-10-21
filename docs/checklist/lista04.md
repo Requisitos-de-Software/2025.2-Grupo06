@@ -60,7 +60,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **07:** Os catálogos de requisitos estão descritos na notação adotada pelo NFR Framework? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+| **07:** Os catálogos de requisitos estão descritos na notação adotada pelo NFR Framework? | A avaliar | João  Gabriel | 21/10/2025 15:45 |
 
 ![Fonte do Item 7](https://i.ibb.co/9qkNfrs/image.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
@@ -69,7 +69,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **08:** As contribuições entre softgoals foram claramente definidas? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+| **08:** As contribuições entre softgoals foram claramente definidas? | A avaliar | João Gabriel | 21/10/2025 15:45 |
 
 ![Fonte do Item 8](https://i.ibb.co/yPjGwL7/image.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
@@ -159,6 +159,24 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ![Fonte do Item 6](https://i.ibb.co/ZqNDzQG/image.png)  
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **07:** A atividade de "Ouvir" conduz à criação de um conjunto de "histórias" que descrevem o resultado, as características e a funcionalidade requisitados para o software a ser construído? | A avaliar | João Gabriel | 21/10/2025 15:45 |
+
+![Fonte do Item 7](https://i.ibb.co/SXTFjkkK/image.png)  
+**Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **08:** Os membros da equipe XP avaliam cada história e atribuem um custo — medido em semanas de desenvolvimento — a ela? | A avaliar | João Gabriel | 21/10/2025 15:45 |
+
+![Fonte do Item 8](https://i.ibb.co/vv6TrBDF/image.png)  
+**Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
 
 ---
 
@@ -320,6 +338,24 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **19:** O backlog é uma lista ordenada de tudo que pode ser necessário no produto? | A avaliar | João Gabriel | 21/10/2025 15:45 |
+
+![Fonte do Item 19](https://i.ibb.co/DgKJtJXr/image.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 5 out. 2020. (0:37m)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **20:** O backlog é a única fonte dos requisitos para qualquer mudança a ser feita no produto? | A avaliar | João Gabriel | 21/10/2025 15:45 |
+
+![Fonte do Item 20](https://i.ibb.co/MDmk2tkz/image.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 5 out. 2020. (0:42m)
+
+---
+
 ## Referências Bibliográficas
 
 ><a id="ref-1"></a>  
@@ -344,4 +380,5 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.1 | 18/10/2025 | Adição de itens 1 e 2 das Listas de Verificação: NFR Framework, Histórias de Usuário e Backlog | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 18/10/2025 | Adição de novos artefatos (itens 3 e 4) nas Listas de Verificação | Fernanda Vaz | Gabriel Maciel |
 | 1.3 | 19/10/2025 | Adição de novos artefatos (itens 5 e 6) nas Listas de Verificação | Cauã Nicolas | Gabriel Maciel |
-| 1.4 | 21/10/2025 | Adição dos novos itens 7–12 (NFR Framework) e 7–18 (Backlog) | Daniel Nunes Duarte | -------- |
+| 1.4 | 21/10/2025 | Adição dos novos itens 9–12 (NFR Framework) e 7–18 (Backlog) | Daniel Nunes Duarte | João Gabriel |
+| 1.5 | 21/10/2025 | Adição dos novos itens  7-8 (NFR), 19-20(backlog) e 7-8 (Historias)| João Gabriel | Daniel Nunes |
