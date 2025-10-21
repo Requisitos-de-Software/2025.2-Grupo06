@@ -58,6 +58,60 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **07:** Os catálogos de requisitos estão descritos na notação adotada pelo NFR Framework? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+
+![Fonte do Item 7](https://i.ibb.co/9qkNfrs/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **08:** As contribuições entre softgoals foram claramente definidas? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+
+![Fonte do Item 8](https://i.ibb.co/yPjGwL7/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **09:** O tipo específico de cada contribuição foi determinado? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+
+![Fonte do Item 9](https://i.ibb.co/7v0VRgC/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **10:** O procedimento de análise para determinar o grau em que as decisões de projeto satisfazem os softgoals foi executado? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+
+![Fonte do Item 10](https://i.ibb.co/dk63scx/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **11:** Rótulos de avaliação foram atribuídos aos softgoals? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+
+![Fonte do Item 11](https://i.ibb.co/dcK0D7K/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **12:** Na priorização está ocorrendo o refinamento de um softgoal em outro softgoal com o mesmo tipo e tópicos? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
+
+![Fonte do Item 12](https://i.ibb.co/3z4kC1s/image.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
 ## Lista de Verificação: Histórias de Usuário
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
