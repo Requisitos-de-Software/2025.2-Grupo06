@@ -252,6 +252,32 @@ _Autoria: João Gabriel, 2025_
 
 ---
 
+### **US18 - Integração com Assistentes Virtuais**
+
+*Autoria: Gabriel Maciel, 2025*
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF34/BRS16 - Integração com assistentes virtuais (Alexa, Google Assistant) |
+| **Descrição:** | Como **usuário do transporte público**, eu quero **utilizar assistentes virtuais como Alexa ou Google Assistant para acessar informações de ônibus**, para que **eu possa consultar horários, localização de ônibus e planejar viagens sem precisar abrir o aplicativo manualmente**. |
+| **Critérios de Aceitação:** | - O sistema deve permitir integração com Alexa e Google Assistant (inicialmente).<br>- O usuário deve poder fazer perguntas de voz como "Qual o próximo ônibus para o Eixo Sul?"<br>- O assistente deve retornar informações de tempo estimado de chegada do ônibus.<br>- O assistente deve permitir consultar saldo do cartão de transporte do usuário.<br>- O assistente deve permitir realizar recargas de cartão (com confirmação de segurança).<br>- O assistente deve autenticar o usuário de forma segura antes de acessar dados pessoais.<br>- A integração deve funcionar de forma responsiva (respostas em menos de 3 segundos).<br>- O usuário deve poder desabilitar a integração a qualquer momento nas configurações da conta. |
+| **Prioridade:** | Baixa |
+
+---
+
+### **US19 - Suporte Multilíngue**
+
+*Autoria: Gabriel Maciel, 2025*
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF36/ENT22 - Oferecer suporte multilíngue (português e inglês, no mínimo) |
+| **Descrição:** | Como **usuário que não fala português ou turista visitando o Distrito Federal**, eu quero **utilizar o aplicativo em diferentes idiomas, especialmente em português e inglês**, para que **eu possa compreender facilmente todas as informações sobre linhas, horários e navegação no aplicativo**. |
+| **Critérios de Aceitação:** | - O aplicativo deve suportar, no mínimo, português (Brasil) e inglês.<br>- O usuário deve poder alterar o idioma nas configurações do aplicativo.<br>- O idioma selecionado deve ser mantido entre sessões (persistência).<br>- Todos os textos da interface devem estar traduzidos no idioma selecionado (nomes de linhas, horários, mensagens de erro, etc.).<br>- As instruções do sistema e notificações devem estar disponíveis no idioma escolhido.<br>- Os nomes dos destinos e pontos de parada devem ser exibidos em ambos os idiomas quando possível.<br>- A detecção de idioma do dispositivo deve ser usada para pré-definir o idioma do aplicativo na primeira instalação.<br>- O aplicativo deve estar conformidade com as diretrizes de localização internacional (RTL, formatação de números e datas). |
+| **Prioridade:** | Média |
+
+---
+
 
 ## Referências Bibliográficas
 
@@ -273,6 +299,7 @@ _Autoria: João Gabriel, 2025_
 | 1.1 | 19/10 | Adição de Metodologia e Histórias de Usuário de US01 até US04 | Gabriel Maciel | Fernanda Vaz |
 | 1.2 | 19/10 | Adição de Histórias de Usuário de US09 até US12 | Cauã Nicolas | Gabriel Maciel |
 | 1.2 | 19/10 | Adição de Histórias de Usuário de US13 até US17 | João Gabriel | Cauã Nicolas |
+| 1.3 | 21/10 | Adição de Histórias de Usuário de US18 e US19 | Gabriel Maciel | João Gabriel |
 
 ---
 
