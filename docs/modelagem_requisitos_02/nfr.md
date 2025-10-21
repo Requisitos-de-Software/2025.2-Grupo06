@@ -150,6 +150,24 @@ Cartão de Especificação
 | OP-U06 | Feedback do usuário | SIG-U04 | Coletar avaliações para melhorias. |
 
 ---
+### Cartão de Especificação de Requisitos Não-Funcionais do SIG Usabilidade
+
+#### RU09 - Adaptabilidade e Acessibilidade
+
+| Campo | Descrição |
+|-------|-----------|
+| **Nr Requisito** | RU09 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade (Acessibilidade) |
+| **Descrição** | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
+| **Justificativa** | Garantir a inclusão e permitir que todos os cidadãos, independentemente de suas habilidades, possam utilizar o aplicativo com autonomia. |
+| **Origem** | Elicitação de Requisitos: Diretrizes de Acessibilidade (WCAG 2.1), Análise de Documentos. |
+| **Critério de Ajuste** | - Conformidade com o nível AA da WCAG 2.1.<br>- Compatibilidade total com leitores de tela (VoiceOver e TalkBack).<br>- Contraste mínimo de 4.5:1 para textos e 3:1 para componentes de interface.<br>- Áreas de toque com tamanho mínimo de 44x44 pixels. |
+| **Dependências** | SIG-U03, OP-U03, OP-U04 |
+| **Prioridade** | 10 |
+| **Conflitos** | Pode conflitar com requisitos de design (estética) se não for bem planejado. |
+| **Histórico** | Criado em 21/10/2025 — Autor: João Ramos |
+
+---
 
 #### Softgoals de Afirmação
 
