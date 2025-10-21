@@ -380,4 +380,5 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.1 | 18/10/2025 | Adição de itens 1 e 2 das Listas de Verificação: NFR Framework, Histórias de Usuário e Backlog | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 18/10/2025 | Adição de novos artefatos (itens 3 e 4) nas Listas de Verificação | Fernanda Vaz | Gabriel Maciel |
 | 1.3 | 19/10/2025 | Adição de novos artefatos (itens 5 e 6) nas Listas de Verificação | Cauã Nicolas | Gabriel Maciel |
-| 1.4 | 21/10/2025 | Adição dos novos itens 7–12 (NFR Framework) e 7–18 (Backlog) | Daniel Nunes Duarte | -------- |
+| 1.4 | 21/10/2025 | Adição dos novos itens 9–12 (NFR Framework) e 7–18 (Backlog) | Daniel Nunes Duarte | João Gabriel |
+| 1.5 | 21/10/2025 | Adição dos novos itens  7-8 (NFR), 19-20(backlog) e 7-8 (Historias)| João Gabriel | Daniel Nunes |
