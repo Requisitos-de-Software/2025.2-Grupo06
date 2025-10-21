@@ -1,7 +1,7 @@
 ## Lista de verificação disponibilizada pelo professor
 
 >A lista de verificação focada em engenharia de requisitos ágil, destacando seus componentes principais: Modelagem Ágil, Histórias de Usuário, Backlogs e o NFR Framework (Requisitos Não Funcionais).
-
+##  Verificação do grupo+1
 ??? note "Lista de verificação disponibilizada pelo professor"
 
     | **ID** | **Item de Verificação** | **Conforme / Não Conforme** | **Observações / Evidências** | **Avaliador** | **Data** | **Hora** |
