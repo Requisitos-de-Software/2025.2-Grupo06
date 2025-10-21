@@ -32,7 +32,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ## Histﾃｳrias de Usuﾃ｡rio
 
-### US01 - Filtrar ﾃ馬ibus por Empresa Operadora
+### **US01 - Filtrar ﾃ馬ibus por Empresa Operadora**
 
 *Autoria: Gabriel Maciel, 2025*
 
@@ -45,7 +45,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US02 - Acesso Web Rﾃ｡pido via QR Code
+### **US02 - Acesso Web Rﾃ｡pido via QR Code**
 
 *Autoria: Gabriel Maciel, 2025*
 
@@ -58,7 +58,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US03 - Avaliar Qualidade das Linhas
+### **US03 - Avaliar Qualidade das Linhas**
 
 *Autoria: Gabriel Maciel, 2025*
 
@@ -71,7 +71,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US04 - Rastrear Mﾃｺltiplas Linhas Simultaneamente
+### **US04 - Rastrear Mﾃｺltiplas Linhas Simultaneamente**
 
 *Autoria: Gabriel Maciel, 2025*
 
@@ -84,7 +84,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US05 - Apresentar Horﾃ｡rios de Saﾃｭda e Chegada dos Transportes
+### **US05 - Apresentar Horﾃ｡rios de Saﾃｭda e Chegada dos Transportes**
 
 *Autoria: Fernanda Vaz, 2025.*
 
@@ -97,7 +97,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US06 - Oferecer um Mapa Interativo com os Pontos de ﾃ馬ibus e suas Linhas Correspondentes
+### **US06 - Oferecer um Mapa Interativo com os Pontos de ﾃ馬ibus e suas Linhas Correspondentes**
 
 *Autoria: Fernanda Vaz, 2025.*
 
@@ -109,7 +109,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 | **Prioridade:** | Alta |
 
 ---
-### US07 - Integrar informaﾃｧﾃｵes de outros modais (metrﾃｴ, outros ﾃｴnibus) em rotas multimodais
+### **US07 - Integrar informaﾃｧﾃｵes de outros modais (metrﾃｴ, outros ﾃｴnibus) em rotas multimodais**
 
 *Autoria: Fernanda Vaz, 2025.*
 
@@ -122,7 +122,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US08 - Exibir Informaﾃｧﾃｵes de Acessibilidade do ﾃ馬ibus
+### **US08 - Exibir Informaﾃｧﾃｵes de Acessibilidade do ﾃ馬ibus**
 
 *Autoria: Fernanda Vaz, 2025.*
 
@@ -135,7 +135,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US09 - Oferecer recarga de cartﾃ｣o de transporte
+### **US09 - Oferecer recarga de cartﾃ｣o de transporte**
 
 *Autoria: Cauﾃ｣ Nicolas, 2025.*
 
@@ -148,7 +148,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 ---
 
-### US10 - Permitir integraﾃｧﾃ｣o com o cartﾃ｣o de transporte
+### **US10 - Permitir integraﾃｧﾃ｣o com o cartﾃ｣o de transporte**
 
 *Autoria: Cauﾃ｣ Nicolas, 2025.*
 
@@ -161,7 +161,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 --- 
 
-### US11 - Visualizar histﾃｳrico de viagens
+### **US11 - Visualizar histﾃｳrico de viagens**
 
 *Autoria: Cauﾃ｣ Nicolas, 2025.*
 
@@ -174,7 +174,7 @@ Todas as histﾃｳrias de usuﾃ｡rio seguem o [Template de Tabela](#template-de-histﾃ
 
 --- 
 
-### US12 - Reportar problemas de viagem
+### **US12 - Reportar problemas de viagem**
 
 *Autoria: Cauﾃ｣ Nicolas, 2025.*
 
@@ -198,7 +198,7 @@ _Autoria: Joﾃ｣o Gabriel, 2025_
 | **Critﾃｩrios de Aceitaﾃｧﾃ｣o:** | - O sistema deve exibir ﾃｭcones de ﾃｴnibus sobrepostos no mapa interativo.<br>- A posiﾃｧﾃ｣o dos ﾃｴnibus deve ser atualizada automaticamente a intervalos regulares (ex: a cada 15-30 segundos).<br>- Cada ﾃｭcone de ﾃｴnibus deve representar um veﾃｭculo fﾃｭsico em operaﾃｧﾃ｣o.<br>- Ao tocar no ﾃｭcone de um ﾃｴnibus, o sistema deve exibir informaﾃｧﾃｵes bﾃ｡sicas da linha (nﾃｺmero, destino).<br>- O mapa deve continuar responsivo e com navegaﾃｧﾃ｣o fluida mesmo com mﾃｺltiplos ﾃｴnibus sendo exibidos.<br>- O sistema deve lidar graciosamente com a perda momentﾃ｢nea de conexﾃ｣o, exibindo a ﾃｺltima posiﾃｧﾃ｣o conhecida com um indicativo de "dados desatualizados".<br>- A localizaﾃｧﾃ｣o deve ser mostrada com uma precisﾃ｣o que permita identificar em qual rua ou avenida o ﾃｴnibus se encontra. |
 | **Prioridade:** | Alta |
 
----s
+---
 
 ### **US14 - Consultar Tempo Estimado de Chegada do ﾃ馬ibus**
 
