@@ -158,6 +158,17 @@ Essas funcionalidades visam destacar a contribuição ecológica individual e co
 | **US09** | Como **usuário consciente sobre sustentabilidade**, eu quero **visualizar relatórios de impacto ambiental que indiquem o quanto de CO₂ deixei de emitir ao utilizar o transporte público**, para que **eu possa acompanhar minha contribuição para a preservação ambiental e ser incentivado a continuar utilizando o transporte coletivo**. | Média | **RF32** – Exibir relatórios de impacto ambiental (CO₂ economizado) | Fernanda Vaz |
 | **US10** | Como **usuário consciente e engajado com sustentabilidade**, eu quero **visualizar relatórios de impacto ambiental que mostrem a quantidade de CO₂ que deixei de emitir ao utilizar o transporte público**, para que **eu possa compreender minha contribuição positiva para o meio ambiente e ser incentivado a continuar utilizando o aplicativo de forma sustentável**. | Média | **RF32** – Exibir relatórios de impacto ambiental (CO₂ economizado) – *Elicitação de Requisitos: Brainstorm (BRS11)* | Fernanda Vaz |
 
+---
+
+### Épico 10: Segurança
+
+Tem como objetivo garantir a integridade física e a sensação de segurança dos passageiros durante suas viagens, fornecendo mecanismos ágeis e discretos para alertar motoristas, operadores e autoridades em situações de risco ou emergência.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US32** | Como **passageiro em situação de emergência dentro do ônibus**, eu quero **acessar rapidamente um botão de pânico no aplicativo**, para que **eu possa alertar o motorista e/ou as autoridades competentes de forma discreta e segura**. | Alta | **RF20** - Botão de pânico/emergência para alertar motorista e/ou autoridades | Daniel Nunes Duarte |
+
+
 ## Validação(Fernanda Vaz)
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/_up-xi0eqpo"
