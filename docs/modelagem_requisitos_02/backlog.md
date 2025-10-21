@@ -46,15 +46,17 @@ A priorização das histórias dentro de cada épico foi realizada considerando 
 
 ---
 
-### Épico 1: Rastreamento
+### Épico 1: Rastreamento e Informações em Tempo Real
 
-Tem como objetivo permitir que passageiros acompanhem a localização e status dos ônibus em tempo real.
+Tem como objetivo permitir que passageiros acompanhem a localização e status dos ônibus em tempo real, além de fornecer informações precisas e atualizadas sobre horários e pontos de parada, permitindo melhor planejamento e redução do tempo de espera.
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US04** | Como **passageiro que precisa escolher entre várias opções de transporte**, eu quero **rastrear múltiplas linhas de ônibus simultaneamente no mapa**, para que **eu possa visualizar e comparar diferentes opções em tempo real e escolher a melhor alternativa para meu deslocamento**. | Alta | **RF35/ENT12** - Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | Gabriel Maciel |
 | **US13** | Como **passageiro do transporte público**, eu quero **visualizar a localização exata dos ônibus em tempo real no mapa**, para que **eu possa ter certeza de que o ônibus está a caminho e estimar com precisão o tempo de espera no ponto**. | Alta | **RF01/ANADOC** - Exibir a localização dos ônibus em tempo real no mapa | João Gabriel |
 | **US14** | Como **passageiro aguardando no ponto**, eu quero **consultar o tempo estimado de chegada (TEC) do meu ônibus**, para que **eu possa gerenciar meu tempo de espera com mais segurança e tomar decisões (ex: esperar, chamar um táxi, escolher outra rota)**. | Alta | **RF02/ENT04** - Mostrar o tempo estimado de chegada do ônibus à parada | João Gabriel |
+| **US17** | Como **passageiro do transporte público**, eu quero **visualizar os horários previstos de saída e chegada dos ônibus**, para que **eu possa planejar melhor meus deslocamentos e evitar longas esperas nos pontos**. | Alta | **RF05** - Exibir horários de saída e chegada dos transportes públicos | Fernanda Vaz |
+| **US06** | Como **passageiro que utiliza transporte público**, eu quero **visualizar em um mapa interativo todos os pontos de ônibus e as linhas que passam por cada um deles**, para que **eu possa identificar o ponto mais próximo e escolher a linha mais conveniente**. | Alta | **RF06** - Exibir pontos de ônibus e linhas em mapa interativo | Fernanda Vaz |
 
 ---
 
@@ -113,18 +115,7 @@ Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de 
 
 ---
 
-### Épico 7: Informações em Tempo Real
-
-Tem como objetivo fornecer ao passageiro informações precisas e atualizadas em tempo real sobre horários de ônibus e localização de pontos de parada, permitindo melhor planejamento e redução do tempo de espera.
-
-| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
-| -- | ------------------- | ---------- | ------------------------ | ------- |
-| **US17** | Como **passageiro do transporte público**, eu quero **visualizar os horários previstos de saída e chegada dos ônibus**, para que **eu possa planejar melhor meus deslocamentos e evitar longas esperas nos pontos**. | Alta | **RF05** - Exibir horários de saída e chegada dos transportes públicos | Fernanda Vaz |
-| **US06** | Como **passageiro que utiliza transporte público**, eu quero **visualizar em um mapa interativo todos os pontos de ônibus e as linhas que passam por cada um deles**, para que **eu possa identificar o ponto mais próximo e escolher a linha mais conveniente**. | Alta | **RF06** - Exibir pontos de ônibus e linhas em mapa interativo | Fernanda Vaz |
-
----
-
-### Épico 8: Planejamento de Viagens
+### Épico 7: Planejamento de Viagens
 
 Tem como objetivo permitir que o passageiro planeje viagens integradas utilizando diferentes modais de transporte, com informações sobre acessibilidade e opções de rotas, garantindo inclusão e autonomia para todos os usuários.
 
@@ -155,6 +146,7 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | 1.2.1 | 20/10 | Refatora Épico 4 e Épico 5 | Gabriel Maciel | João Gabriel |
 | 1.2.2 | 20/10 | Adição Épicos 1, 2 e mudança no 7 | João Gabriel | Cauã Nicolas|
 | 1.3 | 21/10 | Adição de US18 e US19 ao Épico 3 | Gabriel Maciel |  |
+| 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | |
 
 ## Agradecimentos
 
