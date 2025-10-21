@@ -514,6 +514,32 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
+## **US37 - Visualizar Quais Veículos Estão em Operação no Momento**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF27** - Visualizar quais veículos estão em operação no momento |
+| **Descrição:** | Como **usuário do transporte público**, eu quero **visualizar todos os veículos que estão em operação no momento**, para que **eu possa saber quais linhas estão ativas e planejar meus deslocamentos com base na disponibilidade real do serviço**. |
+| **Critérios de Aceitação:** | - O sistema deve exibir no mapa apenas os veículos em operação no momento, com atualização em tempo real.<br>- Cada veículo em operação deve estar identificado com número da linha e destino.<br>- O usuário deve poder filtrar veículos por empresa operadora, linha ou região.<br>- O sistema deve permitir visualizar o total de veículos ativos em determinado horário.<br>- A interface deve indicar visualmente veículos em operação e os que estão fora de serviço (ex: cores diferentes).<br>- O aplicativo deve atualizar as informações automaticamente a cada 30 segundos. |
+| **Prioridade:** | Alta |
+
+---
+
+## **US38 - Sistema de Gamificação para Incentivar o Uso do Transporte Público**
+
+*Autoria: Daniel Nunes Duarte, 2025*
+
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Origem:** | **RF29** - Sistema de gamificação para incentivar uso do transporte público |
+| **Descrição:** | Como **usuário frequente do transporte público**, eu quero **participar de um sistema de pontuação e recompensas baseado nas minhas viagens**, para que **eu me sinta motivado a utilizar mais o transporte coletivo e ganhar benefícios**. |
+| **Critérios de Aceitação:** | - O sistema deve registrar automaticamente as viagens realizadas pelo usuário (baseadas em histórico ou integração com o cartão de transporte).<br>- O usuário deve acumular pontos conforme a frequência e distância percorrida.<br>- O aplicativo deve exibir o saldo de pontos e o nível atual (ex: Bronze, Prata, Ouro).<br>- O sistema deve permitir trocar pontos por recompensas (ex: descontos, brindes ou passes gratuitos).<br>- Deve haver um painel com ranking entre usuários (opcional).<br>- O sistema deve enviar notificações quando o usuário atingir novas metas ou conquistas.<br>- As informações de pontuação e recompensas devem ser atualizadas em tempo real. |
+| **Prioridade:** | Média |
+
+---
+
 ## Referências Bibliográficas
 
 <a id="ref-1"></a>
@@ -539,7 +565,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | 1.6 | 21/10 | Adição de Histórias de Usuário de US05 até US10 | Fernanda Vaz | João Gabriel |
 | 1.7 | 21/10 | Adição de Histórias de Usuário de US24 até US30 | João Ramos | Fernanda Vaz |
 | 1.8 | 21/10 | Adição de Histórias de Usuário de US31 e US32 | João Gabriel | Gabriel Maciel |
-| 1.9 | 21/10 | Adição das Histórias de Usuário de US31 a US34 | Daniel Nunes Duarte | --------- |
+| 1.9 | 21/10 | Adição das Histórias de Usuário de US33 a US38 | Daniel Nunes Duarte | --------- |
 
 ---
 
