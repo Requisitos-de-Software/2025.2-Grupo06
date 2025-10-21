@@ -129,9 +129,19 @@ Tem como objetivo permitir que o passageiro planeje viagens integradas utilizand
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US07** | Como **passageiro que deseja planejar sua rota**, eu quero **visualizar e integrar informações de diferentes modais de transporte (metrô, ônibus de outras empresas, etc.) no planejamento de rotas**, para que **eu possa escolher a melhor combinação de transportes para chegar ao meu destino**. | Média | **RF07** - Integrar informações de outros modais de transporte | Fernanda Vaz |
 | **US08** | Como **passageiro com mobilidade reduzida**, eu quero **visualizar se o ônibus é acessível para cadeirantes e outras necessidades especiais**, para que **eu possa planejar meu deslocamento com segurança e conforto**. | Alta | **RF08** - Exibir informações de acessibilidade dos veículos | Fernanda Vaz |
-US28|Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero **ser informado sobre incidentes de trânsito (acidentes, congestionamentos, obras) que afetam as rotas de ônibus**, para que **eu possa entender a causa de atrasos e receber sugestões de rotas alternativas**.|Média|**RF21 (BRS12)** - Mostrar alertas de trânsito, acidentes e rotas alternativas|João Ramos
+| **US28** | Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero **ser informado sobre incidentes de trânsito (acidentes, congestionamentos, obras) que afetam as rotas de ônibus**, para que **eu possa entender a causa de atrasos e receber sugestões de rotas alternativas**. | Média | **RF21 (BRS12)** - Mostrar alertas de trânsito, acidentes e rotas alternativas | João Ramos |
+| **US15** | Como **passageiro que precisa se deslocar pela cidade**, eu quero **planejar uma viagem informando meu ponto de origem e destino para receber rotas sugeridas de ônibus**, para que **eu possa encontrar a melhor opção de itinerário, mesmo em rotas que não conheço**. | Alta | **RF03/ANADOC** - Permitir planejamento de viagem (origem → destino) com rotas sugeridas | João Gabriel |
+| **US29** | Como **passageiro que depende de horários precisos**, eu quero **receber previsões inteligentes de horários de chegada baseadas em dados históricos e machine learning**, para que **eu possa evitar esperas longas nos pontos, especialmente em horários noturnos, e ter mais segurança e confiança no transporte público**. | Média | **RF30/BRS02** - Previsão inteligente de horários baseada em dados históricos e machine learning | João Gabriel |
 
 ---
+
+### Épico 8: Gestão de Usuário e Conta
+
+Tem como objetivo gerenciar a identidade, autenticação e preferências dos usuários no sistema, proporcionando experiência personalizada e segura.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+|---|---|---|---|---|
+| **US30** | Como **usuário do aplicativo**, eu quero **criar uma conta e fazer login de forma segura**, para que **eu possa acessar funcionalidades personalizadas como favoritos, histórico de viagens, recargas e avaliações**. | Alta | **RF37** - Permitir cadastro, login e autenticação de usuários no sistema | João Gabriel |
 
 ## Referência bibliográfica
 
@@ -154,7 +164,8 @@ US28|Como **passageiro planejando uma viagem ou já em deslocamento**, eu quero 
 | 1.2.2 | 20/10 | Adição Épicos 1, 2 e mudança no 7 | João Gabriel | Cauã Nicolas|
 | 1.3 | 21/10 | Adição de US18 e US19 ao Épico 3 | Gabriel Maciel | Cauã Nicolas |
 | 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | Cauã Nicolas |
-| 1.3 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
+| 1.5 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
+| 1.6 | 21/10 | Adição de US29 e US15 ao Épico 7 | João Gabriel | João Lucas |
 
 ## Agradecimentos
 

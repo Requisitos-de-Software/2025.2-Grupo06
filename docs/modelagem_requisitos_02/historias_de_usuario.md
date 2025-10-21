@@ -396,6 +396,30 @@ _Autoria: João Gabriel, 2025_
 | **Prioridade:** | Média |
 
 ---
+
+### US29 - Receber Previsão Inteligente de Horários com Base em Dados Históricos
+
+_Autoria: João Gabriel, 2025_
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF30/BRS02 - Previsão inteligente de horários baseada em dados históricos e machine learning |
+| **Descrição:** | Como **passageiro que depende de horários precisos**, eu quero **receber previsões inteligentes de horários de chegada baseadas em dados históricos e machine learning**, para que **eu possa evitar esperas longas nos pontos, especialmente em horários noturnos, e ter mais segurança e confiança no transporte público**. |
+| **Critérios de Aceitação:** | - O sistema deve analisar dados históricos de pelo menos 30 dias para gerar previsões<br>- A previsão inteligente deve considerar: padrões de trânsito, horários do dia, dias da semana e eventos especiais<br>- O usuário deve poder ativar/desativar a "previsão inteligente" nas configurações<br>- O sistema deve exibir o horário previsto com indicação visual de confiabilidade (ex: "Alta confiança" baseada em 100+ viagens)<br>- O usuário deve poder programar notificações personalizadas (ex: "5 minutos antes da chegada prevista")<br>- O sistema deve atualizar as previsões em tempo real conforme a posição do ônibus muda<br>- Deve ser mostrada a base estatística da previsão (ex: "Baseado em 187 viagens anteriores")<br>- A interface deve diferenciar claramente entre horário oficial e horário previsto inteligente<br>- O sistema deve funcionar mesmo com conexão limitada, usando os últimos dados preditivos calculados<br>- O algoritmo deve aprender continuamente com novos dados de viagens |
+| **Prioridade:** | Média |
+
+### US30 - Criar Conta e Fazer Login no Aplicativo
+
+_Autoria: João Gabriel, 2025_
+
+| Campo | Descrição |
+|---|---|
+| **Origem:** | RF37 - Permitir cadastro, login e autenticação de usuários no sistema |
+| **Descrição:** | Como **usuário do aplicativo**, eu quero **criar uma conta e fazer login de forma segura**, para que **eu possa acessar funcionalidades personalizadas como favoritos, histórico de viagens, recargas e avaliações**. |
+| **Critérios de Aceitação:** | - O usuário deve poder criar conta com e-mail e senha<br>- Deve ser possível fazer login com e-mail e senha<br>- O sistema deve manter a sessão do usuário ativa entre aberturas do aplicativo<br>- Deve haver opção de "Lembrar meus dados" para login automático<br>- O sistema deve permitir recuperação de senha por e-mail<br>- Os dados de login devem ser armazenados de forma segura<br>- O usuário deve poder fazer logout da conta<br>- O sistema deve validar e-mail durante o cadastro<br>- Deve ser possível acessar algumas funcionalidades básicas sem login (modo visitante) |
+| **Prioridade:** | Alta |
+
+
 ## Referências Bibliográficas
 
 <a id="ref-1"></a>
@@ -418,6 +442,7 @@ _Autoria: João Gabriel, 2025_
 | 1.2 | 19/10 | Adição de Histórias de Usuário de US13 até US17 | João Gabriel | Cauã Nicolas |
 | 1.3 | 21/10 | Adição de Histórias de Usuário de US18 e US19 | Gabriel Maciel | João Gabriel |
 | 1.4 | 21/10 | Adição de Histórias de Usuário de US20 e US21 | Cauã Nicolas | Gabriel Maciel |
+| 1.5 | 21/10 | Adição de Histórias de Usuário de US29 | João Gabriel | Gabriel Maciel |
 
 
 ---
