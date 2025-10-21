@@ -167,7 +167,17 @@ Tem como objetivo garantir a integridade física e a sensação de segurança do
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
 | **US32** | Como **passageiro em situação de emergência dentro do ônibus**, eu quero **acessar rapidamente um botão de pânico no aplicativo**, para que **eu possa alertar o motorista e/ou as autoridades competentes de forma discreta e segura**. | Alta | **RF20** - Botão de pânico/emergência para alertar motorista e/ou autoridades | Daniel Nunes Duarte |
+| **US33** | Como **passageiro em deslocamento**, eu quero **compartilhar meu trajeto em tempo real com familiares ou amigos**, para que **eles possam acompanhar meu percurso e saber quando cheguei em segurança ao destino**. | Alta | **RF22** - Permitir compartilhar trajeto em tempo real com outros usuários | Daniel Nunes Duarte |
 
+---
+
+### Épico 11: Gamificação e Engajamento
+
+Visa incentivar o uso do transporte público por meio de mecanismos de gamificação, recompensas e reconhecimento de comportamento positivo, tornando a experiência do usuário mais envolvente e estimulando a fidelização ao sistema.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US36** | Como **usuário frequente do transporte público**, eu quero **participar de um sistema de pontuação e recompensas baseado nas minhas viagens**, para que **eu me sinta motivado a utilizar mais o transporte coletivo e ganhar benefícios**. | Média | **RF29** - Sistema de gamificação para incentivar uso do transporte público | Daniel Nunes Duarte |
 
 ## Validação(Fernanda Vaz)
 <iframe width="560" height="315"
@@ -200,6 +210,7 @@ Tem como objetivo garantir a integridade física e a sensação de segurança do
 | 1.4 | 21/10 | Junção dos Épicos 1 e 7 em um único Épico 1 (Rastreamento e Informações em Tempo Real) | Gabriel Maciel | Cauã Nicolas |
 | 1.5 | 21/10 | Adição de US20 e US21 ao Épico 3 | Cauã Nicolas | Gabriel Maciel |
 | 1.6 | 21/10 | Adição de US29 e US15 ao Épico 7 | João Gabriel | João Lucas |
+| 1.7 | 21/10 | Adição de US31 a US36. Criação dos Épicos 10 e 11. Oganização dos US31 ao US36  | Daniel Nunes Duarte | -------- |
 
 ## Agradecimentos
 
