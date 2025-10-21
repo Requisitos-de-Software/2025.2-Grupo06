@@ -15,7 +15,7 @@ O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem utili
 ## Softgoal Interdependency Graph
 Segundo Reinaldo Antônio <sup>[1](#ref-1)</sup> o "Softgoal Interdependency Graph" (SIG) é um gráfico que registra as análises do desenvolvedor sobre os softgoals (objetivos não-funcionais) e mostra como eles dependem uns dos outros. Essencialmente, os SIGs armazenam todo o histórico das decisões de desenvolvimento e a lógica do projeto de forma visual e resumida.
 
-Conforme Silva <sup>[1](#ref-1)</sup>, após a construção de uma taxonomia de Requisitos Não-Funcionais, é iniciada a criação de um Catálogo de RNFs, organizando todos os requisitos encontrados com suas definições, atributos, restrições e exemplos. Nesta etapa é realizada a construção de um grafo de Interdependência de Softgoal - Softgoal Interdependency Graph (SIG) com os Requisitos Não-Funcionais, adotando a notação do NFR Framework proposto por Chung et al. (2000). Além disso, para a documentação detalhada dos requisitos, adota-se o Cartão de Especificação baseado no cartão (snowcard) do processo Volere (Robertson; Robertson, 2012), que permite a escrita de exemplos do catálogo em um contexto real do sistema. Este cartão foi utilizado por se adequar bem à abordagem de análise de requisitos não-funcionais e por ser bastante utilizado no meio acadêmico.
+Conforme Silva <sup>[1](#ref-1)</sup>, após a construção de uma taxonomia de Requisitos Não-Funcionais, é iniciada a criação de um Catálogo de RNFs, organizando todos os requisitos encontrados com suas definições, atributos, restrições e exemplos. Nesta etapa é realizada a construção de um grafo de Interdependência de Softgoal - Softgoal Interdependency Graph (SIG) com os Requisitos Não-Funcionais, adotando a notação do NFR Framework proposto por Chung et al. (2000). Além disso, para a documentação detalhada dos requisitos, adota-se o Cartão de Especificação baseado no cartão (snowcard) do processo Volere (Robertson; Robertson, 2012), que permite a escrita de exemplos do catálogo em um contexto real do sistema. Este cartão foi utilizado por se adequar bem à abordagem de análise de requisitos não-funcionais.
 
 ### Cartão de Especificação de Requisitos
 
@@ -182,6 +182,10 @@ Cartão de Especificação
 
 *Autoria: Gabriel Maciel, 2025.*
 
+Os softgoals de desempenho foram extraídos dos Requisitos de Desempenho (RD01-RD04) definidos na Especificação Suplementar. O diagrama completo deste SIG pode ser visualizado na Figura 07.
+
+
+
 ![SIG Desempenho](../assets/imagens/nfr/sig_desempenho.svg)
 
 <center>
@@ -191,6 +195,8 @@ Cartão de Especificação
 ---
 
 #### Softgoals NFR
+
+A **Tabela 05** lista os softgoals NFR principais.
 
 <center>
 <font size="3">Tabela 05 – Softgoals NFR do SIG Desempenho.</font>
@@ -205,7 +211,10 @@ Cartão de Especificação
 
 ---
 
-#### Operacionalização
+#### Softgoals de Operacionalização
+
+**Tabela 06** - Tabela de Especificação de Softgoals de Operacionalização do SIG Desempenho
+
 
 <center>
 <font size="3">Tabela 06 – Softgoals de Operacionalização do SIG Desempenho.</font>
@@ -213,17 +222,18 @@ Cartão de Especificação
 
 | ID | Operacionalização | Softgoal Pai | Descrição |
 |---|---|---|---|
-| OP-D01 | Rastreamento Otimizado | SIG-D02 | Latência máxima de 20s. |
-| OP-D02 | Carregamento Rápido | SIG-D02 | Interface principal em até 3s. |
-| OP-D03 | Cache de Requisições | SIG-D03 | Minimizar requisições redundantes. |
-| OP-D04 | Compressão de Dados | SIG-D03 | Reduzir consumo de rede. |
-| OP-D05 | Tamanho Compacto | SIG-D03 | Reduzir tamanho do app. |
-| OP-D06 | Cache Local | SIG-D04 | Armazenar dados de paradas localmente. |
-| OP-D07 | Servidor Responsivo | SIG-D04 | Suporte simultâneo a múltiplas conexões. |
-
+| OP-D01 | Rastreamento Otimizado | SIG-D02 | Implementar rastreamento de veículos com latência máxima de 20 segundos. |
+| OP-D02 | Carregamento Rápido da Interface | SIG-D02 | Interface principal carrega em menos de 3 segundos. |
+| OP-D03 | Redução de Requisições | SIG-D03 | Minimizar requisições de rede desnecessárias através de cache e sincronização eficiente. |
+| OP-D04 | Compressão de Dados | SIG-D03 | Aplicar compressão em dados transmitidos para reduzir consumo de dados móveis. |
+| OP-D05 | Tamanho Compacto da Aplicação | SIG-D03 | Manter o tamanho do aplicativo reduzido para economizar espaço de armazenamento em dispositivos com recursos limitados. |
+| OP-D06 | Cache de Informações | SIG-D04 | Armazenar dados de linhas, paradas e horários localmente para reduzir carga de requisições ao servidor. |
+| OP-D07 | Servidor Responsivo | SIG-D04 | Manter infraestrutura de servidor estável e responsiva para processar múltiplas requisições simultâneas de rastreamento e consulta. |
 ---
 
-#### Afirmação
+#### Softgoals de Afirmação
+
+A **Tabela 07** especifica os softgoals de afirmação.
 
 <center>
 <font size="3">Tabela 07 – Softgoals de Afirmação do SIG Desempenho.</font>
@@ -231,8 +241,8 @@ Cartão de Especificação
 
 | ID | Afirmação | Softgoal Pai | Descrição |
 |---|---|---|---|
-| AF-D01 | Satisfação do Usuário | SIG-D02 | Usuários satisfeitos com a velocidade. |
-| AF-D02 | Dispositivos Limitados | SIG-D03, SIG-D04 | Sistema funcional em dispositivos simples. |
+| AF-D01 | Satisfação do Usuário | SIG-D02 | Usuários satisfeitos com a velocidade da aplicação. |
+| AF-D02 | Funcionamento em Dispositivos Limitados | SIG-D03, SIG-D04 | Sistema funciona bem em smartphones com recursos reduzidos. |
 
 ---
 
@@ -244,7 +254,7 @@ Cartão de Especificação
 
 | Softgoal | Requisito Origem | Descendentes |
 |---|---|---|
-| SIG-D01 | RD01–RD04 | SIG-D02, SIG-D03, SIG-D04 |
+| SIG-D01 | RD01, RD02, RD03, RD04 | SIG-D02, SIG-D03, SIG-D04 |
 | SIG-D02 | RD01, RD02 | OP-D01, OP-D02, AF-D01 |
 | SIG-D03 | RD03 | OP-D03, OP-D04, OP-D05, AF-D02 |
 | SIG-D04 | RD04 | OP-D06, OP-D07, AF-D02 |
