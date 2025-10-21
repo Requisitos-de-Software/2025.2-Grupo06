@@ -25,6 +25,7 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 | Checklist - Histórias de Usuário (Itens 05, 06) | Cauã Nicolas | 19/10/2025 | 19/10/2025 | [lista04.md](../checklist/lista04.md) |
 | Checklist - Backlog (Item 05) | Cauã Nicolas | 19/10/2025 | 19/10/2025 | [lista04.md](../checklist/lista04.md) |
 | Histórias de Usuário US09 até US12 | Cauã Nicolas | 19/10/2025 | 19/10/2025 | [historias_de_usuario.md](../modelagem_requisitos_02/historias_de_usuario.md) | 
+| NFR Framework - SIG Portabilidade | Cauã Nicolas | 20/10/2025 | 20/10/2025 | [nfr.md](../modelagem_requisitos_02/nfr.md) |
 | NFR Framework - SIG Desempenho | Gabriel Maciel | 20/10/2025 | 20/10/2025 | [nfr.md](../modelagem_requisitos_02/nfr.md) |
 
 ---
