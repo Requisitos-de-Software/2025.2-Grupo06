@@ -143,6 +143,17 @@ Tem como objetivo gerenciar a identidade, autenticação e preferências dos usu
 |---|---|---|---|---|
 | **US30** | Como **usuário do aplicativo**, eu quero **criar uma conta e fazer login de forma segura**, para que **eu possa acessar funcionalidades personalizadas como favoritos, histórico de viagens, recargas e avaliações**. | Alta | **RF37** - Permitir cadastro, login e autenticação de usuários no sistema | João Gabriel |
 
+### Épico 10: Sustentabilidade e Impacto Ambiental
+
+Tem como objetivo promover a conscientização ambiental dos usuários do aplicativo **DF no Ponto**, incentivando o uso contínuo do transporte público por meio da exibição de relatórios sobre a redução das emissões de CO₂.  
+Essas funcionalidades visam destacar a contribuição ecológica individual e coletiva dos passageiros, fortalecendo o engajamento com práticas sustentáveis e reforçando o compromisso do sistema com a mobilidade urbana verde.
+
+| ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
+| -- | ------------------- | ---------- | ------------------------ | ------- |
+| **US09** | Como **usuário consciente sobre sustentabilidade**, eu quero **visualizar relatórios de impacto ambiental que indiquem o quanto de CO₂ deixei de emitir ao utilizar o transporte público**, para que **eu possa acompanhar minha contribuição para a preservação ambiental e ser incentivado a continuar utilizando o transporte coletivo**. | Média | **RF32** – Exibir relatórios de impacto ambiental (CO₂ economizado) | Fernanda Vaz |
+| **US10** | Como **usuário consciente e engajado com sustentabilidade**, eu quero **visualizar relatórios de impacto ambiental que mostrem a quantidade de CO₂ que deixei de emitir ao utilizar o transporte público**, para que **eu possa compreender minha contribuição positiva para o meio ambiente e ser incentivado a continuar utilizando o aplicativo de forma sustentável**. | Média | **RF32** – Exibir relatórios de impacto ambiental (CO₂ economizado) – *Elicitação de Requisitos: Brainstorm (BRS11)* | Fernanda Vaz |
+
+
 ## Referência bibliográfica
 
 <a id="ref-1"></a>
