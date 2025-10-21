@@ -212,6 +212,123 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **07:** Está informando a lista de funcionalidades do produto? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 7](../assets/imagens/checklist_4/print_backlog_7.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:08m)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **08:** Está visível? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 8](../assets/imagens/checklist_4/print_backlog_8.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:30m)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **09:** As informações para a próxima Sprint estão detalhadas? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 9](../assets/imagens/checklist_4/print_backlog_9.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (2:03m)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **10:** Está estimável? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 10](../assets/imagens/checklist_4/print_backlog_10.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (2:40m)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **11:** Está priorizado com o que entrega mais valor para o cliente? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 11](../assets/imagens/checklist_4/print_backlog_11.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (4:27m)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **12:** O backlog está sendo emergente? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 12](../assets/imagens/checklist_4/print_backlog_12.png)  
+**Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (3:31m)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **13:** Está de acordo com a necessidade do produto? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 13](../assets/imagens/checklist_4/print_backlog_13.png)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 5)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **14:** Foi definida pelo Product Owner (PO)? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 14](../assets/imagens/checklist_4/print_backlog_14.png)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 8)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **15:** A especificação dos itens está baseada em histórias de usuário, mais focadas em “o que” deve conter? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 15](../assets/imagens/checklist_4/print_backlog_15.png)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 11)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **16:** O Sprint Backlog está em forma de lista de tarefas ou “Taskboard”? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 16](../assets/imagens/checklist_4/print_backlog_16.png)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 17)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **17:** Os itens do Sprint Backlog foram extraídos do Product Backlog? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 17](../assets/imagens/checklist_4/print_backlog_17.png)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 17)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **18:** As Sprints estão ajustadas dentro do prazo pré-determinado? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 18](../assets/imagens/checklist_4/print_backlog_18.png)  
+**Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 15)
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **19:** A história do usuário foi uma manifestação explícita de requisitos? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 19](../assets/imagens/checklist_4/print_backlog_19.png)  
+**Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 12)
+
+---
+
 ## Referências Bibliográficas
 
 ><a id="ref-1"></a>  
@@ -236,3 +353,4 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.1 | 18/10/2025 | Adição de itens 1 e 2 das Listas de Verificação: NFR Framework, Histórias de Usuário e Backlog | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 18/10/2025 | Adição de novos artefatos (itens 3 e 4) nas Listas de Verificação | Fernanda Vaz | Gabriel Maciel |
 | 1.3 | 19/10/2025 | Adição de novos artefatos (itens 5 e 6) nas Listas de Verificação | Cauã Nicolas | Gabriel Maciel |
+| 1.4 | 21/10/2025 | Adição dos novos itens 7–12 (NFR Framework) e 7–19 (Backlog) | Daniel Nunes Duarte | -------- |
