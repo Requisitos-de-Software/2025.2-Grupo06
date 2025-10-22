@@ -265,7 +265,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **07:** Está informando a lista de funcionalidades do produto? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **07:** Está informando a lista de funcionalidades do produto? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 7](../assets/imagens/checklist_4/print_backlog_7.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:08m)
@@ -274,7 +274,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **08:** Está visível? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **08:** Está visível? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 8](../assets/imagens/checklist_4/print_backlog_8.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:30m)
@@ -283,7 +283,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **09:** As informações para a próxima Sprint estão detalhadas? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **09:** As informações para a próxima Sprint estão detalhadas? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 9](../assets/imagens/checklist_4/print_backlog_9.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (2:03m)
@@ -292,7 +292,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **10:** Está priorizado com o que entrega mais valor para o cliente? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **10:** Está priorizado com o que entrega mais valor para o cliente? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 10](../assets/imagens/checklist_4/print_backlog_11.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (4:27m)
@@ -301,7 +301,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **11:** O backlog está sendo emergente? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **11:** O backlog está sendo emergente? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 11](../assets/imagens/checklist_4/print_backlog_12.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (3:31m)
@@ -310,7 +310,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **12:** Está de acordo com a necessidade do produto? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **12:** Está de acordo com a necessidade do produto? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 12](../assets/imagens/checklist_4/print_backlog_13.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 5)
@@ -319,7 +319,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **13:** Foi definida pelo Product Owner (PO)? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **13:** Foi definida pelo Product Owner (PO)? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 13](../assets/imagens/checklist_4/print_backlog_14.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 8)
@@ -328,7 +328,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **14:** A especificação dos itens está baseada em histórias de usuário, mais focadas em “o que” deve conter? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **14:** A especificação dos itens está baseada em histórias de usuário, mais focadas em “o que” deve conter? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 14](../assets/imagens/checklist_4/print_backlog_15.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 11)
@@ -346,7 +346,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **16:** Os itens do Sprint Backlog foram extraídos do Product Backlog? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **16:** Os itens do Sprint Backlog foram extraídos do Product Backlog? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 16](../assets/imagens/checklist_4/print_backlog_17.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 17)
@@ -355,7 +355,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **17:** As Sprints estão ajustadas dentro do prazo pré-determinado? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **17:** As Sprints estão ajustadas dentro do prazo pré-determinado? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 17](../assets/imagens/checklist_4/print_backlog_18.png)  
 **Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 15)
@@ -364,7 +364,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **18:** A história do usuário foi uma manifestação explícita de requisitos? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
+| **18:** A história do usuário foi uma manifestação explícita de requisitos? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
 ![Fonte do Item 18](../assets/imagens/checklist_4/print_backlog_19.png)  
 **Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 12)
@@ -428,5 +428,5 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 | 1.2 | 18/10/2025 | Adição de novos artefatos (itens 3 e 4) nas Listas de Verificação | Fernanda Vaz | Gabriel Maciel |
 | 1.3 | 19/10/2025 | Adição de novos artefatos (itens 5 e 6) nas Listas de Verificação | Cauã Nicolas | Gabriel Maciel |
 | 1.4 | 21/10/2025 | Adição dos novos itens 9–12 (NFR Framework) e 7–18 (Backlog) | Daniel Nunes Duarte | João Gabriel |
-| 1.5 | 21/10/2025 | Adição dos novos itens  7-8 (NFR), 19-20(backlog) e 7-8 (Historias)| João Gabriel | Daniel Nunes |
-| 1.6 | 21/10/2025 | Adição dos novos itens  nas LVs| João Lucas | Daniel Nunes |
+| 1.5 | 21/10/2025 | Adição dos novos itens  7-8 (NFR), 19-20(backlog) e 7-8 (Historias)| João Gabriel | Daniel Nunes Duarte |
+| 1.6 | 21/10/2025 | Adição dos novos itens  nas LVs| João Lucas | Daniel Nunes Duarte |
