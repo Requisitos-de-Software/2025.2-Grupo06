@@ -111,6 +111,23 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **12:** O tipo de contribuição AND está determinando que se os softgoals descendentes forem satisfeitos os softgoals as-
+cendentes serão satisfeitos? | João Ramos | 21/10/2025 21:00 |
+
+![Fonte do Item 12](<a href="https://ibb.co/GfKX6nwT"><img src="https://i.ibb.co/0pgk7mNt/Captura-de-tela-de-2025-10-21-20-58-011.png" alt="Captura-de-tela-de-2025-10-21-20-58-011" border="0"></a>)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+---
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **12:** O tipo de contribuição OR está determinando que se algum softgoal descendente for satisfeito, o ascendente será
+satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
+
+![Fonte do Item 12](<a href="https://ibb.co/tTr0qP8t"><img src="https://i.ibb.co/Q3wWPjrR/Captura-de-tela-de-2025-10-21-20-58-0111.png" alt="Captura-de-tela-de-2025-10-21-20-58-0111" border="0"></a>)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+---
+
 
 ## Lista de Verificação: Histórias de Usuário
 
@@ -179,6 +196,22 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
 
 ---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **09:** As histórias de usuário foram escritas pelo cliente?  | A avaliar | João Ramos | 21/10/2025 19:45 |
+
+![Fonte do Item 6](<a href="https://ibb.co/v6Hychrt"><img src="https://i.ibb.co/NdsDFrk4/Captura-de-tela-de-2025-10-21-21-06-18838.png" alt="Captura-de-tela-de-2025-10-21-21-06-18838" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'>criar álbum de imagens online</a><br />)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **10:** O cliente atribui um valor a história de usuário baseado no valor do negócio?  | A avaliar | João Ramos | 19/10/2025 19:45 |
+
+![Fonte do Item 6](<a href="https://ibb.co/VYDgWSTD"><img src="https://i.ibb.co/pjZfvzdZ/Captura-de-tela-de-2025-10-21-21-06-188.png" alt="Captura-de-tela-de-2025-10-21-21-06-188" border="0"></a>)  
+**Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
 
 ## Lista de Verificação: Backlog
 
@@ -354,7 +387,21 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 ![Fonte do Item 20](https://i.ibb.co/MDmk2tkz/image.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 5 out. 2020. (0:42m)
 
----
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **21:** O Product Backlog foi iniciado com os itens mais óbvios — medido em semanas de desenvolvimento — a ela? | A avaliar | João Lucas | 21/10/2025 21:00 |
+
+![Fonte do Item 8](<a href="https://ibb.co/GvNnMWNc"><img src="https://i.ibb.co/6RLrtHLg/Captura-de-tela-de-2025-10-21-21-14-425.png" alt="Captura-de-tela-de-2025-10-21-21-14-425" border="0"></a>)  
+**Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **22:** O Product Backlog foi tratado como um artefato dinâmico que cresce conforme o conhecimento sobre o produto aumenta? | A avaliar | João Lucas | 21/10/2025 21:00 |
+
+![Fonte do Item 8](<a href="https://ibb.co/Hfqsq9JN"><img src="https://i.ibb.co/v6kGkMts/Captura-de-tela-de-2025-10-21-21-14-333.png" alt="Captura-de-tela-de-2025-10-21-21-14-333" border="0"></a>)  
+**Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
+
+
 
 ## Referências Bibliográficas
 
@@ -382,3 +429,4 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.3 | 19/10/2025 | Adição de novos artefatos (itens 5 e 6) nas Listas de Verificação | Cauã Nicolas | Gabriel Maciel |
 | 1.4 | 21/10/2025 | Adição dos novos itens 9–12 (NFR Framework) e 7–18 (Backlog) | Daniel Nunes Duarte | João Gabriel |
 | 1.5 | 21/10/2025 | Adição dos novos itens  7-8 (NFR), 19-20(backlog) e 7-8 (Historias)| João Gabriel | Daniel Nunes |
+| 1.6 | 21/10/2025 | Adição dos novos itens  nas LVs| João Lucas | Daniel Nunes |
