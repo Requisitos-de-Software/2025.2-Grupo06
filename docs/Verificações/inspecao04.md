@@ -47,3 +47,9 @@
 | **16** | Clientes e desenvolvedores trabalham juntos para decidir como agrupar histórias para a versão seguinte? |  |  | FERNANDA VAZ DUARTE DOS SANTOS | [Link]() |
 | **17** | As histórias de usuário estão descrevendo o resultado para o software ser construído? |  |  | CAUA NICOLAS PEREIRA DE OLIVEIRA | [Link]() |
 | **18** | Em casos de histórias que requerem um maior tempo de preparo, está sendo proposto ao cliente para que a história seja dividida em partes menores (histórias menores)? |  |  | CAUA NICOLAS PEREIRA DE OLIVEIRA | [Link]() |
+| **19** | O backlog é uma lista ordenada de tudo que pode ser necessário no produto? |  |  | JOAO GABRIEL | [Link]() |
+| **20** | O backlog é a única fonte dos requisitos para qualquer mudança a ser feita no produto? |  |  | JOAO GABRIEL | [Link]() |
+| **21** | O Product Backlog foi iniciado com os itens mais óbvios? |  |  | JOAO GABRIEL | [Link]() |
+| **22** | O Product Backlog foi tratado como um artefato dinâmico que cresce conforme o conhecimento sobre o produto aumenta? |  |  | JOAO GABRIEL | [Link]() |
+| **23** | Cada história é escrita pelo cliente e é colocada em uma ficha? |  |  | JOAO GABRIEL | [Link]() |
+| **24** | O cliente atribui um valor (prioridade) à história com base no valor de negócio global do recurso ou função? |  |  | JOAO GABRIEL | [Link]() |

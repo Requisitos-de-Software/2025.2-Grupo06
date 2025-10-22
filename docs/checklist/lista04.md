@@ -179,20 +179,22 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 ---
 
+## Lista de Verificação: Histórias de Usuário
+
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **07:** A atividade de "Ouvir" conduz à criação de um conjunto de "histórias" que descrevem o resultado, as características e a funcionalidade requisitados para o software a ser construído? | A avaliar | João Gabriel | 21/10/2025 15:45 |
+| **07:** Cada história é escrita pelo cliente e é colocada em uma ficha? | A avaliar | João Gabriel | 21/10/2025 15:45 |
 
-![Fonte do Item 7](https://i.ibb.co/SXTFjkkK/image.png)  
+![Fonte do Item 7](https://i.ibb.co/tPsw5b40/image.png)  
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
 
 ---
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **08:** Os membros da equipe XP avaliam cada história e atribuem um custo — medido em semanas de desenvolvimento — a ela? | A avaliar | João Gabriel | 21/10/2025 15:45 |
+| **08:** O cliente atribui um valor (prioridade) à história com base no valor de negócio global do recurso ou função? | A avaliar | João Gabriel | 21/10/2025 15:45 |
 
-![Fonte do Item 8](https://i.ibb.co/vv6TrBDF/image.png)  
+![Fonte do Item 8](https://i.ibb.co/g8ZJCLF/image.png)  
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
 
 ---
