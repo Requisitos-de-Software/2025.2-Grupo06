@@ -134,7 +134,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU01 - Facilidade de Aprendizagem"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 01 Facilidade de Aprendizagem
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -153,7 +153,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU02 - Eficiência e Precisão"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 02  Eficiência e Precisão"
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -172,7 +172,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU03 - Memorabilidade"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 03  Memorabilidade
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -191,7 +191,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU04 - Satisfação do Usuário"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 04 Satisfação do Usuário
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -210,7 +210,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU05 - Acessibilidade"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 05 Acessibilidade
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -229,7 +229,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU06 - Feedback e Comunicação"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 06 Feedback e Comunicação
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -247,8 +247,8 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 ---
 
 ??? info "RU07 - Consistência"
-
-    ## Cartão de Especificação
+ 
+    ## Cartão de Especificação 07 Consistência
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -267,7 +267,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU08 - Personalização"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 08 Personalização
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -284,22 +284,6 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ---
 
-??? info "RU09 - Adaptabilidade"
-
-    ## Cartão de Especificação
-
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU09 / RNF09 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Adaptabilidade |
-    | **Descrição** | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
-    | **Justificativa** | Inclusão digital universal requer que o sistema seja utilizável por pessoas com diferentes capacidades, atendendo princípios de design universal e legislação de acessibilidade. |
-    | **Origem** | Normas técnicas: WCAG 2.1, Decreto 5.296/2004, LBI 13.146/2015; Elicitação: Entrevista com usuários PCD (ENT19, ENT25), ONGs de inclusão |
-    | **Critério de Ajuste** | Suporte a navegação por teclado (100% das funções); Suporte a comandos de voz; Botões e áreas clicáveis ≥ 44x44 pixels; Legendas e transcrições para conteúdo audiovisual; Testes com grupos de acessibilidade com aprovação ≥ 85%. |
-    | **Dependências** | RU05, RU08 |
-    | **Prioridade** | 10 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
 
 
