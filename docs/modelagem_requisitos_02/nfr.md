@@ -449,9 +449,9 @@ A **Tabela 07** especifica os softgoals de afirmação.
 |-------|-----------|
 | **Nr Requisito** | RD03 / RNF10 |
 | **Classificação** | Requisito Não-Funcional de Desempenho |
-| **Descrição** | O sistema deve suportar pelo menos 10.000 usuários simultâneos com tempo de resposta menor que 2 segundos. |
-| **Justificativa** | Permitir acesso a usuários com dispositivos antigos ou com planos de dados limitados, expandindo o alcance do sistema. |
-| **Origem** | Elicitação de Requisitos: Análise de Documentos |
+| **Descrição** | O aplicativo deve consumir no máximo 5% da bateria por hora em uso ativo e ter tamanho máximo de 50MB, permitindo acesso a usuários com dispositivos antigos ou com planos de dados limitados. |
+| **Justificativa** | Permitir acesso a usuários com dispositivos antigos ou com planos de dados limitados, expandindo o alcance do sistema e melhorando a experiência em redes com conectividade reduzida. |
+| **Origem** | Elicitação de Requisitos: Entrevista (ENT17) |
 | **Critério de Ajuste** | Consumo de bateria ≤ 5% por hora em uso ativo; tamanho do app ≤ 50MB. |
 | **Dependências** | OP-D03, OP-D04, OP-D05 |
 | **Prioridade** | 7 |
