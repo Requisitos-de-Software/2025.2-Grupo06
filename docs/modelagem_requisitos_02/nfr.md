@@ -134,7 +134,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU01 - Facilidade de Aprendizagem"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 01 Facilidade de Aprendizagem
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -142,9 +142,9 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Facilidade de Aprendizagem |
     | **Descrição** | Cidadãos devem conseguir utilizar funcionalidades básicas sem treinamento prévio. |
     | **Justificativa** | É fundamental que o sistema permita que os usuários realizem suas operações de forma simples, sem que haja dificuldade durante o seu uso. Garantir acesso imediato às informações de transporte para usuários de diferentes níveis de alfabetização digital. |
-    | **Origem** | Elicitação de Requisitos: Entrevista com usuários finais, Análise de usabilidade (Heurísticas de Nielsen), Equipe de UX |
-    | **Critério de Ajuste** | 90% dos novos usuários devem completar 3 tarefas básicas (consultar rota, ver horários, localizar parada) em até 5 minutos sem assistência; Taxa de abandono na primeira sessão < 15%. |
-    | **Dependências** | RU06, RU07, RU09 |
+    | **Origem** | Elicitação de Requisitos: Entrevista com usuários finais, Análise de usabilidade |
+    | **Critério de Ajuste** | 90% dos novos usuários devem completar 3 tarefas básicas (consultar rota, ver horários, localizar parada) em até 5 minutos sem assistência; |
+    | **Dependências** |Nenhum |
     | **Prioridade** | 10 |
     | **Conflitos** | Nenhum |
     | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
@@ -153,7 +153,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU02 - Eficiência e Precisão"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 02  Eficiência e Precisão"
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -161,7 +161,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Eficiência e Precisão |
     | **Descrição** | O sistema deve oferecer resultados precisos para o usuário. |
     | **Justificativa** | A precisão das informações é crítica para que usuários possam planejar seus deslocamentos com confiança, evitando atrasos e frustrações causadas por dados incorretos ou desatualizados. |
-    | **Origem** | Elicitação de Requisitos: Análise de reclamações dos usuários, Gerência de Operações, Equipe de Qualidade |
+    | **Origem** | Elicitação de Requisitos: Análise de reclamações dos usuários |
     | **Critério de Ajuste** | Precisão de rotas sugeridas ≥ 95%; Margem de erro em horários previstos ≤ 3 minutos; Taxa de reclamações sobre informações incorretas < 2%. |
     | **Dependências** | RNF-Desempenho, RNF-Integração |
     | **Prioridade** | 10 |
@@ -172,7 +172,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU03 - Memorabilidade"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 03  Memorabilidade
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -180,9 +180,9 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Memorabilidade |
     | **Descrição** | Interface deve ser facilmente memorável para passageiros que usam ocasionalmente. |
     | **Justificativa** | Usuários esporádicos (turistas, visitantes ocasionais) devem conseguir relembrar como usar o sistema sem necessidade de reaprender, aumentando a adoção e satisfação geral. |
-    | **Origem** | Elicitação de Requisitos: Pesquisa com usuários esporádicos (PES12), Setor de Turismo local, Equipe de UX |
+    | **Origem** | Elicitação de Requisitos: entrevistas com usuários|
     | **Critério de Ajuste** | 85% dos usuários retornando após 30 dias devem completar tarefas sem consultar ajuda; Tempo de reaprendizagem < 2 minutos; NPS ≥ 70 para facilidade de uso. |
-    | **Dependências** | RU01, RU07 |
+    | **Dependências** | Nenhum|
     | **Prioridade** | 8 |
     | **Conflitos** | Nenhum |
     | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz|
@@ -191,7 +191,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU04 - Satisfação do Usuário"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 04 Satisfação do Usuário
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -199,9 +199,9 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Satisfação do Usuário |
     | **Descrição** | A interface deve ser agradável e satisfatória de usar. |
     | **Justificativa** | Uma experiência agradável aumenta a fidelização dos usuários, reduz resistência à adoção de tecnologia e melhora a percepção geral do serviço de transporte público. |
-    | **Origem** | Elicitação de Requisitos: Questionário com usuários (QUES15, QUES22), Equipe de Design, Setor de Marketing |
+    | **Origem** | Analise de documentos |
     | **Critério de Ajuste** | System Usability Scale (SUS) ≥ 80 pontos; Avaliação média na loja de apps ≥ 4.5 estrelas; Taxa de satisfação em pesquisas ≥ 85%. |
-    | **Dependências** | RU06, RU07, RU08 |
+    | **Dependências** | Nenhum|
     | **Prioridade** | 8 |
     | **Conflitos** | Nenhum |
     | **Histórico** | Criado em 21/10/2025 — Autor:Fernanda Vaz |
@@ -210,7 +210,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU05 - Acessibilidade"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 05 Acessibilidade
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -218,9 +218,9 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Acessibilidade |
     | **Descrição** | Suporte a leitores de tela e ajuste de contraste conforme WCAG (Web Content Accessibility Guidelines). |
     | **Justificativa** | Garantir inclusão digital e atendimento a requisitos legais (Lei Brasileira de Inclusão - LBI 13.146/2015), permitindo que pessoas com deficiência visual utilizem plenamente o sistema. |
-    | **Origem** | Normas técnicas: WCAG 2.1 Nível AA, LBI 13.146/2015; Elicitação: Entrevista com organizações de acessibilidade (ENT18, ENT24) |
-    | **Critério de Ajuste** | Conformidade WCAG 2.1 Nível AA (100%); Compatibilidade com NVDA, JAWS e TalkBack; Razão de contraste ≥ 4.5:1 para textos normais e ≥ 3:1 para textos grandes; Teste com usuários PCD com taxa de sucesso ≥ 90%. |
-    | **Dependências** | RU09, RU08 |
+    | **Origem** | Entrevistas e WCAG  |
+    | **Critério de Ajuste** | Conformidade WCAG 2.1 Nível AA (100%); Razão de contraste ≥ 4.5:1 para textos normais e ≥ 3:1 para textos grandes; Teste com usuários PCD com taxa de sucesso ≥ 90%. |
+    | **Dependências** |Nenhum |
     | **Prioridade** | 10 |
     | **Conflitos** | Nenhum |
     | **Histórico** | Criado em 21/10/2025 — Autor:Fernanda Vaz |
@@ -229,7 +229,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU06 - Feedback e Comunicação"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 06 Feedback e Comunicação
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -237,9 +237,9 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Feedback e Comunicação |
     | **Descrição** | Mensagens de erro e confirmação devem ser claras e objetivas. |
     | **Justificativa** | Feedback adequado reduz frustração, ajuda usuários a corrigir erros rapidamente e aumenta a confiança no sistema, especialmente para usuários menos experientes. |
-    | **Origem** | Elicitação de Requisitos: Análise de logs de suporte ao usuário, Testes de usabilidade (TEST07), Equipe de UX |
+    | **Origem** | Analise de documentos |
     | **Critério de Ajuste** | 95% das mensagens devem ser compreendidas sem necessidade de esclarecimento adicional; Linguagem em nível de leitura até 8º ano fundamental; Tempo médio para resolver erros < 30 segundos; Taxa de contato ao suporte por mensagens confusas < 5%. |
-    | **Dependências** | RU01, RU04 |
+    | **Dependências** |Nenhum |
     | **Prioridade** | 9 |
     | **Conflitos** | Nenhum |
     | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
@@ -247,8 +247,8 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 ---
 
 ??? info "RU07 - Consistência"
-
-    ## Cartão de Especificação
+ 
+    ## Cartão de Especificação 07 Consistência
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -256,9 +256,9 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Consistência |
     | **Descrição** | Padrões visuais e de interação consistentes em todo o aplicativo. |
     | **Justificativa** | Consistência facilita aprendizado, reduz carga cognitiva e aumenta a eficiência de uso, permitindo que usuários desenvolvam modelos mentais claros sobre o funcionamento do sistema. |
-    | **Origem** | Elicitação de Requisitos: Heurísticas de Nielsen (Consistência e Padrões), Design System da organização, Equipe de Desenvolvimento |
+    | **Origem** | Entrevistas |
     | **Critério de Ajuste** | 100% conformidade com Design System estabelecido; Auditoria de consistência com score ≥ 95%; Mesmos padrões de cores, tipografia e espaçamento em todas as telas; Componentes reutilizáveis em ≥ 90% da interface. |
-    | **Dependências** | RU01, RU03, RU04 |
+    | **Dependências** |Nenhum |
     | **Prioridade** | 9 |
     | **Conflitos** | Nenhum |
     | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
@@ -267,7 +267,7 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 
 ??? info "RU08 - Personalização"
 
-    ## Cartão de Especificação
+    ## Cartão de Especificação 08 Personalização
 
     | **Campo** | **Descrição** |
     |-----------|---------------|
@@ -275,31 +275,15 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
     | **Classificação** | Requisito Não-Funcional de Usabilidade - Personalização |
     | **Descrição** | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
     | **Justificativa** | Personalização aumenta satisfação e acessibilidade, permitindo que usuários adaptem o sistema às suas preferências e necessidades específicas (ex: modo escuro, fontes maiores). |
-    | **Origem** | Elicitação de Requisitos: Questionário de preferências (QUES28, QUES31), Feedback em redes sociais, Equipe de Design |
+    | **Origem** |  Feedback no google playstore|
     | **Critério de Ajuste** | Disponibilizar no mínimo: tema claro/escuro, 3 tamanhos de fonte, controle de notificações; Configurações salvas persistem entre sessões (100%); Tempo para aplicar preferências < 3 segundos; Taxa de uso de personalização ≥ 40%. |
-    | **Dependências** | RU04, RU05 |
+    | **Dependências** | nenhum  |
     | **Prioridade** | 8 |
     | **Conflitos** | Possível conflito com RU07 (Consistência) se personalização excessiva fragmentar a experiência |
     | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
 ---
 
-??? info "RU09 - Adaptabilidade"
-
-    ## Cartão de Especificação
-
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU09 / RNF09 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Adaptabilidade |
-    | **Descrição** | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
-    | **Justificativa** | Inclusão digital universal requer que o sistema seja utilizável por pessoas com diferentes capacidades, atendendo princípios de design universal e legislação de acessibilidade. |
-    | **Origem** | Normas técnicas: WCAG 2.1, Decreto 5.296/2004, LBI 13.146/2015; Elicitação: Entrevista com usuários PCD (ENT19, ENT25), ONGs de inclusão |
-    | **Critério de Ajuste** | Suporte a navegação por teclado (100% das funções); Suporte a comandos de voz; Botões e áreas clicáveis ≥ 44x44 pixels; Legendas e transcrições para conteúdo audiovisual; Testes com grupos de acessibilidade com aprovação ≥ 85%. |
-    | **Dependências** | RU05, RU08 |
-    | **Prioridade** | 10 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
 
 
@@ -449,9 +433,9 @@ A **Tabela 07** especifica os softgoals de afirmação.
 |-------|-----------|
 | **Nr Requisito** | RD03 / RNF10 |
 | **Classificação** | Requisito Não-Funcional de Desempenho |
-| **Descrição** | O sistema deve suportar pelo menos 10.000 usuários simultâneos com tempo de resposta menor que 2 segundos. |
-| **Justificativa** | Permitir acesso a usuários com dispositivos antigos ou com planos de dados limitados, expandindo o alcance do sistema. |
-| **Origem** | Elicitação de Requisitos: Análise de Documentos |
+| **Descrição** | O aplicativo deve consumir no máximo 5% da bateria por hora em uso ativo e ter tamanho máximo de 50MB, permitindo acesso a usuários com dispositivos antigos ou com planos de dados limitados. |
+| **Justificativa** | Permitir acesso a usuários com dispositivos antigos ou com planos de dados limitados, expandindo o alcance do sistema e melhorando a experiência em redes com conectividade reduzida. |
+| **Origem** | Elicitação de Requisitos: Entrevista (ENT17) |
 | **Critério de Ajuste** | Consumo de bateria ≤ 5% por hora em uso ativo; tamanho do app ≤ 50MB. |
 | **Dependências** | OP-D03, OP-D04, OP-D05 |
 | **Prioridade** | 7 |
