@@ -391,7 +391,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 |:-----|:----------|:--------------|:-------------|
 | **21:** O Product Backlog foi iniciado com os itens mais óbvios — medido em semanas de desenvolvimento — a ela? | A avaliar | João Lucas | 21/10/2025 21:00 |
 
-![Fonte do Item 8](<a href="https://ibb.co/GvNnMWNc"><img src="https://i.ibb.co/6RLrtHLg/Captura-de-tela-de-2025-10-21-21-14-425.png" alt="Captura-de-tela-de-2025-10-21-21-14-425" border="0"></a>)  
+![Fonte do Item 8]("https://i.ibb.co/6RLrtHLg/Captura-de-tela-de-2025-10-21-21-14-425.png")  
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
