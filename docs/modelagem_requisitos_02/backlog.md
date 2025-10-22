@@ -150,8 +150,8 @@ Tem como objetivo gerenciar a identidade, autenticação e preferências dos usu
 
 ### Épico 09: Sustentabilidade e Impacto Ambiental
 
-Tem como objetivo promover a conscientização ambiental dos usuários do aplicativo **DF no Ponto**, incentivando o uso contínuo do transporte público por meio da exibição de relatórios sobre a redução das emissões de CO₂.  
-Essas funcionalidades visam destacar a contribuição ecológica individual e coletiva dos passageiros, fortalecendo o engajamento com práticas sustentáveis e reforçando o compromisso do sistema com a mobilidade urbana verde.
+Tem como objetivo promover a conscientização ambiental dos usuários do aplicativo , incentivando o uso contínuo do transporte público por meio da exibição de relatórios sobre a redução das emissões de CO₂.  
+
 
 | ID | História de Usuário | Prioridade | Rastreabilidade (Origem) | Autoria |
 | -- | ------------------- | ---------- | ------------------------ | ------- |
