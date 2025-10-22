@@ -116,7 +116,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **12:** O tipo de contribuição AND está determinando que se os softgoals descendentes forem satisfeitos os softgoals as-
 cendentes serão satisfeitos? | João Ramos | 21/10/2025 21:00 |
 
-![Fonte do Item 12](<a href="https://ibb.co/GfKX6nwT"><img src="https://i.ibb.co/0pgk7mNt/Captura-de-tela-de-2025-10-21-20-58-011.png" alt="Captura-de-tela-de-2025-10-21-20-58-011" border="0"></a>)  
+![Fonte do Item 12]<a href="https://ibb.co/GfKX6nwT"><img src="https://i.ibb.co/0pgk7mNt/Captura-de-tela-de-2025-10-21-20-58-011.png" alt="Captura-de-tela-de-2025-10-21-20-58-011" border="0"></a>  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 ---
 | Item | Avaliação | Avaliador(es) | Data e Hora |
@@ -398,7 +398,7 @@ satisfeito? | A avaliar | João Ramos | 21/10/2025 21:00 |
 |:-----|:----------|:--------------|:-------------|
 | **22:** O Product Backlog foi tratado como um artefato dinâmico que cresce conforme o conhecimento sobre o produto aumenta? | A avaliar | João Lucas | 21/10/2025 21:00 |
 
-![Fonte do Item 8](<a href="https://ibb.co/Hfqsq9JN"><img src="https://i.ibb.co/v6kGkMts/Captura-de-tela-de-2025-10-21-21-14-333.png" alt="Captura-de-tela-de-2025-10-21-21-14-333" border="0"></a>)  
+![Fonte do Item 8]("https://i.ibb.co/v6kGkMts/Captura-de-tela-de-2025-10-21-21-14-333.png")
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
 
 

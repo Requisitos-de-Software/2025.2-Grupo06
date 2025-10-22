@@ -348,13 +348,8 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 |-----------|---------------|
 | **Origem:** | **RF09** - Indicar lotação do ônibus (vazio, moderado, lotado) |
 | **Descrição:** | Como **passageiro do transporte público**, eu quero **visualizar a lotação estimada do ônibus (vazio, moderado, lotado) antes que ele chegue ao ponto**, para que **eu possa decidir se embarco neste veículo ou espero o próximo, buscando mais conforto**. |
-<<<<<<< HEAD
 | **Critérios de Aceitação:** | - O sistema deve exibir um indicador visual claro de lotação (ex: ícones ou cores) para cada ônibus em tempo real.<br>- Os níveis de lotação devem ser "Vazio", "Moderado" e "Lotado".<br>- A informação de lotação deve estar visível na lista de próximos ônibus do ponto e ao selecionar um veículo no mapa.<br>- O sistema deve possuir uma legenda clara explicando o significado de cada indicador de lotação.<br>- A informação de lotação deve ser atualizada em tempo real com base em sensores no veículo ou dados colaborativos (US25).<br>- Caso a informação não esteja disponível, o sistema deve indicar "Lotação não informada". |
 | **Prioridade:** | Alta |
-=======
-| **Critérios de Aceitação:** | - O sistema deve exibir um indicador visual claro de lotação (ex: ícones ou cores) para cada ônibus em tempo real.<br>- Os níveis de lotação devem ser "Vazio", "Moderado" e "Lotado".<br>- A informação de lotação deve estar visível na lista de próximos ônibus do ponto e ao selecionar um veículo no mapa.<br>- O sistema deve possuir uma legenda clara explicando o significado de cada indicador de lotação.<br>- A informação de lotação deve ser atualizada em tempo real com base em sensores no veículo ou dados colaborativos (US19).<br>- Caso a informação não esteja disponível, o sistema deve indicar "Lotação não informada". |
-| **Prioridade:** | Média |
->>>>>>> b33cd68b0c9d80b5a4a97d116192824952f80984
 
 ---
 
@@ -450,13 +445,13 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 ---
 
 ## Validação(João Ramos)
-<iframe width="560" height="315"
-  src="https://youtu.be/OPVuApWBT6k?si=N2RyXZLMrsxxDz--"
-  title="YouTube video player" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/OPVuApWBT6k" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
   allowfullscreen>
 </iframe>
-
 
 ### **US32 - Criar Conta e Fazer Login no Aplicativo**
 
