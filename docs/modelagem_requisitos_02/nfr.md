@@ -747,7 +747,7 @@ A **Tabela 12** especifica os softgoals de afirmação.
 
 ---
 
-
+## Validação(João Ramos)
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/OPVuApWBT6k" 
   title="YouTube video player" 

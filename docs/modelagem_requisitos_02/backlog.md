@@ -187,7 +187,7 @@ Visa incentivar o uso do transporte público por meio de mecanismos de gamifica�
   allowfullscreen>
 </iframe>
 
-## Validação(João Ramos, 0:00 - 21:44)
+## Validação(João Ramos)
 
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/OPVuApWBT6k" 

@@ -1,3 +1,21 @@
+# Inspeção 4- Grupo 7
+
+## Vídeo da Inspeção
+<div style="text-align: center;">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/Olpv_xU1syQ" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+  
+  <p style="font-size: small;">
+    <b>Vídeo 1</b> - Inspeção Grupo 7
+  </p>
+</div>
+
+
 ## Lista de verificação disponibilizada pelo professor
 
 >A lista de verificação focada em engenharia de requisitos ágil, destacando seus componentes principais: Modelagem Ágil, Histórias de Usuário, Backlogs e o NFR Framework (Requisitos Não Funcionais).
@@ -55,3 +73,19 @@
 | **22** | O Product Backlog foi tratado como um artefato dinâmico que cresce conforme o conhecimento sobre o produto aumenta? | Conforme | Atualizações contínuas registradas. | JOAO GABRIEL | [Link]() |
 | **23** | Cada história é escrita pelo cliente e é colocada em uma ficha? | Conforme | Documentadas conforme modelo. | JOAO GABRIEL | [Link]() |
 | **24** | O cliente atribui um valor (prioridade) à história com base no valor de negócio global do recurso ou função? | Conforme | Critérios de valor aplicados. | JOAO GABRIEL | [Link]() |
+
+## Referências Bibliográficas
+
+><a id="ref-1"></a>  
+¹ **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.  
+
+><a id="ref-2"></a>  
+² **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.  
+
+><a id="ref-3"></a>  
+³ **LUIZTOOLS.** *Product Backlog – Introdução*. YouTube, 5 out. 2020. Disponível em: [https://www.youtube.com/watch?v=z4ubaBwjCsU](https://www.youtube.com/watch?v=z4ubaBwjCsU).  
+
+><a id="ref-4"></a>  
+⁴ **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
+
+---
