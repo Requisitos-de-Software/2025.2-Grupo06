@@ -1,0 +1,15 @@
+:root  > * {
+    --md-accent-fg-color:         #efd729;
+    --md-primary-fg-color:        #185592;
+}
+
+[data-md-color-scheme="slate"]{
+    --md-accent-fg-color:         #efd729;
+    --md-primary-fg-color:        #185592;
+    --md-typeset-a-color:         #228dd1;
+    --md-default-fg-color--light: #ffffff;
+}
+
+.md-typeset img, .md-typeset svg, .md-typeset video{
+    height: revert-layer;
+}
