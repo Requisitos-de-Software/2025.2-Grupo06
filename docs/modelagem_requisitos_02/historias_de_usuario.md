@@ -566,6 +566,17 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
+## Tabela de Contribuições
+
+| Nome                 | Responsabilidade                                                                                              |
+|----------------------|---------------------------------------------------------------------------------------------------------------|
+| Cauã Nicolas         | Elaboração das histórias de usuário US11, US12, US13, US14, US22, US23 |
+| Daniel Nunes Duarte  | Elaboração das histórias de usuário US33, US34, US35, US36, US37, US38 |
+| Fernanda Vaz         | Adição de introdução; Elaboração e Validação das histórias de usuário US05, US06, US07, US08, US09, US10 |
+| Gabriel Maciel       | Adição de metodologia; Elaboração das histórias de usuário US01, US02, US03, US04, US18, US19, US20, US21 |
+| João Gabriel         | Elaboração das histórias de usuário US15, US16, US17, US31, US32 |
+| João Ramos           | Elaboração e Validação das histórias de usuário US24, US25, US26, US27, US28, US29, US30 |
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -580,6 +591,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | 1.7 | 21/10 | Adição de Histórias de Usuário de US24 até US30 | João Ramos | Fernanda Vaz |
 | 1.8 | 21/10 | Adição de Histórias de Usuário de US31 e US32 | João Gabriel | Gabriel Maciel |
 | 1.9 | 21/10 | Adição das Histórias de Usuário de US33 a US38 | Daniel Nunes Duarte | --------- |
+| 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | |
 
 ---
 

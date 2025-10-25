@@ -208,6 +208,18 @@ Visa incentivar o uso do transporte público por meio de mecanismos de gamifica�
 
 > <sup>2.</sup> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 15**. Apresentação de slides. Disponível em: Aprender3. Acesso em: 19 out. 2025.
 
+## Tabela de Contribuições
+
+| Nome                 | Responsabilidade                                                                                              |
+|----------------------|---------------------------------------------------------------------------------------------------------------|
+| Cauã Nicolas         | Adição de épicos; Adição de US20 e US21 ao Épico 3; Adição de US22 e US23 |
+| Daniel Nunes Duarte  | Adição de US31 a US36; Criação dos Épicos 10 e 11; Organização de US31 ao US36 |
+| Fernanda Vaz         | Adição de introdução; Elaboração de histórias US05, US06, US07, US08, US09, US10, US17; Validação do backlog |
+| Gabriel Maciel       | Adição de metodologia; Adição de épicos e histórias de usuário; Refatoração dos Épicos 4 e 5; Adição de US18 e US19 ao Épico 3; Junção dos Épicos 1 e 7; Elaboração de histórias US01, US04 |
+| João Gabriel         | Adição de Épicos 1, 2 e mudança no 7; Adição de US29 e US15 ao Épico 7; Adição de itens aos Épicos 2, 3 e 7; Elaboração de histórias US13, US14, US15, US16, US29, US30 |
+| João Lucas           | Adição de itens aos Épicos 2, 3 e 7 |
+| João Ramos           | Elaboração de histórias US22, US23, US24, US25, US26, US27, US28; Validação do backlog |
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -223,7 +235,9 @@ Visa incentivar o uso do transporte público por meio de mecanismos de gamifica�
 | 1.6 | 21/10 | Adição de US29 e US15 ao Épico 7 | João Gabriel | João Lucas |
 | 1.7 | 21/10 | Adição de US31 a US36. Criação dos Épicos 10 e 11. Oganização dos US31 ao US36  | Daniel Nunes Duarte | 
 | 1.7 | 21/10 | Adição de itens aos Épicos 2, 3 e 7 | João Lucas | João Gabriel |
--------- |
+| 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | |
+
+---
 
 ## Agradecimentos
 

@@ -772,6 +772,15 @@ A **Tabela 12** especifica os softgoals de afirmação.
 
 ---
 
+## Tabela de Contribuições
+
+| Nome                 | Responsabilidade                                                                                              |
+|----------------------|---------------------------------------------------------------------------------------------------------------|
+| Cauã Nicolas         | Elaboração do SIG Portabilidade; Elaboração dos cartões de especificação dos RNFs do SIG Portabilidade |
+| Fernanda Vaz         | Adição de introdução; Elaboração do SIG Usabilidade; Elaboração do SIG Acessibilidade |
+| Gabriel Maciel       | Elaboração do SIG Desempenho; Elaboração dos cartões de especificação dos RNFs do SIG Desempenho |
+| João Ramos           | Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade |
+
 ## Histórico de Versões
 
 <center>
@@ -787,6 +796,7 @@ A **Tabela 12** especifica os softgoals de afirmação.
 | 1.4 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Desempenho | Gabriel Maciel | Cauã Nicolas |
 | 1.5 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Portabilidade | Cauã Nicolas | Gabriel Maciel |
 | 1.6 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Usabilidade | João Ramos | Gabriel Maciel |
+| 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | |
 
 ---
 
