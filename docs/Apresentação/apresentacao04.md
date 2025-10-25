@@ -1,7 +1,7 @@
-## Apresentação do grupo 06
+## Introdução
 
-# Introdução  
-O objetivo dessa página é armazenar o vídeo da apresentação da terceira entrega.  
+O objetivo dessa página é armazenar o vídeo da apresentação da Etapa 4: Modelagem de Requisitos.
+  
 
 ## Apresentação do Grupo  
 

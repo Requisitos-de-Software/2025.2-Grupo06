@@ -1,6 +1,6 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega.
+O objetivo dessa página é armazenar o vídeo da apresentação da Etapa 2: Elicitação e Priorização de Requisitos.
 
 ## Lista de Verificação
 >Fizemos  Listas de Verificação para validar os critérios a serem observados nas entregas do projeto da disciplina. Essa lista tem como objetivo padronizar a avaliação dos artefatos e garantir que todos os pontos relevantes sejam contemplados durante o desenvolvimento.

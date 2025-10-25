@@ -1,6 +1,6 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega.
+O objetivo dessa página é armazenar o vídeo da apresentação da Etapa 1: Planejamento e Pré-rastreabilidade.
 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UxIJ5DvTRQ8" 
