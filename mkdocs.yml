@@ -93,6 +93,13 @@ nav:
       - NFR Framework: modelagem_requisitos_02/nfr.md
       - Lista de Verificação: checklist/lista04.md
       - Tabela de Contribuição: Contribuições/tab_cont04.md
+    - "Etapa 6: <br> Pós-rastreabilidade":
+      - Apresentação: Apresentação/apresentacao05.md
+      - Backward-from: pos-rastreabilidade/backward.md
+      - Forward-from: pos-rastreabilidade/forward.md
+      - Matriz de <br> Pós-rastreabilidade: pos-rastreabilidade/matriz.md
+      - Lista de Verificação: checklist/lista05.md
+      - Tabela de Contribuição: Contribuições/tab_cont05.md
   - Atas de Reunião:
     - Ata 1 - 04/09: Atas de Reunião/ata1.md
     - Ata 2 - 05/09: Atas de Reunião/ata2.md
