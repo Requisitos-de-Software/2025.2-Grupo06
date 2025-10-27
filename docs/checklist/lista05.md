@@ -16,11 +16,56 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **06:** O recurso está indicando a dependência de recurso da classe de origem com a classe de destino? | A avaliar | Cauã Nicolas | 27/10/2025 17:40 |
+
+![Fonte do Item 1](../assets/imagens/checklist_5/6-lv.png)  
+**Fonte ¹: SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **07:** O nível ambiental reúne informações proveniente do contexto ambiental? | A avaliar | Cauã Nicolas | 27/10/2025 17:40 |
+
+![Fonte do Item 1](../assets/imagens/checklist_5/7-lv.png)  
+**Fonte ¹: SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **08:** O nível organizacional está agrupando informações relacionadas à organização? | A avaliar | Cauã Nicolas | 27/10/2025 17:40 |
+
+![Fonte do Item 1](../assets/imagens/checklist_5/8-lv.png)  
+**Fonte ¹: SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **09:** O nível desenvolvimento está incluindo informações aos diversos artefatos no processo de desenvolvimento? | A avaliar | Cauã Nicolas | 27/10/2025 17:40 |
+
+![Fonte do Item 1](../assets/imagens/checklist_5/9-lv.png)  
+**Fonte ¹: SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **10:** A satisfação está indicando a dependência de satisfação da classe de origem com a classe de destino? | A avaliar | Cauã Nicolas | 27/10/2025 17:40 |
+
+![Fonte do Item 1](../assets/imagens/checklist_5/10-lv.png)  
+**Fonte ¹: SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025.
+
+---
+
 ## Tabela de Contribuição
 
 | Nome | Contribuição |
 |------|--------------|
-| Cauã Nicolas | A preencher |
+| Cauã Nicolas | Adição dos itens 5, 6, 7, 8, 9 e 10 |
 | Daniel Nunes Duarte | A preencher |
 | Fernanda Vaz | A preencher |
 | Gabriel Maciel | A preencher |
@@ -33,4 +78,5 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:------:|:----:|-----------|-----------|-------------|
-| 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | A revisar |
+| 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas |
+| 1.1 | 25/10 | Criação inicial do documento | Cauã Nicolas | A revisar |
