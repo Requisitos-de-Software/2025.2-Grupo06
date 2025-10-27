@@ -65,7 +65,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Nome | Contribuição |
 |------|--------------|
-| Cauã Nicolas | Adição dos itens 5, 6, 7, 8, 9 e 10 |
+| Cauã Nicolas | Adição dos itens 5, 6, 7, 8, 9 e 10 da Lista de Verificação|
 | Daniel Nunes Duarte | A preencher |
 | Fernanda Vaz | A preencher |
 | Gabriel Maciel | A preencher |
