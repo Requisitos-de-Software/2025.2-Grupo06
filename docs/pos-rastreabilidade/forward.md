@@ -301,7 +301,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Favoritos melhoram eficiência de acesso a informações recorrentes. |
     |**História de Usuário** | [US22 - Favoritos](../modelagem_requisitos_02/historias_de_usuario.md#us22---permitir-favoritar-linhas-ou-paradas-para-acesso-rápido) | Representação | US22 descreve critérios de aceitação para favoritos. |
     |**Casos de Uso** | [UC05 – Recarga de Cartão (se aplicável)](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | Casos de uso relacionados à personalização e às preferências do usuário. |
-    |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Personalização e persistência de preferências definidas na especificação. |
     |**Artefatos de Elicitação** | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | ENT14 solicita explicitamente a funcionalidade de favoritos. |
 
@@ -312,9 +311,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Ampliação de cobertura impacta rastreamento e disponibilidade de dados. |
-    |**História de Usuário** | *Não identificada* | — | — |
-    |**Casos de Uso** | *Não identificados* | — | — |
-    |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Portabilidade/Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Responsabilidade** | Políticas de integração e suporte a ambientes com conectividade limitada são definidas na especificação. |
     |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT09 aponta a necessidade de cobertura e confiabilidade dos dados em diferentes regiões. |
 
