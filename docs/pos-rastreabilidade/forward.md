@@ -124,6 +124,31 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | *Não identificado*
 
+    
+??? info "RNF04 – Interface acessível para idosos e pessoas com deficiência visual"
+
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | *Não identificada*
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | ENT09 
+
+??? info "RNF05 – Sistema de notificação com som e vibração configuráveis"
+
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | *Não identificada*
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | ENT09
+
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
     |**Elemento** | **Artefatos Relacionados**
@@ -183,54 +208,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Cenários** | *Não identificados*
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT02
-
-??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
-
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 8: Gestão de Usuário e Conta
-    |**História de Usuário** | US32
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | UC01
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | BRS18
-
-??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
-
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 7: Planejamento de Viagens
-    |**História de Usuário** | US31
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | UC10
-    |**Cenários** | CEN10
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | BRS02
-
-??? info "RNF04 – Interface acessível para idosos e pessoas com deficiência visual"
-
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09 
-
-??? info "RNF05 – Sistema de notificação com som e vibração configuráveis"
-
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
 
 ??? info "RNF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
 
@@ -303,6 +280,30 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Cenários** | *Não identificados*
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
+
+??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
+
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 7: Planejamento de Viagens
+    |**História de Usuário** | US31
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | UC10
+    |**Cenários** | CEN10
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | BRS02
+
+??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
+
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 8: Gestão de Usuário e Conta
+    |**História de Usuário** | US32
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | UC01
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | BRS18
 
 
 ## Tabela de Contribuição
