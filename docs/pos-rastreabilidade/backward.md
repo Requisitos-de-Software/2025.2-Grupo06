@@ -196,8 +196,12 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 ## Referência bibliográfica 
 
 <a id="ref-1"></a>
-
+> <sup>1.</sup>
 > SAYÃO, M.; LEITE, J. C. S. P. *Rastreabilidade em Requisitos de Software*. In: **Anais do Simpósio Brasileiro de Engenharia de Software (SBES)**, 2005.
+
+<a id="ref-2"></a>
+> <sup>2.</sup>
+> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 28 de Out de 2025.
 
 ---
 
@@ -208,6 +212,7 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 | **1.0** | 25/10 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas |
 | **1.1** | 27/10 | Adição e elaboração de artefatos | Fernanda Vaz | Cauã Nicolas |
 | **1.2** | 27/10 | Adição de Elos Funcionais (1, 2, 3, 4 e 5) e Elos Não Funcionais (1 e 2) | Cauã Nicolas | — |
+| **1.3** | 28/10 | Adição Referência Bibliográfica | João Gabriel | Gabriel Maciel |
 
 ---
 

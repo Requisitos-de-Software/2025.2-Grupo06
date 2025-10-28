@@ -18,6 +18,15 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **08** | **O nível organizacional está agrupando informações relacionadas à organização?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 08](../assets/imagens/checklist_5/8-lv.png) | Cauã Nicolas |
 | **09** | **O nível desenvolvimento está incluindo informações aos diversos artefatos no processo de desenvolvimento?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 09](../assets/imagens/checklist_5/9-lv.png) | Cauã Nicolas |
 | **10** | **A satisfação está indicando a dependência de satisfação da classe de origem com a classe de destino?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 10](../assets/imagens/checklist_5/10-lv.png) | Cauã Nicolas |
+| **11** | **A rastreabilidade forward-from liga requisitos a outros artefatos do sistema?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 11](https://ibb.co/gZnzf0BX) | João Gabriel |
+| **12** | **A rastreabilidade backward-to liga artefatos do sistema aos requisitos de origem?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 12](https://ibb.co/gZnzf0BX) | João Gabriel |
+| **13** | **As dependências entre requisitos são claramente identificadas e documentadas?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 13](https://ibb.co/gZnzf0BX) | João Gabriel |
+| **14** | **A rastreabilidade horizontal conecta requisitos no mesmo nível de abstração?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 14](https://ibb.co/gZnzf0BX) | João Gabriel |
+| **15** | **A rastreabilidade vertical conecta requisitos em diferentes níveis de abstração?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 15](https://ibb.co/gZnzf0BX) | João Gabriel |
+| **16** | **Os links de rastreabilidade são mantidos e atualizados durante todo o ciclo de vida do projeto?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 16](https://ibb.co/gZnzf0BX) | João Gabriel |
+| **17** | **A matriz de rastreabilidade é utilizada para documentar as relações entre requisitos e outros artefatos?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 17](https://ibb.co/gZnzf0BX) | João Gabriel |
+
+
 
 ## Tabela de Contribuição
 
@@ -27,7 +36,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | Daniel Nunes Duarte | A preencher |
 | Fernanda Vaz | A preencher |
 | Gabriel Maciel | A preencher |
-| João Gabriel | A preencher |
+| João Gabriel | Adição dos itens 11 até 17 |
 | João Ramos | A preencher |
 
 ---
@@ -37,4 +46,5 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:------:|:----:|-----------|-----------|-------------|
 | 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas |
-| 1.1 | 25/10 | Criação inicial do documento | Cauã Nicolas | A revisar |
+| 1.1 | 25/10 | Criação inicial do documento | Cauã Nicolas | João Gabriel |
+| 1.1 | 26/10 | Adição dos itens 11 até 17 | João Gabriel | Cauã Nicolas |
