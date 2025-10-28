@@ -319,6 +319,19 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Cenários** | *Não identificados* | | |
     |**Artefatos de Elicitação** | ENT09 | | |
 
+??? info "RF26 – Filtrar ônibus por empresa operadora"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :--| :-- |
+    |**Épico** | [Épico 2: Filtragem](../modelagem_requisitos_02/backlog.md#epico-2-filtragem) | Agregação | Épico 2 agrega e compõe o requisito RF26 como parte de sua estrutura |
+    |**História de Usuário** | [US01](../modelagem_requisitos_02/historias_de_usuario.md#us01-filtrar-onibus-por-empresa-operadora) | Representação | US01 representa a implementação detalhada do RF26 em termos de funcionalidade do usuário |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Cenários** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Satisfação | RF03 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RF26 |
+
 ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
     *Autoria: *
