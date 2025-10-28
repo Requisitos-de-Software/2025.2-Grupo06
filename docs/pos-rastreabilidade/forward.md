@@ -100,8 +100,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
 
----
-
 ??? info "RNF02 – Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas"
 
     |**Elemento** | **Artefatos Relacionados**
@@ -113,8 +111,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Cenários** | *Não identificados*
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT13
-
----
 
 ??? info "RNF03 – Tempo de atualização da localização ≤ 20 segundos"
 
@@ -128,8 +124,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | *Não identificado*
 
----
-
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
     |**Elemento** | **Artefatos Relacionados**
@@ -141,8 +135,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Cenários** | CEN03
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | RF01 (Análise de Documentos), ENT03
-
----
 
 ??? info "RF02 – Mostrar o tempo estimado de chegada do ônibus à parada"
 
@@ -156,8 +148,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT04
 
----
-
 ??? info "RF03 – Permitir planejamento de viagem com rotas sugeridas"
 
     |**Elemento** | **Artefatos Relacionados**
@@ -169,8 +159,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Cenários** | CEN09
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | RF05 (Análise de Documentos)
-
----
 
 ??? info "RF04 – Permitir pesquisa por linhas e rotas de ônibus"
 
@@ -184,8 +172,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | RF02 (Análise de Documentos), ENT01
 
----
-
 ??? info "RF05 – Apresentar horários de saída e chegada dos transportes"
 
     |**Elemento** | **Artefatos Relacionados**
@@ -197,8 +183,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Cenários** | *Não identificados*
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT02
-
----
 
 ??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
 
@@ -212,8 +196,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | BRS18
 
----
-
 ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
     |**Elemento** | **Artefatos Relacionados**
@@ -226,8 +208,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | BRS02
 
----
-
 ??? info "RNF0111 – Apenas testando"
 
     |**Elemento** | **Artefatos Relacionados**
@@ -239,8 +219,6 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Cenários** | *Não identificados*
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
-
----
 
 ## Tabela de Contribuição
 
