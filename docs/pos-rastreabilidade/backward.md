@@ -174,7 +174,7 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RNF05:**
-        - Priorização de Requisitos: In or Out (RNF05)
+        - Elicitação de Requisitos: Brainstorm (BRS18)
 - **Elos:**
     - Agregação: RNF05 agrega SIG-U04
     - Agregação: EP06 agrega RNF05

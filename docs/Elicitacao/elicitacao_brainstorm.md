@@ -60,6 +60,7 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | BRS15 | Garantia de escalabilidade para suportar grande volume de usuários simultâneos | RNF  | Brainstorm  |
 | BRS16 | Integração com assistentes virtuais (ex.: Alexa, Google Assistant) | RF   | Brainstorm  |
 | BRS17 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)  | RNF | Brainstorm
+| BRS18 | Sistema de notificação com som e vibração configuráveis.  | RNF | Brainstorm
 
 
 *Tabela 1: Requisitos identificados através da técnica de Brainstorm*
