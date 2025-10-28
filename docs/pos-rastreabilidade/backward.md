@@ -54,9 +54,9 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF03 | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | | | | João Gabriel |
 | RF04 | Permitir pesquisa por linhas e rotas de ônibus | | | | João Gabriel |
 | RF05 | Apresentar horários de saída e chegada dos transportes | | | | João Gabriel |
-| RF06 | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes | | | | Fernanda Vaz |
-| RF07 | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais | | | | Fernanda Vaz |
-| RF08 | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes) | | | | Fernanda Vaz |
+| RF06 | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes | [Entrevista (ENT06)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento|Representação (ENT06 representa RF06) | Fernanda Vaz |
+| RF07 | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais | [Brainstorm (BBRS04)](../Elicitacao/elicitacao_brainstorm.md#resultados),[Análise de Documentos (RNI02)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Ambiental |Agregação (RF07 agrega dados de diferentes modais) | Fernanda Vaz |
+| RF08 | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes) | [Entrevista (ENT16)](../Elicitacao/elicitacao_entrevista.md#resultados) |Ambiental |Satisfação (atende às normas de acessibilidade e necessidades do usuário) | Fernanda Vaz |
 | RF09 | Indicar lotação do ônibus (vazio, moderado, lotado) | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS07)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
 | RF10 | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS03)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
 | RF11 | Enviar notificação quando o ônibus estiver a X minutos da parada | [Análise de Documentos (RNI01)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT15)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
@@ -79,8 +79,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF28 | Permitir avaliação da qualidade do serviço de cada linha | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RNI04 satisfaz RF28) | Gabriel Maciel |
 | RF29 | Sistema de gamificação para incentivar uso do transporte público | | | | Daniel Nunes Duarte |
 | RF30 | Previsão inteligente de horários baseada em dados históricos e machine learning | | | | João Gabriel |
-| RF31 | Sistema de recompensas por uso sustentável do transporte público | | | | Fernanda Vaz |
-| RF32 | Exibir relatórios de impacto ambiental (CO₂ economizado) | | | | Fernanda Vaz |
+| RF31 | Sistema de recompensas por uso sustentável do transporte público | [Brainstorm (BRS09)](../Elicitacao/elicitacao_brainstorm.md#resultados)  |Organizacional |Satisfação (RF31 satisfaz objetivo organizacional de sustentabilidade) | Fernanda Vaz |
+| RF32 | Exibir relatórios de impacto ambiental (CO₂ economizado) |  [Brainstorm (BRS11)](../Elicitacao/elicitacao_brainstorm.md#resultados) |Organizacional | Recurso (RF32 serve como recurso para mensurar resultados de sustentabilidade)| Fernanda Vaz |
 | RF33 | Suporte a comandos de voz para facilitar interação durante deslocamentos | | | | Daniel Nunes Duarte |
 | RF34 | Integração com assistentes virtuais (Alexa, Google Assistant) | [Brainstorm (BRS16)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (BRS16 representa RF34) | Gabriel Maciel |
 | RF35 | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | [Entrevista (ENT12)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT12 representa RF35) | Gabriel Maciel |
@@ -91,8 +91,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RNF03 | Tempo de atualização da localização ≤ 20 segundos | | | | João Gabriel |
 | RNF04 | Interface acessível para idosos e pessoas com deficiência visual | [Entrevista (ENT10)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS08)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Desenvolvimento | Representação (ENT10 representa RNF04) | Cauã Nicolas |
 | RNF05 | Sistema de notificação com som e vibração configuráveis | [Brainstorm (BRS18)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Desenvolvimento | Representação (BRS18 representa RNF05) | Cauã Nicolas |
-| RNF06 | Baixo consumo de bateria e dados móveis | | | | Fernanda Vaz |
-| RNF07 | Compatibilidade com dispositivos Android e iOS | | | | Fernanda Vaz |
+| RNF06 | Baixo consumo de bateria e dados móveis | --- |Desenvolvimento |Alocado (vinculado a subsistemas de otimização de desempenho) | Fernanda Vaz |
+| RNF07 | Compatibilidade com dispositivos Android e iOS | [Entrevista (ENT19)](../Elicitacao/elicitacao_entrevista.md#resultados)  |Desenvolvimento |Responsabilidade (da equipe de desenvolvimento em garantir compatibilidade multiplataforma) | Fernanda Vaz |
 | RNF08 | Proteção contra reportes falsos de lotação (mecanismo de confiança) | | | | |
 | RNF09 | Dados de localização e pessoais protegidos conforme LGPD | | | | |
 | RNF10 | Tempo de carregamento da tela principal < 3 segundos | [Entrevista (ENT17)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT17 representa RNF10) | Gabriel Maciel |
@@ -108,7 +108,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 |----------------------|-------------|
 | Cauã Nicolas         | Rastreabilidade Backward-From dos Requisitos RF13, RF14, RF15, RF16, RF24, RF25, RNF04, RNF05 |
 | Daniel Nunes Duarte  | A preencher |
-| Fernanda Vaz         | A preencher |
+| Fernanda Vaz         | Rastreabilidade Backward-From dos Requisito:RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | Rastreabilidade Backward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
 | João Gabriel         | A preencher |
 | João Ramos           | A preencher |
@@ -136,6 +136,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | **1.3** | 28/10 | Adição Referência Bibliográfica | João Gabriel | Gabriel Maciel |
 | **1.4** | 28/10 | Preenchimento das classificações de fonte e tipos de elo para os requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 | Gabriel Maciel | João Ramos |
 | **1.5** | 28/10 | Adição da fonte, classificação e tipos de elos(RF: 9,10,11,12 e 21 RF:12)  | João Ramos | Gabriel Maciel |
+| **1.6** | 28/10 | Adição RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 | FERNANDA VAZ| Gabriel Maciel |
 
 ---
 
