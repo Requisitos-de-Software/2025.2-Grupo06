@@ -263,7 +263,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 4: Avaliar e Reportar / Épico 5: Integração e Recargas | Agregação | Histórico de viagens serve como insumo para recompensas, relatórios e recargas. |
+    |**Épico** | [Épico 4: Avaliar e Reportar / Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#epico-4-avaliar-e-reportar) | Agregação | Histórico de viagens serve como insumo para recompensas, relatórios e recargas. |
     |**História de Usuário** | [US30 - Histórico e recompensas](../modelagem_requisitos_02/backlog.md#us30---histórico-e-recompensas) | Representação | A história define como o histórico será apresentado e usado para pontos/recompensas. |
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 e casos relacionados suportam registro e consulta de viagens. |
     |**Especificação Suplementar** | [Privacidade](../modelagem_requisitos_01/especificacao_suplementar.md#privacidade) | **Responsabilidade** | Guarda e uso do histórico devem seguir políticas de privacidade e LGPD. |
@@ -298,7 +298,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Favoritos melhoram eficiência de acesso a informações recorrentes. |
+    |**Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1-rastreamento-e-informações-em-tempo-real) | Representação | Favoritos melhoram eficiência de acesso a informações recorrentes. |
     |**História de Usuário** | [US22 - Favoritos](../modelagem_requisitos_02/historias_de_usuario.md#us22---permitir-favoritar-linhas-ou-paradas-para-acesso-rápido) | Representação | US22 descreve critérios de aceitação para favoritos. |
     |**Casos de Uso** | [UC05 – Recarga de Cartão (se aplicável)](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | Casos de uso relacionados à personalização e às preferências do usuário. |
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Personalização e persistência de preferências definidas na especificação. |
