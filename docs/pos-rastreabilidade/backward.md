@@ -61,10 +61,10 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF10 | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) | | | | João Lucas |
 | RF11 | Enviar notificação quando o ônibus estiver a X minutos da parada | | | | João Lucas |
 | RF12 | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários | | | | João Lucas |
-| RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | | Representação (ENT07 representa RF13) | Cauã Nicolas |
-| RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
-| RF15 | Manter histórico de viagens do usuário | [Análise de Documentos (RNI03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | | | Cauã Nicolas |
-| RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | [Entrevista (ENT20)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
+| RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT07 representa RF13) | Cauã Nicolas |
+| RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT07 representa RF14) | Cauã Nicolas |
+| RF15 | Manter histórico de viagens do usuário | [Análise de Documentos (RNI03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Desenvolvimento | Representação (RNI03 representa RF15) | Cauã Nicolas |
+| RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | [Entrevista (ENT20)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT20 representa RF16) | Cauã Nicolas |
 | RF17 | Exibir preço da passagem por linha ou trajeto | | | | Daniel Nunes Duarte |
 | RF18 | Listar linhas que passam em uma parada específica | | | | João Lucas |
 | RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (BRS17 representa RF19) | Gabriel Maciel |
@@ -72,8 +72,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF21 | Mostrar alertas de trânsito, acidentes e rotas alternativas | | | | João Lucas |
 | RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | | | | Daniel Nunes Duarte |
 | RF23 | Exibir quantidade de assentos preferenciais e totais no ônibus | | | | |
-| RF24 | Permitir favoritar linhas ou paradas para acesso rápido | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
-| RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | [Entrevista (ENT08)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
+| RF24 | Permitir favoritar linhas ou paradas para acesso rápido | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT14 representa RF24) | Cauã Nicolas |
+| RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | [Entrevista (ENT08)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT08 representa RF25) | Cauã Nicolas |
 | RF26 | Filtrar ônibus por empresa operadora | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Organizacional | Satisfação (RF03 satisfaz RF26) | Gabriel Maciel |
 | RF27 | Visualizar quais veículos estão em operação no momento | | | | Daniel Nunes Duarte |
 | RF28 | Permitir avaliação da qualidade do serviço de cada linha | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RNI04 satisfaz RF28) | Gabriel Maciel |
@@ -89,8 +89,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RNF01 | As informações de horários e localização dos ônibus devem ser precisas | | | | João Gabriel |
 | RNF02 | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | | | | João Gabriel |
 | RNF03 | Tempo de atualização da localização ≤ 20 segundos | | | | João Gabriel |
-| RNF04 | Interface acessível para idosos e pessoas com deficiência visual | [Entrevista (ENT10)]((../Elicitacao/elicitacao_entrevista.md#resultados)), [Brainstorm (BRS08)](../Elicitacao/elicitacao_brainstorm.md#resultados) | | | Cauã Nicolas |
-| RNF05 | Sistema de notificação com som e vibração configuráveis | [Brainstorm (BRS18)](../Elicitacao/elicitacao_brainstorm.md#resultados) | | | Cauã Nicolas |
+| RNF04 | Interface acessível para idosos e pessoas com deficiência visual | [Entrevista (ENT10)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS08)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Desenvolvimento | Representação (ENT10 representa RNF04) | Cauã Nicolas |
+| RNF05 | Sistema de notificação com som e vibração configuráveis | [Brainstorm (BRS18)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Desenvolvimento | Representação (BRS18 representa RNF05) | Cauã Nicolas |
 | RNF06 | Baixo consumo de bateria e dados móveis | | | | Fernanda Vaz |
 | RNF07 | Compatibilidade com dispositivos Android e iOS | | | | Fernanda Vaz |
 | RNF08 | Proteção contra reportes falsos de lotação (mecanismo de confiança) | | | | |
@@ -102,117 +102,11 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão | | | | Daniel Nunes Duarte |
 | RNF15 | Personalização da interface com base em preferências do usuário | | | | Daniel Nunes Duarte |
 
-## Elos Funcionais (deprecated)
-
-### EF01
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RF13:**
-        - Elicitação de Requisitos: Entrevista (ENT07)
-- **Elos:**
-    - Representação: ENT07 representa RF13
-    - Agregação: EP05 agrega RF13
-    - Agregação: EP08 agrega RF13
-
----
-
-### EF02
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RF14:**
-        - Elicitação de Requisitos: Entrevista (ENT07)
-- **Elos:**
-    - Representação: ENT07 representa RF14
-    - Agregação: EP08 agrega RF14
-
----
-
-### EF03
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RF15:**
-        - Elicitação de Requisitos: Análise de Documentos (RNI03)
-- **Elos:**
-    - Representação: RNI03 representa RF15
-    - Agregação: EP07 agrega RF15
-
----
-
-### EF04
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RF16:**
-        - Elicitação de Requisitos: Entrevista (ENT20)
-- **Elos:**
-    - Representação: ENT20 representa RF16
-    - Agregação: EP08 agrega RF16
-
----
-
-### EF05
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RF24:**
-        - Elicitação de Requisitos: Entrevista (ENT14)
-- **Elos:**
-    - Representação: ENT14 representa RF24
-    - Agregação: EP02 agrega RF24
-
----   
-
-### EF06
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RF25:**
-        - Elicitação de Requisitos: Entrevista (ENT08)
-- **Elos:**
-    - Representação: ENT08 representa RF25
-
----
-
-## Elos Não Funcionais (deprecated)
-
-### ENF01
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RNF04:**
-        - Elicitação de Requisitos: Entrevista (ENT10), Brainstorm (BRS08)
-- **Elos:** Agrega SIG-U03
-    
----
-
-### ENF02
-*Autoria: Cauã Nicolas, 2025*
-
-- **Categoria:** Desenvolvimento
-- **Elementos Rastreáveis:**
-    - **RNF05:**
-        - Elicitação de Requisitos: Brainstorm (BRS18)
-- **Elos:**
-    - Agregação: RNF05 agrega SIG-U04
-    - Agregação: EP06 agrega RNF05
-
----
-
 ## Tabela de Contribuição
 
 |        Nome          | Contribuição|
 |----------------------|-------------|
-| Cauã Nicolas         | A preencher |
+| Cauã Nicolas         | Rastreabilidade Backward-From dos Requisitos RF13, RF14, RF15, RF16, RF24, RF25, RNF04, RNF05 |
 | Daniel Nunes Duarte  | A preencher |
 | Fernanda Vaz         | A preencher |
 | Gabriel Maciel       | Rastreabilidade Backward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
@@ -238,7 +132,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 |:----------:|:--------:|:--------------|:--------------|:----------------|
 | **1.0** | 25/10 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas |
 | **1.1** | 27/10 | Adição e elaboração de artefatos | Fernanda Vaz | Cauã Nicolas |
-| **1.2** | 27/10 | Adição de Elos Funcionais (1, 2, 3, 4 e 5) e Elos Não Funcionais (1 e 2) | Cauã Nicolas | Gabriel Maciel |
+| **1.2** | 27/10 | Adição das classificações de fonte e tipos de elo para os requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 | Gabriel Maciel |
 | **1.3** | 28/10 | Adição Referência Bibliográfica | João Gabriel | Gabriel Maciel |
 | **1.4** | 28/10 | Preenchimento das classificações de fonte e tipos de elo para os requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 | Gabriel Maciel | — |
 
@@ -250,4 +144,3 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras.  
 Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão.  
 A ferramenta não figura como autora desta publicação.
-
