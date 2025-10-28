@@ -10,6 +10,16 @@ Este documento trata da "rastreabilidade para trás" (*backward-from*). Isso sig
 
 A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcionais e não funcionais, associando cada requisito identificado ao documento de origem ou evidência. Essa abordagem busca manter a rastreabilidade bidirecional — tanto *forward-to* quanto *backward-from* —, conforme proposto por Sayão e Leite (2005).
 
+### Legendas
+
+- RF: Requisito Funcional
+- RNF: Requisito Não Funcional
+- EF: Elos Funcionais
+- ENF: Elos Não Funcionais
+- ENT: Entrevista
+- EP: Épicos
+- RNI: Requisitos Não Implementados
+
 ---
 ## Requisitos Funcionais
 
@@ -59,7 +69,7 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 | **02** | **RNF02** | Não Funcional | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas. | Elicitação de Requisitos: Entrevista (ENT13) |
 | **03** | **RNF03** | Não Funcional | Tempo de atualização da localização ≤ 20 segundos. | |
 | **04** | **RNF04** | Não Funcional | Interface acessível para idosos e pessoas com deficiência visual. | Elicitação de Requisitos: Entrevista (ENT10), Brainstorm (BRS08) |
-| **05** | **RNF05** | Não Funcional | Sistema de notificação com som e vibração configuráveis. | |
+| **05** | **RNF05** | Não Funcional | Sistema de notificação com som e vibração configuráveis. | Elicitação de Requisitos: Brainstorm (BRS18) |
 | **06** | **RNF06** | Não Funcional | Baixo consumo de bateria e dados móveis. | Análise de Documentos |
 | **07** | **RNF07** | Não Funcional | Compatibilidade com dispositivos Android e iOS. | Elicitação de Requisitos: Entrevista (ENT19) |
 | **08** | **RNF08** | Não Funcional | Proteção contra reportes falsos de lotação (mecanismo de confiança). | |
@@ -84,7 +94,6 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
     - Representação: ENT07 representa RF13
     - Agregação: EP05 agrega RF13
     - Agregação: EP08 agrega RF13
-    - Agregação: SIG-PORT agrega RF13
 
 ---
 
@@ -98,7 +107,6 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 - **Elos:**
     - Representação: ENT07 representa RF14
     - Agregação: EP08 agrega RF14
-    - Agregação: SIG-PORT agrega RF14
 
 ---
 
@@ -150,8 +158,6 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
         - Elicitação de Requisitos: Entrevista (ENT08)
 - **Elos:**
     - Representação: ENT08 representa RF25
-    - Agregação: SIG-DSP agrega RF25
-    - Agregação: EP-COB agrega RF25
 
 ---
 
