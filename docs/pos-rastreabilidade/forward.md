@@ -68,27 +68,23 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     
 ??? info "RNF04 – Interface acessível para idosos e pessoas com deficiência visual"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas *
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Especificação Suplementar** | *Não identificada* | | |
-    |**NFR** | *Não identificado* | | |
-    |**Artefatos de Elicitação** | ENT09 | | | 
+    |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | A especificação define critérios de acessibilidade (WCAG) que a equipe deve implementar. |
+    |**NFR** | [SIG Usabilidade](../modelagem_requisitos_02/nfr.md#sig-usabilidade) | **Representação** | O SIG de usabilidade operacionaliza requisitos como suporte a leitores de tela e contraste (RU05 / RU09). |
+    |**Artefatos de Elicitação** | [Entrevista (ENT16)](../Elicitacao/elicitacao_entrevista.md#resultados), ENT09 | **Satisfação** | ENT16 e ENT09 indicam a necessidade de interfaces acessíveis e confiáveis para diferentes perfis de usuário. |
 
 ??? info "RNF05 – Sistema de notificação com som e vibração configuráveis"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas *
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Especificação Suplementar** | *Não identificada* | | |
-    |**NFR** | *Não identificado* | | |
-    |**Artefatos de Elicitação** | ENT09 | | |
-
-
-
-
+    |**Especificação Suplementar** | [Requisitos do Sistema](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | **Responsabilidade** | A especificação registra que notificações devem ser configuráveis e respeitar preferências do usuário (som/vibração). |
+    |**NFR** | [SIG Usabilidade](../modelagem_requisitos_02/nfr.md#sig-usabilidade) | **Representação** | O cartão RU06 / RNF06 (Feedback e Comunicação) define critérios de mensagem e notificações. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT15)](../Elicitacao/elicitacao_entrevista.md#resultados), [Entrevista (ENT05)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT15/ENT05 descrevem expectativas de notificações relevantes e configuráveis pelos usuários. |
 
 ??? info "RNF06 – Baixo consumo de bateria e dados móveis"
 
@@ -100,7 +96,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **NFR** | [Desempenho](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | **Representação** | O NFR de desempenho representa este RNF e define critérios técnicos de otimização. |
     | **Artefatos de Elicitação** | — | — | **Requisito técnico derivado de decisões dos desenvolvedores durante o processo de especificação.** |
 
-
 ??? info "RNF07 – Compatibilidade com dispositivos Android e iOS"
 
     *Autoria: Fernanda Vaz*
@@ -110,9 +105,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **Especificação Suplementar** | [Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Responsabilidade** | A responsabilidade é da equipe de desenvolvimento em garantir a portabilidade e compatibilidade do aplicativo entre plataformas. |
     | **NFR** | [SIG Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | **Representação** | O NFR Framework representa a compatibilidade entre sistemas operacionais, reforçando a necessidade de comportamento uniforme no Android e iOS. |
     | **Artefatos de Elicitação** | [Entrevista (ENT19)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | A ENT19 originou o requisito, evidenciando a importância da compatibilidade com os sistemas Android e iOS. |
-
-
-
 
 ??? info "RNF10 – Tempo de carregamento da tela principal < 3 segundos"
 
@@ -135,7 +127,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Artefatos de Elicitação** | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | RNI05, ENT18 e BRS06 são fontes de elicitação que satisfazem e fundamentam a necessidade do RNF11 |
 
 
-# Requisitos  não Funcionais
+# Requisitos Funcionais
 
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
@@ -215,8 +207,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **Cenários** | [Cenário 3 - Rastreamento de múltiplas linhas](../modelagem_requisitos_01/cenarios.md#cenário-3---rastreamento-de-múltiplas-linhas) | Representação | Cenário ilustra uma situação prática de uso do mapa |
     | **Artefatos de Elicitação** | [Entrevista (ENT06)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT06 representa a origem e fundamentação do RF06 |
 
----
-
 ??? info "RF07 – Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais"
 
     *Autoria: Fernanda Vaz*
@@ -229,8 +219,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **Cenários** | [Cenário 12 – Integração ônibus e metrô (Requisito não implementado)](../modelagem_requisitos_01/cenarios.md) | Agregação | Cenário exemplifica o uso da integração multimodal |
     | **Artefatos de Elicitação** | [BRS04](../Elicitacao/elicitacao_brainstorm.md#resultados), [RNI02](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Agregação | O requisito agrega fontes externas de dados sobre modais |
 
----
-
 ??? info "RF08 – Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes)"
 
     *Autoria: Fernanda Vaz*
@@ -242,7 +230,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **Casos de Uso** | [Tabela 6 - UC04: Integração com BRB Mobilidade (Requisito não implementado)](../modelagem_requisitos_02/casos_de_uso.md#tabela-6-uc04-integracao-com-brb-mobilidade-requisito-nao-implementado) | Representação | UC04 descreve o fluxo de consulta à acessibilidade |
     | **Cenários** | [Cenário 4 - Integração com BRB Mobilidade (Requisito não implementado)](../modelagem_requisitos_01/cenarios.md#cenario-4-integracao-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário apresenta exemplo de uso por pessoa com deficiência |
     | **Artefatos de Elicitação** | [Entrevista (ENT16)](../Elicitacao/elicitacao_entrevista.md#resultados) | Satisfação | ENT16 satisfaz a necessidade de inclusão e acessibilidade |
-
 
 ??? info "RF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
 
@@ -374,7 +361,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Cenários** | CEN10 | | |
     |**Artefatos de Elicitação** | BRS02 | | |
 
-
 ??? info "RF31 – Sistema de recompensas por uso sustentável do transporte público"
 
     *Autoria: Fernanda Vaz*
@@ -387,8 +373,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **Cenários** | — | — | — |
     | **Artefatos de Elicitação** | [BRS09](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | O requisito satisfaz os objetivos organizacionais de sustentabilidade |
 
----
-
 ??? info "RF32 – Exibir relatórios de impacto ambiental (CO₂ economizado)"
 
     *Autoria: Fernanda Vaz*
@@ -400,6 +384,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **Casos de Uso** | — | — | — |
     | **Cenários** | — | — | — |
     | **Artefatos de Elicitação** | [BRS11](../Elicitacao/elicitacao_brainstorm.md#resultados) | Recurso | O requisito serve de recurso para avaliação ambiental e organizacional |
+
 ??? info "RF34 – Integração com assistentes virtuais (Alexa, Google Assistant)"
 
     *Autoria: Gabriel Maciel*
