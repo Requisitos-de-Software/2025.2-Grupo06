@@ -332,6 +332,19 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Cenários** | *Não identificados* | — | — |
     |**Artefatos de Elicitação** | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Satisfação | RF03 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RF26 |
 
+??? info "RF28 – Permitir avaliação da qualidade do serviço de cada linha"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :--| :-- |
+    |**Épico** | [Épico 4: Avaliar e Reportar](../modelagem_requisitos_02/backlog.md#epico-4-avaliar-e-reportar) | Agregação | Épico 4 agrega e compõe o requisito RF28 como parte de sua estrutura |
+    |**História de Usuário** | [US03](../modelagem_requisitos_02/historias_de_usuario.md#us03-avaliar-qualidade-das-linhas) | Representação | US03 representa a implementação detalhada do RF28 em termos de funcionalidade do usuário |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | [UC01](../modelagem_requisitos_01/casos_de_uso.md#tabela-3-uc01-avaliacao-de-linhas-de-onibus-requisito-nao-implementado) | Representação | UC01 modela e representa o fluxo de interação para avaliar a qualidade do serviço |
+    |**Cenários** | [Cenário 2](../modelagem_requisitos_01/cenarios.md#cenario-2-avaliar-linhas-requisito-nao-implementado) | Representação | Cenário 2 descreve uma situação concreta onde o RF28 é utilizado |
+    |**Artefatos de Elicitação** | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Satisfação | RNI04 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RF28 |
+
 ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
     *Autoria: *
