@@ -30,6 +30,12 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **20** | **Sobre o elo de agregação, há indicação de elementos que estão compostos?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 20](../assets/imagens/checklist_5/20-lv.png) | Gabriel Maciel |
 | **21** | **As informações classificadas em nível gerencial são informações que associam tarefas a requisitos de maneira a auxiliar a gestão do projeto?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 21](../assets/imagens/checklist_5/21-lv.png) | Gabriel Maciel |
 | **22** | **As informações classificadas em nível de desenvolvimento são informações de artefatos gerados durante o processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, etc)?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 22](../assets/imagens/checklist_5/22-lv.png) | Gabriel Maciel | 
+| **23** | **As informações rastreadas estão classificadas em quatro níveis?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf) | [Figura 23](../assets/imagens/checklist_5/figuraD3.png) | Daniel Nunes Duarte |
+| **24** | **Os elos de rastreabilidade de Toranzo estão identificados?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf) | [Figura 24](../assets/imagens/checklist_5/figuraD5.png) | Daniel Nunes Duarte |
+| **25** | **A Matriz de Rastreabilidade está apresentando os artefatos iniciais (como requisitos) e os artefatos de destino (por exemplo, fontes dos requisitos, outros requisitos, ou artefatos de desenvolvimento posteriores)?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf) | [Figura 25](../assets/imagens/checklist_5/figuraD1.png) | Daniel Nunes Duarte |
+| **26** | **Existem elos rastreando informações "gerenciais" que associam tarefas do projeto aos requisitos?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf) | [Figura 26](../assets/imagens/checklist_5/figuraD4.png) | Daniel Nunes Duarte |
+| **27** | **Está descrevendo detalhadamente todos os elos de rastreabilidade Toranzo necessários para o projeto?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf) | [Figura 27](../assets/imagens/checklist_5/figuraD5.png) | Daniel Nunes Duarte |
+
 
 
 ## Tabela de Contribuição
@@ -37,7 +43,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | Nome | Contribuição |
 |------|--------------|
 | Cauã Nicolas | Adição dos itens 6 até 10 da Lista de Verificação |
-| Daniel Nunes Duarte | A preencher |
+| Daniel Nunes Duarte | Adição dos itens 23 até 27 da Lista de Verificação |
 | Fernanda Vaz | A preencher |
 | Gabriel Maciel | Adição dos itens 18 até 22 da Lista de Verificação |
 | João Gabriel | Adição dos itens 11 até 17 |
@@ -54,3 +60,5 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.2 | 27/10 | Adição dos itens 6 até 10 | Cauã Nicolas | Gabriel Maciel |
 | 1.3 | 27/10 | Adição dos itens 11 até 17 | João Gabriel | Gabriel Maciel |
 | 1.4 | 28/10 | Adição dos itens 18 até 22 | Gabriel Maciel | Cauã Nicolas |
+| 1.5 | 28/10 | Adição dos itens 23 até 27 | Daniel Nunes Duarte | ---------- |
+
