@@ -4,6 +4,10 @@
 
 ## Metodologia
 
+## Elos Funcionais
+
+## Elos Não Funcionais
+
 ## Tabela de Contribuição
 
 |        Nome          | Contribuição|
