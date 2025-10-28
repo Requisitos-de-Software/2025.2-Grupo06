@@ -28,9 +28,12 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 5. **Alocado**: A classe de origem está relacionada a uma classe de destino que geralmente representa um subsistema.
 6. **Agregação**: Indica a composição de elementos, ou seja, que um elemento é composto por outros.
 
-# Rastreabilidade de Requisitos
+
+
 
 ## Rastreabilidade Forward-From
+
+# Requisitos  não Funcionais
 
 ??? info "RNF01 – As informações de horários e localização dos ônibus devem ser precisas"
 
@@ -83,6 +86,34 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**NFR** | *Não identificado* | | |
     |**Artefatos de Elicitação** | ENT09 | | |
 
+
+
+
+
+??? info "RNF06 – Baixo consumo de bateria e dados móveis"
+
+    *Autoria: Fernanda Vaz*
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:--|:--|:--|:--|
+    | **Especificação Suplementar** | [Portabilidade/Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Alocado** | O requisito está alocado ao subsistema de otimização do aplicativo, responsável por reduzir o uso de energia e dados móveis. |
+    | **NFR** | [Desempenho](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | **Representação** | O NFR de desempenho representa este RNF e define critérios técnicos de otimização. |
+    | **Artefatos de Elicitação** | — | — | **Requisito técnico derivado de decisões dos desenvolvedores durante o processo de especificação.** |
+
+
+??? info "RNF07 – Compatibilidade com dispositivos Android e iOS"
+
+    *Autoria: Fernanda Vaz*
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:--|:--|:--|:--|
+    | **Especificação Suplementar** | [Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Responsabilidade** | A responsabilidade é da equipe de desenvolvimento em garantir a portabilidade e compatibilidade do aplicativo entre plataformas. |
+    | **NFR** | [SIG Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | **Representação** | O NFR Framework representa a compatibilidade entre sistemas operacionais, reforçando a necessidade de comportamento uniforme no Android e iOS. |
+    | **Artefatos de Elicitação** | [Entrevista (ENT19)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | A ENT19 originou o requisito, evidenciando a importância da compatibilidade com os sistemas Android e iOS. |
+
+
+
+
 ??? info "RNF10 – Tempo de carregamento da tela principal < 3 segundos"
 
     *Autoria: Gabriel Maciel*
@@ -102,6 +133,9 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Especificação Suplementar** | *Não identificada* | — | — |
     |**NFR** | [RS02 - Funcionamento Offline](../modelagem_requisitos_02/nfr.md#rs02-funcionamento-offline) | Representação | O cartão de especificação RS02 no NFR Framework detalha os critérios de ajuste e dependências de RNF11 |
     |**Artefatos de Elicitação** | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | RNI05, ENT18 e BRS06 são fontes de elicitação que satisfazem e fundamentam a necessidade do RNF11 |
+
+
+# Requisitos  não Funcionais
 
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
@@ -167,6 +201,48 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | *Não identificados* | | |
     |**Cenários** | *Não identificados* | | |
     |**Artefatos de Elicitação** | ENT02 | | |
+
+??? info "RF06 – Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes"
+
+    *Autoria: Fernanda Vaz*
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:--|:--|:--|:--|
+    | **Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1---rastreamento-e-informações-em-tempo-real) | Representação | O épico modela a visão geral de exibição no mapa |
+    | **História de Usuário** | [US06 - Oferecer um Mapa Interativo com os Pontos de Ônibus e suas Linhas Correspondentes](../modelagem_requisitos_02/backlog.md#us06---oferecer-um-mapa-interativo-com-os-pontos-de-ônibus-e-suas-linhas-correspondentes) | Representação | A história de usuário detalha o requisito funcional do mapa |
+    | **Léxico** | [Léxico 01: Notificações de Chegada](../modelagem_requisitos_02/lexico.md#léxico-01---notificações-de-chegada) | Representação | O termo "mapa" é representado no léxico do sistema |
+    | **Casos de Uso** | [Tabela 5 - UC03: Rastreamento de Múltiplas Linhas](../modelagem_requisitos_02/casos_de_uso.md#tabela-5---uc03-rastreamento-de-múltiplas-linhas-requisito-não-implementado) | Representação | UC03 descreve o fluxo de exibição e atualização dos pontos |
+    | **Cenários** | [Cenário 3 - Rastreamento de múltiplas linhas](../modelagem_requisitos_01/cenarios.md#cenário-3---rastreamento-de-múltiplas-linhas) | Representação | Cenário ilustra uma situação prática de uso do mapa |
+    | **Artefatos de Elicitação** | [Entrevista (ENT06)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT06 representa a origem e fundamentação do RF06 |
+
+---
+
+??? info "RF07 – Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais"
+
+    *Autoria: Fernanda Vaz*
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:--|:--|:--|:--|
+    | **Épico** | [Épico 7: Planejamento de Viagens](../modelagem_requisitos_02/backlog.md#épico-7---planejamento-de-viagens) | Agregação | O épico agrega funcionalidades de múltiplos modais |
+    | **História de Usuário** | [US07 - Integrar Informações de Outros Modais (Metrô, Outros Ônibus) em Rotas Multimodais](../modelagem_requisitos_02/historias_de_usuario.md) | Representação | US07 detalha a funcionalidade de integração de rotas |
+    | **Casos de Uso** | — | — | — |
+    | **Cenários** | [Cenário 12 – Integração ônibus e metrô (Requisito não implementado)](../modelagem_requisitos_01/cenarios.md) | Agregação | Cenário exemplifica o uso da integração multimodal |
+    | **Artefatos de Elicitação** | [BRS04](../Elicitacao/elicitacao_brainstorm.md#resultados), [RNI02](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Agregação | O requisito agrega fontes externas de dados sobre modais |
+
+---
+
+??? info "RF08 – Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes)"
+
+    *Autoria: Fernanda Vaz*
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:--|:--|:--|:--|
+    | **Épico** | [Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md) | Satisfação | O épico visa atender à acessibilidade conforme normas |
+    | **História de Usuário** | [US11 - Oferecer Recarga de Cartão de Transporte](../modelagem_requisitos_02/historias_de_usuario.md) | Representação | US08 representa o requisito de informação de acessibilidade |
+    | **Casos de Uso** | [Tabela 6 - UC04: Integração com BRB Mobilidade (Requisito não implementado)](../modelagem_requisitos_02/casos_de_uso.md#tabela-6-uc04-integracao-com-brb-mobilidade-requisito-nao-implementado) | Representação | UC04 descreve o fluxo de consulta à acessibilidade |
+    | **Cenários** | [Cenário 4 - Integração com BRB Mobilidade (Requisito não implementado)](../modelagem_requisitos_01/cenarios.md#cenario-4-integracao-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário apresenta exemplo de uso por pessoa com deficiência |
+    | **Artefatos de Elicitação** | [Entrevista (ENT16)](../Elicitacao/elicitacao_entrevista.md#resultados) | Satisfação | ENT16 satisfaz a necessidade de inclusão e acessibilidade |
+
 
 ??? info "RF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
 
@@ -298,6 +374,32 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Cenários** | CEN10 | | |
     |**Artefatos de Elicitação** | BRS02 | | |
 
+
+??? info "RF31 – Sistema de recompensas por uso sustentável do transporte público"
+
+    *Autoria: Fernanda Vaz*
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:--|:--|:--|:--|
+    | **Épico** | [Épico 11: Gamificação e Engajamento](../modelagem_requisitos_02/backlog.md) | Satisfação | O épico busca satisfazer objetivos de incentivo ao transporte sustentável |
+    | **História de Usuário** | [US38 - Sistema de Gamificação para Incentivar o Uso do Transporte Público](../modelagem_requisitos_02/historias_de_usuario.md#us38-sistema-de-gamificacao-para-incentivar-o-uso-do-transporte-publico) | Representação | US31 descreve a funcionalidade de recompensas ao usuário |
+    | **Casos de Uso** | — | — | — |
+    | **Cenários** | — | — | — |
+    | **Artefatos de Elicitação** | [BRS09](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | O requisito satisfaz os objetivos organizacionais de sustentabilidade |
+
+---
+
+??? info "RF32 – Exibir relatórios de impacto ambiental (CO₂ economizado)"
+
+    *Autoria: Fernanda Vaz*
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:--|:--|:--|:--|
+    | **Épico** | [Épico 9: Sustentabilidade e Impacto Ambiental](../modelagem_requisitos_02/backlog.md#epico-09-sustentabilidade-e-impacto-ambiental) | Recurso | O épico utiliza este requisito como recurso para mensurar impacto |
+    | **História de Usuário** | [US10 - Exibir Relatórios de Impacto Ambiental (CO₂ Economizado)](../modelagem_requisitos_02/historias_de_usuario.md#us10-exibir-relatorios-de-impacto-ambiental-co2-economizado) | Representação | US32 detalha o relatório de impacto ambiental |
+    | **Casos de Uso** | — | — | — |
+    | **Cenários** | — | — | — |
+    | **Artefatos de Elicitação** | [BRS11](../Elicitacao/elicitacao_brainstorm.md#resultados) | Recurso | O requisito serve de recurso para avaliação ambiental e organizacional |
 ??? info "RF34 – Integração com assistentes virtuais (Alexa, Google Assistant)"
 
     *Autoria: Gabriel Maciel*
@@ -357,7 +459,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 |----------------------|-------------|
 | Cauã Nicolas         | A preencher |
 | Daniel Nunes Duarte  | A preencher |
-| Fernanda Vaz         | A preencher |
+| Fernanda Vaz         | Foward: RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | A preencher |
 | João Gabriel         | Adição RNF1 ao RNF3 e RF01 ao RF05, RF37, RF30 |
 | João Ramos           | A preencher |

@@ -8,8 +8,10 @@
 ## Elementos característicos de um cenário (Print)
 <a href="https://ibb.co/ZzZhPxzK"><img src="https://i.ibb.co/TMCHStMR/image.png" alt="image" border="0"></a>
 
+<a id="cenário-1---notificações-de-chegada"></a>
 ## Cenário 1 – Notificações de Chegada (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
+
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -23,8 +25,10 @@
 
 ---
 
-## Cenário 2 – Avaliar Linhas  (Requisito não implementado)
+<a id="cenário-2---avaliar-linhas"></a>
+## Cenário 2 – Avaliar Linhas (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
+
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -38,8 +42,9 @@
 
 ---
 
+<a id="cenário-3---rastreamento-de-múltiplas-linhas"></a>
 ## Cenário 3 – Rastreamento de múltiplas linhas (Requisito não implementado)
-<span style="color:blue;">Autoria: Gabriel Maciel, 2025.</span>
+
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |

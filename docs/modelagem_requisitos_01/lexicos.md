@@ -49,7 +49,9 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 
 ---
 
+<a id="léxico-01---notificações-de-chegada"></a>
 ## Léxico 01: Notificações de Chegada
+
 
 <div align="center">
 

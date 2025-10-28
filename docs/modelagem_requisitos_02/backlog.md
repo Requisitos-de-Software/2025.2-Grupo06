@@ -46,7 +46,9 @@ A priorização das histórias dentro de cada épico foi realizada considerando 
 
 ---
 
+<a id="épico-1---rastreamento-e-informações-em-tempo-real"></a>
 ### Épico 1: Rastreamento e Informações em Tempo Real
+
 
 Tem como objetivo permitir que passageiros acompanhem a localização e status dos ônibus em tempo real, além de fornecer informações precisas e atualizadas sobre horários e pontos de parada, permitindo melhor planejamento e redução do tempo de espera.
 
@@ -124,7 +126,9 @@ Tem como objetivo permitir que o usuário visualize e acompanhe o histórico de 
 
 ---
 
+<a id="épico-7---planejamento-de-viagens"></a>
 ### Épico 7: Planejamento de Viagens
+
 
 Tem como objetivo permitir que o passageiro planeje viagens integradas utilizando diferentes modais de transporte, com informações sobre acessibilidade e opções de rotas, garantindo inclusão e autonomia para todos os usuários.
 

@@ -151,7 +151,9 @@ A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define
 
 A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permite aos passageiros visualizar simultaneamente múltiplas linhas de ônibus no mapa e obter informações detalhadas sobre cada uma delas.
 
+<a id="tabela-5---uc03-rastreamento-de-múltiplas-linhas-requisito-não-implementado"></a>
 ### Tabela 5 - UC03: Rastreamento de Múltiplas Linhas (Requisito não implementado)
+
 
 | **Campo**                   |  **Descrição** |
 |-----------------------------|----------------|

@@ -96,8 +96,9 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Prioridade:** | Alta |
 
 ---
-
+<a id="us06---oferecer-um-mapa-interativo-com-os-pontos-de-ônibus-e-suas-linhas-correspondentes"></a>
 ### **US06 - Oferecer um Mapa Interativo com os Pontos de Ônibus e suas Linhas Correspondentes**
+
 
 *Autoria: Fernanda Vaz, 2025.*
 
