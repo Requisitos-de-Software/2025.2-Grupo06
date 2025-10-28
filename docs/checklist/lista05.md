@@ -25,17 +25,21 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **15** | **A rastreabilidade vertical conecta requisitos em diferentes níveis de abstração?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 15](https://ibb.co/gZnzf0BX) | João Gabriel |
 | **16** | **Os links de rastreabilidade são mantidos e atualizados durante todo o ciclo de vida do projeto?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 16](https://ibb.co/gZnzf0BX) | João Gabriel |
 | **17** | **A matriz de rastreabilidade é utilizada para documentar as relações entre requisitos e outros artefatos?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 17](https://ibb.co/gZnzf0BX) | João Gabriel |
-
+| **18** | **As informações classificadas em nível de desenvolvimento são informações de artefatos gerados durante o processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, etc)?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 18](../assets/imagens/checklist_5/18-lv.png) | Gabriel Maciel |
+| **19** | **Sobre o elo de representação, os requisitos são representados ou modelados em outras linguagens?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 19](../assets/imagens/checklist_5/19-lv.png) | Gabriel Maciel | 
+| **20** | **Sobre o elo de agregação, há indicação de elementos que estão compostos?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 20](../assets/imagens/checklist_5/20-lv.png) | Gabriel Maciel |
+| **21** | **As informações classificadas em nível gerencial são informações que associam tarefas a requisitos de maneira a auxiliar a gestão do projeto?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 21](../assets/imagens/checklist_5/21-lv.png) | Gabriel Maciel |
+| **22** | **As informações classificadas em nível de desenvolvimento são informações de artefatos gerados durante o processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, etc)?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 22](../assets/imagens/checklist_5/22-lv.png) | Gabriel Maciel | 
 
 
 ## Tabela de Contribuição
 
 | Nome | Contribuição |
 |------|--------------|
-| Cauã Nicolas | Adição dos itens 5, 6, 7, 8, 9 e 10 da Lista de Verificação|
+| Cauã Nicolas | Adição dos itens 6 até 10 da Lista de Verificação |
 | Daniel Nunes Duarte | A preencher |
 | Fernanda Vaz | A preencher |
-| Gabriel Maciel | A preencher |
+| Gabriel Maciel | Adição dos itens 18 até 22 da Lista de Verificação |
 | João Gabriel | Adição dos itens 11 até 17 |
 | João Ramos | A preencher |
 
@@ -45,6 +49,8 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:------:|:----:|-----------|-----------|-------------|
-| 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas |
-| 1.1 | 25/10 | Criação inicial do documento | Cauã Nicolas | João Gabriel |
-| 1.1 | 26/10 | Adição dos itens 11 até 17 | João Gabriel | Cauã Nicolas |
+| 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | Fernanda Vaz |
+| 1.1 | 25/10 | Adição dos itens 1 até 5 | Fernanda Vaz | Cauã Nicolas |
+| 1.2 | 27/10 | Adição dos itens 6 até 10 | Cauã Nicolas | Gabriel Maciel |
+| 1.3 | 27/10 | Adição dos itens 11 até 17 | João Gabriel | Gabriel Maciel |
+| 1.4 | 28/10 | Adição dos itens 18 até 22 | Gabriel Maciel | Cauã Nicolas |
