@@ -291,7 +291,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Léxico** | *Não identificado* | | |
     |**Casos de Uso** | [UC07](../modelagem_requisitos_01/casos_de_uso.md#tabela-8---uc07-modo-off-line-requisito-não-implementado) | Representação | UC07 modela e representa o fluxo de interação para acessar a versão web via QR Code |
     |**Cenários** | [Cenário 5](../modelagem_requisitos_01/cenarios.md#cenário-5---modo-off-line-requisito-não-implementado) | Representação | Cenário 5 descreve uma situação concreta onde o RF19 é utilizado |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | BRS17 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RF19 |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | | |
 
 ??? info "RF24 – Permitir favoritar linhas ou paradas para acesso rápido"
 
@@ -330,7 +330,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | *Não identificados* | — | — |
     |**Cenários** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Satisfação | RF03 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RF26 |
+    |**Artefatos de Elicitação** | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | | |
 
 ??? info "RF28 – Permitir avaliação da qualidade do serviço de cada linha"
 
@@ -343,7 +343,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | [UC01](../modelagem_requisitos_01/casos_de_uso.md#tabela-3-uc01-avaliacao-de-linhas-de-onibus-requisito-nao-implementado) | Representação | UC01 modela e representa o fluxo de interação para avaliar a qualidade do serviço |
     |**Cenários** | [Cenário 2](../modelagem_requisitos_01/cenarios.md#cenario-2-avaliar-linhas-requisito-nao-implementado) | Representação | Cenário 2 descreve uma situação concreta onde o RF28 é utilizado |
-    |**Artefatos de Elicitação** | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Satisfação | RNI04 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RF28 |
+    |**Artefatos de Elicitação** | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | | |
 
 ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
@@ -357,6 +357,19 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | UC10 | | |
     |**Cenários** | CEN10 | | |
     |**Artefatos de Elicitação** | BRS02 | | |
+
+??? info "RF34 – Integração com assistentes virtuais (Alexa, Google Assistant)"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :--| :-- |
+    |**Épico** | [Épico 3: Acessibilidade](../modelagem_requisitos_02/backlog.md#epico-3-acessibilidade) | Agregação | Épico 3 agrega e compõe o requisito RF34 como parte de sua estrutura |
+    |**História de Usuário** | [US20](../modelagem_requisitos_02/historias_de_usuario.md#us20-integracao-com-assistentes-virtuais) | Representação | US18 representa a implementação detalhada do RF34 em termos de funcionalidade do usuário |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Cenários** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS16)](../Elicitacao/elicitacao_brainstorm.md#resultados) | | |
 
 ??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
 
