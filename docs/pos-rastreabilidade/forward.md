@@ -103,11 +103,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
+    |**Especificação Suplementar** | *Não identificada* | | |
+    |**NFR** | *Não identificado* | | |
     |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RNF02 – Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas"
@@ -116,11 +113,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
+    |**Especificação Suplementar** | *Não identificada* | | |
+    |**NFR** | *Não identificado* | | |
     |**Artefatos de Elicitação** | ENT13 | | |
 
 ??? info "RNF03 – Tempo de atualização da localização ≤ 20 segundos"
@@ -129,11 +123,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
+    |**Especificação Suplementar** | *Não identificada* | | |
+    |**NFR** | *Não identificado* | | |
     |**Artefatos de Elicitação** | *Não identificado* | | |
 
     
@@ -143,11 +134,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
+    |**Especificação Suplementar** | *Não identificada* | | |
+    |**NFR** | *Não identificado* | | |
     |**Artefatos de Elicitação** | ENT09 | | | 
 
 ??? info "RNF05 – Sistema de notificação com som e vibração configuráveis"
@@ -156,12 +144,29 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
+    |**Especificação Suplementar** | *Não identificada* | | |
+    |**NFR** | *Não identificado* | | |
     |**Artefatos de Elicitação** | ENT09 | | |
+
+??? info "RNF10 – Tempo de carregamento da tela principal < 3 segundos"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :--| :-- |
+    |**Especificação Suplementar** | [RD02 - Tempo de Carregamento Rápido](../modelagem_requisitos_01/especificacao_suplementar.md#desempenho-print-da-fonte) | Representação | RD02 representa e detalha o requisito RNF10 na Especificação Suplementar |
+    |**NFR** | [RD02 / RNF06 - Tempo de Carregamento Rápido](../modelagem_requisitos_02/nfr.md#sig-desempenho) | Representação | O cartão de especificação RD02 no NFR Framework detalha os critérios de ajuste e dependências de RNF10 |
+    |**Artefatos de Elicitação** | [Entrevista (ENT17)](../Elicitacao/elicitacao_entrevista.md#resultados) | Satisfação | ENT17 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RNF10 |
+
+??? info "RNF11 – Funcionamento offline para consulta a rotas salvas e horários"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :--| :-- |
+    |**Especificação Suplementar** | *Não identificada* | — | — |
+    |**NFR** | [RS02 - Funcionamento Offline](../modelagem_requisitos_02/nfr.md#rs02-funcionamento-offline) | Representação | O cartão de especificação RS02 no NFR Framework detalha os critérios de ajuste e dependências de RNF11 |
+    |**Artefatos de Elicitação** | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | RNI05, ENT18 e BRS06 são fontes de elicitação que satisfazem e fundamentam a necessidade do RNF11 |
 
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
