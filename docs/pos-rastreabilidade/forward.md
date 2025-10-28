@@ -239,7 +239,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |:-- | :-- | :-- | :-- |
     |**Épico** | [Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#épico-5---integração-e-recargas) | Representação | O épico organiza funcionalidades de recarga e integração com provedores externos. |
     |**História de Usuário** | [US09 - Realizar recarga de cartão pelo app](../modelagem_requisitos_02/backlog.md#us09---realizar-recarga-do-cartão) | Representação | A história detalha a interação do usuário para recarga e consulta de saldo. |
-    |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 descreve o fluxo de recarga e integração com BRB Mobilidade. |
     |**Cenários** | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenario-4---integração-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário ilustra uso prático da funcionalidade de recarga. |
     |**Especificação Suplementar** | [Requisitos do Sistema](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | **Responsabilidade** | Regras de integração e segurança definidas na especificação orientam a implementação. |
@@ -254,7 +253,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |:-- | :-- | :-- | :-- |
     |**Épico** | [Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#épico-5---integração-e-recargas) | Representação | O épico contempla integração com prestadores de serviços (ex.: BRB Mobilidade). |
     |**História de Usuário** | [US10 - Visualizar saldo e recarregar cartão](../modelagem_requisitos_02/backlog.md#us10---visualizar-saldo-e-recarga) | Representação | A história define critérios de aceitação e segurança da integração. |
-    |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 cobre saldo, histórico e recarga integrados. |
     |**Cenários** | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenario-4---integração-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário demonstra fluxo de autenticação e recarga. |
     |**Especificação Suplementar** | [Requisitos do Sistema](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | **Responsabilidade** | Define requisitos de integração segura e formatos de API aceitos. |
@@ -269,7 +267,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |:-- | :-- | :-- | :-- |
     |**Épico** | Épico 4: Avaliar e Reportar / Épico 5: Integração e Recargas | Agregação | Histórico de viagens serve como insumo para recompensas, relatórios e recargas. |
     |**História de Usuário** | [US30 - Histórico e recompensas](../modelagem_requisitos_02/backlog.md#us30---histórico-e-recompensas) | Representação | A história define como o histórico será apresentado e usado para pontos/recompensas. |
-    |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 e casos relacionados suportam registro e consulta de viagens. |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Privacidade](../modelagem_requisitos_01/especificacao_suplementar.md#privacidade) | **Responsabilidade** | Guarda e uso do histórico devem seguir políticas de privacidade e LGPD. |
@@ -284,7 +281,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |:-- | :-- | :-- | :-- |
     |**Épico** | [Épico 4: Avaliar e Reportar](../modelagem_requisitos_02/backlog.md#epico-4-avaliar-e-reportar) | Representação | O épico agrega funcionalidades de avaliação e reporte de problemas. |
     |**História de Usuário** | *Não identificada* | — | — |
-    |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | *Não identificados* | — | — |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Mensagens e relatórios de erro devem ser claros e acionáveis, conforme definição de usabilidade. |
@@ -312,7 +308,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |:-- | :-- | :-- | :-- |
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Favoritos melhoram eficiência de acesso a informações recorrentes. |
     |**História de Usuário** | [US22 - Favoritos](../modelagem_requisitos_02/historias_de_usuario.md#us22---permitir-favoritar-linhas-ou-paradas-para-acesso-rápido) | Representação | US22 descreve critérios de aceitação para favoritos. |
-    |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | [UC05 – Recarga de Cartão (se aplicável)](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | Casos de uso relacionados à personalização e às preferências do usuário. |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Personalização e persistência de preferências definidas na especificação. |
@@ -327,7 +322,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |:-- | :-- | :-- | :-- |
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Ampliação de cobertura impacta rastreamento e disponibilidade de dados. |
     |**História de Usuário** | *Não identificada* | — | — |
-    |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | *Não identificados* | — | — |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Portabilidade/Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Responsabilidade** | Políticas de integração e suporte a ambientes com conectividade limitada são definidas na especificação. |
@@ -454,7 +448,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
 |        Nome          | Contribuição|
 |----------------------|-------------|
-| Cauã Nicolas         | A preencher |
+| Cauã Nicolas         | Adição RNF04 e RNF05, RF13, RF14, RF15, RF16, RF24 e RF25 |
 | Daniel Nunes Duarte  | A preencher |
 | Fernanda Vaz         | Foward: RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | A preencher |
@@ -475,6 +469,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 |:-------:|:-----:|:-----------|:------------|:-------------|
 | 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | FERNANDA |
 | 1.1 | 26/10 | Adição RNF1 - RNF3 e RF01 - RF05, RF37, RF30 | João Gabriel | Gabriel Maciel |
+| 1.2 | 28/10 | Adição RNF04 e RNF05, RF13, RF14, RF15, RF16, RF24 e RF25  | Cauã Nicolas | Gabriel Maciel |
 
 ## Agradecimentos
 
