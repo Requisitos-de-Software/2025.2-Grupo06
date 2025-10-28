@@ -187,8 +187,28 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 | João Gabriel         | A preencher |
 | João Ramos           | A preencher |
 
+
+## Referência bibliográfica 
+
+<a id="ref-1"></a>
+
+> SAYÃO, M.; LEITE, J. C. S. P. *Rastreabilidade em Requisitos de Software*. In: **Anais do Simpósio Brasileiro de Engenharia de Software (SBES)**, 2005.
+
+---
+
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|:-------:|:-----:|:-----------|:------------|:-------------|
-| 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | A revisar |
+| **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
+|:----------:|:--------:|:--------------|:--------------|:----------------|
+| **1.0** | 25/10 | Criação inicial do documento | Gabriel Maciel | A revisar |
+| **1.1** | 27/10 | Adição e elaboração de artefatos | Fernanda Vaz | — |
+
+---
+
+## Agradecimentos
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa **Google Gemini** no desenvolvimento deste trabalho.  
+>Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras.  
+>Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão.  
+>A ferramenta não figura como autora desta publicação.
+
