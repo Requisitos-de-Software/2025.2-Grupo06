@@ -61,30 +61,30 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF10 | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) | | | | João Lucas |
 | RF11 | Enviar notificação quando o ônibus estiver a X minutos da parada | | | | João Lucas |
 | RF12 | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários | | | | João Lucas |
-| RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
+| RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | | Representação (ENT07 representa RF13) | Cauã Nicolas |
 | RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
 | RF15 | Manter histórico de viagens do usuário | [Análise de Documentos (RNI03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | | | Cauã Nicolas |
 | RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | [Entrevista (ENT20)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
 | RF17 | Exibir preço da passagem por linha ou trajeto | | | | Daniel Nunes Duarte |
 | RF18 | Listar linhas que passam em uma parada específica | | | | João Lucas |
-| RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
+| RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (BRS17 representa RF19) | Gabriel Maciel |
 | RF20 | Botão de pânico/emergência para alertar motorista e/ou autoridades | | | | Daniel Nunes Duarte |
 | RF21 | Mostrar alertas de trânsito, acidentes e rotas alternativas | | | | João Lucas |
 | RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | | | | Daniel Nunes Duarte |
 | RF23 | Exibir quantidade de assentos preferenciais e totais no ônibus | | | | |
 | RF24 | Permitir favoritar linhas ou paradas para acesso rápido | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
 | RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | [Entrevista (ENT08)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
-| RF26 | Filtrar ônibus por empresa operadora | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Ambiental | | Gabriel Maciel |
+| RF26 | Filtrar ônibus por empresa operadora | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Organizacional | Satisfação (RF03 satisfaz RF26) | Gabriel Maciel |
 | RF27 | Visualizar quais veículos estão em operação no momento | | | | Daniel Nunes Duarte |
-| RF28 | Permitir avaliação da qualidade do serviço de cada linha | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Ambiental | | Gabriel Maciel |
+| RF28 | Permitir avaliação da qualidade do serviço de cada linha | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RNI04 satisfaz RF28) | Gabriel Maciel |
 | RF29 | Sistema de gamificação para incentivar uso do transporte público | | | | Daniel Nunes Duarte |
 | RF30 | Previsão inteligente de horários baseada em dados históricos e machine learning | | | | João Gabriel |
 | RF31 | Sistema de recompensas por uso sustentável do transporte público | | | | Fernanda Vaz |
 | RF32 | Exibir relatórios de impacto ambiental (CO₂ economizado) | | | | Fernanda Vaz |
 | RF33 | Suporte a comandos de voz para facilitar interação durante deslocamentos | | | | Daniel Nunes Duarte |
-| RF34 | Integração com assistentes virtuais (Alexa, Google Assistant) | [Brainstorm (BRS16)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
-| RF35 | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | [Entrevista (ENT12)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | | Gabriel Maciel |
-| RF36 | Oferecer suporte multilíngue (português e inglês, no mínimo) | [Entrevista (ENT22)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | | Gabriel Maciel |
+| RF34 | Integração com assistentes virtuais (Alexa, Google Assistant) | [Brainstorm (BRS16)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (BRS16 representa RF34) | Gabriel Maciel |
+| RF35 | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | [Entrevista (ENT12)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT12 representa RF35) | Gabriel Maciel |
+| RF36 | Oferecer suporte multilíngue (português e inglês, no mínimo) | [Entrevista (ENT22)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT22 representa RF36) | Gabriel Maciel |
 | RF37 | Permitir cadastro, login e autenticação de usuários no sistema | | | | João Gabriel |
 | RNF01 | As informações de horários e localização dos ônibus devem ser precisas | | | | João Gabriel |
 | RNF02 | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | | | | João Gabriel |
@@ -95,8 +95,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RNF07 | Compatibilidade com dispositivos Android e iOS | | | | Fernanda Vaz |
 | RNF08 | Proteção contra reportes falsos de lotação (mecanismo de confiança) | | | | |
 | RNF09 | Dados de localização e pessoais protegidos conforme LGPD | | | | |
-| RNF10 | Tempo de carregamento da tela principal < 3 segundos | [Entrevista (ENT17)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | | Gabriel Maciel |
-| RNF11 | Funcionamento offline para consulta a rotas salvas e horários | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
+| RNF10 | Tempo de carregamento da tela principal < 3 segundos | [Entrevista (ENT17)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT17 representa RNF10) | Gabriel Maciel |
+| RNF11 | Funcionamento offline para consulta a rotas salvas e horários | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (ENT18 representa RNF11) | Gabriel Maciel |
 | RNF12 | Integração segura com sistemas de pagamento (recarga de cartão) | | | | João Lucas |
 | RNF13 | Alta disponibilidade do sistema (≥ 98% uptime) | | | | João Lucas |
 | RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão | | | | Daniel Nunes Duarte |
@@ -215,7 +215,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | Cauã Nicolas         | A preencher |
 | Daniel Nunes Duarte  | A preencher |
 | Fernanda Vaz         | A preencher |
-| Gabriel Maciel       | A preencher |
+| Gabriel Maciel       | Rastreabilidade Backward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
 | João Gabriel         | A preencher |
 | João Ramos           | A preencher |
 
@@ -238,8 +238,9 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 |:----------:|:--------:|:--------------|:--------------|:----------------|
 | **1.0** | 25/10 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas |
 | **1.1** | 27/10 | Adição e elaboração de artefatos | Fernanda Vaz | Cauã Nicolas |
-| **1.2** | 27/10 | Adição de Elos Funcionais (1, 2, 3, 4 e 5) e Elos Não Funcionais (1 e 2) | Cauã Nicolas | — |
+| **1.2** | 27/10 | Adição de Elos Funcionais (1, 2, 3, 4 e 5) e Elos Não Funcionais (1 e 2) | Cauã Nicolas | Gabriel Maciel |
 | **1.3** | 28/10 | Adição Referência Bibliográfica | João Gabriel | Gabriel Maciel |
+| **1.4** | 28/10 | Preenchimento das classificações de fonte e tipos de elo para os requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 | Gabriel Maciel | — |
 
 ---
 
