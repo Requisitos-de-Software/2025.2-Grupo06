@@ -365,11 +365,37 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :--| :-- |
     |**Épico** | [Épico 3: Acessibilidade](../modelagem_requisitos_02/backlog.md#epico-3-acessibilidade) | Agregação | Épico 3 agrega e compõe o requisito RF34 como parte de sua estrutura |
-    |**História de Usuário** | [US20](../modelagem_requisitos_02/historias_de_usuario.md#us20-integracao-com-assistentes-virtuais) | Representação | US18 representa a implementação detalhada do RF34 em termos de funcionalidade do usuário |
+    |**História de Usuário** | [US20](../modelagem_requisitos_02/historias_de_usuario.md#us20-integracao-com-assistentes-virtuais) | Representação | US20 representa a implementação detalhada do RF34 em termos de funcionalidade do usuário |
     |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | *Não identificados* | — | — |
     |**Cenários** | *Não identificados* | — | — |
     |**Artefatos de Elicitação** | [Brainstorm (BRS16)](../Elicitacao/elicitacao_brainstorm.md#resultados) | | |
+
+??? info "RF35 – Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :--| :-- |
+    |**Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#epico-1-rastreamento-e-informacoes-em-tempo-real) | Agregação | Épico 1 agrega e compõe o requisito RF35 como parte de sua estrutura |
+    |**História de Usuário** | [US04](../modelagem_requisitos_02/historias_de_usuario.md#us04-rastrear-multiplas-linhas-simultaneamente) | Representação | US04 representa a implementação detalhada do RF35 em termos de funcionalidade do usuário |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | [UC03](../modelagem_requisitos_01/casos_de_uso.md#tabela-4-uc03-rastreamento-de-onibus) | Representação | UC03 modela e representa o fluxo de interação para rastrear múltiplas linhas |
+    |**Cenários** | [Cenário 3](../modelagem_requisitos_01/cenarios.md#cenario-3-rastreamento-de-multiplas-linhas-requisito-nao-implementado) | Representação | Cenário 3 descreve uma situação concreta onde o RF35 é utilizado |
+    |**Artefatos de Elicitação** | [Entrevista (ENT12)](../Elicitacao/elicitacao_entrevista.md#resultados) | | |
+
+??? info "RF36 – Oferecer suporte multilíngue (português e inglês, no mínimo)"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :--| :-- |
+    |**Épico** | Épico 16: Suporte Multilíngue | Agregação | Épico 16 agrega e compõe o requisito RF36 como parte de sua estrutura |
+    |**História de Usuário** | [US21](../modelagem_requisitos_02/historias_de_usuario.md#us21---suporte-multilingue) | Representação | US19 representa a implementação detalhada do RF36 em termos de funcionalidade do usuário |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Cenários** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Entrevista (ENT22)](../Elicitacao/elicitacao_entrevista.md#resultados) | | |
 
 ??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
 
