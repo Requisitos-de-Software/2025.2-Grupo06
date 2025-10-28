@@ -88,7 +88,7 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 # 🔁 Rastreabilidade Forward-From
 
-??? info "(RNF01 – As informações de horários e localização dos ônibus devem ser precisas)"
+??? info "RNF01 – As informações de horários e localização dos ônibus devem ser precisas"
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -97,150 +97,150 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Léxico** | *Não identificado*
     |**Casos de Uso** | *Não identificados*
     |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
 
-</details>
+---
 
-<details>
-<summary><strong>RNF02 – Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas</strong></summary>
+??? info "RNF02 – Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-**História de Usuário** | *Não identificada*
-**Léxico** | *Não identificado*
-**Casos de Uso** | *Não identificados*
-**Cenários** | *Não identificados*
-**Artefatos de Elicitação** | ENT13
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | *Não identificada*
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | ENT13
 
-</details>
+---
 
-<details>
-<summary><strong>RNF03 – Tempo de atualização da localização ≤ 20 segundos</strong></summary>
+??? info "RNF03 – Tempo de atualização da localização ≤ 20 segundos"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-**História de Usuário** | *Não identificada*
-**Léxico** | *Não identificado*
-**Casos de Uso** | *Não identificados*
-**Cenários** | *Não identificados*
-**Artefatos de Elicitação** | *Não identificado*
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | *Não identificada*
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | *Não identificado*
 
-</details>
+---
 
-<details>
-<summary><strong>RF01 – Exibir a localização dos ônibus em tempo real no mapa</strong></summary>
+??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-**História de Usuário** | US15
-**Léxico** | L12: Tempo real
-**Casos de Uso** | UC03
-**Cenários** | CEN03
-**Artefatos de Elicitação** | RF01 (Análise de Documentos), ENT03
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | US15
+    |**Léxico** | L12: Tempo real
+    |**Casos de Uso** | UC03
+    |**Cenários** | CEN03
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | RF01 (Análise de Documentos), ENT03
 
-</details>
+---
 
-<details>
-<summary><strong>RF02 – Mostrar o tempo estimado de chegada do ônibus à parada</strong></summary>
+??? info "RF02 – Mostrar o tempo estimado de chegada do ônibus à parada"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-**História de Usuário** | US16
-**Léxico** | L09: Agora
-**Casos de Uso** | UC02
-**Cenários** | CEN01
-**Artefatos de Elicitação** | ENT04
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | US16
+    |**Léxico** | L09: Agora
+    |**Casos de Uso** | UC02
+    |**Cenários** | CEN01
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | ENT04
 
-</details>
+---
 
-<details>
-<summary><strong>RF03 – Permitir planejamento de viagem com rotas sugeridas</strong></summary>
+??? info "RF03 – Permitir planejamento de viagem com rotas sugeridas"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 7: Planejamento de Viagens
-**História de Usuário** | US17
-**Léxico** | L05: Planejar
-**Casos de Uso** | UC09
-**Cenários** | CEN09
-**Artefatos de Elicitação** | RF05 (Análise de Documentos)
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 7: Planejamento de Viagens
+    |**História de Usuário** | US17
+    |**Léxico** | L05: Planejar
+    |**Casos de Uso** | UC09
+    |**Cenários** | CEN09
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | RF05 (Análise de Documentos)
 
-</details>
+---
 
-<details>
-<summary><strong>RF04 – Permitir pesquisa por linhas e rotas de ônibus</strong></summary>
+??? info "RF04 – Permitir pesquisa por linhas e rotas de ônibus"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 2: Filtragem
-**História de Usuário** | US18
-**Léxico** | L11: Pesquisar
-**Casos de Uso** | *Não identificados*
-**Cenários** | *Não identificados*
-**Artefatos de Elicitação** | RF02 (Análise de Documentos), ENT01
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 2: Filtragem
+    |**História de Usuário** | US18
+    |**Léxico** | L11: Pesquisar
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | RF02 (Análise de Documentos), ENT01
 
-</details>
+---
 
-<details>
-<summary><strong>RF05 – Apresentar horários de saída e chegada dos transportes</strong></summary>
+??? info "RF05 – Apresentar horários de saída e chegada dos transportes"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-**História de Usuário** | US05, US19
-**Léxico** | L09: Agora
-**Casos de Uso** | *Não identificados*
-**Cenários** | *Não identificados*
-**Artefatos de Elicitação** | ENT02
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | US05, US19
+    |**Léxico** | L09: Agora
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | ENT02
 
-</details>
+---
 
-<details>
-<summary><strong>RF37 – Permitir cadastro, login e autenticação de usuários no sistema</strong></summary>
+??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 8: Gestão de Usuário e Conta
-**História de Usuário** | US32
-**Léxico** | *Não identificado*
-**Casos de Uso** | UC01
-**Cenários** | *Não identificados*
-**Artefatos de Elicitação** | BRS18
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 8: Gestão de Usuário e Conta
+    |**História de Usuário** | US32
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | UC01
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | BRS18
 
-</details>
+---
 
-<details>
-<summary><strong>RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning</strong></summary>
+??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 7: Planejamento de Viagens
-**História de Usuário** | US31
-**Léxico** | *Não identificado*
-**Casos de Uso** | UC10
-**Cenários** | CEN10
-**Artefatos de Elicitação** | BRS02
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 7: Planejamento de Viagens
+    |**História de Usuário** | US31
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | UC10
+    |**Cenários** | CEN10
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | BRS02
 
-</details>
+---
 
-<details>
-<summary><strong>RNF0111 – Apenas testando</strong></summary>
+??? info "RNF0111 – Apenas testando"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-**História de Usuário** | *Não identificada*
-**Léxico** | *Não identificado*
-**Casos de Uso** | *Não identificados*
-**Cenários** | *Não identificados*
-**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | *Não identificada*
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Elos** | *Não identificados*
+    |**Artefatos de Elicitação** | ENT09
 
-</details>
-
+---
 
 ## Tabela de Contribuição
 
