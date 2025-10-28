@@ -18,7 +18,16 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 - Cenários
 
 - Léxico
-  
+
+O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que definem os tipos de relacionamentos entre os elementos rastreados. A seguir, apresentam-se os principais elos:
+
+1. **Satisfação**: Indica que a classe de origem possui uma dependência de satisfação com a classe de destino.
+2. **Recurso**: A classe de origem demonstra dependência de recurso em relação à classe de destino.
+3. **Responsabilidade**: Registra a participação, a responsabilidade e a ação de pessoas sobre os artefatos do projeto.
+4. **Representação**: Captura como os requisitos ou outros elementos são modelados ou representados em diferentes linguagens.
+5. **Alocado**: A classe de origem está relacionada a uma classe de destino que geralmente representa um subsistema.
+6. **Agregação**: Indica a composição de elementos, ou seja, que um elemento é composto por outros.
+
 # Tabela de Rastreabilidade de Requisitos
 
 ## Requisitos Funcionais
@@ -229,7 +238,7 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT02
 
-??? info "RNF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
+??? info "RF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
 
     *Autoria: *
 
@@ -243,7 +252,7 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
 
-??? info "RNF14 – Permitir integração com o cartão de transporte, incluindo saldo e recarga"
+??? info "RF14 – Permitir integração com o cartão de transporte, incluindo saldo e recarga"
 
     *Autoria: *
 
@@ -257,7 +266,7 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
 
-??? info "RNF15 – Manter histórico de viagens do usuário"
+??? info "RF15 – Manter histórico de viagens do usuário"
 
     *Autoria: *
 
@@ -271,7 +280,7 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
 
-??? info "RNF16 – Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário"
+??? info "RF16 – Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário"
 
     *Autoria: *
 
@@ -285,7 +294,20 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
 
-??? info "RNF24 – Permitir favoritar linhas ou paradas para acesso rápido"
+??? info "RF19 – Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)"
+
+    *Autoria: Gabriel Maciel*
+
+    |**Elemento** | **Artefatos Relacionados** | Tipo de Elo | Justificativa |
+    |:-- | :-- | :--| :-- |
+    |**Épico** | [Épico 3: Acessibilidade](../modelagem_requisitos_02/backlog.md#épico-3-acessibilidade) | Agregação | Épico 3 agrega e compõe o requisito RF19 como parte de sua estrutura |
+    |**História de Usuário** | [US02](../modelagem_requisitos_02/historias_de_usuario.md#us02---acesso-web-rápido-via-qr-code) | Representação | US02 representa a implementação detalhada do RF19 em termos de funcionalidade do usuário |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | [UC07](../modelagem_requisitos_01/casos_de_uso.md#tabela-8---uc07-modo-off-line-requisito-não-implementado) | Representação | UC07 modela e representa o fluxo de interação para acessar a versão web via QR Code |
+    |**Cenários** | [Cenário 5](../modelagem_requisitos_01/cenarios.md#cenário-5---modo-off-line-requisito-não-implementado) | Representação | Cenário 5 descreve uma situação concreta onde o RF19 é utilizado |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | BRS17 é a fonte de elicitação que satisfaz e fundamenta a necessidade do RF19 |
+
+??? info "RF24 – Permitir favoritar linhas ou paradas para acesso rápido"
 
     *Autoria: *
 
@@ -299,7 +321,7 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Elos** | *Não identificados*
     |**Artefatos de Elicitação** | ENT09
 
-??? info "RNF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal"
+??? info "RF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal"
 
     *Autoria: *
 
@@ -330,7 +352,7 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 ??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
 
     *Autoria: *
-    
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 8: Gestão de Usuário e Conta
