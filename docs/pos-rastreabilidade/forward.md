@@ -88,17 +88,16 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 # 🔁 Rastreabilidade Forward-From
 
-<details>
-<summary><strong>RNF01 – As informações de horários e localização dos ônibus devem ser precisas</strong></summary>
+??? info "(RNF01 – As informações de horários e localização dos ônibus devem ser precisas)"
 
-**Elemento** | **Artefatos Relacionados**
-:-- | :--
-**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-**História de Usuário** | *Não identificada*
-**Léxico** | *Não identificado*
-**Casos de Uso** | *Não identificados*
-**Cenários** | *Não identificados*
-**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados**
+    |:-- | :--
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
+    |**História de Usuário** | *Não identificada*
+    |**Léxico** | *Não identificado*
+    |**Casos de Uso** | *Não identificados*
+    |**Cenários** | *Não identificados*
+    |**Artefatos de Elicitação** | ENT09
 
 </details>
 
