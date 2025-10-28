@@ -242,7 +242,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 descreve o fluxo de recarga e integração com BRB Mobilidade. |
     |**Cenários** | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenario-4---integração-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário ilustra uso prático da funcionalidade de recarga. |
     |**Especificação Suplementar** | [Requisitos do Sistema](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | **Responsabilidade** | Regras de integração e segurança definidas na especificação orientam a implementação. |
-    |**NFR** | [SIG Portabilidade/Compatibilidade](../modelagem_requisitos_02/nfr.md#sig-portabilidadecompatibilidade) | **Representação** | O SIG descreve critérios de compatibilidade e integração com APIs externas (RS04). |
     |**Artefatos de Elicitação** | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | ENT07 relata a necessidade de integração e recarga do cartão pelo app. |
 
 ??? info "RF14 – Permitir integração com o cartão de transporte, incluindo saldo e recarga"
@@ -256,7 +255,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 cobre saldo, histórico e recarga integrados. |
     |**Cenários** | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenario-4---integração-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário demonstra fluxo de autenticação e recarga. |
     |**Especificação Suplementar** | [Requisitos do Sistema](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | **Responsabilidade** | Define requisitos de integração segura e formatos de API aceitos. |
-    |**NFR** | [RS04 - Compatibilidade com APIs Externas](../modelagem_requisitos_02/nfr.md#rs04-compatibilidade-com-apis-externas) | **Representação** | RS04 especifica critérios técnicos para integração e autenticação. |
     |**Artefatos de Elicitação** | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | ENT07 descreve a necessidade de saldo e recarga integrados ao app. |
 
 ??? info "RF15 – Manter histórico de viagens do usuário"
@@ -270,7 +268,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 e casos relacionados suportam registro e consulta de viagens. |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Privacidade](../modelagem_requisitos_01/especificacao_suplementar.md#privacidade) | **Responsabilidade** | Guarda e uso do histórico devem seguir políticas de privacidade e LGPD. |
-    |**NFR** | [RPV - Privacidade](../modelagem_requisitos_01/especificacao_suplementar.md#rpv01) | **Representação** | Regras de retenção, consentimento e criptografia definem o tratamento do histórico. |
     |**Artefatos de Elicitação** | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados), ENT09 | **Satisfação** | ENT07/ENT09 indicam interesse por histórico e confiabilidade dos dados; privacidade exige consentimento. |
 
 ??? info "RF16 – Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário"
@@ -284,7 +281,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | *Não identificados* | — | — |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Mensagens e relatórios de erro devem ser claros e acionáveis, conforme definição de usabilidade. |
-    |**NFR** | [SIG Usabilidade](../modelagem_requisitos_02/nfr.md#sig-usabilidade) | **Representação** | RU06 descreve critérios de feedback e comunicação para reportes e mensagens. |
     |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT09 identificou necessidade de feedback confiável e canais para reportar problemas. |
 
 ??? info "RF19 – Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)"
@@ -311,7 +307,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | [UC05 – Recarga de Cartão (se aplicável)](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | Casos de uso relacionados à personalização e às preferências do usuário. |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Personalização e persistência de preferências definidas na especificação. |
-    |**NFR** | [SIG Usabilidade](../modelagem_requisitos_02/nfr.md#sig-usabilidade) | **Representação** | RU08 (Personalização) explica critérios de persistência e usabilidade para favoritos. |
     |**Artefatos de Elicitação** | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | ENT14 solicita explicitamente a funcionalidade de favoritos. |
 
 ??? info "RF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal"
@@ -325,7 +320,6 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | *Não identificados* | — | — |
     |**Cenários** | *Não identificados* | — | — |
     |**Especificação Suplementar** | [Portabilidade/Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Responsabilidade** | Políticas de integração e suporte a ambientes com conectividade limitada são definidas na especificação. |
-    |**NFR** | [SIG Portabilidade/Compatibilidade](../modelagem_requisitos_02/nfr.md#sig-portabilidadecompatibilidade) | **Representação** | O SIG documenta requisitos de integração e suporte a diferentes ambientes e APIs. |
     |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT09 aponta a necessidade de cobertura e confiabilidade dos dados em diferentes regiões. |
 
 ??? info "RF26 – Filtrar ônibus por empresa operadora"
