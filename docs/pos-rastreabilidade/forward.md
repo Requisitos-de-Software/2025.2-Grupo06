@@ -101,198 +101,184 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RNF02 – Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT13
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT13 | | |
 
 ??? info "RNF03 – Tempo de atualização da localização ≤ 20 segundos"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | *Não identificado*
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | *Não identificado* | | |
 
     
 ??? info "RNF04 – Interface acessível para idosos e pessoas com deficiência visual"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09 
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | | 
 
 ??? info "RNF05 – Sistema de notificação com som e vibração configuráveis"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | US15
-    |**Léxico** | L12: Tempo real
-    |**Casos de Uso** | UC03
-    |**Cenários** | CEN03
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | RF01 (Análise de Documentos), ENT03
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | US15 | | |
+    |**Léxico** | L12: Tempo real | | |
+    |**Casos de Uso** | UC03 | | |
+    |**Cenários** | CEN03 | | |
+    |**Artefatos de Elicitação** | RF01 (Análise de Documentos), ENT03 | | |
 
 ??? info "RF02 – Mostrar o tempo estimado de chegada do ônibus à parada"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | US16
-    |**Léxico** | L09: Agora
-    |**Casos de Uso** | UC02
-    |**Cenários** | CEN01
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT04
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | US16 | | |
+    |**Léxico** | L09: Agora | | |
+    |**Casos de Uso** | UC02 | | |
+    |**Cenários** | CEN01 | | |
+    |**Artefatos de Elicitação** | ENT04 | | |
 
 ??? info "RF03 – Permitir planejamento de viagem com rotas sugeridas"
 
     *Autoria: *
     
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 7: Planejamento de Viagens
-    |**História de Usuário** | US17
-    |**Léxico** | L05: Planejar
-    |**Casos de Uso** | UC09
-    |**Cenários** | CEN09
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | RF05 (Análise de Documentos)
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 7: Planejamento de Viagens | | |
+    |**História de Usuário** | US17 | | |
+    |**Léxico** | L05: Planejar | | |
+    |**Casos de Uso** | UC09 | | |
+    |**Cenários** | CEN09 | | |
+    |**Artefatos de Elicitação** | RF05 (Análise de Documentos) | | |
 
 ??? info "RF04 – Permitir pesquisa por linhas e rotas de ônibus"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 2: Filtragem
-    |**História de Usuário** | US18
-    |**Léxico** | L11: Pesquisar
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | RF02 (Análise de Documentos), ENT01
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 2: Filtragem | | |
+    |**História de Usuário** | US18 | | |
+    |**Léxico** | L11: Pesquisar | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | RF02 (Análise de Documentos), ENT01 | | |
 
 ??? info "RF05 – Apresentar horários de saída e chegada dos transportes"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | US05, US19
-    |**Léxico** | L09: Agora
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT02
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | US05, US19 | | |
+    |**Léxico** | L09: Agora | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT02 | | |
 
 ??? info "RF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RF14 – Permitir integração com o cartão de transporte, incluindo saldo e recarga"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RF15 – Manter histórico de viagens do usuário"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RF16 – Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RF19 – Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)"
 
@@ -311,57 +297,53 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
-    |**História de Usuário** | *Não identificada*
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | *Não identificados*
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | ENT09
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
+    |**História de Usuário** | *Não identificada* | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | *Não identificados* | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | ENT09 | | |
 
 ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 7: Planejamento de Viagens
-    |**História de Usuário** | US31
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | UC10
-    |**Cenários** | CEN10
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | BRS02
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 7: Planejamento de Viagens | | |
+    |**História de Usuário** | US31 | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | UC10 | | |
+    |**Cenários** | CEN10 | | |
+    |**Artefatos de Elicitação** | BRS02 | | |
 
 ??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
 
     *Autoria: *
 
-    |**Elemento** | **Artefatos Relacionados**
-    |:-- | :--
-    |**Épico** | Épico 8: Gestão de Usuário e Conta
-    |**História de Usuário** | US32
-    |**Léxico** | *Não identificado*
-    |**Casos de Uso** | UC01
-    |**Cenários** | *Não identificados*
-    |**Elos** | *Não identificados*
-    |**Artefatos de Elicitação** | BRS18
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Épico 8: Gestão de Usuário e Conta | | |
+    |**História de Usuário** | US32 | | |
+    |**Léxico** | *Não identificado* | | |
+    |**Casos de Uso** | UC01 | | |
+    |**Cenários** | *Não identificados* | | |
+    |**Artefatos de Elicitação** | BRS18 | | |
 
 
 ## Tabela de Contribuição
