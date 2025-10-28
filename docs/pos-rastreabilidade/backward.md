@@ -57,19 +57,19 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF06 | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes | | | | Fernanda Vaz |
 | RF07 | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais | | | | Fernanda Vaz |
 | RF08 | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes) | | | | Fernanda Vaz |
-| RF09 | Indicar lotação do ônibus (vazio, moderado, lotado) | | | | João Lucas |
-| RF10 | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) | | | | João Lucas |
-| RF11 | Enviar notificação quando o ônibus estiver a X minutos da parada | | | | João Lucas |
-| RF12 | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários | | | | João Lucas |
+| RF09 | Indicar lotação do ônibus (vazio, moderado, lotado) | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS07)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
+| RF10 | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS03)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
+| RF11 | Enviar notificação quando o ônibus estiver a X minutos da parada | [Análise de Documentos (RNI01)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT15)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
+| RF12 | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários | [Entrevista (ENT05)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
 | RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
 | RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
 | RF15 | Manter histórico de viagens do usuário | [Análise de Documentos (RNI03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | | | Cauã Nicolas |
 | RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | [Entrevista (ENT20)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
 | RF17 | Exibir preço da passagem por linha ou trajeto | | | | Daniel Nunes Duarte |
-| RF18 | Listar linhas que passam em uma parada específica | | | | João Lucas |
+| RF18 | Listar linhas que passam em uma parada específica | | | | João Ramos |
 | RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
 | RF20 | Botão de pânico/emergência para alertar motorista e/ou autoridades | | | | Daniel Nunes Duarte |
-| RF21 | Mostrar alertas de trânsito, acidentes e rotas alternativas | | | | João Lucas |
+| RF21 | Mostrar alertas de trânsito, acidentes e rotas alternativas | [Brainstorm (BRS12)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
 | RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | | | | Daniel Nunes Duarte |
 | RF23 | Exibir quantidade de assentos preferenciais e totais no ônibus | | | | |
 | RF24 | Permitir favoritar linhas ou paradas para acesso rápido | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | | | Cauã Nicolas |
@@ -97,8 +97,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RNF09 | Dados de localização e pessoais protegidos conforme LGPD | | | | |
 | RNF10 | Tempo de carregamento da tela principal < 3 segundos | [Entrevista (ENT17)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | | Gabriel Maciel |
 | RNF11 | Funcionamento offline para consulta a rotas salvas e horários | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
-| RNF12 | Integração segura com sistemas de pagamento (recarga de cartão) | | | | João Lucas |
-| RNF13 | Alta disponibilidade do sistema (≥ 98% uptime) | | | | João Lucas |
+| RNF12 | Integração segura com sistemas de pagamento (recarga de cartão) | [Brainstorm (BRS10)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
+| RNF13 | Alta disponibilidade do sistema (≥ 98% uptime) | | | | João Ramos |
 | RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão | | | | Daniel Nunes Duarte |
 | RNF15 | Personalização da interface com base em preferências do usuário | | | | Daniel Nunes Duarte |
 
@@ -240,7 +240,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | **1.1** | 27/10 | Adição e elaboração de artefatos | Fernanda Vaz | Cauã Nicolas |
 | **1.2** | 27/10 | Adição de Elos Funcionais (1, 2, 3, 4 e 5) e Elos Não Funcionais (1 e 2) | Cauã Nicolas | — |
 | **1.3** | 28/10 | Adição Referência Bibliográfica | João Gabriel | Gabriel Maciel |
-
+| **1.4** | 28/10 | Adição da fonte, classificação e tipos de elos(RF: 9,10,11,12 e 21 RF:12)  | João Ramos | Gabriel Maciel |
 ---
 
 ## Agradecimentos
