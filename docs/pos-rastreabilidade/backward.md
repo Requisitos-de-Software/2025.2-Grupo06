@@ -205,8 +205,9 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:----------:|:--------:|:--------------|:--------------|:----------------|
-| **1.0** | 25/10 | Criação inicial do documento | Gabriel Maciel | A revisar |
-| **1.1** | 27/10 | Adição e elaboração de artefatos | Fernanda Vaz | — |
+| **1.0** | 25/10 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas |
+| **1.1** | 27/10 | Adição e elaboração de artefatos | Fernanda Vaz | Cauã Nicolas |
+| **1.2** | 27/10 | Adição de Elos Funcionais (1, 2, 3, 4 e 5) e Elos Não Funcionais (1 e 2) | Cauã Nicolas | — |
 
 ---
 
