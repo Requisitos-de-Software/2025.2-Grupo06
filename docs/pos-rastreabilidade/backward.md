@@ -8,6 +8,7 @@
 
 ### EF01
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RF13:**
@@ -22,6 +23,7 @@
 
 ### EF02
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RF14:**
@@ -35,6 +37,7 @@
 
 ### EF03
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RF15:**
@@ -47,6 +50,7 @@
 
 ### EF04
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RF16:**
@@ -59,6 +63,7 @@
 
 ### EF05
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RF24:**
@@ -71,6 +76,7 @@
 
 ### EF06
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RF25:**
@@ -84,8 +90,9 @@
 
 ## Elos Não Funcionais
 
-### EF01
+### ENF01
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RNF04:**
@@ -94,8 +101,9 @@
     
 ---
 
-### EF02
+### ENF02
 *Autoria: Cauã Nicolas, 2025*
+
 - **Categoria:** Desenvolvimento
 - **Elementos Rastreáveis:**
     - **RNF05:**
