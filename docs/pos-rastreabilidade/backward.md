@@ -69,7 +69,7 @@ A metodologia aplicada baseia-se na análise dos artefatos de requisitos funcion
 | **02** | **RNF02** | Não Funcional | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas. | Elicitação de Requisitos: Entrevista (ENT13) |
 | **03** | **RNF03** | Não Funcional | Tempo de atualização da localização ≤ 20 segundos. | |
 | **04** | **RNF04** | Não Funcional | Interface acessível para idosos e pessoas com deficiência visual. | Elicitação de Requisitos: Entrevista (ENT10), Brainstorm (BRS08) |
-| **05** | **RNF05** | Não Funcional | Sistema de notificação com som e vibração configuráveis. | |
+| **05** | **RNF05** | Não Funcional | Sistema de notificação com som e vibração configuráveis. | Elicitação de Requisitos: Brainstorm (BRS18) |
 | **06** | **RNF06** | Não Funcional | Baixo consumo de bateria e dados móveis. | Análise de Documentos |
 | **07** | **RNF07** | Não Funcional | Compatibilidade com dispositivos Android e iOS. | Elicitação de Requisitos: Entrevista (ENT19) |
 | **08** | **RNF08** | Não Funcional | Proteção contra reportes falsos de lotação (mecanismo de confiança). | |
