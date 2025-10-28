@@ -90,6 +90,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RNF01 – As informações de horários e localização dos ônibus devem ser precisas"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -102,6 +104,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RNF02 – Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -113,6 +117,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | ENT13
 
 ??? info "RNF03 – Tempo de atualização da localização ≤ 20 segundos"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -127,6 +133,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     
 ??? info "RNF04 – Interface acessível para idosos e pessoas com deficiência visual"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -138,6 +146,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | ENT09 
 
 ??? info "RNF05 – Sistema de notificação com som e vibração configuráveis"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -151,6 +161,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -162,6 +174,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | RF01 (Análise de Documentos), ENT03
 
 ??? info "RF02 – Mostrar o tempo estimado de chegada do ônibus à parada"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -175,6 +189,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RF03 – Permitir planejamento de viagem com rotas sugeridas"
 
+    *Autoria: *
+    
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 7: Planejamento de Viagens
@@ -186,6 +202,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | RF05 (Análise de Documentos)
 
 ??? info "RF04 – Permitir pesquisa por linhas e rotas de ônibus"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -199,6 +217,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RF05 – Apresentar horários de saída e chegada dos transportes"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -210,6 +230,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | ENT02
 
 ??? info "RNF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -223,6 +245,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RNF14 – Permitir integração com o cartão de transporte, incluindo saldo e recarga"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -234,6 +258,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | ENT09
 
 ??? info "RNF15 – Manter histórico de viagens do usuário"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -247,6 +273,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RNF16 – Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -258,6 +286,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | ENT09
 
 ??? info "RNF24 – Permitir favoritar linhas ou paradas para acesso rápido"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -271,6 +301,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RNF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal"
 
+    *Autoria: *
+
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real
@@ -282,6 +314,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
     |**Artefatos de Elicitação** | ENT09
 
 ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
+
+    *Autoria: *
 
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
@@ -295,6 +329,8 @@ A rastreabilidade forward-from foi estabelecida mapeando os requisitos para os s
 
 ??? info "RF37 – Permitir cadastro, login e autenticação de usuários no sistema"
 
+    *Autoria: *
+    
     |**Elemento** | **Artefatos Relacionados**
     |:-- | :--
     |**Épico** | Épico 8: Gestão de Usuário e Conta
