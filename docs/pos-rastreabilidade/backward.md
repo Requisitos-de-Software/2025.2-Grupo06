@@ -137,6 +137,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | **1.4** | 28/10 | Preenchimento das classificações de fonte e tipos de elo para os requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 | Gabriel Maciel | João Ramos |
 | **1.5** | 28/10 | Adição da fonte, classificação e tipos de elos(RF: 9,10,11,12 e 21 RF:12)  | João Ramos | Gabriel Maciel |
 | **1.6** | 28/10 | Adição RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 | FERNANDA VAZ| Gabriel Maciel |
+| **1.7** | 28/10 | Correções da minha parte | João Gabriel| -- |
 
 ---
 
