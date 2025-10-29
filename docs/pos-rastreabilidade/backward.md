@@ -66,7 +66,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF15 | Manter histórico de viagens do usuário | [Análise de Documentos (RNI03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Desenvolvimento | Representação (RNI03 representa RF15) | Cauã Nicolas |
 | RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | [Entrevista (ENT20)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT20 representa RF16) | Cauã Nicolas |
 | RF17 | Exibir preço da passagem por linha ou trajeto | | | | Daniel Nunes Duarte |
-| RF18 | Listar linhas que passam em uma parada específica | | | | João Ramos |
+| RF18 | Listar linhas que passam em uma parada específica | [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
 | RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
 | RF20 | Botão de pânico/emergência para alertar motorista e/ou autoridades | | | | Daniel Nunes Duarte |
 | RF21 | Mostrar alertas de trânsito, acidentes e rotas alternativas | [Brainstorm (BRS12)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
@@ -94,11 +94,10 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RNF06 | Baixo consumo de bateria e dados móveis | --- |Desenvolvimento |Alocado (vinculado a subsistemas de otimização de desempenho) | Fernanda Vaz |
 | RNF07 | Compatibilidade com dispositivos Android e iOS | [Entrevista (ENT19)](../Elicitacao/elicitacao_entrevista.md#resultados)  |Desenvolvimento |Responsabilidade (da equipe de desenvolvimento em garantir compatibilidade multiplataforma) | Fernanda Vaz |
 | RNF08 | Proteção contra reportes falsos de lotação (mecanismo de confiança) | | | | |
-| RNF09 | Dados de localização e pessoais protegidos conforme LGPD | | | | |
+| RNF09 | Dados de localização e pessoais protegidos conforme LGPD | [Entrevista (ENT21)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Representação | João Ramos |
 | RNF10 | Tempo de carregamento da tela principal < 3 segundos | [Entrevista (ENT17)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT17 representa RNF10) | Gabriel Maciel |
 | RNF11 | Funcionamento offline para consulta a rotas salvas e horários | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (ENT18 representa RNF11) | Gabriel Maciel |
-| RNF12 | Integração segura com sistemas de pagamento (recarga de cartão) | | | | João Lucas |
-| RNF13 | Alta disponibilidade do sistema (≥ 98% uptime) | | | | João Lucas |
+| RNF12 | Integração segura com sistemas de pagamento (recarga de cartão) | [Brainstorm (BRS10)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
 | RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão | [Brainstorm (BRS15)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Responsabilidade (BRS15 representa RNF14)| Daniel Nunes Duarte |
 | RNF15 | Personalização da interface com base em preferências do usuário | [Brainstorm (BRS13)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Recurso (BRS13 representa RNF15) | Daniel Nunes Duarte |
 
@@ -111,7 +110,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | Fernanda Vaz         | Rastreabilidade Backward-From dos Requisito:RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | Rastreabilidade Backward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
 | João Gabriel         | A preencher |
-| João Ramos           | A preencher |
+| João Ramos           | Rastreabilidade Backward-From dos Requisitos: RF09 ao RF12, RF18, RF21, RNF09 e RNF12 |
 
 
 ## Referência bibliográfica 
@@ -138,7 +137,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | **1.5** | 28/10 | Adição da fonte, classificação e tipos de elos(RF: 9,10,11,12 e 21 RF:12)  | João Ramos | Gabriel Maciel |
 | **1.6** | 28/10 | Adição RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 | FERNANDA VAZ| Gabriel Maciel |
 | **1.7** | 28/10 | Correções da minha parte | João Gabriel| -- |
-
+| **1.8** | 28/10 | Adição RF09 ao RF12, RF18, RF21, RNF09, RNF 12 | João Ramos | Gabriel Maciel |
 ---
 
 ## Agradecimentos
