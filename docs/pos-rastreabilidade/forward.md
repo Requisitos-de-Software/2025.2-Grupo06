@@ -326,7 +326,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | [Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#épico-5---integração-e-recargas) | Representação | O épico contempla integração com prestadores de serviços (ex.: BRB Mobilidade). |
+    |**Épico** | [Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#épico-5-integração-e-recargas) | Representação | O épico contempla integração com prestadores de serviços (ex.: BRB Mobilidade). |
     |**História de Usuário** | [US10 - Visualizar saldo e recarregar cartão](../modelagem_requisitos_02/backlog.md#us10---visualizar-saldo-e-recarga) | Representação | A história define critérios de aceitação e segurança da integração. |
     |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 cobre saldo, histórico e recarga integrados. |
     |**Cenários** | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenario-4---integração-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário demonstra fluxo de autenticação e recarga. |
