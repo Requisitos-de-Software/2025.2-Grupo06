@@ -30,7 +30,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
 # Rastreabilidade de Requisitos
 
-## Rastreabilidade Forward-From
+## **Requisitos Não-Funcionais**
 
 ??? info "RNF01 – As informações de horários e localização dos ônibus devem ser precisas"
 
@@ -102,6 +102,9 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Especificação Suplementar** | *Não identificada* | — | — |
     |**NFR** | [RS02 - Funcionamento Offline](../modelagem_requisitos_02/nfr.md#rs02-funcionamento-offline) | Representação | O cartão de especificação RS02 no NFR Framework detalha os critérios de ajuste e dependências de RNF11 |
     |**Artefatos de Elicitação** | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Satisfação | RNI05, ENT18 e BRS06 são fontes de elicitação que satisfazem e fundamentam a necessidade do RNF11 |
+
+
+## **Requisitos Funcionais**
 
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
 
