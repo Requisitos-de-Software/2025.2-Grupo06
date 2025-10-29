@@ -35,9 +35,11 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | **25** | **A Matriz de Rastreabilidade está apresentando os artefatos iniciais (como requisitos) e os artefatos de destino (por exemplo, fontes dos requisitos, outros requisitos, ou artefatos de desenvolvimento posteriores)?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 25](../assets/imagens/checklist_5/figuraD3.png) | Daniel Nunes Duarte |
 | **26** | **Existem elos rastreando informações "gerenciais" que associam tarefas do projeto aos requisitos?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf)SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 26](../assets/imagens/checklist_5/figuraD4.png) | Daniel Nunes Duarte |
 | **27** | **Está descrevendo detalhadamente todos os elos de rastreabilidade Toranzo necessários para o projeto?** |SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 27 out. 2025. | [Figura 27](../assets/imagens/checklist_5/figuraD5.png) | Daniel Nunes Duarte |
-
-
-
+| **28** | **As informações rastreadas estão classificadas no nível ambiental, organizacional, gerencial ou desenvolvimento?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 21](../assets/imagens/checklist_5/21-lv.png) | João Ramos |
+| **29** | **O nível ambiental apresenta informações oriundas do contexto no qual a organização está inserida?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 21](../assets/imagens/checklist_5/21-lv.png) | João Ramos |
+| **30** | **O nível organizacional apresenta informações pertencentes à organização (missão, objetivos e estratégias)** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 21](../assets/imagens/checklist_5/21-lv.png) | João Ramos |
+| **31** | **O nível gerencial apresenta informações que auxiliam a gerência do projeto** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 21](../assets/imagens/checklist_5/21-lv.png) | João Ramos |
+| **32** | **O nível desenvolvimento apresenta informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento?** | SAYÃO, Miriam; SAMPAIO DO PRADO LEITE, Julio Cesar. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação, n. 20/05. Departamento de Informática, 2005. ISSN 0103-9741. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 28 out. 2025. | [Figura 21](../assets/imagens/checklist_5/21-lv.png) | João Ramos |
 ## Tabela de Contribuição
 
 | Nome | Contribuição |
@@ -47,7 +49,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | Fernanda Vaz | Adição dos itens 1 até 5 |
 | Gabriel Maciel | Adição dos itens 18 até 22 da Lista de Verificação |
 | João Gabriel | Adição dos itens 11 até 17 |
-| João Ramos | A preencher |
+| João Ramos | Adição dos itens 28 até 32 |
 
 ---
 
@@ -60,5 +62,5 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.2 | 27/10 | Adição dos itens 6 até 10 | Cauã Nicolas | Gabriel Maciel |
 | 1.3 | 27/10 | Adição dos itens 11 até 17 | João Gabriel | Gabriel Maciel |
 | 1.4 | 28/10 | Adição dos itens 18 até 22 | Gabriel Maciel | Cauã Nicolas |
-| 1.5 | 28/10 | Adição dos itens 23 até 27 | Daniel Nunes Duarte | ---------- |
-
+| 1.5 | 28/10 | Adição dos itens 23 até 27 | Daniel Nunes Duarte |
+| 1.6 | 28/10 | Adição dos itens 28 até 32 | João Ramos | ---------- |
