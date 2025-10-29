@@ -560,6 +560,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 | 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | FERNANDA |
 | 1.1 | 26/10 | Adição RNF1 - RNF3 e RF01 - RF05, RF37, RF30 | João Gabriel | Gabriel Maciel |
 | 1.2 | 26/10 | Adição RF9 ao RF12 e RF18 e RF21; RNF09 e RNF 12 | João Ramos | Cauã Nicolas |
+| 1.3 | 28/10 | Preenchimento das classificações de fonte e tipos de elo para os requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 | Gabriel Maciel | João Ramos |
+
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
