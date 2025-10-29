@@ -540,8 +540,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 |----------------------|-------------|
 | Cauã Nicolas         | Adição RNF04 e RNF05, RF13, RF14, RF15, RF16, RF24 e RF25 |
 | Daniel Nunes Duarte  | A preencher |
-| Fernanda Vaz         | Foward: RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
-| Gabriel Maciel       | A preencher |
+| Fernanda Vaz         | Forward: RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
+| Gabriel Maciel       | Rastreabilidade Forward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
 | João Gabriel         | Adição RNF1 ao RNF3 e RF01 ao RF05, RF37, RF30 |
 | João Ramos           | A preencher |
 
