@@ -310,7 +310,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Ampliação de cobertura impacta rastreamento e disponibilidade de dados. |
+    |**Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1-rastreamento-e-informações-em-tempo-real) | Representação | Ampliação de cobertura impacta rastreamento e disponibilidade de dados. |
     |**Especificação Suplementar** | [Portabilidade/Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Responsabilidade** | Políticas de integração e suporte a ambientes com conectividade limitada são definidas na especificação. |
     |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT09 aponta a necessidade de cobertura e confiabilidade dos dados em diferentes regiões. |
 
