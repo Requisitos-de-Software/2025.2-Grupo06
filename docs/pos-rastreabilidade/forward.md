@@ -233,55 +233,51 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
 ??? info "RF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
-    |**Artefatos de Elicitação** | ENT09 | | |
+    |**Épico** | [Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#épico-5---integração-e-recargas) | Representação | O épico organiza funcionalidades de recarga e integração com provedores externos. |
+    |**História de Usuário** | [US09 - Realizar recarga de cartão pelo app](../modelagem_requisitos_02/backlog.md#us09---realizar-recarga-do-cartão) | Representação | A história detalha a interação do usuário para recarga e consulta de saldo. |
+    |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 descreve o fluxo de recarga e integração com BRB Mobilidade. |
+    |**Cenários** | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenario-4---integração-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário ilustra uso prático da funcionalidade de recarga. |
+    |**Especificação Suplementar** | [Requisitos do Sistema](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | **Responsabilidade** | Regras de integração e segurança definidas na especificação orientam a implementação. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | ENT07 relata a necessidade de integração e recarga do cartão pelo app. |
 
 ??? info "RF14 – Permitir integração com o cartão de transporte, incluindo saldo e recarga"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
-    |**Artefatos de Elicitação** | ENT09 | | |
+    |**Épico** | [Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#épico-5---integração-e-recargas) | Representação | O épico contempla integração com prestadores de serviços (ex.: BRB Mobilidade). |
+    |**História de Usuário** | [US10 - Visualizar saldo e recarregar cartão](../modelagem_requisitos_02/backlog.md#us10---visualizar-saldo-e-recarga) | Representação | A história define critérios de aceitação e segurança da integração. |
+    |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 cobre saldo, histórico e recarga integrados. |
+    |**Cenários** | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenario-4---integração-com-brb-mobilidade-requisito-nao-implementado) | Representação | Cenário demonstra fluxo de autenticação e recarga. |
+    |**Especificação Suplementar** | [Requisitos do Sistema](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | **Responsabilidade** | Define requisitos de integração segura e formatos de API aceitos. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | ENT07 descreve a necessidade de saldo e recarga integrados ao app. |
 
 ??? info "RF15 – Manter histórico de viagens do usuário"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
-    |**Artefatos de Elicitação** | ENT09 | | |
+    |**Épico** | [Épico 4: Avaliar e Reportar / Épico 5: Integração e Recargas](../modelagem_requisitos_02/backlog.md#epico-4-avaliar-e-reportar) | Agregação | Histórico de viagens serve como insumo para recompensas, relatórios e recargas. |
+    |**História de Usuário** | [US30 - Histórico e recompensas](../modelagem_requisitos_02/backlog.md#us30---histórico-e-recompensas) | Representação | A história define como o histórico será apresentado e usado para pontos/recompensas. |
+    |**Casos de Uso** | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | UC05 e casos relacionados suportam registro e consulta de viagens. |
+    |**Especificação Suplementar** | [Privacidade](../modelagem_requisitos_01/especificacao_suplementar.md#privacidade) | **Responsabilidade** | Guarda e uso do histórico devem seguir políticas de privacidade e LGPD. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados), ENT09 | **Satisfação** | ENT07/ENT09 indicam interesse por histórico e confiabilidade dos dados; privacidade exige consentimento. |
 
 ??? info "RF16 – Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
-    |**Artefatos de Elicitação** | ENT09 | | |
+    |**Épico** | [Épico 4: Avaliar e Reportar](../modelagem_requisitos_02/backlog.md#epico-4-avaliar-e-reportar) | Representação | O épico agrega funcionalidades de avaliação e reporte de problemas. |
+    |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Mensagens e relatórios de erro devem ser claros e acionáveis, conforme definição de usabilidade. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT09 identificou necessidade de feedback confiável e canais para reportar problemas. |
 
 ??? info "RF19 – Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)"
 
@@ -298,29 +294,25 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
 ??? info "RF24 – Permitir favoritar linhas ou paradas para acesso rápido"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
-    |**Artefatos de Elicitação** | ENT09 | | |
+    |**Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1-rastreamento-e-informações-em-tempo-real) | Representação | Favoritos melhoram eficiência de acesso a informações recorrentes. |
+    |**História de Usuário** | [US22 - Favoritos](../modelagem_requisitos_02/historias_de_usuario.md#us22---permitir-favoritar-linhas-ou-paradas-para-acesso-rápido) | Representação | US22 descreve critérios de aceitação para favoritos. |
+    |**Casos de Uso** | [UC05 – Recarga de Cartão (se aplicável)](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Representação | Casos de uso relacionados à personalização e às preferências do usuário. |
+    |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Personalização e persistência de preferências definidas na especificação. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Representação** | ENT14 solicita explicitamente a funcionalidade de favoritos. |
 
 ??? info "RF25 – Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal"
 
-    *Autoria: *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | | |
-    |**História de Usuário** | *Não identificada* | | |
-    |**Léxico** | *Não identificado* | | |
-    |**Casos de Uso** | *Não identificados* | | |
-    |**Cenários** | *Não identificados* | | |
-    |**Artefatos de Elicitação** | ENT09 | | |
+    |**Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1-rastreamento-e-informações-em-tempo-real) | Representação | Ampliação de cobertura impacta rastreamento e disponibilidade de dados. |
+    |**Especificação Suplementar** | [Portabilidade/Compatibilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | **Responsabilidade** | Políticas de integração e suporte a ambientes com conectividade limitada são definidas na especificação. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT09 aponta a necessidade de cobertura e confiabilidade dos dados em diferentes regiões. |
 
 ??? info "RF26 – Filtrar ônibus por empresa operadora"
 
@@ -442,7 +434,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
 |        Nome          | Contribuição|
 |----------------------|-------------|
-| Cauã Nicolas         | A preencher |
+| Cauã Nicolas         | Adição RNF04 e RNF05, RF13, RF14, RF15, RF16, RF24 e RF25 |
 | Daniel Nunes Duarte  | A preencher |
 | Fernanda Vaz         | Foward: RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | A preencher |
@@ -463,6 +455,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 |:-------:|:-----:|:-----------|:------------|:-------------|
 | 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | FERNANDA |
 | 1.1 | 26/10 | Adição RNF1 - RNF3 e RF01 - RF05, RF37, RF30 | João Gabriel | Gabriel Maciel |
+| 1.2 | 28/10 | Adição RNF04 e RNF05, RF13, RF14, RF15, RF16, RF24 e RF25  | Cauã Nicolas | Gabriel Maciel |
 
 ## Agradecimentos
 

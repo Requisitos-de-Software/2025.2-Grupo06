@@ -75,13 +75,13 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF24 | Permitir favoritar linhas ou paradas para acesso rápido | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT14 representa RF24) | Cauã Nicolas |
 | RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | [Entrevista (ENT08)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT08 representa RF25) | Cauã Nicolas |
 | RF26 | Filtrar ônibus por empresa operadora | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Organizacional | Satisfação (RF03 satisfaz RF26) | Gabriel Maciel |
-| RF27 | Visualizar quais veículos estão em operação no momento | | | | Daniel Nunes Duarte |
+| RF27 | Visualizar quais veículos estão em operação no momento | [Análise de Documentos (RN04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RF04 satisfaz RF27) | Daniel Nunes Duarte |
 | RF28 | Permitir avaliação da qualidade do serviço de cada linha | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RNI04 satisfaz RF28) | Gabriel Maciel |
 | RF29 | Sistema de gamificação para incentivar uso do transporte público | | | | Daniel Nunes Duarte |
 | RF30 | Previsão inteligente de horários baseada em dados históricos e machine learning |BRS02 |Ambiental | Satisfação (BR02 satisfaz o RF30) | João Gabriel |
 | RF31 | Sistema de recompensas por uso sustentável do transporte público | [Brainstorm (BRS09)](../Elicitacao/elicitacao_brainstorm.md#resultados)  |Organizacional |Satisfação (RF31 satisfaz objetivo organizacional de sustentabilidade) | Fernanda Vaz |
 | RF32 | Exibir relatórios de impacto ambiental (CO₂ economizado) |  [Brainstorm (BRS11)](../Elicitacao/elicitacao_brainstorm.md#resultados) |Organizacional | Recurso (RF32 serve como recurso para mensurar resultados de sustentabilidade)| Fernanda Vaz |
-| RF33 | Suporte a comandos de voz para facilitar interação durante deslocamentos | | | | Daniel Nunes Duarte |
+| RF33 | Suporte a comandos de voz para facilitar interação durante deslocamentos | [Brainstorm (BRS14)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | (Recurso BRS11 ggera recurso para RF33) | Daniel Nunes Duarte |
 | RF34 | Integração com assistentes virtuais (Alexa, Google Assistant) | [Brainstorm (BRS16)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (BRS16 representa RF34) | Gabriel Maciel |
 | RF35 | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | [Entrevista (ENT12)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT12 representa RF35) | Gabriel Maciel |
 | RF36 | Oferecer suporte multilíngue (português e inglês, no mínimo) | [Entrevista (ENT22)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT22 representa RF36) | Gabriel Maciel |
@@ -99,8 +99,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RNF11 | Funcionamento offline para consulta a rotas salvas e horários | [Análise de Documentos (RNI05)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT18)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS06)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (ENT18 representa RNF11) | Gabriel Maciel |
 | RNF12 | Integração segura com sistemas de pagamento (recarga de cartão) | | | | João Lucas |
 | RNF13 | Alta disponibilidade do sistema (≥ 98% uptime) | | | | João Lucas |
-| RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão | | | | Daniel Nunes Duarte |
-| RNF15 | Personalização da interface com base em preferências do usuário | | | | Daniel Nunes Duarte |
+| RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão | [Brainstorm (BRS15)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Responsabilidade (BRS15 representa RNF14)| Daniel Nunes Duarte |
+| RNF15 | Personalização da interface com base em preferências do usuário | [Brainstorm (BRS13)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Recurso (BRS13 representa RNF15) | Daniel Nunes Duarte |
 
 ## Tabela de Contribuição
 
