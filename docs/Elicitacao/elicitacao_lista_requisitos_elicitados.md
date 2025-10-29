@@ -51,7 +51,7 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | [**RF37**](../Pos-rastreabilidade/forward.md#RF37) | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Brainstorm (BRS18) |
 | [**RNF01**](../Pos-rastreabilidade/forward.md#RNF01) | As informações de horários e localização dos ônibus devem ser precisas | Não Funcional | Entrevista (ENT09) |
 | [**RNF02**](../Pos-rastreabilidade/forward.md#RNF02) | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | Não Funcional | Entrevista (ENT13) |
-| [**RNF03**](../Pos-rastreabilidade/forward.md#RNF03) | Tempo de atualização da localização ≤ 20 segundos | Não Funcional | — |
+| [**RNF03**](../Pos-rastreabilidade/forward.md#RNF03) | Tempo de atualização da localização ≤ 20 segundos | Não Funcional | ENT23 |
 | [**RNF04**](../Pos-rastreabilidade/forward.md#RNF04) | Interface acessível para idosos e pessoas com deficiência visual | Não Funcional | Entrevista (ENT10), Brainstorm (BRS08) |
 | [**RNF05**](../Pos-rastreabilidade/forward.md#RNF05) | Sistema de notificação com som e vibração configuráveis | Não Funcional | Elicitação de Requisitos: Brainstorm (BRS18) |
 | [**RNF06**](../Pos-rastreabilidade/forward.md#RNF06) | Baixo consumo de bateria e dados móveis | Não Funcional | — |

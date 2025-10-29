@@ -49,11 +49,11 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 
 | ID do Requisito | Descrição do Requisito | Fonte/Origem | Classificação da Fonte | Tipo de Elo | Autoria |
 |-----------------|------------------------|--------------|------------------------|-------------|---------|
-| RF01 | Exibir a localização dos ônibus em tempo real no mapa | | | | João Gabriel |
-| RF02 | Mostrar o tempo estimado de chegada do ônibus à parada | | | | João Gabriel |
-| RF03 | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | | | | João Gabriel |
-| RF04 | Permitir pesquisa por linhas e rotas de ônibus | | | | João Gabriel |
-| RF05 | Apresentar horários de saída e chegada dos transportes | | | | João Gabriel |
+| RF01 | Exibir a localização dos ônibus em tempo real no mapa | [Análise de Documentos (RF01)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais), [Entrevista (ENT03)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Agregação (Agrega dados do Análise de Documentos (RF01) e ENT03) | João Gabriel |
+| RF02 | Mostrar o tempo estimado de chegada do ônibus à parada | [Entrevista (ENT04)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Representação (ENT04 representa RF02) | João Gabriel |
+| RF03 | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | [Análise de Documentos (RNI02)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RNI02 satisfaz RF03) | João Gabriel |
+| RF04 | Permitir pesquisa por linhas e rotas de ônibus | [Análise de Documentos (RF02)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais), [Entrevista (ENT01)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Agregação (Agrega dados do Análise de Documentos (RF02) e ENT01) | João Gabriel |
+| RF05 | Apresentar horários de saída e chegada dos transportes | [Entrevista (ENT02)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Representação (ENT02 representa RF05) | João Gabriel |
 | RF06 | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes | [Entrevista (ENT06)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento|Representação (ENT06 representa RF06) | Fernanda Vaz |
 | RF07 | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais | [Brainstorm (BBRS04)](../Elicitacao/elicitacao_brainstorm.md#resultados),[Análise de Documentos (RNI02)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Ambiental |Agregação (RF07 agrega dados de diferentes modais) | Fernanda Vaz |
 | RF08 | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes) | [Entrevista (ENT16)](../Elicitacao/elicitacao_entrevista.md#resultados) |Ambiental |Satisfação (atende às normas de acessibilidade e necessidades do usuário) | Fernanda Vaz |
@@ -78,17 +78,17 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF27 | Visualizar quais veículos estão em operação no momento | | | | Daniel Nunes Duarte |
 | RF28 | Permitir avaliação da qualidade do serviço de cada linha | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RNI04 satisfaz RF28) | Gabriel Maciel |
 | RF29 | Sistema de gamificação para incentivar uso do transporte público | | | | Daniel Nunes Duarte |
-| RF30 | Previsão inteligente de horários baseada em dados históricos e machine learning | | | | João Gabriel |
+| RF30 | Previsão inteligente de horários baseada em dados históricos e machine learning |BRS02 |Ambiental | Satisfação (BR02 satisfaz o RF30) | João Gabriel |
 | RF31 | Sistema de recompensas por uso sustentável do transporte público | [Brainstorm (BRS09)](../Elicitacao/elicitacao_brainstorm.md#resultados)  |Organizacional |Satisfação (RF31 satisfaz objetivo organizacional de sustentabilidade) | Fernanda Vaz |
 | RF32 | Exibir relatórios de impacto ambiental (CO₂ economizado) |  [Brainstorm (BRS11)](../Elicitacao/elicitacao_brainstorm.md#resultados) |Organizacional | Recurso (RF32 serve como recurso para mensurar resultados de sustentabilidade)| Fernanda Vaz |
 | RF33 | Suporte a comandos de voz para facilitar interação durante deslocamentos | | | | Daniel Nunes Duarte |
 | RF34 | Integração com assistentes virtuais (Alexa, Google Assistant) | [Brainstorm (BRS16)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Gerencial | Representação (BRS16 representa RF34) | Gabriel Maciel |
 | RF35 | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | [Entrevista (ENT12)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT12 representa RF35) | Gabriel Maciel |
 | RF36 | Oferecer suporte multilíngue (português e inglês, no mínimo) | [Entrevista (ENT22)](../Elicitacao/elicitacao_entrevista.md#resultados) | Gerencial | Representação (ENT22 representa RF36) | Gabriel Maciel |
-| RF37 | Permitir cadastro, login e autenticação de usuários no sistema | | | | João Gabriel |
-| RNF01 | As informações de horários e localização dos ônibus devem ser precisas | | | | João Gabriel |
-| RNF02 | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | | | | João Gabriel |
-| RNF03 | Tempo de atualização da localização ≤ 20 segundos | | | | João Gabriel |
+| RF37 | Permitir cadastro, login e autenticação de usuários no sistema | [Brainstorm (BRS18)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Satisfação (satisfaz o Épico 8 - Gestão de Usuário e Conta) | João Gabriel |
+| RNF01 | As informações de horários e localização dos ônibus devem ser precisas | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Satisfação (Satisfaz o SIG - Confiabilidade) | João Gabriel |
+| RNF02 | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | [Entrevista (ENT13)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Satisfação (Satisfaz o SIG - Confiabilidade) | João Gabriel |
+| RNF03 | Tempo de atualização da localização ≤ 20 segundos | [Entrevista (ENT)](../Elicitacao/elicitacao_entrevista.md#resultados) | Ambiental | Satisfação (Satisfaz o SIG-Desempenho) | João Gabriel |
 | RNF04 | Interface acessível para idosos e pessoas com deficiência visual | [Entrevista (ENT10)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS08)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Desenvolvimento | Representação (ENT10 representa RNF04) | Cauã Nicolas |
 | RNF05 | Sistema de notificação com som e vibração configuráveis | [Brainstorm (BRS18)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Desenvolvimento | Representação (BRS18 representa RNF05) | Cauã Nicolas |
 | RNF06 | Baixo consumo de bateria e dados móveis | --- |Desenvolvimento |Alocado (vinculado a subsistemas de otimização de desempenho) | Fernanda Vaz |
