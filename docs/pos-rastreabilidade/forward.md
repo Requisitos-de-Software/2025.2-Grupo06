@@ -30,7 +30,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
 # Rastreabilidade de Requisitos
 
-## Rastreabilidade Forward-From
+## **Requisitos Não-Funcionais**
 
 ??? info "RNF01 – As informações de horários e localização dos ônibus devem ser precisas"
 

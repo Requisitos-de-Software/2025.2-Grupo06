@@ -65,19 +65,19 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT07 representa RF14) | Cauã Nicolas |
 | RF15 | Manter histórico de viagens do usuário | [Análise de Documentos (RNI03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Desenvolvimento | Representação (RNI03 representa RF15) | Cauã Nicolas |
 | RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | [Entrevista (ENT20)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT20 representa RF16) | Cauã Nicolas |
-| RF17 | Exibir preço da passagem por linha ou trajeto | | | | Daniel Nunes Duarte |
+| RF17 | Exibir preço da passagem por linha ou trajeto | [Brainstorm (BRS19)](../Elicitacao/elicitacao_brainstorm.md#resultados)  | Gerencional | Representação (BRS19 representa RF17) | Daniel Nunes Duarte |
 | RF18 | Listar linhas que passam em uma parada específica | [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
 | RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
-| RF20 | Botão de pânico/emergência para alertar motorista e/ou autoridades | | | | Daniel Nunes Duarte |
+| RF20 | Botão de pânico/emergência para alertar motorista e/ou autoridades | [Brainstorm (BRS21)](../Elicitacao/elicitacao_brainstorm.md#resultados)  | Ambiental | Representação (BRS21 representa RF20) | Daniel Nunes Duarte |
 | RF21 | Mostrar alertas de trânsito, acidentes e rotas alternativas | [Brainstorm (BRS12)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
-| RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | | | | Daniel Nunes Duarte |
+| RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | [Brainstorm (BRS20)](../Elicitacao/elicitacao_brainstorm.md#resultados)  | Ambiental | Representação (BRS20 representa RF22) | Daniel Nunes Duarte |
 | RF23 | Exibir quantidade de assentos preferenciais e totais no ônibus | | | | |
 | RF24 | Permitir favoritar linhas ou paradas para acesso rápido | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT14 representa RF24) | Cauã Nicolas |
 | RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | [Entrevista (ENT08)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT08 representa RF25) | Cauã Nicolas |
 | RF26 | Filtrar ônibus por empresa operadora | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | Organizacional | Satisfação (RF03 satisfaz RF26) | Gabriel Maciel |
 | RF27 | Visualizar quais veículos estão em operação no momento | [Análise de Documentos (RN04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RF04 satisfaz RF27) | Daniel Nunes Duarte |
 | RF28 | Permitir avaliação da qualidade do serviço de cada linha | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Organizacional | Satisfação (RNI04 satisfaz RF28) | Gabriel Maciel |
-| RF29 | Sistema de gamificação para incentivar uso do transporte público | | | | Daniel Nunes Duarte |
+| RF29 | Sistema de gamificação para incentivar uso do transporte público | [Brainstorm (BRS01)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Desenvolvimento | Agregação (BRS01 agrega para RF29) | Daniel Nunes Duarte |
 | RF30 | Previsão inteligente de horários baseada em dados históricos e machine learning |BRS02 |Ambiental | Satisfação (BR02 satisfaz o RF30) | João Gabriel |
 | RF31 | Sistema de recompensas por uso sustentável do transporte público | [Brainstorm (BRS09)](../Elicitacao/elicitacao_brainstorm.md#resultados)  |Organizacional |Satisfação (RF31 satisfaz objetivo organizacional de sustentabilidade) | Fernanda Vaz |
 | RF32 | Exibir relatórios de impacto ambiental (CO₂ economizado) |  [Brainstorm (BRS11)](../Elicitacao/elicitacao_brainstorm.md#resultados) |Organizacional | Recurso (RF32 serve como recurso para mensurar resultados de sustentabilidade)| Fernanda Vaz |
@@ -106,7 +106,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 |        Nome          | Contribuição|
 |----------------------|-------------|
 | Cauã Nicolas         | Rastreabilidade Backward-From dos Requisitos RF13, RF14, RF15, RF16, RF24, RF25, RNF04, RNF05 |
-| Daniel Nunes Duarte  | A preencher |
+| Daniel Nunes Duarte  | Rastreabilidade Backward-From dos Requisitos RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 |
 | Fernanda Vaz         | Rastreabilidade Backward-From dos Requisito:RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | Rastreabilidade Backward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
 | João Gabriel         | A preencher |
@@ -137,7 +137,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | **1.5** | 28/10 | Adição da fonte, classificação e tipos de elos(RF: 9,10,11,12 e 21 RF:12)  | João Ramos | Gabriel Maciel |
 | **1.6** | 28/10 | Adição RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 | FERNANDA VAZ| Gabriel Maciel |
 | **1.7** | 28/10 | Correções da minha parte | João Gabriel| -- |
-| **1.8** | 28/10 | Adição RF09 ao RF12, RF18, RF21, RNF09, RNF 12 | João Ramos | Gabriel Maciel |
+| **1.8** | 28/10 | Adição RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 | Daniel Nunes Duarte | -------- |
+| **1.9** | 28/10 | Adição RF09 ao RF12, RF18, RF21, RNF09, RNF 12 | João Ramos | Gabriel Maciel |
 ---
 
 ## Agradecimentos
