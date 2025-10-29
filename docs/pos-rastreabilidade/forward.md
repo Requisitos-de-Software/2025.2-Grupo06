@@ -151,6 +151,29 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**NFR / Especificação** | [RC05 - Atomicidade de Transações](../modelagem_requisitos_02/nfr.md#rc05---atomicidade-de-transações), [RS04 - Compatibilidade com APIs Externas](../modelagem_requisitos_02/nfr.md#rs04---compatibilidade-com-apis-externas) | Recurso / Representação | RC05 exige transações atômicas para evitar inconsistência financeira; RS04 garante compatibilidade com APIs externas de pagamento. |
     |**Artefatos de Elicitação** | [Brainstorm (BRS10)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS10 originou a necessidade de integração com meios de pagamento digitais (Pix, carteiras virtuais). |
 
+??? info "RNF14 – Suporte a múltiplos usuários simultâneos sem lentidão"
+
+    *Autoria: Daniel Nunes Duarte*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Especificação Suplementar** | Desempenho / Requisitos do Sistema | Representação | Relaciona-se com requisitos de capacidade e performance que detalham o suporte a múltiplos usuários simultâneos |
+    |**NFR** | SIG - Desempenho / RS - Escalabilidade | Satisfação | Satisfaz a necessidade de dimensionamento e escalabilidade do sistema |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS15)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS15 indicou a necessidade de suportar múltiplos usuários concorrentes sem degradação perceptível |
+
+
+
+??? info "RNF15 – Personalização da interface com base em preferências do usuário"
+
+    *Autoria: Daniel Nunes Duarte*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Especificação Suplementar** | Usabilidade / Privacidade | Representação | Relaciona-se com requisitos de usabilidade e privacidade que regem preferências e armazenamento de configurações do usuário |
+    |**NFR** | SIG - Usabilidade | Satisfação | Satisfaz a necessidade de adaptação da interface para diferentes perfis e preferências de usuário |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS13)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS13 trouxe sugestões de personalização da interface como melhoria de usabilidade |
+
+
 ## **Requisitos Funcionais**
 
 ??? info "RF01 – Exibir a localização dos ônibus em tempo real no mapa"
@@ -355,6 +378,20 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | Mensagens e relatórios de erro devem ser claros e acionáveis, conforme definição de usabilidade. |
     |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT09 identificou necessidade de feedback confiável e canais para reportar problemas. |
 
+??? info "RF17 – Exibir preço da passagem por linha ou trajeto"
+
+    *Autoria: Daniel Nunes Duarte*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Gerencional | Representação | RF17 relaciona-se a funcionalidades de informação tarifária e gestão de tarifas |
+    |**História de Usuário** | [USxx - Exibir preço da passagem por linha ou trajeto](../modelagem_requisitos_02/historias_de_usuario.md#usxx---exibir-preco-da-passagem-por-linha-ou-trajeto) | Representação | Planejada: criar história de usuário com origem em BRS19 (linkada aqui quando criada) |
+    |**Especificação Suplementar** | [Especificação Suplementar](../modelagem_requisitos_01/especificacao_suplementar.md) | Representação | Pode ser documentada na Especificação Suplementar caso haja regras tarifárias, políticas de privacidade ou processamento de dados relacionadas às tarifas |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Cenários** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS19)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS19 representa e fundamenta a necessidade do RF17 |
+
 ??? info "RF18 – Listar linhas que passam em uma parada específica"
 
     *Autoria: João Ramos*
@@ -381,6 +418,17 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Cenários** | [Cenário 5](../modelagem_requisitos_01/cenarios.md#cenário-5---modo-off-line-requisito-não-implementado) | Representação | Cenário 5 descreve uma situação concreta onde o RF19 é utilizado |
     |**Artefatos de Elicitação** | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | | |
 
+??? info "RF20 – Botão de pânico/emergência para alertar motorista e/ou autoridades"
+
+        *Autoria: Daniel Nunes Duarte*
+
+        |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+        |:-- | :-- | :-- | :-- |
+        |**Épico** | Ambiental | Representação | RF20 relata a necessidade de segurança imediata para usuários em risco |
+        |**História de Usuário** | *Não identificada* | Representação | BRS21 sugere botão de pânico para alertas emergenciais |
+        |**Léxico** | *Não identificado* | — | — |
+        |**Casos de Uso** | *Não identificados* | — | — |
+        |**Artefatos de Elicitação** | [Brainstorm (BRS21)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS21 representa a necessidade de um mecanismo de alerta de emergência |
 
 ??? info "RF21 – Mostrar alertas de trânsito, acidentes e rotas alternativas"
 
@@ -394,6 +442,19 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | UC03 | Representação | UC03 inclui fluxo de recepção e exibição de alertas de trânsito ao usuário. |
     |**Cenários** | CEN03 | Representação | Cenário exemplifica a notificação de incidente e sugestão de rota alternativa. |
     |**Artefatos de Elicitação** | [Brainstorm (BRS12)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS12 é a fonte que sugere a necessidade de alertas de trânsito e rotas alternativas. |
+
+??? info "RF22 – Permitir compartilhar trajeto em tempo real com outros usuários"
+
+    *Autoria: Daniel Nunes Duarte*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Ambiental | Representação | RF22 melhora segurança e colaboração entre usuários durante deslocamentos |
+    |**História de Usuário** | *Não identificada* | Representação | BRS20 indica interesse em compartilhar trajeto em tempo real |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS20)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS20 fundamenta a necessidade de compartilhamento de trajeto |
+
 
 ??? info "RF24 – Permitir favoritar linhas ou paradas para acesso rápido"
 
@@ -430,6 +491,19 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Cenários** | *Não identificados* | — | — |
     |**Artefatos de Elicitação** | [Análise de Documentos (RF03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais) | | |
 
+??? info "RF27 – Visualizar quais veículos estão em operação no momento"
+
+    *Autoria: Daniel Nunes Duarte*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |   
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Organizacional | Satisfação | Permite visão operacional em tempo real para planejamento e transparência |
+    |**História de Usuário** | *Não identificada* | Representação | Origem em Análise de Documentos (RN04) que descreve inventário/estado operacional |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Análise de Documentos (RN04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Satisfação | RN04 documenta necessidade operacional; RF04 contribui para satisfazer RF27 |
+
+
 ??? info "RF28 – Permitir avaliação da qualidade do serviço de cada linha"
 
     *Autoria: Gabriel Maciel*
@@ -442,6 +516,20 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Casos de Uso** | [UC01](../modelagem_requisitos_01/casos_de_uso.md#tabela-3-uc01-avaliacao-de-linhas-de-onibus-requisito-nao-implementado) | Representação | UC01 modela e representa o fluxo de interação para avaliar a qualidade do serviço |
     |**Cenários** | [Cenário 2](../modelagem_requisitos_01/cenarios.md#cenario-2-avaliar-linhas-requisito-nao-implementado) | Representação | Cenário 2 descreve uma situação concreta onde o RF28 é utilizado |
     |**Artefatos de Elicitação** | [Análise de Documentos (RNI04)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | | |
+
+??? info "RF29 – Sistema de gamificação para incentivar uso do transporte público"
+
+    *Autoria: Daniel Nunes Duarte*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Desenvolvimento | Agregação | Gamificação agrega incentivos para aumentar uso do transporte público e engajamento 
+    |**História de Usuário** | *Não identificada* | Representação | Brainstorm (BRS01) propôs mecanismos lúdicos e recompensas para usuários |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS01)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Agregação | BRS01 agrega ideias de mecânicas de gamificação aplicáveis ao sistema |
+
+
 
 ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
@@ -480,6 +568,20 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     | **Casos de Uso** | — | — | — |
     | **Cenários** | — | — | — |
     | **Artefatos de Elicitação** | [BRS11](../Elicitacao/elicitacao_brainstorm.md#resultados) | Recurso | O requisito serve de recurso para avaliação ambiental e organizacional |
+
+??? info "RF33 – Suporte a comandos de voz para facilitar interação durante deslocamentos"
+
+    *Autoria: Daniel Nunes Duarte*
+
+    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- | :-- | :-- | :-- |
+    |**Épico** | Ambiental | Representação | RF33 melhora usabilidade e segurança permitindo interação sem tocar o dispositivo | 
+    |**História de Usuário** | *Não identificada* | Representação | Brainstorm (BRS14) sugere suporte por voz; recurso BRS11 gera insumo para RF33 |
+    |**Léxico** | *Não identificado* | — | — |
+    |**Casos de Uso** | *Não identificados* | — | — |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS14)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS14 identifica necessidade de comandos de voz para uso durante deslocamentos |
+
+
 
 ??? info "RF34 – Integração com assistentes virtuais (Alexa, Google Assistant)"
 
@@ -539,7 +641,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 |        Nome          | Contribuição|
 |----------------------|-------------|
 | Cauã Nicolas         | Adição RNF04 e RNF05, RF13, RF14, RF15, RF16, RF24 e RF25 |
-| Daniel Nunes Duarte  | A preencher |
+| Daniel Nunes Duarte  | Rastreabilidade Forward-From dos Requisitos RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 |
 | Fernanda Vaz         | Forward: RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | Rastreabilidade Forward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
 | João Gabriel         | Adição RNF1 ao RNF3 e RF01 ao RF05, RF37, RF30 |
@@ -562,6 +664,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 | 1.2 | 26/10 | Adição RF9 ao RF12 e RF18 e RF21; RNF09 e RNF 12 | João Ramos | Cauã Nicolas |
 | 1.3 | 28/10 | Preenchimento das classificações de fonte e tipos de elo para os requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 | Gabriel Maciel | João Ramos |
 | 1.4 | 28/10 | Adição RNF04, RNF05, RF13, RF14, RF15, RF16, RF24, RF25 | Cauã Nicolas | João Ramos |
+| 1.5 | 28/10 | Adição RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 | Daniel Nunes Duarte | ---------- |
 
 ## Agradecimentos
 
