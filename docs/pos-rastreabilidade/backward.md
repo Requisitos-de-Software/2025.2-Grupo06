@@ -107,7 +107,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 |        Nome          | Contribuição|
 |----------------------|-------------|
 | Cauã Nicolas         | Rastreabilidade Backward-From dos Requisitos RF13, RF14, RF15, RF16, RF24, RF25, RNF04, RNF05 |
-| Daniel Nunes Duarte  | A preencher |
+| Daniel Nunes Duarte  | Rastreabilidade Backward-From dos Requisitos RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 |
 | Fernanda Vaz         | Rastreabilidade Backward-From dos Requisito:RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
 | Gabriel Maciel       | Rastreabilidade Backward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
 | João Gabriel         | A preencher |
@@ -138,7 +138,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | **1.5** | 28/10 | Adição da fonte, classificação e tipos de elos(RF: 9,10,11,12 e 21 RF:12)  | João Ramos | Gabriel Maciel |
 | **1.6** | 28/10 | Adição RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 | FERNANDA VAZ| Gabriel Maciel |
 | **1.7** | 28/10 | Correções da minha parte | João Gabriel| -- |
-
+| **1.8** | 28/10 | Adição RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 | Daniel Nunes Duarte | -------- |
 ---
 
 ## Agradecimentos
