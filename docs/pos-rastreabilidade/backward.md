@@ -70,7 +70,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
 | RF20 | Botão de pânico/emergência para alertar motorista e/ou autoridades | | | | Daniel Nunes Duarte |
 | RF21 | Mostrar alertas de trânsito, acidentes e rotas alternativas | [Brainstorm (BRS12)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Representação | João Ramos |
-| RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | | | | Daniel Nunes Duarte |
+| RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | [Brainstorm (BRS20)](../Elicitacao/elicitacao_brainstorm.md#resultados)  | Ambiental | Representação (BRS20 representa RF22) | Daniel Nunes Duarte |
 | RF23 | Exibir quantidade de assentos preferenciais e totais no ônibus | | | | |
 | RF24 | Permitir favoritar linhas ou paradas para acesso rápido | [Entrevista (ENT14)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT14 representa RF24) | Cauã Nicolas |
 | RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | [Entrevista (ENT08)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT08 representa RF25) | Cauã Nicolas |
