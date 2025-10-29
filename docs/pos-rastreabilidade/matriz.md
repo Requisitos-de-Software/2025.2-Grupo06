@@ -40,17 +40,24 @@ A metodologia adotada para a construção da matriz de pós-rastreabilidade cons
 | **RF12** | Enviar alertas sobre atrasos ou alterações de rota | Ambiental | Representação | [Épico 3](../modelagem_requisitos_02/backlog.md#épico-3---notificações-e-alertas) | [Cenário 11 – Alertas de Desvio e Interrupção](../modelagem_requisitos_01/cenarios.md#cenário-11---alertas-de-desvio-e-interrupção-de-rota) | — | João Ramos |
 | **RF13** | Oferecer recarga de cartão de transporte (BRB Mobilidade) | Desenvolvimento | Representação | [Épico 5 – Integração e Recargas](../modelagem_requisitos_02/backlog.md#épico-5---integração-e-recargas) | [Cenário 4 – Integração BRB Mobilidade](../modelagem_requisitos_01/cenarios.md#cenário-4---integração-com-brb-mobilidade) | [UC05 – Recarga de Cartão](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc05-recarga-de-cartão) | Cauã Nicolas |
 | **RF15** | Manter histórico de viagens do usuário | Desenvolvimento | Representação | [Épico 6 – Histórico e Preferências](../modelagem_requisitos_02/backlog.md#épico-6---histórico-e-preferências) | [Cenário 7 – Histórico de Viagens](../modelagem_requisitos_01/cenarios.md#cenário-7---histórico-de-viagens) | — | Cauã Nicolas |
+| **RF17** | Exibir preço da passagem por linha ou trajeto | Gerencial | Representação | [Especificação Suplementar](../modelagem_requisitos_01/especificacao_suplementar.md) | — | — | Daniel Nunes Duarte |
 | **RF19** | Disponibilizar versão web leve para acesso rápido (QR Code) | Ambiental | Agregação | [Épico 3 – Acessibilidade](../modelagem_requisitos_02/backlog.md#épico-3---acessibilidade-e-usabilidade) | [Cenário 5 – Modo Offline](../modelagem_requisitos_01/cenarios.md#cenário-5---modo-off-line) | — | Gabriel Maciel |
+| **RF20** | Botão de pânico/emergência para alertar motorista e/ou autoridades | Ambiental | Representação | — | — | — | Daniel Nunes Duarte |
 | **RF26** | Filtrar ônibus por empresa operadora | Organizacional | Satisfação | [Épico 2 – Filtragem de Linhas](../modelagem_requisitos_02/backlog.md#épico-2---filtragem-de-linhas) | — | — | Gabriel Maciel |
+| **RF27** | Visualizar quais veículos estão em operação no momento | Organizacional | Satisfação | — | — | — | Daniel Nunes Duarte |
 | **RF28** | Avaliação da qualidade do serviço | Organizacional | Satisfação | [Épico 4](../modelagem_requisitos_02/backlog.md#épico-4---avaliar-e-reportar) | [Cenário 2 – Avaliar Linhas](../modelagem_requisitos_01/cenarios.md#cenário-2---avaliar-linhas) | — | Gabriel Maciel |
+| **RF29** | Sistema de gamificação para incentivar uso do transporte público | Desenvolvimento | Agregação | — | — | — | Daniel Nunes Duarte |
 | **RF31** | Sistema de recompensas por uso sustentável | Organizacional | Satisfação | [Épico 11 – Gamificação e Engajamento](../modelagem_requisitos_02/backlog.md#épico-11---gamificação-e-engajamento) | — | — | Fernanda Vaz |
 | **RF32** | Exibir relatórios de impacto ambiental | Organizacional | Recurso | [Épico 9 – Sustentabilidade e Impacto Ambiental](../modelagem_requisitos_02/backlog.md#épico-9---sustentabilidade-e-impacto-ambiental) | [Cenário 10 – Análise Preditiva com IA](../modelagem_requisitos_01/cenarios.md#cenário-10---análise-preditiva-de-horários-dos-ônibus-com-ia) | — | Fernanda Vaz |
+| **RF33** | Suporte a comandos de voz para facilitar interação durante deslocamentos | Ambiental | Recurso | — | — | — | Daniel Nunes Duarte |
 | **RF34** | Integração com assistentes virtuais | Gerencial | Agregação | [Épico 3 – Acessibilidade](../modelagem_requisitos_02/backlog.md#épico-3---acessibilidade-e-usabilidade) | — | — | Gabriel Maciel |
 | **RF35** | Rastrear múltiplas linhas de ônibus simultaneamente | Gerencial | Representação | [Épico 1](../modelagem_requisitos_02/backlog.md#épico-1---rastreamento-e-informações-em-tempo-real) | [Cenário 3](../modelagem_requisitos_01/cenarios.md#cenário-3---rastreamento-de-múltiplas-linhas) | [UC03](../modelagem_requisitos_01/casos_de_uso.md#tabela-5---uc03-rastreamento-de-múltiplas-linhas) | Gabriel Maciel |
 | **RNF06** | Baixo consumo de bateria e dados móveis | Desenvolvimento | Alocado | [Especificação Suplementar – Portabilidade](../modelagem_requisitos_01/especificacao_suplementar.md) | — | — | Fernanda Vaz |
 | **RNF07** | Compatibilidade Android e iOS | Desenvolvimento | Responsabilidade | [NFR – SIG Compatibilidade](../modelagem_requisitos_02/nfr.md#sig-compatibilidade) | [Cenário 11](../modelagem_requisitos_01/cenarios.md#cenário-11---alertas-de-desvio-e-interrupção-de-rota) | — | Fernanda Vaz |
 | **RNF10** | Tempo de carregamento da tela principal < 3s | Gerencial | Representação | [NFR – Desempenho](../modelagem_requisitos_02/nfr.md#sig-desempenho) | — | — | Gabriel Maciel |
 | **RNF11** | Funcionamento offline para consulta a rotas salvas | Gerencial | Representação | [NFR – RS02 Funcionamento Offline](../modelagem_requisitos_02/nfr.md#rs02-funcionamento-offline) | [Cenário 5 – Modo Offline](../modelagem_requisitos_01/cenarios.md#cenário-5---modo-off-line) | — | Gabriel Maciel |
+| **RNF14** | Suporte a múltiplos usuários simultâneos sem lentidão | Ambiental | Responsabilidade | [Brainstorm (BRS15)](../Elicitacao/elicitacao_brainstorm.md#resultados) | — | — | Daniel Nunes Duarte |
+| **RNF15** | Personalização da interface com base em preferências do usuário | Ambiental | Recurso | [Brainstorm (BRS13)](../Elicitacao/elicitacao_brainstorm.md#resultados) | — | — | Daniel Nunes Duarte |
 
 
 
@@ -64,7 +71,7 @@ A metodologia adotada para a construção da matriz de pós-rastreabilidade cons
 |        Nome          | Contribuição|
 |----------------------|-------------|
 | Cauã Nicolas         | A preencher |
-| Daniel Nunes Duarte  | A preencher |
+| Daniel Nunes Duarte  | Adição de RF17, RF20, RF22, RF27, RF29, RF33, RNF14 e RNF15; atualização da Matriz de Pós-Rastreabilidade |
 | Fernanda Vaz         | ELABORAÇÃO INICIAL DO ARTEFATO|
 | Gabriel Maciel       | A preencher |
 | João Gabriel         | A preencher |
@@ -87,7 +94,7 @@ A metodologia adotada para a construção da matriz de pós-rastreabilidade cons
 |:-------:|:-----:|:-----------|:------------|:-------------|
 | 1.0 | 25/10 | Criação inicial do documento | Gabriel Maciel | FERNANDA VAZ|
 | 1.1 | 28/10 |adição de artefatos no  documento | FERNANDA VAZ | Gabriel Maciel  |
-
+| 1.2 | 28/10 | Adição de RF17, RF20, RF22, RF27, RF29, RF33, RNF14 e RNF15 na Matriz | Daniel Nunes Duarte | --------- |
 
 
 ## Agradecimentos
