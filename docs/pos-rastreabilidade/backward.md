@@ -65,7 +65,7 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | [Entrevista (ENT07)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT07 representa RF14) | Cauã Nicolas |
 | RF15 | Manter histórico de viagens do usuário | [Análise de Documentos (RNI03)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Desenvolvimento | Representação (RNI03 representa RF15) | Cauã Nicolas |
 | RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | [Entrevista (ENT20)](../Elicitacao/elicitacao_entrevista.md#resultados) | Desenvolvimento | Representação (ENT20 representa RF16) | Cauã Nicolas |
-| RF17 | Exibir preço da passagem por linha ou trajeto | | | | Daniel Nunes Duarte |
+| RF17 | Exibir preço da passagem por linha ou trajeto | [Brainstorm (BRS19)](../Elicitacao/elicitacao_brainstorm.md#resultados)  | Gerencional | Representação (BRS19 representa RF17) | Daniel Nunes Duarte |
 | RF18 | Listar linhas que passam em uma parada específica | | | | João Ramos |
 | RF19 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | [Brainstorm (BRS17)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | | Gabriel Maciel |
 | RF20 | Botão de pânico/emergência para alertar motorista e/ou autoridades | | | | Daniel Nunes Duarte |
