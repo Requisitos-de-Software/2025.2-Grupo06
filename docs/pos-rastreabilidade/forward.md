@@ -63,19 +63,19 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Artefatos de Elicitação** | [Entrevista (ENT)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT representa a necessidade de atualização rápida |
 
     
-???  info "RNF04 – Interface acessível para idosos e pessoas com deficiência visual"
+??? info "RNF04 – Interface acessível para idosos e pessoas com deficiência visual"
 
-    *Autoria: Cauã Nicolas *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
     |**Especificação Suplementar** | [Usabilidade](../modelagem_requisitos_01/especificacao_suplementar.md#usabilidade) | **Responsabilidade** | A especificação define critérios de acessibilidade (WCAG) que a equipe deve implementar. |
     |**NFR** | [SIG Usabilidade](../modelagem_requisitos_02/nfr.md#sig-usabilidade) | **Representação** | O SIG de usabilidade operacionaliza requisitos como suporte a leitores de tela e contraste (RU05 / RU09). |
-    |**Artefatos de Elicitação** | [Entrevista (ENT16)](../Elicitacao/elicitacao_entrevista.md#resultados), ENT09 | **Satisfação** | ENT16 e ENT09 indicam a necessidade de interfaces acessíveis e confiáveis para diferentes perfis de usuário. |
+    |**Artefatos de Elicitação** | [Entrevista (ENT16)](../Elicitacao/elicitacao_entrevista.md#resultados), [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | **Satisfação** | ENT16 e ENT09 indicam a necessidade de interfaces acessíveis e confiáveis para diferentes perfis de usuário. |
 
 ??? info "RNF05 – Sistema de notificação com som e vibração configuráveis"
 
-   *Autoria: Cauã Nicolas *
+    *Autoria: Cauã Nicolas*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
