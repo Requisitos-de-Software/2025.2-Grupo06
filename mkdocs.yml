@@ -2,10 +2,10 @@ site_name: DF No Ponto
 docs_dir: ./docs
 markdown_extensions:
   - attr_list
-  - admonition           # ADICIONE ESTA LINHA
-  - pymdownx.details     # ADICIONE ESTA LINHA
+  - admonition # ADICIONE ESTA LINHA
+  - pymdownx.details # ADICIONE ESTA LINHA
   - pymdownx.superfences # ADICIONE ESTA LINHA
-  - tables               # ADICIONE ESTA LINHA
+  - tables # ADICIONE ESTA LINHA
 
 plugins:
   - search
@@ -48,70 +48,71 @@ repo_name: "2025.2-Grupo06"
 nav:
   - Início: index.md
   - Artefatos:
-    - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade":
-      - Apresentação: Apresentação/apresentacao01.md
-      - Planejamento do Projeto: 
-        - Sobre o aplicativo escolhido: Planejamento/Aplicativoescolhido.md
-        - Ferramentas utilizadas: Planejamento/Ferramentasuti.md
-        - Cronograma detalhado: Planejamento/Cronogramadetalhado.md
-        - Heatmap de disponibilidde: Planejamento/Heatmap.md
-      - Pré-Rastreabilidade:
-        - Rich Picture: pre-rastreabilidade/rich_picture.md
-      - Lista de Verificação: checklist/lista01.md
-      - Tabela de Contribuição: Contribuições/tab_cont01.md
-    - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos":
-      - Apresentação: Apresentação/apresentacao02.md
-      - Perfil de Usuário:
-        - Perfil: Elicitacao/perfil.md
-        - Personas: Elicitacao/perfil_personas.md
-        - Cenários: Elicitacao/perfil_cenarios.md
-      - Elicitação de Requisitos:
-          - Tabela Geral de Requisitos Elicitados: Elicitacao/elicitacao_lista_requisitos_elicitados.md
-          - Técnicas de Elicitação de Requisitos: 
-            - Análise de Documentos: Elicitacao/elicitacao_analise_documentos.md
-            - Entrevista: Elicitacao/elicitacao_entrevista.md
-            - Brainstorm: Elicitacao/elicitacao_brainstorm.md
-      - Técnicas de Priorização de Requisitos:
-        - $100: Elicitacao/priorizacao_100_dollars.md
-        - In or Out: Elicitacao/priorizacao_in_or_out.md
-        - First Things First: Elicitacao/priorizacao_first_things_first.md
-        - MoSCow: Elicitacao/priorizacao_moscow.md
-      - Lista de Verificação: checklist/lista02.md
-      - Tabela de Contribuição: Contribuições/tab_cont02.md
-    - "Etapa 3: Modelagem de Requsitos 1":
-      - Apresentação: Apresentação/apresentacao03.md
-      - Cenários: modelagem_requisitos_01/cenarios.md
-      - Léxicos: modelagem_requisitos_01/lexicos.md
-      - Casos de Uso: modelagem_requisitos_01/casos_de_uso.md
-      - Especificação Suplementar: modelagem_requisitos_01/especificacao_suplementar.md
-      - Lista de Verificação: checklist/lista03.md
-      - Tabela de Contribuição: Contribuições/tab_cont03.md
-    - "Etapa 4: Modelagem de Requisitos 2 (Ágil)":
-      - Apresentação: Apresentação/apresentacao04.md
-      - Histórias de Usuário: modelagem_requisitos_02/historias_de_usuario.md
-      - Backlog: modelagem_requisitos_02/backlog.md
-      - NFR Framework: modelagem_requisitos_02/nfr.md
-      - Lista de Verificação: checklist/lista04.md
-      - Tabela de Contribuição: Contribuições/tab_cont04.md
-    - "Etapa 6: <br> Pós-rastreabilidade":
-      - Apresentação: Apresentação/apresentacao05.md
-      - Backward-from: pos-rastreabilidade/backward.md
-      - Forward-from: pos-rastreabilidade/forward.md
-      - Matriz de <br> Pós-rastreabilidade: pos-rastreabilidade/matriz.md
-      - Lista de Verificação: checklist/lista05.md
-      - Tabela de Contribuição: Contribuições/tab_cont05.md
+      - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade":
+          - Apresentação: Apresentação/apresentacao01.md
+          - Planejamento do Projeto:
+              - Sobre o aplicativo escolhido: Planejamento/Aplicativoescolhido.md
+              - Ferramentas utilizadas: Planejamento/Ferramentasuti.md
+              - Cronograma detalhado: Planejamento/Cronogramadetalhado.md
+              - Heatmap de disponibilidde: Planejamento/Heatmap.md
+          - Pré-Rastreabilidade:
+              - Rich Picture: pre-rastreabilidade/rich_picture.md
+          - Lista de Verificação: checklist/lista01.md
+          - Tabela de Contribuição: Contribuições/tab_cont01.md
+      - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos":
+          - Apresentação: Apresentação/apresentacao02.md
+          - Perfil de Usuário:
+              - Perfil: Elicitacao/perfil.md
+              - Personas: Elicitacao/perfil_personas.md
+              - Cenários: Elicitacao/perfil_cenarios.md
+          - Elicitação de Requisitos:
+              - Tabela Geral de Requisitos Elicitados: Elicitacao/elicitacao_lista_requisitos_elicitados.md
+              - Técnicas de Elicitação de Requisitos:
+                  - Análise de Documentos: Elicitacao/elicitacao_analise_documentos.md
+                  - Entrevista: Elicitacao/elicitacao_entrevista.md
+                  - Brainstorm: Elicitacao/elicitacao_brainstorm.md
+          - Técnicas de Priorização de Requisitos:
+              - $100: Elicitacao/priorizacao_100_dollars.md
+              - In or Out: Elicitacao/priorizacao_in_or_out.md
+              - First Things First: Elicitacao/priorizacao_first_things_first.md
+              - MoSCow: Elicitacao/priorizacao_moscow.md
+          - Lista de Verificação: checklist/lista02.md
+          - Tabela de Contribuição: Contribuições/tab_cont02.md
+      - "Etapa 3: Modelagem de Requsitos 1":
+          - Apresentação: Apresentação/apresentacao03.md
+          - Cenários: modelagem_requisitos_01/cenarios.md
+          - Léxicos: modelagem_requisitos_01/lexicos.md
+          - Casos de Uso: modelagem_requisitos_01/casos_de_uso.md
+          - Especificação Suplementar: modelagem_requisitos_01/especificacao_suplementar.md
+          - Lista de Verificação: checklist/lista03.md
+          - Tabela de Contribuição: Contribuições/tab_cont03.md
+      - "Etapa 4: Modelagem de Requisitos 2 (Ágil)":
+          - Apresentação: Apresentação/apresentacao04.md
+          - Histórias de Usuário: modelagem_requisitos_02/historias_de_usuario.md
+          - Backlog: modelagem_requisitos_02/backlog.md
+          - NFR Framework: modelagem_requisitos_02/nfr.md
+          - Lista de Verificação: checklist/lista04.md
+          - Tabela de Contribuição: Contribuições/tab_cont04.md
+      - "Etapa 6: <br> Pós-rastreabilidade":
+          - Apresentação: Apresentação/apresentacao05.md
+          - Backward-from: pos-rastreabilidade/backward.md
+          - Forward-from: pos-rastreabilidade/forward.md
+          - Matriz de <br> Pós-rastreabilidade: pos-rastreabilidade/matriz.md
+          - Lista de Verificação: checklist/lista05.md
+          - Tabela de Contribuição: Contribuições/tab_cont05.md
   - Atas de Reunião:
-    - Ata 1 - 04/09: Atas de Reunião/ata1.md
-    - Ata 2 - 05/09: Atas de Reunião/ata2.md
-    - Ata 3 - 07/09: Atas de Reunião/ata3.md
-    - Ata 4 - 22/09: Atas de Reunião/ata4.md
-    - Ata 5 - 28/09: Atas de Reunião/ata5.md
-  - Verificações: 
-    - Inspeções do Grupo 6 (Monitores): 
-      - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecoes_grupo_6/inspecao01.md
-      - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecoes_grupo_6/inspecao02.md
-    - Inspeções do Grupo 7:
-      - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecao01.md
-      - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecao02.md
-      - "Etapa 3: Modelagem de Requsitos 1": Verificações/inspecao03.md
-      - "Etapa 4: Modelagem de Requisitos 2 (Ágil)": Verificações/inspecao04.md
+      - Ata 1 - 04/09: Atas de Reunião/ata1.md
+      - Ata 2 - 05/09: Atas de Reunião/ata2.md
+      - Ata 3 - 07/09: Atas de Reunião/ata3.md
+      - Ata 4 - 22/09: Atas de Reunião/ata4.md
+      - Ata 5 - 28/09: Atas de Reunião/ata5.md
+  - Verificações:
+      - Inspeções do Grupo 6 (Monitores):
+          - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecoes_grupo_6/inspecao01.md
+          - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecoes_grupo_6/inspecao02.md
+      - Inspeções do Grupo 7:
+          - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecao01.md
+          - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecao02.md
+          - "Etapa 3: Modelagem de Requsitos 1": Verificações/inspecao03.md
+          - "Etapa 4: Modelagem de Requisitos 2 (Ágil)": Verificações/inspecao04.md
+          - "Etapa 6: Pós-Rastreabilidade": Verificações/inspecao05.md
