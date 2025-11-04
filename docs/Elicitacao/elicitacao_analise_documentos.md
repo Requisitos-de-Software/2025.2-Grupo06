@@ -40,7 +40,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | RF04  | Visualização da frota ativa              | Mostrar quais veículos estão em operação naquele momento.                |
 | RF05  | Planejamento de rota                     | Sugerir trajetos com base no ponto de origem e destino do usuário.       |
 
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Requisitos Funcionais identificados</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Requisitos Funcionais identificados. Autoria: Fernanda Vaz</p></font>
 
 ### Requisitos Não Implementados
 
@@ -52,7 +52,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | RNI04 | Avaliação de linhas                      | Permitir avaliação da qualidade do serviço de cada linha.                |
 | RNI05 | Modo offline                             | Disponibilizar funcionalidades básicas sem conexão à internet.           |
 
-<font size="2"><p style="text-align: center"><b>Tabela 4</b> - Requisitos Não Implementados identificados</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 4</b> - Requisitos Não Implementados identificados. Autoria: Fernanda Vaz</p></font>
 
 ## Responsáveis pela Elaboração
 
@@ -65,9 +65,9 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
-| 1.0    | 29/09/2025 | Criação inicial do arquivo de Análise de Documentos | Fernanda Vaz   | Gabriel Maciel |
-| 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | Fernanda Vaz |
-| 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | Fernanda Vaz |
+| 1.0    | 29/09/2025 | Criação inicial do arquivo de Análise de Documentos | [Fernanda Vaz](https://github.com/Fernandavazgit1)   | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+| 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
 
 ## Bibliografia
 
