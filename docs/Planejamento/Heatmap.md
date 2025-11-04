@@ -2,11 +2,8 @@
 
 > Os mapas de calor permitem que os visualizadores compreendam com mais facilidade a distribuição e a intensidade relativa de pontos de dados em um mapa. Em vez de colocar um marcador em cada localização, eles usam cores para representar a distribuição dos dados.
 
-<figure>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-09-09%20222822.png" alt="Exemplo de Mapa de Calor" width="800">
-    <figcaption>Figura 1: Exemplo de mapa de calor mostrando a disponibilidade dos integrates do grupo 06</figcaption>
-</figure>
-
+![heatmap](https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-09-09%20222822.png)
+*Figura 1: Exemplo de mapa de calor mostrando a disponibilidade dos integrates do grupo 06 - Autores: Gabriel Maciel e Fernanda Vaz, 2025*
 
  ## Horários com Maior Disponibilidade 
 
@@ -28,5 +25,5 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 09/09/2025 | Criação da página | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+| 1.0 | 09/09/2025 | Criação da página | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 
