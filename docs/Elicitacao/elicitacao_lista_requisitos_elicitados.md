@@ -65,11 +65,13 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | [**RNF14**](../Pos-rastreabilidade/forward.md#RNF14) | Suporte a múltiplos usuários simultâneos sem lentidão | Não Funcional | Brainstorm (BRS15) |
 | [**RNF15**](../Pos-rastreabilidade/forward.md#RNF15) | Personalização da interface com base em preferências do usuário | Não Funcional | Brainstorm (BRS13) |
 
+*Tabela 1: Lista de requisitos elicitados de todas as técnicas - Autoria: Gabriel Maciel, 2025*
+
 ---
 
 ## Histórico de Versões
 
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:-----------:|:--------:|:--------------|:---------------|:----------------|
-| **1.0** | 18/10/2025 | Criação inicial da Tabela Geral de Requisitos Elicitados; consolidação das três técnicas | Gabriel Maciel | João Gabriel |
-| **1.1** | 27/10/2025 | Adição de links bidirecionais para o documento `forward.md` | Fernanda Vaz Duarte dos Santos | — |
+| **1.0** | 18/10/2025 | Criação inicial da Tabela Geral de Requisitos Elicitados; consolidação das três técnicas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [João Gabriel](https://github.com/JoaoComTil) |
+| **1.1** | 27/10/2025 | Adição de links bidirecionais para o documento `forward.md` | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Cauã Nicolas](https://github.com/cauanicolas) |
