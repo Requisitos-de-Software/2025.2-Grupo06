@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Para compreender melhor os usuários do aplicativo **DF no Ponto**, é necessário elaborar um perfil genérico que represente suas principais características. Segundo Barbosa e Silva (2011), o perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.
+Para compreender melhor os usuários do aplicativo **DF no Ponto**, é necessário elaborar um perfil genérico que represente suas principais características. Segundo Barbosa e Silva (2011) - "o perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado".
 
 ## Objetivos do Usuário
 
@@ -24,6 +24,9 @@ Para compreender melhor os usuários do aplicativo **DF no Ponto**, é necessár
 | **Faixa etária** | 18 a 45 anos. |
 | **Frequência de uso** | Diária ou quase diária (5 a 7 vezes por semana). |
 | **Conhecimento do domínio** | Alto sobre o uso do transporte público, mas limitado sobre integração entre modais e atualização de horários. |
+
+*Tabela 1 - Características de Interesse - Autoria: Fernanda Vaz, 2025*
+
 
 ## Relação com Tecnologia
 
@@ -67,6 +70,6 @@ Com base nas semelhanças de comportamento e objetivos, foram definidos grupos:
 
 | Versão | Data       | Descrição                          | Autor(es)    | Revisor(es)  |
 |--------|------------|------------------------------------|--------------|--------------|
-| 1.0    | 28/09/2025 | Criação da página.                 | Fernanda Vaz | Fernanda Vaz |
-| 1.1    | 30/09/2025 | Atualização do perfil de usuário. | Fernanda Vaz | Fernanda Vaz |
-| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+| 1.0    | 28/09/2025 | Criação da página.                 | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 1.1    | 30/09/2025 | Atualização do perfil de usuário. | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |

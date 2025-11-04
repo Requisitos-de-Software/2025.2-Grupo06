@@ -34,7 +34,7 @@ Ser um **guia inteligente** que facilite o dia a dia do cidadão, garantindo mob
 | [Minha Biblioteca](#APP5) | Plataforma que permite o acesso de estudantes e professores da Universidade de Brasília a um acervo de livros digitais. <a id="anchor_APP5" href="#APP5"><sup>5</sup></a> |
 | [SIGAA](#APP6) | Sistema Integrado de Gestão de Atividades Acadêmicas, utilizado por diversas instituições federais para ações do contexto universitário. <a id="anchor_APP6" href="#APP6"><sup>6</sup></a> |
 
-<font size="2"><p style="text-align: center"><b>Tabela 2</b> - Aplicativos Analisados</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 2</b> - Aplicativos Analisados - Autoria: Daniel Nunes</p></font>
 
 
 ### Razões para escolha do DF no Ponto:
@@ -95,7 +95,7 @@ Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem c
 
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
-| 1.0        | 09/09/2025   | Informações do aplicativo  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Daniel Nunes Duarte](https://github.com/DanNunes777)   |
-| 1.1        | 30/09/2025   | Atualização das informações| [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Daniel Nunes Duarte](https://github.com/DanNunes777)   |
+| 1.0        | 09/09/2025   | Informações do aplicativo  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Cauã Nicolas](https://github.com/cauanicolas)   |
+| 1.1        | 30/09/2025   | Atualização das informações| [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Cauã Nicolas](https://github.com/cauanicolas)   |
 
 
