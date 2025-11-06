@@ -1,8 +1,8 @@
-# Inspeção da Entrega 1
+# Inspeção da Entrega 2
 
 Este relatório apresenta, no Documento 1, a inspeção realizada sobre a Entrega 2, detalhando os principais pontos analisados de acordo com a lista de verificação.
 
-## Documento 1: Inspeção da Entrega 1
+## Documento 1: Inspeção da Entrega 2
 
 ![Documento de Inspeção](./pdfs/inspec_02.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
 
@@ -12,8 +12,9 @@ Este relatório apresenta, no Documento 1, a inspeção realizada sobre a Entreg
 |-----------------|-------------------------------|
 | Giovana Barbosa (Monitora) | Inspeção do grupo |
 
-##  Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
 |--------|------------|-----------------------------------------------------|-----------------|-------------|
 | 1.0    | 09/10/2025 | Adiciona documento da inspeção | Gabriel Maciel | N/A |
+| 1.1 | 06/11/2025 | Correções textuais | Gabriel Maciel | N/A |
