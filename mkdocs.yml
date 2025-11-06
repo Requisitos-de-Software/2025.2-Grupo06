@@ -110,7 +110,8 @@ nav:
       - Inspeções do Grupo 6 (Monitores):
           - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecoes_grupo_6/inspecao01.md
           - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecoes_grupo_6/inspecao02.md
-      - Inspeções do Grupo 7:
+          - "Etapa 3: Modelagem de Requsitos 1": Verificações/inspecoes_grupo_6/inspecao03.md
+  - Inspeções do Grupo 7:
           - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecao01.md
           - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecao02.md
           - "Etapa 3: Modelagem de Requsitos 1": Verificações/inspecao03.md
