@@ -2,14 +2,14 @@ site_name: DF No Ponto
 docs_dir: ./docs
 markdown_extensions:
   - attr_list
-  - admonition # ADICIONE ESTA LINHA
-  - pymdownx.details # ADICIONE ESTA LINHA
-  - pymdownx.superfences # ADICIONE ESTA LINHA
-  - tables # ADICIONE ESTA LINHA
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences 
+  - tables
 
 plugins:
   - search
-  # - pdf-export
+  - mkdocs-pdf # Pelo amor de Deus, não remova este plugin novamente.
 
 theme:
   name: material
