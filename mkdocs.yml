@@ -9,7 +9,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - mkdocs-pdf # Pelo amor de Deus, não remova este plugin novamente.
+  - mkdocs-pdf # pip install mkdocs-pdf
 
 theme:
   name: material
@@ -93,6 +93,12 @@ nav:
           - NFR Framework: modelagem_requisitos_02/nfr.md
           - Lista de Verificação: checklist/lista04.md
           - Tabela de Contribuição: Contribuições/tab_cont04.md
+      - "Etapa 5: <br> Análise de Requisitos: <br> Verificação e Validação":
+        - Apresentação: Apresentação/apresentacao06.md
+        - Verificação de Requisitos: validacao_verificacao/verificacao.md
+        - Validação de Requisitos: validacao_verificacao/validacao.md
+        - Comprovação Informal: validacao_verificacao/comprovacao.md
+        - Tabela de Contribuição: Contribuições/tab_cont06.md
       - "Etapa 6: <br> Pós-rastreabilidade":
           - Apresentação: Apresentação/apresentacao05.md
           - Backward-from: pos-rastreabilidade/backward.md
