@@ -96,8 +96,9 @@ nav:
       - "Etapa 5: <br> Análise de Requisitos: <br> Verificação e Validação":
         - Apresentação: Apresentação/apresentacao06.md
         - Verificação de Requisitos: validacao_verificacao/verificacao.md
-        - Validação de Requisitos: validacao_verificacao/validacao.md
-        - Comprovação Informal: validacao_verificacao/comprovacao.md
+        - Validação de Requisitos:
+          - Prototipação: validacao_verificacao/prototipacao.md
+          - Comprovação Informal: validacao_verificacao/comprovacao.md
         - Tabela de Contribuição: Contribuições/tab_cont06.md
       - "Etapa 6: <br> Pós-rastreabilidade":
           - Apresentação: Apresentação/apresentacao05.md
