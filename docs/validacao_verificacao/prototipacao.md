@@ -6,6 +6,7 @@ A prototipação é uma técnica essencial na engenharia de requisitos que consi
 Os estudantes desenvolveram protótipos de alta fidelidade no Figma para cada requisito funcional não implementado. O Figma é uma ferramenta de design online usada para criar interfaces de aplicativos e websites.
 
 Requisitos  escolhidos:
+
 | ID   | Requisito                                                         | Tipo       | Rastreabilidade (origem)                                  |
 |------|-------------------------------------------------------------------|-----------|------------------------------------------------------------|
 | RF01 | Exibir a localização dos ônibus em tempo real no mapa            | Funcional | Análise de Documentos (RF01), Entrevista (ENT03)          |
