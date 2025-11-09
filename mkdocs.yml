@@ -9,7 +9,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - mkdocs-pdf # pip install mkdocs-pdf
 
 theme:
   name: material
@@ -18,20 +17,17 @@ theme:
   font:
     text: Open Sans
   palette:
-    # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
@@ -59,6 +55,7 @@ nav:
               - Rich Picture: pre-rastreabilidade/rich_picture.md
           - Lista de Verificação: checklist/lista01.md
           - Tabela de Contribuição: Contribuições/tab_cont01.md
+
       - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos":
           - Apresentação: Apresentação/apresentacao02.md
           - Perfil de Usuário:
@@ -78,7 +75,8 @@ nav:
               - MoSCow: Elicitacao/priorizacao_moscow.md
           - Lista de Verificação: checklist/lista02.md
           - Tabela de Contribuição: Contribuições/tab_cont02.md
-      - "Etapa 3: Modelagem de Requsitos 1":
+
+      - "Etapa 3: Modelagem de Requisitos 1":
           - Apresentação: Apresentação/apresentacao03.md
           - Cenários: modelagem_requisitos_01/cenarios.md
           - Léxicos: modelagem_requisitos_01/lexicos.md
@@ -86,6 +84,7 @@ nav:
           - Especificação Suplementar: modelagem_requisitos_01/especificacao_suplementar.md
           - Lista de Verificação: checklist/lista03.md
           - Tabela de Contribuição: Contribuições/tab_cont03.md
+
       - "Etapa 4: Modelagem de Requisitos 2 (Ágil)":
           - Apresentação: Apresentação/apresentacao04.md
           - Histórias de Usuário: modelagem_requisitos_02/historias_de_usuario.md
@@ -93,34 +92,38 @@ nav:
           - NFR Framework: modelagem_requisitos_02/nfr.md
           - Lista de Verificação: checklist/lista04.md
           - Tabela de Contribuição: Contribuições/tab_cont04.md
-      - "Etapa 5: <br> Análise de Requisitos: <br> Verificação e Validação":
-        - Apresentação: Apresentação/apresentacao06.md
-        - Verificação de Requisitos: validacao_verificacao/verificacao.md
-        - Validação de Requisitos:
-          - Prototipação: validacao_verificacao/prototipacao.md
-          - Comprovação Informal: validacao_verificacao/comprovacao.md
-        - Tabela de Contribuição: Contribuições/tab_cont06.md
-      - "Etapa 6: <br> Pós-rastreabilidade":
+
+      - "Etapa 5: Análise de Requisitos - Verificação e Validação":
+          - Apresentação: Apresentação/apresentacao06.md
+          - Verificação de Requisitos: validacao_verificacao/verificacao.md
+          - Validação de Requisitos:
+              - Prototipação: validacao_verificacao/prototipacao.md
+              - Comprovação Informal: validacao_verificacao/comprovacao.md
+          - Tabela de Contribuição: Contribuições/tab_cont06.md
+
+      - "Etapa 6: Pós-rastreabilidade":
           - Apresentação: Apresentação/apresentacao05.md
           - Backward-from: pos-rastreabilidade/backward.md
           - Forward-from: pos-rastreabilidade/forward.md
-          - Matriz de <br> Pós-rastreabilidade: pos-rastreabilidade/matriz.md
+          - Matriz de Pós-rastreabilidade: pos-rastreabilidade/matriz.md
           - Lista de Verificação: checklist/lista05.md
           - Tabela de Contribuição: Contribuições/tab_cont05.md
+
   - Atas de Reunião:
       - Ata 1 - 04/09: Atas de Reunião/ata1.md
       - Ata 2 - 05/09: Atas de Reunião/ata2.md
       - Ata 3 - 07/09: Atas de Reunião/ata3.md
       - Ata 4 - 22/09: Atas de Reunião/ata4.md
       - Ata 5 - 28/09: Atas de Reunião/ata5.md
+
   - Verificações:
       - Inspeções do Grupo 6 (Monitores):
-          - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecoes_grupo_6/inspecao01.md
-          - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecoes_grupo_6/inspecao02.md
-          - "Etapa 3: Modelagem de Requsitos 1": Verificações/inspecoes_grupo_6/inspecao03.md
+          - "Etapa 1": Verificações/inspecoes_grupo_6/inspecao01.md
+          - "Etapa 2": Verificações/inspecoes_grupo_6/inspecao02.md
+          - "Etapa 3": Verificações/inspecoes_grupo_6/inspecao03.md
       - Inspeções do Grupo 7:
-              - "Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade": Verificações/inspecao01.md
-              - "Etapa 2: Elicitação - Técnicas e Priorização de Requisitos": Verificações/inspecao02.md
-              - "Etapa 3: Modelagem de Requsitos 1": Verificações/inspecao03.md
-              - "Etapa 4: Modelagem de Requisitos 2 (Ágil)": Verificações/inspecao04.md
-              - "Etapa 6: Pós-Rastreabilidade": Verificações/inspecao05.md
+          - "Etapa 1": Verificações/inspecao01.md
+          - "Etapa 2": Verificações/inspecao02.md
+          - "Etapa 3": Verificações/inspecao03.md
+          - "Etapa 4": Verificações/inspecao04.md
+          - "Etapa 6": Verificações/inspecao05.md
