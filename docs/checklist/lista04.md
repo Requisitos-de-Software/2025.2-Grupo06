@@ -44,7 +44,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **05:** O Framework está usando métodos analíticos para auxiliar na decisão dos status dos softgoals? | A avaliar | Cauã Nicolas | 19/10/2025 19:10 |
 
-![Fonte do Item 5](https://i.ibb.co/Gft9LCGV/image.png)  
+![Fonte do Item 5](../assets/imagens/checklist_4/1-NFR.png)   
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -53,7 +53,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **06:** Os softgoals e seus correlacionados estão sendo representados em um grafo?  | A avaliar | Cauã Nicolas | 19/10/2025 19:12 |
 
-![Fonte do Item 6](https://i.ibb.co/0yKnnpT2/image.png)  
+![Fonte do Item 6](../assets/imagens/checklist_4/2-NFR.png)   
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -168,7 +168,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **05:** As histórias de usuário estão descrevendo o resultado para o software ser construído?  | A avaliar | Cauã Nicolas | 19/10/2025 19:30 |
 
-![Fonte do Item 5](https://i.ibb.co/hR2qmvDT/image.png)  
+![Fonte do Item 5](../assets/imagens/checklist_4/1-Historias.png)    
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.
 
 ---
@@ -177,7 +177,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **06:** Em casos de histórias que requer um maior tempo de preparo, está sendo proposto ao cliente para que a história seja dividida em partes menores (histórias menores)?  | A avaliar | Cauã Nicolas | 19/10/2025 19:30 |
 
-![Fonte do Item 6](https://i.ibb.co/ZqNDzQG/image.png)  
+![Fonte do Item 6](../assets/imagens/checklist_4/2-Historias.png)    
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011.
 
 ---
@@ -264,7 +264,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **06:** No processo da Sprint Planning Meeting, o Product Owner está priorizando os itens do Product Backlog?  | A avaliar | Cauã Nicolas | 19/10/2025 19:45 |
 
-![Fonte do Item 6](https://i.ibb.co/bRKS7vKs/image.png)  
+![Fonte do Item 6](../assets/imagens/checklist_4/1-NFR.png)    
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
 
 ---
@@ -273,7 +273,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **07:** Está informando a lista de funcionalidades do produto? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 7](../assets/imagens/checklist_4/print_backlog_7.png)  
+![Fonte do Item 7](../assets/imagens/checklist_4/2-NFR.png)    
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:08m)
 
 ---
