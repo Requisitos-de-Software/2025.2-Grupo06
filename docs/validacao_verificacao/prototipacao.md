@@ -5,14 +5,16 @@ A prototipação é uma técnica essencial na engenharia de requisitos que consi
 
 Os estudantes desenvolveram protótipos de alta fidelidade no Figma para cada requisito funcional não implementado. O Figma é uma ferramenta de design online usada para criar interfaces de aplicativos e websites.
 
-Requisitos  escolhidos:
+Requisitos escolhidos:
 
 | ID   | Requisito                                                         | Tipo       | Rastreabilidade (origem)                                  |
 |------|-------------------------------------------------------------------|-----------|------------------------------------------------------------|
-| RF01 | Exibir a localização dos ônibus em tempo real no mapa            | Funcional | Análise de Documentos (RF01), Entrevista (ENT03)          |
-| RF28 | Permitir avaliação da qualidade do serviço de cada linha         | Funcional | Análise de Documentos (RNI04)                             |
-| RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal            | Funcional | Entrevista (ENT08)          |
-| RF37 | Permitir cadastro, login e autenticação de usuários no sistema         | Funcional | Brainstorm (BRS18)                           |
+| RF01 | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Análise de Documentos (RF01), Entrevista (ENT03) |
+| RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Funcional | Entrevista (ENT07) |
+| RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | Funcional | Entrevista (ENT07) |
+| RF28 | Permitir avaliação da qualidade do serviço de cada linha | Funcional | Análise de Documentos (RNI04)                             |
+| RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Entrevista (ENT08)          |
+| RF37 | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Brainstorm (BRS18) |
 
 ## Tabela de Contribuição
 
