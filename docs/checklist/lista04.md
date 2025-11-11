@@ -255,7 +255,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **05:** O Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários? | A avaliar | Cauã Nicolas | 19/10/2025 19:45 |
 
-![Fonte do Item 5](https://i.ibb.co/BVzsn0dv/image.png)  
+![Fonte do Item 5](../assets/imagens/checklist_4/1-Backlog.png)    
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
 
 ---
@@ -264,7 +264,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **06:** No processo da Sprint Planning Meeting, o Product Owner está priorizando os itens do Product Backlog?  | A avaliar | Cauã Nicolas | 19/10/2025 19:45 |
 
-![Fonte do Item 6](../assets/imagens/checklist_4/1-NFR.png)    
+![Fonte do Item 6](../assets/imagens/checklist_4/2-Backlog.png)    
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15*. Gama: Universidade de Brasília – UnB Gama, [2025]. Apresentação de slides da disciplina de Engenharia de Software.
 
 ---
@@ -273,7 +273,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **07:** Está informando a lista de funcionalidades do produto? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 7](../assets/imagens/checklist_4/2-NFR.png)    
+![Fonte do Item 7](../assets/imagens/checklist_4/print_backlog_7.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:08m)
 
 ---
