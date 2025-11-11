@@ -14,20 +14,45 @@ Requisitos  escolhidos:
 | RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal            | Funcional | Entrevista (ENT08)          |
 | RF37 | Permitir cadastro, login e autenticação de usuários no sistema         | Funcional | Brainstorm (BRS18)                           |
 
-
 ## Tabela de Contribuição
 
 | Aluno            |  Contribuição               |
 |------------------|----------------------------------------|
-| Fernanda Vaz     |[Elaboração do prototipo 01](#prototipo-01)|
-| Gabriel Maciel   | ??                                     |
+| Fernanda Vaz     |[Elaboração do prototipo 02](#prototipo-02)|
+| Gabriel Maciel   |[Elaboração do protótipo 01](#prototipo-01)|
 | João Gabriel     | ??                                     |
 | João Lucas       | ??                                     |
 | Daniel Nunes     | ??                                     |
 | Cauã Nicolas     | ??                                     |
 
 ## Prototipações
+
 ### Prototipo 01
+
+Autoria: Gabriel Maciel, 2025
+
+**Requisitos escolhidos para a prototipação:**
+
+| ID | Requisito | Tipo | Rastreabilidade (origem) |
+|-|-|-|-|
+| RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Funcional | Entrevista (ENT07) |
+| RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | Funcional | Entrevista (ENT07) |
+
+#### Protótipo Funcional
+
+[Link para o protótipo funcional](https://www.figma.com/proto/4LkEDtfUrmPIAmDj82of0a/Sem-t%C3%ADtulo?node-id=0-1&t=d1iLfYg2Q2yf7Ukr-1)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/4LkEDtfUrmPIAmDj82of0a/Prototipa%C3%A7%C3%A3o-da-Integra%C3%A7%C3%A3o-do-BRB-Mobilidade-ao-DF-No-Ponto?page-id=0%3A1&node-id=10-154&p=f&viewport=280%2C882%2C0.31&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10%3A154&embed-host=share" allowfullscreen></iframe>
+
+#### Design do protótipo
+
+[Link para design do protótipo](https://www.figma.com/design/4LkEDtfUrmPIAmDj82of0a/Sem-t%C3%ADtulo?node-id=0-1&t=d1iLfYg2Q2yf7Ukr-1)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/4LkEDtfUrmPIAmDj82of0a/Sem-t%C3%ADtulo?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+---
+
+### Prototipo 02
 
 Autoria: Fernanda vaz, 2025
 
@@ -43,9 +68,9 @@ Autoria: Fernanda vaz, 2025
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/4tE66APHLGVQ8R1RpRRMnX/DFNOPONTO?node-id=6-161&embed-host=share" allowfullscreen></iframe>
 
---- 
+---
 
-### Prototipação 2
+### Prototipação 03
 
 Autoria: Cauã Nicolas, 2025
 
@@ -66,4 +91,5 @@ Autoria: Cauã Nicolas, 2025
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------  | ----------- |
-| 1.0 | 09/11| Criação do prototipo01 | [Fernanda vaz] | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.0 | 09/11| Criação do prototipo 02 | [Fernanda vaz] | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.1 | 10/11 | Criação do protótipo 01 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | |
