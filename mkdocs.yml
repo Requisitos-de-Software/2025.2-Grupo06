@@ -9,6 +9,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - mkdocs-pdf # Por favor, não remova este pobre plugin novamente (já ocorreu três vezes). Ele é utilizado para mostrar os PDFs da inspeção do nosso grupo. Não o remova, eu imploro.
 
 theme:
   name: material
