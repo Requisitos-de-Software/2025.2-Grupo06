@@ -25,7 +25,7 @@ Requisitos escolhidos:
 | João Gabriel     | ??                                     |
 | João Lucas       | ??                                     |
 | Daniel Nunes     | ??                                     |
-| Cauã Nicolas     | ??                                     |
+| Cauã Nicolas     |[Elaboração do protótipo 03](#prototipo-03)|
 
 ## Prototipações
 
@@ -72,7 +72,7 @@ Autoria: Fernanda vaz, 2025
 
 ---
 
-### Prototipação 03
+### Prototipo 03
 
 Autoria: Cauã Nicolas, 2025
 
@@ -93,5 +93,6 @@ Autoria: Cauã Nicolas, 2025
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------  | ----------- |
-| 1.0 | 09/11| Criação do prototipo 02 | [Fernanda vaz] | [Cauã Nicolas](https://github.com/cauanicolas) |
-| 1.1 | 10/11 | Criação do protótipo 01 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | |
+| 1.0 | 09/11| Criação do prototipo 02 | [Fernanda vaz](https://github.com/Fernandavazgit1)  | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.1 | 10/11 | Criação do protótipo 01 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.2 | 11/11 | Criação do protótipo 03 | [Cauã Nicolas](https://github.com/cauanicolas) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
