@@ -40,9 +40,9 @@ Autoria: Gabriel Maciel, 2025
 | RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Funcional | Entrevista (ENT07) |
 | RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | Funcional | Entrevista (ENT07) |
 
-#### Protótipo Funcional
+#### Protótipo Interativo
 
-[Link para o protótipo funcional](https://www.figma.com/proto/4LkEDtfUrmPIAmDj82of0a/Sem-t%C3%ADtulo?node-id=0-1&t=d1iLfYg2Q2yf7Ukr-1)
+[Link para o protótipo Interativo](https://www.figma.com/proto/4LkEDtfUrmPIAmDj82of0a/Sem-t%C3%ADtulo?node-id=0-1&t=d1iLfYg2Q2yf7Ukr-1)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/4LkEDtfUrmPIAmDj82of0a/Prototipa%C3%A7%C3%A3o-da-Integra%C3%A7%C3%A3o-do-BRB-Mobilidade-ao-DF-No-Ponto?page-id=0%3A1&node-id=10-154&p=f&viewport=280%2C882%2C0.31&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10%3A154&embed-host=share" allowfullscreen></iframe>
 
