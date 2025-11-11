@@ -121,5 +121,5 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
-| 1.0        | 30/09/2025   | Cenários  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Fernanda Vaz](https://github.com/Fernandavazgit1)   |
-| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | Daniel Nunes |
+| 1.0        | 30/09/2025   | Cenários  | [Daniel Nunes](https://github.com/DanNunes777)  | [Fernanda Vaz](https://github.com/Fernandavazgit1)   |
+| 1.1   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Daniel Nunes](https://github.com/DanielNunes777) |

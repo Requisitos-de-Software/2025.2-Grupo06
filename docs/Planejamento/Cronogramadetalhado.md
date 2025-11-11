@@ -18,7 +18,7 @@ A tabela 1 apresenta uma visão geral das etapas do projeto com suas respectivas
 |   6   | Pós-rastreabilidade | Gerência II | 22/10 | 30/10  |
 |   7   | Entrega Final | Entrega Final | 14/11 | 24/11 |
 
-Tabela 1 - Cronograma Geral
+*Tabela 1 - Cronograma Geral - Autoria: Gabriel Maciel 2025*
 
 ## Etapa 1 - Equipe, Definição do APP, Planejamento do Projeto, RichPicture
 
@@ -38,7 +38,7 @@ A tabela 2 detalha as atividades relacionadas ao planejamento geral do projeto, 
 | 8. Video de apresentação | 08/09 | 09/09 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 | 9. Video de inspeção | 10/09 | 11/09 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 
-Tabela 2 - Cronograma da Etapa 1
+*Tabela 2 - Cronograma da Etapa 1 - Autoria: Gabriel Maciel, 2025*
 
 ## Etapa 2 - Elicitação: Técnicas e Priorização
 
@@ -67,7 +67,7 @@ A tabela 3 detalha as atividades relacionadas à elicitação, incluindo autores
 |-----------|--------|-----|---------|-----------|
 | 1. Gravação da apresentação | 18/09 | 01/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 
-Tabela 3 - Cronograma da Etapa 2
+*Tabela 3 - Cronograma da Etapa 2 - Autoria: Gabriel Maciel 2025*
 
 ## Etapa 3 - Modelagem de Requisitos: Cenários, Léxico, Use Case, Especificação Suplementar
 
@@ -81,7 +81,7 @@ A tabela 4 detalha as atividades relacionadas à modelagem de requisitos, inclui
 | 4. Especificação suplementar | 02/10 | 12/10 | Gabriel Maciel, João Lucas | Cauã Nicolas, Fernanda Vaz |
 | 5. Gravação da apresentação | 02/10 | 12/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas |
 
-Tabela 4 - Cronograma da Etapa 3
+*Tabela 4 - Cronograma da Etapa 3 - Autoria: Gabriel Maciel 2025*
 
 ## Etapa 4 - Modelagem de Requisitos Ágil: Histórias de Usuário, Backlogs, NFR Framework
 
@@ -94,7 +94,7 @@ A tabela 5 detalha as atividades relacionadas à modelagem de requisitos ágil, 
 | 3. NFR Framework | 14/10 | 21/10 | Daniel Nunes, Gabriel Maciel, João Gabriel | Cauã Nicolas, Fernanda Vaz, João Lucas |
 | 4. Gravação da apresentação | 14/10 | 21/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  |
 
-Tabela 5 - Cronograma da Etapa 4
+*Tabela 5 - Cronograma da Etapa 4 - Autoria: Gabriel Maciel 2025*
 
 ## Etapa 5 - Análise de Requisitos: Verificação e Validação
 
@@ -106,7 +106,7 @@ A tabela 6 detalha as atividades relacionadas à verificação e validação, in
 | 2. Validação de requisitos 1 | 29/10 | 12/11 | Daniel Nunes, Gabriel Maciel, João Gabriel | Cauã Nicolas, João Lucas, Fernanda Vaz |
 | 3. Gravação da apresentação | 29/10 | 12/11 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  |
 
-Tabela 6 - Cronograma da Etapa 5
+*Tabela 6 - Cronograma da Etapa 5 - Autoria: Gabriel Maciel 2025*
 
 ## Etapa 6 - Pós-Rastreabilidade: Gerência II
 
@@ -118,7 +118,7 @@ A tabela 7 detalha as atividades relacionadas à modelagem de requisitos, inclui
 | 2. Forward From | 22/10 | 28/10 | Daniel Nunes, Fernanda Vaz, Gabriel Maciel | Cauã Nicolas, João Gabriel, João Lucas |
 | 3. Gravação da apresentação | 22/10 | 28/10 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas  |
 
-Tabela 7 - Cronograma da Etapa 6
+*Tabela 7 - Cronograma da Etapa 6 - Autoria: Gabriel Maciel, 2025*
 
 ## Referências
 
@@ -128,7 +128,7 @@ Tabela 7 - Cronograma da Etapa 6
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------  | ----------- |
-| 1.0 | 07/09 | Estruturação inicial do cronograma | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
-| 1.0.1 | 07/09 | Correções de datas e de revisores | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
-| 1.0.2 | 07/09 | Adição de textos às tabelas e etapas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
-| 2.0 | 23/09 | Reestruturação do cronograma da Etapa 2 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 1.0 | 07/09 | Estruturação inicial do cronograma | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.1 | 07/09 | Correções de datas e de revisores | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.2 | 07/09 | Adição de textos às tabelas e etapas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.3 | 23/09 | Reestruturação do cronograma da Etapa 2 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |

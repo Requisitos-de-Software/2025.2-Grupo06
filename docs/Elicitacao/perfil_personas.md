@@ -19,7 +19,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 1</b> - Persona Primária Juliana Ferreira Monteiro.</p>
 
 <div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/JULIANA.png" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/JULIANA.png" style="height:200px;width:200px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -46,7 +46,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 2</b> - Persona Primária Diego Almeida Fonseca.</p>
 
 <div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/DIEGO.png" alt="Persona Diego Almeida Fonseca" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/DIEGO.png" alt="Persona Diego Almeida Fonseca" style="height:200px;width:200px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -73,7 +73,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 3</b> - Persona Secundária Maria Moura Bastos.</p>
 
 <div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/maria.png" alt="Persona Maria Moura Bastos" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/maria.png" alt="Persona Maria Moura Bastos" style="height:200px;width:200px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -100,7 +100,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 4</b> - Persona Ocasional Isabela Freitas Corrêa.</p>
 
 <div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/download-_4_.png" alt="Persona Isabela Freitas Corrêa" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/download-_4_.png" alt="Persona Isabela Freitas Corrêa" style="height:200px;width:200px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -127,7 +127,7 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 <p style="text-align: center"><b>Figura 5</b> - Antipersona Fernando D'Angelo.</p>
 
 <div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/fernando.png" alt="Antipersona Fernando D'Angelo" style="height:500px;width:500px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/fernando.png" alt="Antipersona Fernando D'Angelo" style="height:200px;width:200px">
   <p><em>Fonte: Elaborada por <a href="https://github.com/Fernandavazgit1">Fernanda Vaz</a> (2025).</em></p>
 </div>
 
@@ -165,7 +165,7 @@ O uso de personas será um diferencial estratégico no projeto. Elas irão norte
 |--------|------------|------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
 | 1.0    | 28/09/2025 | Criação da página e elaboração das personas    | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
 | 1.1    | 29/09/2025 | Padronização e melhorias na formatação         | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
-| 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+| 1.2   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
 
 ---
 

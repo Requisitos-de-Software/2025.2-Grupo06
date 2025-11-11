@@ -23,7 +23,7 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 | <img src="../../assets/logos/copilot.png" width="45"  alt="Microsoft Copilot logo" /> | Microsoft Copilot | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_14" href="#FRM14"><sup>14</sup></a> |
 
 
-<font size="2"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto - Autores: Fernanda Vaz e Gabriel Maciel</p></font>
 
 
 ## Referências Bibliograficas
