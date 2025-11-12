@@ -102,7 +102,12 @@ Autoria: Fernanda vaz, 2025
 **Figura 06 – Tela 06:**
 
 
-## Validação com usuario (Fernanda Vaz, 2025)
+## Validação com usuário (Fernanda Vaz, 2025)
+!!! warning "DEU ERRO NO FIGMA"
+
+    INFELIZMENTE O FIGMA NÃO MOSTROU A USUÁRIA MEXENDO NA TELA, QUANDO PERCEBI JÁ TINHA FEITO A GRAVAÇÃO COM A USUÁRIA.
+    
+[LINK DO VIDEO NO YOUTUBE](https://youtu.be/4kXUAsyxqFg)
 
 
 
