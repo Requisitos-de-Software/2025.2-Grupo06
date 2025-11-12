@@ -12,6 +12,8 @@ Requisitos escolhidos:
 | RF01 | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Análise de Documentos (RF01), Entrevista (ENT03) |
 | RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Funcional | Entrevista (ENT07) |
 | RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | Funcional | Entrevista (ENT07) |
+| RF15 | Manter histórico de viagens do usuário | Funcional | Análise de Documentos (RNI03) |
+| RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Entrevista (ENT20) |
 | RF28 | Permitir avaliação da qualidade do serviço de cada linha | Funcional | Análise de Documentos (RNI04)                             |
 | RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Entrevista (ENT08)          |
 | RF37 | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Brainstorm (BRS18) |
@@ -22,7 +24,7 @@ Requisitos escolhidos:
 |------------------|----------------------------------------|
 | Fernanda Vaz     |[Elaboração do prototipo 02](#prototipo-02)|
 | Gabriel Maciel   |[Elaboração do protótipo 01](#prototipo-01)|
-| João Gabriel     | ??                                     |
+| João Gabriel     | [Elaboração do protótipo 04](#prototipo-04)                                     |
 | João Lucas       | ??                                     |
 | Daniel Nunes     | ??                                     |
 | Cauã Nicolas     |[Elaboração do protótipo 03](#prototipo-03)|
@@ -146,6 +148,77 @@ Autoria: Cauã Nicolas, 2025
 
 ---
 
+### Prototipo 04
+
+| ID   | Requisito                                                         | Tipo       | Rastreabilidade (origem)                                  |
+|------|-------------------------------------------------------------------|-----------|------------------------------------------------------------|
+| RF15 | Manter histórico de viagens do usuário | Funcional | Análise de Documentos (RNI03) |
+| RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Entrevista (ENT20) |
+
+
+[🔗 Link para o protótipo no Figma](https://www.figma.com/proto/NkqyrIBYcYtGHBxMmJahan/Historico-e-Report-DF-no-Ponto?node-id=1-122&p=f&t=ZqEtuRTrzfsL1YyN-1&scaling=scale-down&page-id=0%3A1)
+
+<iframe
+  style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 8px;"
+  width="800"
+  height="450"
+  src="https://embed.figma.com/proto/NkqyrIBYcYtGHBxMmJahan/Historico-e-Report-DF-no-Ponto?node-id=1-122&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A122&embed-host=share"
+  allowfullscreen>
+</iframe>
+
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Linha 1 -->
+  <div>
+    <a href="https://i.ibb.co/5hgZ69cm/image.png" target="_blank">
+      <img src="https://i.ibb.co/5hgZ69cm/image.png" alt="Tela 1" width="300" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+    </a>
+    <p><em>Figura 1 — Menu Mais</em></p>
+  </div>
+
+  <div>
+    <a href="https://i.ibb.co/Fk0gW0VW/image.png" target="_blank">
+      <img src="https://i.ibb.co/Fk0gW0VW/image.png" alt="Tela 2" width="300" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+    </a>
+    <p><em>Figura 2 — Histórico de Viagens</em></p>
+  </div>
+
+  <!-- Linha 2 -->
+  <div>
+    <a href="https://i.ibb.co/DfjGLX8x/image.png" target="_blank">
+      <img src="https://i.ibb.co/DfjGLX8x/image.png" alt="Tela 3" width="300" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+    </a>
+    <p><em>Figura 3 — Detalhamento da Viagem</em></p>
+  </div>
+
+  <div>
+    <a href="https://i.ibb.co/jvBYrgmM/image.png" target="_blank">
+      <img src="https://i.ibb.co/jvBYrgmM/image.png" alt="Tela 4" width="300" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+    </a>
+    <p><em>Figura 4 — Tela de Report</em></p>
+  </div>
+
+  <!-- Linha 3 -->
+  <div>
+    <a href="https://i.ibb.co/kVvNNQZt/image.png" target="_blank">
+      <img src="https://i.ibb.co/kVvNNQZt/image.png" alt="Tela 5" width="300" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+    </a>
+    <p><em>Figura 5 — Opções de Report</em></p>
+  </div>
+
+  <div>
+    <a href="https://i.ibb.co/RG2Zgbmr/image.png" target="_blank">
+      <img src="https://i.ibb.co/RG2Zgbmr/image.png" alt="Tela 6" width="300" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+    </a>
+    <p><em>Figura 6 — Tela de Solicitação Enviada</em></p>
+  </div>
+
+</div>
+
+
+
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -153,3 +226,4 @@ Autoria: Cauã Nicolas, 2025
 | 1.0 | 09/11| Criação do prototipo 02 | [Fernanda vaz](https://github.com/Fernandavazgit1)  | [Cauã Nicolas](https://github.com/cauanicolas) |
 | 1.1 | 10/11 | Criação do protótipo 01 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
 | 1.2 | 11/11 | Criação do protótipo 03 | [Cauã Nicolas](https://github.com/cauanicolas) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| 1.3 | 12/11 | Criação do protótipo 04 | João Gabriel | Fernanda Vaz |
