@@ -46,68 +46,45 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ## Cenário
 
-<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
-  <thead>
-    <tr style="background-color: #020058ff; color: #c4fa03ff; text-align: center;">
-      <th>ID</th>
-      <th>Item de Verificação</th>
-      <th>Autor</th>
-      <th>Link para Imagem</th>
-    </tr>
-  </thead>
-  <tbody style="text-align: center;">
-    <tr><td>1</td><td>O cenário descreve o comportamento da persona de forma coerente?</td><td>Fernanda Vaz</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>2</td><td>O cenário possui enredo, ambiente e contexto claramente definidos?</td><td>Fernanda Vaz</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>3</td><td>O objetivo principal do cenário está definido e alinhado com o sistema?</td><td>Fernanda Vaz</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>4</td><td>O cenário está vinculado a uma persona específica?</td><td>Fernanda Vaz</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>5</td><td>O cenário descreve passo a passo as ações da persona e as interações com o sistema?</td><td>Fernanda Vaz</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>6</td><td>O cenário considera os recursos disponíveis e limitações do sistema?</td><td>Fernanda Vaz</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>7</td><td>Há uma forma clara de verificar quando uma ação ou objetivo foi concluído com sucesso?</td><td>Fernanda Vaz</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-  </tbody>
-</table>
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 1 | O cenário descreve o comportamento do autor? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 2 | O cenário descreve as experiências dos autores? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 3 | O cenário possui um enredo, ambiente e contexto? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 4 | Está vinculado a uma persona e descreve passo a passo o que ela faz? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 5 | Considera recursos disponíveis e formas de sucesso das ações? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 
 ---
 
 ## Elicitação de Requisitos
 
-<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
-  <thead>
-    <tr style="background-color: #020058ff; color: #c4fa03ff; text-align: center;">
-      <th>ID</th>
-      <th>Item de Verificação</th>
-      <th>Autor</th>
-      <th>Link para Imagem</th>
-    </tr>
-  </thead>
-  <tbody style="text-align: center;">
-    <tr><td>8</td><td>O protocolo de comunicação (anotar, confirmar, validar) foi utilizado para evitar falhas?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>9</td><td>O processo de elicitação foi tratado de forma iterativa e integrada à análise de requisitos?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>10</td><td>Os resultados da elicitação foram confirmados com as partes interessadas?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>11</td><td>As entrevistas seguiram um roteiro prévio e focaram nos objetivos do projeto?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>12</td><td>Todas as partes interessadas relevantes foram identificadas?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-  </tbody>
-</table>
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 6 | O protocolo do garçom foi utilizado para evitar falhas de comunicação? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 7 | O processo de elicitação foi iterativo e validado com as partes interessadas? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 8 | As entrevistas seguiram roteiro e focaram nos objetivos do projeto? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 9 | Todas as partes interessadas foram identificadas? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 
 ---
 
 ## Priorização de Requisitos
 
-<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
-  <thead>
-    <tr style="background-color: #020058ff; color: #c4fa03ff; text-align: center;">
-      <th>ID</th>
-      <th>Item de Verificação</th>
-      <th>Autor</th>
-      <th>Link para Imagem</th>
-    </tr>
-  </thead>
-  <tbody style="text-align: center;">
-    <tr><td>13</td><td>O processo de priorização foi iterativo e revisitado ao longo do projeto?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>14</td><td>Foram considerados valor, custo e risco durante a priorização?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>15</td><td>Foi evitada a priorização por influência (voz mais alta ou poder político)?</td><td>João Gabriel</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-    <tr><td>16</td><td>A classificação MoSCoW está devidamente aplicada e documentada?</td><td>Cauã Nicolas</td><td><a href="https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0" target="_blank">Visualizar</a></td></tr>
-  </tbody>
-</table>
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 10 | O processo de priorização foi iterativo e revisitado? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 11 | Foram considerados valor, custo e risco na priorização? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 12 | Os critérios MoSCoW foram aplicados corretamente? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+
+---
+
+## Personas
+
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 13 | As personas possuem nome, arquétipo e objetivos definidos? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 14 | As dificuldades e tarefas principais estão descritas? | Daniel Nunes | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 15 | O elenco de personas representa a diversidade dos usuários? | João Lucas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+
 
 ---
 
@@ -116,3 +93,4 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:--:|:--:|:--|:--|:--|
 | **2.0** | 11/11/2025 | Revisão estrutural, remoção de redundâncias e adição de link para evidências | Fernanda Vaz | – |
+
