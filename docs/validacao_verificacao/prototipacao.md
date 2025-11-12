@@ -54,6 +54,10 @@ Autoria: Gabriel Maciel, 2025
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/4LkEDtfUrmPIAmDj82of0a/Sem-t%C3%ADtulo?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
+## Validação com usuário (Gabriel Maciel, 2025)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dqrg4cmvNkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ### Prototipo 02
@@ -145,6 +149,10 @@ Autoria: Cauã Nicolas, 2025
 [link para o prototipo ](https://www.figma.com/proto/SGUEA3vqHDUj8UnI4UXsf9/DF-no-Ponto---Prototipa%C3%A7%C3%A3o?node-id=6129-32&p=f&t=MVDnhTLPrgwQG5jW-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/SGUEA3vqHDUj8UnI4UXsf9/DF-no-Ponto---Prototipa%C3%A7%C3%A3o?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+## Validação com usuário (Cauã Nicolas, 2025)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jNyNpGsfBvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
