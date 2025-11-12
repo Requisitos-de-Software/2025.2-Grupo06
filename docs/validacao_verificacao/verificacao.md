@@ -44,7 +44,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Cenário
+### Cenário
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
@@ -56,7 +56,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Elicitação de Requisitos
+### Elicitação de Requisitos
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
@@ -67,7 +67,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Priorização de Requisitos
+### Priorização de Requisitos
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
@@ -77,7 +77,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Personas e elenco
+### Personas e elenco
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
@@ -88,7 +88,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Perfil de Usuário
+### Perfil de Usuário
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
@@ -120,8 +120,6 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 02 | O cliente atribuiu valor (uma prioridade) à história de usuário, levando em consideração o retorno que este recurso ou função trará para o negócio global? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_2.png) |
 | 03 | Clientes e desenvolvedores trabalham juntos para decidir como agrupar histórias para a versão seguinte? | Fernanda Vaz | [Visualizar](https://i.ibb.co/0WRXV3r/image.png) |
 | 04 | As histórias de usuário estão descrevendo o resultado para o software ser construído? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
-| 05 | As histórias de usuário foram escritas pelo cliente? | João Ramos | [Visualizar](https://ibb.co/v6Hychrt) |
-| 06 | O cliente atribui um valor a história de usuário baseado no valor do negócio? | João Ramos | [Visualizar](https://ibb.co/VYDgWSTD) |
 
 ### Backlog
 | ID | Item de Verificação | Autor | Link |
@@ -130,7 +128,6 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 02 | O conteúdo da lista é definido pelo Product Owner? | Fernanda Vaz | [Visualizar](https://i.ibb.co/DDz0Xhmj/image.png) |
 | 03 | O Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários? | Fernanda Vaz | [Visualizar](https://i.ibb.co/DDz0Xhmj/image.png) |
 | 04 | No processo da Sprint Planning Meeting, o Product Owner está priorizando os itens do Product Backlog? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_4/2-Backlog.png) |
-| 05 | O Product Backlog foi tratado como um artefato dinâmico, que cresce quando o conhecimento sobre o produto aumenta? | João Ramos | [Visualizar](https://ibb.co/Hfqsq9JN) |
 
 ---
 
