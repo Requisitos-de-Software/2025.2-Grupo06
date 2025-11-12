@@ -77,7 +77,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Personas
+## Personas e elenco
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
@@ -88,9 +88,21 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
+## Perfil de Usuário
+
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 21 | O perfil foi construído com base em proporção de usuários com características semelhantes? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 22 | O nome completo e os campos obrigatórios estão preenchidos corretamente? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 23 | O usuário pode editar seus próprios dados e definir informações como idioma e nacionalidade? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 24 | O perfil apresenta um layout acessível e intuitivo? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 25 | As informações registradas incluem idade, escolaridade e profissão do usuário? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+
+
 ##  Histórico de Versão
 
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:--:|:--:|:--|:--|:--|
 | **2.0** | 11/11/2025 | Revisão estrutural, remoção de redundâncias e adição de link para evidências | Fernanda Vaz | – |
+
 
