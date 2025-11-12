@@ -60,8 +60,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
-| 6 | O protocolo do garçom foi utilizado para evitar falhas de comunicação? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 7 | O processo de elicitação foi iterativo e validado com as partes interessadas? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 6 | O processo de elicitação foi iterativo e validado com as partes interessadas? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 8 | As entrevistas seguiram roteiro e focaram nos objetivos do projeto? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 9 | Todas as partes interessadas foram identificadas? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 
@@ -71,7 +70,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
-| 10 | O processo de priorização foi iterativo e revisitado? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 10 | O processo de priorização foi revisitado? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 11 | Foram considerados valor, custo e risco na priorização? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 12 | Os critérios MoSCoW foram aplicados corretamente? | Cauã Nicolas | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 
@@ -94,9 +93,8 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 |----|----------------------|--------|------|
 | 21 | O perfil foi construído com base em proporção de usuários com características semelhantes? | João Gabriel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 22 | O nome completo e os campos obrigatórios estão preenchidos corretamente? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 23 | O usuário pode editar seus próprios dados e definir informações como idioma e nacionalidade? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 24 | O perfil apresenta um layout acessível e intuitivo? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 25 | As informações registradas incluem idade, escolaridade e profissão do usuário? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 23 | O perfil apresenta um layout acessível e intuitivo? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 24 | As informações registradas incluem idade, escolaridade e profissão do usuário? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 
 ---
 
@@ -136,5 +134,6 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:--:|:--:|:--|:--|:--|
 | **2.0** | 11/11/2025 | Revisão estrutural, remoção de redundâncias e adição de link para evidências | Fernanda Vaz | Cauã Nicolas |
+
 
 
