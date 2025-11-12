@@ -109,12 +109,12 @@ Autoria: Fernanda vaz, 2025
 **Figura 07 – Tela 07:**
 
 ## protótipo funcionando:
+
 <p align="center">
-  <img src="../assets/imagens/fernanda.gif" 
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/fernanda.gif" 
        alt="Protótipo funcionando – DF no Ponto" 
        width="320">
 </p>
-
 <p align="center"><strong>Figura 09 – Protótipo funcionando do aplicativo DF no Ponto</strong></p>
 
 
