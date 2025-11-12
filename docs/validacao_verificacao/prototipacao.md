@@ -150,6 +150,8 @@ Autoria: Cauã Nicolas, 2025
 
 ### Prototipo 04
 
+Autoria: João Gabriel, 2025
+
 | ID   | Requisito                                                         | Tipo       | Rastreabilidade (origem)                                  |
 |------|-------------------------------------------------------------------|-----------|------------------------------------------------------------|
 | RF15 | Manter histórico de viagens do usuário | Funcional | Análise de Documentos (RNI03) |

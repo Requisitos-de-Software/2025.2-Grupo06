@@ -1,4 +1,42 @@
-## Lista (2.0) para Elicitação de Requisitos e Priorização  
+# Versão Final Listas de Verificação
+
+Esta página apresenta as versões finais de cada lista de verificação de cada etapa feita no projeto, corrigindo diversos fatores como remoção de itens redundantes, adição de novos itens mais relevantes para aquele tópico e edição de itens para que sejam mais facilmente verificaveis em um projeto. 
+
+## Etapa 1 - Planejamento do Projeto
+### **Rich Picture (v2.0)** 
+
+2,3,
+
+### Autoria: João Gabriel, 2025
+
+| ID  | Item de Verificação                                                                 | Autor               | Link para Imagem                                                                 |
+|-----|--------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------|
+| 01  | O rich picture está sendo usado para analisar problemas e expressar ideias?         | Fernanda Vaz        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 02  | Os principais stakeholders estão sendo representados no rich picture?               | Fernanda Vaz        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 03  | O rich picture identifica as questões ou preocupações dos stakeholders?             | Fernanda Vaz        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 04  | Para cada ator está identificado as operações que eles precisam realizar?           | Fernanda Vaz        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 05  | Os autores estão identificados no domínio do problema?                              | Fernanda Vaz        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 06  | O Limite do sistema está desenhado para definir sua área de responsabilidade?       | Fernanda Vaz        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 07  | O rich picture comunica uma mensagem clara e compreensível sobre o sistema?         | Gabriel Maciel      | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 08  | As operações representam funcionalidades do sistema e são executadas por atores?    | Gabriel Maciel      | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 09  | As operações são representadas por círculos ou ovais com descrição breve?           | Gabriel Maciel      | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 10  | Os armazenamentos de dados são representados por um retângulo?                      | Gabriel Maciel      | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 11  | Os armazenamentos possuem descrição do tipo de dado lido/escrito?                   | Gabriel Maciel      | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 12  | As interações com armazenamentos são feitas exclusivamente por operações?           | Gabriel Maciel      | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 13  | Pessoas foram entrevistadas para construção do Rich Picture?                        | João Gabriel        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 14  | A entrevista foi feita com pessoas do local de trabalho do projeto?                 | João Gabriel        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 15  | O Rich Picture foi construído durante um Brainstorm no local de trabalho?           | João Gabriel        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 16  | O Rich Picture ajudou na consolidação das ideias de forma consistente?              | João Gabriel        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 17  | O Rich Picture demonstrou o nível organizacional do projeto?                        | João Gabriel        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 18  | O Rich Picture ajudou a levantar problemas não vistos anteriormente?                | João Gabriel        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 19  | As setas mostram o fluxo de dados entre atores, dados e operações?                  | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 20  | As setas estão cruzando os limites do sistema?                                      | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 21  | As setas são representadas graficamente com ponta única?                            | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 22  | As setas possuem legendas indicando sua funcionalidade?                             | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 23  | Os atores são representados graficamente por um boneco?                             | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 24  | O limite do sistema é representado por linha circular ou tracejada?                 | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document)
+
+## Lista (2.0) para Elicitação de Requisitos e Priorização 
 
 ### Autoria: Fernanda Vaz, 2025  
 
