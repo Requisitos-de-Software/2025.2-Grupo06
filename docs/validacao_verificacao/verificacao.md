@@ -126,17 +126,18 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ### Backlog
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
-| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
-| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
-| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
-| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
-| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
+| 01 | Os itens do Backlog estão descritos de forma detalhada, conforme o princípio "Detailed" da técnica DEEP? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_backlog_2.png) |
+| 02 | O conteúdo da lista é definido pelo Product Owner? | Fernanda Vaz | [Visualizar](https://i.ibb.co/DDz0Xhmj/image.png) |
+| 03 | O Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários? | Fernanda Vaz | [Visualizar](https://i.ibb.co/DDz0Xhmj/image.png) |
+| 04 | No processo da Sprint Planning Meeting, o Product Owner está priorizando os itens do Product Backlog? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_4/2-Backlog.png) |
+| 05 | O Product Backlog foi tratado como um artefato dinâmico, que cresce quando o conhecimento sobre o produto aumenta? | João Ramos | [Visualizar](https://ibb.co/Hfqsq9JN) |
 
+---
 
 ##  Histórico de Versão
 
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:--:|:--:|:--|:--|:--|
-| **2.0** | 11/11/2025 | Revisão estrutural, remoção de redundâncias e adição de link para evidências | Fernanda Vaz | – |
+| **2.0** | 11/11/2025 | Revisão estrutural, remoção de redundâncias e adição de link para evidências | Fernanda Vaz | Cauã Nicolas |
 
 
