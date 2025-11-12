@@ -109,12 +109,13 @@ Autoria: Fernanda vaz, 2025
 **Figura 07 – Tela 07:**
 
 ## protótipo funcionando:
-
 <p align="center">
-  <img src="assets/imagens/DFNOPONTO%20-%20Screencastify%20-%20November%2011,%202025%209_48%20PM.gif" 
+  <img src="../assets/imagens/fernanda.gif" 
        alt="Protótipo funcionando – DF no Ponto" 
-       width="300">
+       width="320">
 </p>
+
+<p align="center"><strong>Figura 09 – Protótipo funcionando do aplicativo DF no Ponto</strong></p>
 
 
 ## Validação com usuário (Fernanda Vaz, 2025)
