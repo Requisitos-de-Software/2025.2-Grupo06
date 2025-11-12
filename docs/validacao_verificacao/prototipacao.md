@@ -110,24 +110,11 @@ Autoria: Fernanda vaz, 2025
 
 ## protótipo funcionando:
 
-<iframe 
-  width="720" 
-  height="600" 
-  src="https://app.screencastify.com/embed/TA3Y2UmhAiDXmaDhjRNr" 
-  title="Protótipo DF no Ponto - Screencastify (11/11/2025)" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
-</iframe>
-
-  
-
-
-
-
-
-
+<p align="center">
+  <img src="assets/imagens/DFNOPONTO%20-%20Screencastify%20-%20November%2011,%202025%209_48%20PM.gif" 
+       alt="Protótipo funcionando – DF no Ponto" 
+       width="300">
+</p>
 
 
 ## Validação com usuário (Fernanda Vaz, 2025)
