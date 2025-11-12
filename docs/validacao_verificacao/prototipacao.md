@@ -99,7 +99,35 @@ Autoria: Fernanda vaz, 2025
 
 ---
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/1YhpfBDd/Opera-Instant-neo-2025-11-11-193358-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-193358-www-figma-com" border="0"></a>  
+
 **Figura 06 – Tela 06:**
+
+---
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Lhh4P0D5/Opera-Instant-neo-2025-11-11-211824-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-211824-www-figma-com" border="0"></a>
+
+**Figura 07 – Tela 07:**
+
+## protótipo funcionando:
+
+<iframe 
+  width="720" 
+  height="600" 
+  src="https://app.screencastify.com/embed/TA3Y2UmhAiDXmaDhjRNr" 
+  title="Protótipo DF no Ponto - Screencastify (11/11/2025)" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
+
+  
+
+
+
+
+
+
 
 
 ## Validação com usuário (Fernanda Vaz, 2025)
