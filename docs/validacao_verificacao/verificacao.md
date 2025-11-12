@@ -116,14 +116,21 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ### Histórias de Usuários
 | ID | Item de Verificação | Autor | Link |
 |----|----------------------|--------|------|
-| 01 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
-| 02 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Vi2sualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
-| 03 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
-| 04 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
-| 05 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
-| 06 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
+| 02 | O cliente atribuiu valor (uma prioridade) à história de usuário, levando em consideração o retorno que este recurso ou função trará para o negócio global? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_2.png) |
+| 03 | Clientes e desenvolvedores trabalham juntos para decidir como agrupar histórias para a versão seguinte? | Fernanda Vaz | [Visualizar](https://i.ibb.co/0WRXV3r/image.png) |
+| 04 | As histórias de usuário estão descrevendo o resultado para o software ser construído? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 05 | As histórias de usuário foram escritas pelo cliente? | João Ramos | [Visualizar](https://ibb.co/v6Hychrt) |
+| 06 | O cliente atribui um valor a história de usuário baseado no valor do negócio? | João Ramos | [Visualizar](https://ibb.co/VYDgWSTD) |
 
 ### Backlog
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
+| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
+| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
+| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
+| 01 | As histórias de usuário são escritas pelos clientes do software? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_historia_1.png) |
 
 
 ##  Histórico de Versão
