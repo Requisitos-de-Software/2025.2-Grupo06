@@ -56,7 +56,9 @@ Autoria: Gabriel Maciel, 2025
 
 ## Validação com usuário (Gabriel Maciel, 2025)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dqrg4cmvNkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dqrg4cmvNkc?si=zdVNptffEYAURbR2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ---
 
@@ -152,7 +154,7 @@ Autoria: Cauã Nicolas, 2025
 
 ## Validação com usuário (Cauã Nicolas, 2025)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jNyNpGsfBvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNyNpGsfBvw?si=_MfSEGts313e2aze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
