@@ -98,6 +98,33 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 24 | O perfil apresenta um layout acessível e intuitivo? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 25 | As informações registradas incluem idade, escolaridade e profissão do usuário? | Gabriel Maciel | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 
+---
+
+## Etapa 4 - Modelagem de Requisitos
+
+### Autoria: Cauã Nicolas, 2025
+
+### NFR Framework
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 01 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 02 | Os Softgoals de Operacionalização representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização? | Fernanda Vaz | [Visualizar](https://i.ibb.co/rRgGd1xH/image.png) |
+| 03 | Existem três tipos de softgoals utilizados pelo NFR Framework? | Fernanda Vaz | [Visualizar](https://i.ibb.co/8njd3pN6/image.png) |
+| 04 | O tipo de contribuição AND está determinando que se os softgoals descendentes forem satisfeitos os softgoals ascendentes serão satisfeitos? | João Ramos | [Visualizar](https://ibb.co/GfKX6nwT) |
+| 05 | O tipo de contribuição OR está determinando que se algum softgoal descendente for satisfeito, o ascendente será satisfeito? | João Ramos | [Visualizar](https://ibb.co/tTr0qP8t) |
+ 
+### Histórias de Usuários
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 01 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 02 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Vi2sualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 03 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 04 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 05 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 06 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) |
+
+### Backlog
+
 
 ##  Histórico de Versão
 
