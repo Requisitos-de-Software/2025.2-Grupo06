@@ -292,6 +292,38 @@ Autoria: Daniel Nunes Duarte, 2025
 
 [LINK DO VÍDEO DE VALIDAÇÃO (se disponível)](#)
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 18px;">
+
+  <div>
+    <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20221153.png" target="_blank">
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20221153.png" alt="Tela Prototipo06 - Rotas multimodais 1" width="300" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.12);">
+    </a>
+    <p><em>Figura 01 — Planejamento multimodal (visão geral)</em></p>
+  </div>
+
+  <div>
+    <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20221207.png" target="_blank">
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20221207.png" alt="Tela Prototipo06 - Rotas multimodais 2" width="300" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.12);">
+    </a>
+    <p><em>Figura 02 — Opções de transferência e tempos estimados</em></p>
+  </div>
+
+  <div>
+    <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20221855.png" target="_blank">
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20221855.png" alt="Tela Prototipo06 - Compartilhamento 1" width="300" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.12);">
+    </a>
+    <p><em>Figura 03 — Botão 'Compartilhar trajeto' e opções de envio</em></p>
+  </div>
+
+  <div>
+    <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20222025.png" target="_blank">
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.2-Grupo06/refs/heads/main/docs/assets/imagens/Captura%20de%20tela%202025-11-12%20222025.png" alt="Tela Prototipo06 - Compartilhamento 2" width="300" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.12);">
+    </a>
+    <p><em>Figura 04 — Visualização do trajeto compartilhado com ETA</em></p>
+  </div>
+
+</div>
+
 ---
 
 ## Histórico de Versões
