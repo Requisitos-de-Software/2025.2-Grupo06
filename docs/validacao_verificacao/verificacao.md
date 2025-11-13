@@ -2,7 +2,7 @@
 
 Esta página apresenta as versões finais de cada lista de verificação de cada etapa feita no projeto, corrigindo diversos fatores como remoção de itens redundantes, adição de novos itens mais relevantes para aquele tópico e edição de itens para que sejam mais facilmente verificaveis em um projeto. 
 
-## Etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade
+## Etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade v(2.0)
 ### **Rich Picture (v2.0)** 
 
 *Autoria: João Gabriel, 2025*
@@ -18,7 +18,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 07 | Elementos gráficos seguem padrões reconhecíveis (bonecos para atores, setas para fluxos)? | Cauã Nicolas | [Ver imagem](https://i.ibb.co/zVmjcbbh/image.png) |
 | 08 | A comunicação visual é clara e compreensível para diferentes stakeholders? | Todos | [Ver imagem](https://i.ibb.co/fGKxh5Hk/image.png) |
 
-## Lista (2.0) para Elicitação de Requisitos e Priorização 
+## Etapa 2 - Elicitação de Requisitos e Priorização v(2.0)
 
 ### Autoria: Fernanda Vaz, 2025  
 
@@ -80,7 +80,73 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Etapa 4 - Modelagem de Requisitos
+## Etapa 4 - Modelagem de Requisitos 1 (v2.0)
+
+### Autoria: João Ramos, 2025
+
+### Lista de Verificação Cenários
+
+| ID | Item de Verificação | Autor | Link |
+|:---|:---|:---|:---|
+| 01 | O cenário possui um ambiente ou contexto?[(1)](#ref-1) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/1fF56YTp/image.png) |
+| 02 | O cenário possui atores?[(2)](#ref-1) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/TBW0MVgH/image.png) |
+| 03 | Os cenários possuem eventos(ações externas ou reações produzidas pelo computador ou outras características do ambiente)?[(9)](#ref-9) | João Ramos | [Ver imagem](https://i.ibb.co/W4JGcHJz/Captura-de-tela-de-2025-10-12-22-29-344.png) |
+| 05 | O cenário tem avaliação(atividade mental dirigida para interpretar a situação)?[(10)](#ref-9) | João Ramos | [Ver imagem](https://i.ibb.co/CpRGhdWh/Captura-de-tela-de-2025-10-12-22-31-233.png) |
+| 06 | A narrativa do cenário expressa, através das necessidades e objetivos do seu dia-a-dia, o que o ator busca no produto a ser desenvolvido? | Gabriel Maciel | [Ver imagem](../assets/imagens/checklist_3/7.png) |
+| 07 | O ator descrito pelo cenário é derivado de informações de usuários reais (previamente obtidas no processo de desenvolvimento do perfil de usuário)? | Gabriel Maciel | [Ver imagem](../assets/imagens/checklist_3/6.png) |
+| 08 | O cenário é apresentado como uma narrativa concreta e rica em detalhes contextuais, descrevendo uma "história" sobre pessoas realizando uma atividade, em vez de ser uma lista abstrata de passos? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/6.png) |
+| 09 | O cenário demonstra ter sido detalhado e refinado para evitar ambiguidades ou omissões, por exemplo, através de técnicas de questionamento sistemático (perguntando "por quê?", "como?", etc.) para enriquecer a narrativa? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/6.png) |
+
+---
+
+### Lista de Verificação Léxicos
+
+
+| ID | Item de Verificação | Autor | Link |
+|:---|:---|:---|:---|
+| 01 | O léxico possui **noção**?[(1)](#ref-3) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/PGg7C69R/image.png) |
+| 02 | O léxico possui um simbolo com zero ou mais sinônimo?[(2)](#ref-3) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/PGg7C69R/image.png) |
+| 03 | Os léxicos do tipo "objeto" é utilizado ou alterado por alguma ação realizada no sistema? | Gabriel Maciel | [Ver imagem](../assets/imagens/checklist_3/print_4.png) |
+| 04 | Os léxicos do tipo estado são decorrentes do impacto? | João Ramos | [Ver imagem](https://i.ibb.co/CszjPq8W/Captura-de-tela-de-2025-10-12-22-47-254.png) |
+| 05 | O léxico pussui uma noção? | João Ramos | [Ver imagem](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) |
+| 06 | O léxico apresenta algum dos tipos de estados? | Daniel Nunes Duarte | [Ver imagem](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) |
+| 07 | Apresenta alguma das noções dos lexicos? | Daniel Nunes Duarte | [Ver imagem](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) |
+
+---
+
+### Lista de Verificação Casos de Uso
+
+
+| ID | Item de Verificação | Autor | Link |
+|:---|:---|:---|:---|
+| 01 | O caso de uso possui atores?[(1)](#ref-4) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/RkcB0dX9/image.png) |
+| 02 | O caso de uso possui Associações?[(2)](#ref-4) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/Wv10zKfw/image.png) |
+| 03 | O nome do sistema está representado no topo do retângulo?[(5)](#ref-6) | João Ramos | [Ver imagem](https://i.ibb.co/LD1kHmpf/Captura-de-tela-de-2025-10-12-22-06-055.png) |
+| 04 | Os atores estão fora do sistema(retângulo)[(6)](#ref-6) | João Ramos | [Ver imagem](https://i.ibb.co/2TcYV1q/Captura-de-tela-de-2025-10-12-22-11-077.png) |
+| 05 | O nome do sistema está representado no topo do retângulo?[(5)](#ref-6) | João Ramos | [Ver imagem](https://i.ibb.co/LD1kHmpf/Captura-de-tela-de-2025-10-12-22-06-055.png) |
+| 06 | Os atores estão fora do sistema(retângulo)[(6)](#ref-6) | João Ramos | [Ver imagem](https://i.ibb.co/2TcYV1q/Captura-de-tela-de-2025-10-12-22-11-077.png) |
+| 07 | O diagrama de casos de uso UML apresenta o fluxo básico das funcionalidades do sistema? | Gabriel Maciel | [Ver imagem](../assets/imagens/checklist_3/print_2.png) |
+| 08 | Cada ator está interagindo com pelo menos um caso de uso? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/print_2.png) |
+
+---
+
+### Lista de Verificação Especificação Suplementar
+
+
+| ID | Item de Verificação | Autor | Link |
+|:---|:---|:---|:---|
+| 01 | A Especificação Suplementar captura os requisitos de sistema?[(1)](#ref-6) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/twMfmPhs/image.png) |
+| 02 | A Especificação Suplementar possui analise de usabilidade?[(2)](#ref-6) | Fernanda Vaz | [Ver imagem](https://i.ibb.co/0pFcB8Wx/image.png) |
+| 03 | Foram especificados os requisitos de confiabilidade(como disponibilidade, tempo médio de falhas, tempo médio de reparo, exatidão, taxa máxima de erros ou defeitos e taxa de erros ou defeitos)?[(4)](#ref-8) | João Ramos | [Ver imagem](https://i.ibb.co/F4yLBB90/Captura-de-tela-de-2025-10-12-21-41-399.png) |
+| 04 | Foram especificados os requisitos de suportabilidade ou manutenibilidade do sistema?[(5)](#ref-8) | João Ramos | [Ver imagem](https://i.ibb.co/YTymr8tp/Captura-de-tela-de-2025-10-12-21-44-277.png) |
+| 05 | A introdução da especificação suplementar dá uma visão geral do documento? | Gabriel Maciel | [Ver imagem](../assets/imagens/checklist_3/1.png) |
+| 06 | A seção de identificação do projeto especifica a sigla do projeto? | Gabriel Maciel | [Ver imagem](../assets/imagens/checklist_3/3.png) |
+| 07 | Foram definidos critérios de Desempenho, como tempos de resposta para transações específicas ou a capacidade de usuários que o sistema deve suportar? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/3.png) |
+| 08 | As Interfaces foram detalhadas o suficiente para permitir o desenvolvimento e a verificação? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/3.png) |
+
+---
+
+## Etapa 4 - Modelagem de Requisitos 2(Ágil) v(2.0)
 
 ### Autoria: Cauã Nicolas, 2025
 
@@ -116,7 +182,8 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:--:|:--:|:--|:--|:--|
 | **2.0** | 11/11/2025 | Revisão estrutural, remoção de redundâncias e adição de link para evidências | Fernanda Vaz | Cauã Nicolas |
-| **2.1** | 12/11/2025 | Adição da lista da Etapa 1 | João Gabriel | João Lucas |
+| **2.1** | 12/11/2025 | Adição da lista da Etapa 1 | João Gabriel | João Ramos |
+| **2.2** | 12/11/2025 | Adição da lista da Etapa 3 | João Ramos | João Gabriel |
 
 
 
