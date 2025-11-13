@@ -80,7 +80,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Etapa 4 - Modelagem de Requisitos 1 (v2.0)
+## Etapa 3 - Modelagem de Requisitos 1 (v2.0)
 
 ### Autoria: João Ramos, 2025
 
@@ -177,7 +177,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
-## Etapa 6 - Pós-Rastreabilidade
+## Etapa 6 - Pós-Rastreabilidade v(2.0)
 
 ### Autoria: Cauã Nicolas, 2025
 
