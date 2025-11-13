@@ -169,6 +169,13 @@ Autoria: João Gabriel, 2025
 | RF15 | Manter histórico de viagens do usuário | Funcional | Análise de Documentos (RNI03) |
 | RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Entrevista (ENT20) |
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJG_Z4BNBXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Vídeo 4 - Validação Protipo RF15,RF16*
+
+---
 
 [🔗 Link para o protótipo no Figma](https://www.figma.com/proto/NkqyrIBYcYtGHBxMmJahan/Historico-e-Report-DF-no-Ponto?node-id=1-122&p=f&t=ZqEtuRTrzfsL1YyN-1&scaling=scale-down&page-id=0%3A1)
 
