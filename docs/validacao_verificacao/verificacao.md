@@ -177,6 +177,32 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 ---
 
+## Etapa 6 - Pós-Rastreabilidade
+
+### Autoria: Cauã Nicolas, 2025
+
+### NFR Framework
+| ID | Item de Verificação | Autor | Link |
+|----|----------------------|--------|------|
+| 01 | A rastreabilidade forward-to (para frente) liga documentos obtidos no processo de elicitação a requisitos relevantes? | Fernanda Vaz | [Visualizar](https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/imagens/check5/imagem_2025-10-27_203140850.png?raw=true) |
+| 02 | A rastreabilidade backward-from (para trás) liga requisitos às suas fontes? | Fernanda Vaz | [Visualizar](https://i.ibb.co/sp1NvSFg/image.png) |
+| 03 | A rastreabilidade de requisitos pode ser vista como a habilidade de acompanhar e descrever a vida de um requisito? | Fernanda Vaz | [Visualizar](https://i.ibb.co/35h2NwmG/image.png) |
+| 04 | A rastreabilidade proposta por Toranzo utiliza quatro estratégias de trabalho? | Fernanda Vaz | [Visualizar](https://i.ibb.co/5XJtTZk4/image.png) |
+| 05 | O recurso está indicando a dependência de recurso da classe de origem com a classe de destino? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_5/6-lv.png) |
+| 06 | O nível desenvolvimento está incluindo informações aos diversos artefatos no processo de desenvolvimento? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_5/9-lv.png) |
+| 07 | A satisfação está indicando a dependência de satisfação da classe de origem com a classe de destino? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_5/10-lv.png) |
+| 08 | A rastreabilidade forward-from liga requisitos a outros artefatos do sistema? | João Gabriel | [Visualizar](https://ibb.co/gZnzf0BX) |
+| 09 | A rastreabilidade backward-to liga artefatos do sistema aos requisitos de origem? | João Gabriel| [Visualizar](https://ibb.co/gZnzf0BX) |
+| 10 | A matriz de rastreabilidade é utilizada para documentar as relações entre requisitos e outros artefatos? | João Gabriel | [Visualizar](https://ibb.co/gZnzf0BX) |
+| 11 | As informações classificadas em nível de desenvolvimento são informações de artefatos gerados durante o processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, etc)? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_5/18-lv.png) |
+| 12 | Sobre o elo de representação, os requisitos são representados ou modelados em outras linguagens? | Gabriel Maciel | [Visualizar](../assets/imagens/checklist_5/19-lv.png) |
+| 13 | As informações rastreadas estão classificadas no nível ambiental, organizacional, gerencial ou desenvolvimento? | João Ramos | [Visualizar](../assets/imagens/checklist_5/21-lv.png) |
+| 14 | O nível ambiental apresenta informações oriundas do contexto no qual a organização está inserida? | João Ramos | [Visualizar](../assets/imagens/checklist_5/21-lv.png) |
+| 15 | O nível organizacional apresenta informações pertencentes à organização (missão, objetivos e estratégias)? | João Ramos | [Visualizar](../assets/imagens/checklist_5/21-lv.png) |
+| 16 | O nível gerencial apresenta informações que auxiliam a gerência do projeto? | João Ramos | [Visualizar](../assets/imagens/checklist_5/21-lv.png) |
+| 17 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar]() |
+
+
 ##  Histórico de Versão
 
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
