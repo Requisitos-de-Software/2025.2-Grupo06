@@ -62,6 +62,7 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | BRS17 | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)  | RNF | Brainstorm
 | BRS18 | Sistema de notificação com som e vibração configuráveis.  | RNF | Brainstorm
 | BRS19 | Listar linhas que passam em uma parada específica  | RF | Brainstorm
+| BRS20 | Visualizar linhas que possuem ar-condiconado  | RF | Brainstorm
 
 
 

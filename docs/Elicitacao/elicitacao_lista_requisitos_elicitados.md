@@ -49,6 +49,7 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | [**RF35**](../Pos-rastreabilidade/forward.md#RF35) | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | Funcional | Entrevista (ENT12) |
 | [**RF36**](../Pos-rastreabilidade/forward.md#RF36) | Oferecer suporte multilíngue (português e inglês, no mínimo) | Funcional | Entrevista (ENT22) |
 | [**RF37**](../Pos-rastreabilidade/forward.md#RF37) | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Brainstorm (BRS18) |
+| [**RF38**](../Pos-rastreabilidade/forward.md#RF38) | Visualizar linhas que possuem ar-condicionado | Funcional | Brainstorm (BRS20) |
 | [**RNF01**](../Pos-rastreabilidade/forward.md#RNF01) | As informações de horários e localização dos ônibus devem ser precisas | Não Funcional | Entrevista (ENT09) |
 | [**RNF02**](../Pos-rastreabilidade/forward.md#RNF02) | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | Não Funcional | Entrevista (ENT13) |
 | [**RNF03**](../Pos-rastreabilidade/forward.md#RNF03) | Tempo de atualização da localização ≤ 20 segundos | Não Funcional | ENT23 |

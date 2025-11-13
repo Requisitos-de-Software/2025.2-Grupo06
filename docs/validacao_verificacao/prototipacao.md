@@ -17,6 +17,8 @@ Requisitos escolhidos:
 | RF28 | Permitir avaliação da qualidade do serviço de cada linha | Funcional | Análise de Documentos (RNI04)                             |
 | RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Entrevista (ENT08)          |
 | RF37 | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Brainstorm (BRS18) |
+| RF36| Oferecer suporte multilíngue (português e inglês, no mínimo) | Funcional | Entrevista (ENT22) |
+| RF38 | Visualizar linhas que possuem ar-condicionado | Funcional | Brainstorm (BRS20) |
 
 ## Tabela de Contribuição
 
@@ -25,7 +27,7 @@ Requisitos escolhidos:
 | Fernanda Vaz     |[Elaboração do prototipo 02](#prototipo-02)|
 | Gabriel Maciel   |[Elaboração do protótipo 01](#prototipo-01)|
 | João Gabriel     | [Elaboração do protótipo 04](#prototipo-04)                                     |
-| João Lucas       | ??                                     |
+| João Lucas       |[Elaboração do protótipo 05](#prototipo-05)                                    |
 | Daniel Nunes     | ??                                     |
 | Cauã Nicolas     |[Elaboração do protótipo 03](#prototipo-03)|
 
@@ -228,7 +230,34 @@ Autoria: João Gabriel, 2025
 
 </div>
 
+### Prototipo 05
 
+Autoria: João Ramos, 2025
+
+**Requisitos escolhidos para a prototipação:**
+
+| ID | Requisito | Tipo | Rastreabilidade (origem) |
+|:---|:---|:---|:---|
+| RF36 | Oferecer suporte multilíngue (português e inglês, no mínimo) | Funcional | Entrevista (ENT22) |
+| RF38 | Visualizar linhas que possuem ar-condicionado | Funcional | Brainstorm (BRS20) |
+
+#### Protótipo Interativo
+
+[Link para o protótipo Interativo](https://www.figma.com/proto/X8DDCFQQgWHu6q3zJDlcZK/PrototipoDFnoPonto?node-id=15-841&p=f&t=IFUcfqEi9sIdXZbZ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/X8DDCFQQgWHu6q3zJDlcZK/PrototipoDFnoPonto?node-id=15-841&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+
+#### Design do protótipo
+
+[Link para design do protótipo](https://www.figma.com/design/X8DDCFQQgWHu6q3zJDlcZK/PrototipoDFnoPonto?node-id=0-1&p=f&t=IFUcfqEi9sIdXZbZ-0)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/X8DDCFQQgWHu6q3zJDlcZK/PrototipoDFnoPonto?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+## Validação com usuário (João Ramos, 2025)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmeUlmlEWag?si=nwXjBQMFv2_tnRuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 
 ## Histórico de Versões
@@ -239,3 +268,4 @@ Autoria: João Gabriel, 2025
 | 1.1 | 10/11 | Criação do protótipo 01 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
 | 1.2 | 11/11 | Criação do protótipo 03 | [Cauã Nicolas](https://github.com/cauanicolas) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 | 1.3 | 12/11 | Criação do protótipo 04 | João Gabriel | Fernanda Vaz |
+| 1.4 | 12/11 | Criação do protótipo 05 | João Ramos | João Gabriel |
