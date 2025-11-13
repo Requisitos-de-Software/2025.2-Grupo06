@@ -200,7 +200,6 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 14 | O nível ambiental apresenta informações oriundas do contexto no qual a organização está inserida? | João Ramos | [Visualizar](../assets/imagens/checklist_5/21-lv.png) |
 | 15 | O nível organizacional apresenta informações pertencentes à organização (missão, objetivos e estratégias)? | João Ramos | [Visualizar](../assets/imagens/checklist_5/21-lv.png) |
 | 16 | O nível gerencial apresenta informações que auxiliam a gerência do projeto? | João Ramos | [Visualizar](../assets/imagens/checklist_5/21-lv.png) |
-| 17 | As softgoals do tipo NFR representam Requisitos Não-Funcionais? | Gabriel Maciel | [Visualizar]() |
 
 
 ##  Histórico de Versão
@@ -210,6 +209,6 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | **2.0** | 11/11/2025 | Revisão estrutural, remoção de redundâncias e adição de link para evidências | Fernanda Vaz | Cauã Nicolas |
 | **2.1** | 12/11/2025 | Adição da lista da Etapa 1 | João Gabriel | João Ramos |
 | **2.2** | 12/11/2025 | Adição da lista da Etapa 3 | João Ramos | João Gabriel |
-
+| **2.3** | 12/11/2025 | Adição da lista da Etapa 3 | Cauã Nicolas | João Ramos |
 
 
