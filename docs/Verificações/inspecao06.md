@@ -8,6 +8,10 @@
 
 [![vídeo no YouTube](https://img.youtube.com/vi/oX0_zzmZAH8/0.jpg)](https://youtu.be/oX0_zzmZAH8)
 
+## Avaliação do Grupo 
+
+[![vídeo no YouTube](https://img.youtube.com/vi/oX0_zzmZAH8/0.jpg)](https://www.youtube.com/watch?v=16B2R2ww0DA)
+
 ## Etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade
 
 | ID | Item de Verificação | Autor Consolidado | Link para Imagem | Avaliação |
