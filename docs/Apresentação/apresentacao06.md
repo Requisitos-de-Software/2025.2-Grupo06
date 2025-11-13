@@ -4,7 +4,6 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Etapa 5: An�
 
 ## Apresentação do Grupo  
 
-
 ### **Apresentação da Etapa 5**
 
 ### Apresentação individual - Fernanda
