@@ -28,7 +28,7 @@ Requisitos escolhidos:
 | Gabriel Maciel   |[Elaboração do protótipo 01](#prototipo-01)|
 | João Gabriel     | [Elaboração do protótipo 04](#prototipo-04)                                     |
 | João Lucas       |[Elaboração do protótipo 05](#prototipo-05)                                    |
-| Daniel Nunes     | ??                                     |
+| Daniel Nunes     | [Elaboração do protótipo 06](#prototipo-06)                                     |
 | Cauã Nicolas     |[Elaboração do protótipo 03](#prototipo-03)|
 
 ## Prototipações
@@ -266,6 +266,33 @@ Autoria: João Ramos, 2025
 
 ---
 
+### Prototipo 06
+
+Autoria: Daniel Nunes Duarte, 2025
+
+**Requisitos escolhidos para a prototipação:**
+
+| ID | Requisito | Tipo | Rastreabilidade (origem) |
+|:--:|:----------|:-----|:------------------------|
+| RF07 | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais | Funcional | Análise de Documentos (RNI02), Brainstorm (BRS04) |
+| RF22 | Permitir compartilhar trajeto em tempo real com outros usuários | Funcional | — |
+
+#### Protótipo Interativo
+
+[Link para o protótipo Interativo (Figma)](https://www.figma.com/proto/SEUPROTOTIPO6)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/SEUPROTOTIPO6" allowfullscreen></iframe>
+
+#### Descrição do protótipo
+
+- **RF07 (Rotas multimodais):** a interface demonstra o fluxo de planejamento de viagem que agrega diferentes modais (ônibus e metrô), apresenta pontos de transferência, tempos estimados e opção de rotas alternativas com indicação de duração total e sugestões de transferências.
+- **RF22 (Compartilhamento de trajeto):** o protótipo inclui um botão de "Compartilhar trajeto" que gera um link ou código QR para enviar a terceiros; o link exibe o trajeto em tempo real com ETA e marcações das paradas.
+
+#### Validação com usuário (Daniel Nunes Duarte, 2025)
+
+[LINK DO VÍDEO DE VALIDAÇÃO (se disponível)](#)
+
+---
 
 ## Histórico de Versões
 
@@ -276,3 +303,4 @@ Autoria: João Ramos, 2025
 | 1.2 | 11/11 | Criação do protótipo 03 | [Cauã Nicolas](https://github.com/cauanicolas) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 | 1.3 | 12/11 | Criação do protótipo 04 | João Gabriel | Fernanda Vaz |
 | 1.4 | 12/11 | Criação do protótipo 05 | João Ramos | João Gabriel |
+| 1.5 | 12/11 | Criação do protótipo 06 | Daniel Nunes Duarte | ------- |
