@@ -12,9 +12,13 @@ Mesmo que a ausência de resposta não inviabilize o andamento da disciplina, ut
 
 ## E-mail
 
-O e-mail foi enviado pelo líder do grupo, **hhhhh**, ao contato institucional relacionado ao setor de tecnologia e sistemas de transporte público do Distrito Federal. O endereço obtido foi:
+O e-mail foi enviado pelo membro **João Gabriel** ao contato institucional com o e-mail **transporte@df.gov.br**, relacionado ao setor de tecnologia e sistemas de transporte público do Distrito Federal. Não obtivemos resposta.
 
-**transporte@df.gov.br**  
-*(referência obtida a partir de informações disponibilizadas em páginas oficiais de contato referentes à mobilidade do DF).*
+<img src="https://i.ibb.co/GfC3QJng/image.png" alt="Descrição da imagem" width="600" />
 
-O envio ocorreu no dia **14/11/2025**. Até a data de elaboração deste documento, o grupo não obteve resposta, impossibilitando a confirmação técnica formal direta.
+*Imagem 1: E-mail enviado (Sem Resposta)*
+  
+
+O envio ocorreu no dia **11/11/2025**. Até a data de elaboração deste documento, o grupo não obteve resposta, impossibilitando a confirmação técnica formal direta.
+
+*(referência do e-mail obtida a partir de informações disponibilizadas em páginas oficiais de contato referentes à mobilidade do DF).*
