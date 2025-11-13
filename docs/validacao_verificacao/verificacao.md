@@ -2,7 +2,7 @@
 
 Esta página apresenta as versões finais de cada lista de verificação de cada etapa feita no projeto, corrigindo diversos fatores como remoção de itens redundantes, adição de novos itens mais relevantes para aquele tópico e edição de itens para que sejam mais facilmente verificaveis em um projeto. 
 
-## Etapa 1 - Planejamento do Projeto
+## Etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade
 ### **Rich Picture (v2.0)** 
 
 *Autoria: João Gabriel, 2025*
