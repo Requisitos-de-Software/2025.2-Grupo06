@@ -5,6 +5,152 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 # Lista de Verificação 
 
 ## Cenário
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **01:** O cenário descreve o comportamento do autor? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/1-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **02:** O cenário descreve as experiências dos autores? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/2-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **03:** O cenário possui um enredo? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/3-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **04:** O cenário possui um ambiente? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/4-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **06:** O objetivo principal do cenário foi definido? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/6-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **11:** Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/11-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **12:** Como os atores conseguem saber se o objetivo foi concluído e alcançado com sucesso? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/12-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **13:** O protocolo do garçom (anotar, confirmar, validar) foi utilizado para evitar falhas de comunicação? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/13-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **14:** A elicitação foi tratada como um processo iterativo, integrado com a análise de requisitos? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/14-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **15:** Houve confirmação dos resultados da elicitação com as partes interessadas? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/15-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **16:** As entrevistas foram conduzidas com roteiro prévio e foco nos objetivos do projeto? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/16-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **17:** Foram identificadas todas as partes interessadas relevantes para o projeto? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/17-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **18:** O processo de priorização foi iterativo e revisitado ao longo do projeto? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/18-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **19:** Foram considerados tanto o valor quanto o custo e o risco na priorização? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/19-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **20:** Foi evitada a "priorização por decibéis" (voz mais alta) ou "priorização por ameaça" (poder político)? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/20-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **21:** Foi evitada a "priorização por decibéis" (voz mais alta) ou "priorização por ameaça" (poder político)? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/21-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+## Cenário
 | ID | Item de Verificação | Autor | Link para Imagem |
 |---|---|---|---|
 | 1 | O cenário descreve o comportamento do autor? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?usp=sharing) |
