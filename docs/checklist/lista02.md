@@ -69,6 +69,8 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 
 ---
 
+## Elicitação de Requisitos
+
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
 | **13:** O protocolo do garçom (anotar, confirmar, validar) foi utilizado para evitar falhas de comunicação? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
@@ -114,6 +116,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 
 ---
 
+## Priorização de Requisitos
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
 | **18:** O processo de priorização foi iterativo e revisitado ao longo do projeto? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
@@ -143,9 +146,110 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
+| **54:** 	O "Must Have" foi validado como realmente indispensável para o sistema? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/54-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **55:** 	O "Should Have" foi classificado como importante, mas não crítico para a primeira entrega? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/55-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **56:** 	O "Could Have" foi avaliado como opcional e de baixo impacto se não implementado? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/56-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **57:** 	O "Won't Have" foi documentado como itens descartados ou adiados? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/57-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **58:** 	Os itens estão organizados como mais importante e menos importante? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/58-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+## Perfil de Usuário e Personas
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
 | **21:** Foi evitada a "priorização por decibéis" (voz mais alta) ou "priorização por ameaça" (poder político)? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/21-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **34:** A persona tem um nome fictício? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/34-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **37:** A persona tem gênero definido? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/37-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **39:** Os objetivos principais da persona estão listados?	 | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/39-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **43:** As principais tarefas que a persona realiza foram listadas?	 | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/43-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **44:** O elenco de personas possui de 3 a 12 participantes?		 | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/44-LV.png)  
+**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **45:** O elenco de personas possui uma persona primária?		 | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+
+![Fonte do Item 1](../assets/imagens/checklist_2/45-LV.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
