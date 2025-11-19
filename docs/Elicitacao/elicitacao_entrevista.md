@@ -202,6 +202,7 @@ A partir da análise das respostas coletadas nas entrevistas, foram identificado
 | ENT20 | O aplicativo permite que os usuários reportem problemas (ex.: ônibus lotado, falha no ar-condicionado). | RF |
 | ENT21 | O sistema deve proteger os dados pessoais dos usuários em conformidade com a LGPD. | RNF |
 | ENT22 | O aplicativo oferece suporte multilíngue (português e inglês, no mínimo). | RF |
+| ENT23 | Exibir preço da passagem por linha ou trajeto. | RF |
 
 *Tabela 5: Requisitos identificados através da técnica de Entrevista (Fonte: OLIVEIRA; RAMOS, 2025)*
 
