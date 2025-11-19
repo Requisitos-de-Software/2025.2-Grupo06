@@ -63,7 +63,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **07:** Como os atores conseguem saber se o objetivo foi concluído e alcançado com sucesso? | A avaliar | Fernanda Vaz | 18/10/2025 17:16 |
+| **07:** Como os atores conseguem saber se o objetivo foi concluído e alcançado com sucesso? | A avaliar | João Ramos | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/12-LV.png)  
 **Fonte** ¹:**BARBOSA**, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário. 1. ed.* Cáp. 8, p 175. [Cidade: Editora], **2021.**  
@@ -141,7 +141,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **15:** Foi evitada a "priorização por decibéis" (voz mais alta) ou "priorização por ameaça" (poder político)? | A avaliar | João Gabriel | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/20-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte ¹:** **WIEGERS**, Karl; BEATTY, Joy. *Software Requirements.* Capítulo 16, p. 318
 
 ---
 
@@ -150,7 +150,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **16:** 	O "Must Have" foi validado como realmente indispensável para o sistema? | A avaliar | Cauã Nicolas | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/54-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte ¹:** **WIEGERS**, Karl; BEATTY, Joy. *Software Requirements.* Capítulo 16, p. 320
 
 ---
 
@@ -159,7 +159,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **17:** 	O "Should Have" foi classificado como importante, mas não crítico para a primeira entrega? | A avaliar | Cauã Nicolas | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/55-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte ¹:** **WIEGERS**, Karl; BEATTY, Joy. *Software Requirements.* Capítulo 16, p. 320
 
 ---
 
@@ -168,7 +168,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **18:** 	O "Could Have" foi avaliado como opcional e de baixo impacto se não implementado? | A avaliar | Cauã Nicolas | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/56-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte ¹:** **WIEGERS**, Karl; BEATTY, Joy. *Software Requirements.* Capítulo 16, p. 321
 
 ---
 
@@ -177,7 +177,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **19:** 	O "Won't Have" foi documentado como itens descartados ou adiados? | A avaliar | Cauã Nicolas | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/57-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte ¹:** **WIEGERS**, Karl; BEATTY, Joy. *Software Requirements.* Capítulo 16, p. 321
 
 ---
 
@@ -186,7 +186,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **20:** 	Os itens estão organizados como mais importante e menos importante? | A avaliar | Cauã Nicolas | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/58-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte ¹**:**SERRANO**, Maurício; SERRANO, Milene. *Requisitos - Aula 7* Slide 32. Aprender 3.
 
 ---
 
@@ -194,10 +194,10 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **21:** Foi evitada a "priorização por decibéis" (voz mais alta) ou "priorização por ameaça" (poder político)? | A avaliar | João Gabriel | 18/10/2025 17:16 |
+| **21:** Foi evitada a "priorização por decibéis" (voz mais alta) ou "priorização por ameaça" (poder político)? | A avaliar | João Ramos | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/21-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte** ¹:**BARBOSA**, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário. 1. ed.* Cáp. 8, p 166. [Cidade: Editora], **2021.**  
 
 ---
 
@@ -206,7 +206,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **22:** A persona tem um nome fictício? | A avaliar | Gabriel Maciel | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/34-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte** ¹:**BARBOSA**, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário. 1. ed.* Cáp. 8, p 167. [Cidade: Editora], **2021.** 
 
 ---
 
@@ -215,7 +215,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **23:** A persona tem gênero definido? | A avaliar | Gabriel Maciel | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/37-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte** ¹:**BARBOSA**, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário. 1. ed.* Cáp. 8, p 166. [Cidade: Editora], **2021.** 
 
 ---
 
@@ -224,7 +224,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **24:** Os objetivos principais da persona estão listados?	 | A avaliar | Daniel Nunes | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/39-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte** ¹:**BARBOSA**, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário. 1. ed.* Cáp. 8, p 168. [Cidade: Editora], **2021.** 
 
 ---
 
@@ -233,7 +233,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **25:** As principais tarefas que a persona realiza foram listadas?	 | A avaliar | Daniel Nunes | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/43-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte** ¹:**BARBOSA**, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário. 1. ed.* Cáp. 8, p 168. [Cidade: Editora], **2021.** 
 
 ---
 
@@ -251,7 +251,7 @@ A elicitação de requisitos utiliza uma lista de verificação para garantir qu
 | **27:** O elenco de personas possui uma persona primária?		 | A avaliar | João Ramos | 18/10/2025 17:16 |
 
 ![Fonte do Item 1](../assets/imagens/checklist_2/45-LV.png)  
-**Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
+**Fonte** ¹:**BARBOSA**, Simone D. J. et al. *Interação Humano-Computador e Experiência do Usuário. 1. ed.* Cáp. 8, p 169. [Cidade: Editora], **2021.** 
 
 ---
 *Tabela 1: Lista verificação segunda etapa. Autores: Fernanda Vaz, João Gabriel, Gabriel Maciel, Cauã Nicolas e João Ramos e Daniel Nunes*
