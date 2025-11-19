@@ -1,19 +1,30 @@
 ## Introdução
+
 Conforme diretrizes do Ministério da Ciência, Tecnologia e Inovação [(MCTI, 2014)](#ref-mctic), a Especificação Suplementar é um artefato essencial no processo de engenharia de requisitos, destinado a capturar as exigências do sistema não abordadas nos casos de uso. Este documento detalha um vasto conjunto de requisitos não-funcionais e restrições globais, abrangendo desde requisitos legais e regulatórios até os atributos de qualidade que definem a operação do sistema, como usabilidade, confiabilidade, desempenho e suportabilidade. Além disso, a especificação também define restrições técnicas, como ambientes operacionais, requisitos de compatibilidade e limitações de design que devem ser consideradas no projeto.
-### Especificação Suplementar (print da fonte)
 
-<a href="https://ibb.co/5Zn0QsF"><img src="https://i.ibb.co/BkrphTN/image.png" alt="image" border="0"></a>
-> *Autora: *Fernanda Vaz,2025 [MCTI, 2014](#ref-mctic)
+A presente especificação aplica-se ao aplicativo móvel DF no Ponto, disponível para plataformas Android e iOS, destinado aos cidadãos do Distrito Federal para acesso a informações de transporte público em tempo real.
 
+## Metodologia
 
-## Finalidade
-A Especificação Suplementar tem como objetivo documentar todos os requisitos não-funcionais do aplicativo DF no Ponto, incluindo requisitos de sistema, desempenho, confiabilidade, usabilidade, segurança e outros aspectos técnicos e regulatórios que não são capturados nos casos de uso.
+A elaboração desta Especificação Suplementar fundamenta-se nas diretrizes estabelecidas pelo Processo de Software do MCTIC [(MCTI, 2014)](#ref-mctic), que define este artefato como um documento complementar aos casos de uso, capturando requisitos não-funcionais e restrições globais do sistema. Conforme sugerido pelo MCTIC, a especificação suplementar abrange requisitos de usabilidade, confiabilidade, desempenho, suportabilidade, além de restrições de design, implementação, interface e requisitos físicos.
 
-## Escopo
-Esta especificação aplica-se ao aplicativo móvel DF no Ponto, disponível para plataformas Android e iOS, destinado aos cidadãos do Distrito Federal para acesso a serviços públicos e informações governamentais.
+Para a construção deste documento, adotou-se uma abordagem sistemática que engloba as seguintes etapas metodológicas:
+
+1. **Identificação de Requisitos Não-Funcionais**: A partir dos requisitos elicitados nas etapas anteriores do projeto (entrevistas, brainstorming e análise de documentos), foram identificados e categorizados os requisitos que extrapolam a funcionalidade direta do sistema, incluindo aspectos de qualidade, desempenho e restrições técnicas.
+
+2. **Categorização Conforme Modelo FURPS+**: Os requisitos não-funcionais foram organizados seguindo o modelo FURPS+ (*Functionality, Usability, Reliability, Performance, Supportability*), adaptado conforme as diretrizes do MCTIC. Esta categorização permite uma visão estruturada e abrangente dos atributos de qualidade do sistema.
+
+3. **Definição de Métricas e Critérios Mensuráveis**: Para cada categoria de requisito não-funcional, foram estabelecidos critérios objetivos e mensuráveis, permitindo a verificação e validação durante as fases de desenvolvimento e testes. Por exemplo, para requisitos de desempenho, foram definidos tempos máximos de resposta e capacidade de usuários simultâneos.
+
+4. **Rastreabilidade com Artefatos de Elicitação**: Cada requisito não-funcional foi rastreado até sua origem nos artefatos de elicitação (análise de documentos, entrevistas, brainstorming), garantindo a transparência e justificativa para cada especificação estabelecida.
+
+5. **Conformidade com Normas e Padrões**: Os requisitos foram definidos em conformidade com normas técnicas e regulamentações aplicáveis, incluindo as diretrizes de acessibilidade WCAG (*Web Content Accessibility Guidelines*) para requisitos de usabilidade, e a Lei Geral de Proteção de Dados (LGPD) para requisitos de privacidade e segurança.
+
+Esta metodologia garante que a Especificação Suplementar esteja alinhada tanto com as boas práticas da engenharia de requisitos quanto com as necessidades específicas do contexto do aplicativo DF no Ponto, proporcionando uma base sólida para o desenvolvimento e validação do sistema.
 
 ## Usabilidade
 A usabilidade representa o esforço necessário para utilizar o aplicativo e a avaliação individual desse uso por um conjunto específico de cidadãos. Abrange aspectos como facilidade de aprendizado, eficiência, memorização, prevenção de erros e satisfação do público-alvo, garantindo uma experiência intuitiva e acessível.
+
 ### Usabilidade (print da fonte)
 <a href="https://ibb.co/CKFdJqMd"><img src="https://i.ibb.co/tp5fZSxf/image.png" alt="image" border="0"></a>
 > *Autora: *Fernanda Vaz,2025 [MCTI, 2014](#ref-mctic)
@@ -86,8 +97,6 @@ Os Requisitos de Sistema definem todas as condições necessárias para suportar
 | RS04 | O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização. |
 | RS05 | A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. |
 
-
-
 **Tabela 5:** RS - Requisito do Sistena
 
 <span style="color:blue;">Autoria: Cauã Nicolas, 2025.</span>
@@ -127,8 +136,11 @@ Esta seção define os requisitos de privacidade e proteção de dados pessoais 
 <span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
 
 ## Referências bibliográficas
+
 <a id="ref-mctic"></a>
 >BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações. *Processo de Software do MCTIC: Documento Descritivo*. Brasília, DF: MCTIC, 2014. Disponível em: <https://ps.mctic.gov.br/MCTI-PS/workproducts/resources/PS_DocumentoDescritivo.pdf>. Acesso em: 7 out. 2025.
+
+>BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações. *Especificação Suplementar - Template MCTIC*. Brasília, DF: MCTIC, 2014. Disponível em: <https://pdm.mctic.gov.br/MCTIC-PDM/guidances/examples/resources/SiglaProjeto_EspecificacaoSuplementar.docx>. Acesso em: 19 nov. 2025.
 
 <a id="ref-wcag"></a>
 >GUIA WCAG. Disponível em: <https://guia-wcag.com>. Acesso em: 9 out. 2025.
@@ -142,6 +154,7 @@ Esta seção define os requisitos de privacidade e proteção de dados pessoais 
 | 1.3 | 12/10/2025 | Adição de componentes de Desempenho e Requisitos do Sistema para especificação suplementar. | João Ramos | Gabriel Maciel |
 | 1.4 | 12/10/2025 | Adição de especificações suplementares (Segurança, Privacidade) | Daniel Nunes Duarte | Gabriel Maciel |
 | 1.5 | 19/10/2025 | Adição de novos requisitos não-funcionais relacionados a desempenho | Gabriel Maciel | |
+| 2.0 | 19/11/2025 | Adição da metodologia; Remoção das seções Finalidade e Escopo; Adição de referência ao template de Especificação Suplementar do MCTIC | Gabriel Maciel | A revisar |
 
 ## Agradecimentos
->>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+> Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
