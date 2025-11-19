@@ -30,7 +30,7 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | [**RF16**](../Pos-rastreabilidade/forward.md#RF16) | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Entrevista (ENT20) |
 | [**RF17**](../Pos-rastreabilidade/forward.md#RF17) | Exibir preço da passagem por linha ou trajeto | Funcional | — |
 | [**RF18**](../Pos-rastreabilidade/forward.md#RF18) | Listar linhas que passam em uma parada específica | Funcional | — |
-| [**RF19**](../Pos-rastreabilidade/forward.md#RF19) | Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code) | Funcional | Brainstorm (BRS17) |
+| [**RF19**](../Pos-rastreabilidade/forward.md#RF19) | Disponibilizar versão web leve para acesso rápido em pontos de ônibus | Funcional | Brainstorm (BRS17) |
 | [**RF20**](../Pos-rastreabilidade/forward.md#RF20) | Botão de pânico/emergência para alertar motorista e/ou autoridades | Funcional | — |
 | [**RF21**](../Pos-rastreabilidade/forward.md#RF21) | Mostrar alertas de trânsito, acidentes e rotas alternativas | Funcional | Brainstorm (BRS12) |
 | [**RF22**](../Pos-rastreabilidade/forward.md#RF22) | Permitir compartilhar trajeto em tempo real com outros usuários | Funcional | — |
