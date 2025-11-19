@@ -1,9 +1,9 @@
-# Ferramentas Utilizadas no Projeto
+# **Ferramentas Utilizadas no Projeto**
 
-## Introdução
+## **Introdução**
 As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facilitar a realização das atividades e produção dos conteúdos apresentados na disciplina **Requisitos de Software**.
 
-## Tabela de Ferramentas
+## **Tabela de Ferramentas**
 
 | Logo | Ferramenta | Finalidade |
 |-------------------------------------------------------|------------|-----------------------------------------------|
@@ -19,14 +19,14 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 | <img src="../../assets/logos/github1.png" width="45"  alt="GitHub logo" /> | GitHub | Permite o versionamento e organização do projeto, e o armazenamento da sua documentação, artefatos e rastreabilidade gerada. <a id="anchor_10" href="#FRM10"><sup>10</sup></a> |
 | <img src="../../assets/logos/mkdocs.png" width="45"  alt="MkDocs logo" /> | MkDocs | Criação e publicação do site para documentação no GitHub Pages. <a id="anchor_11" href="#FRM11"><sup>11</sup></a> |
 | <img src="../../assets/logos/chatgpt.png" width="45"  alt="ChatGPT logo" /> | ChatGPT | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_12" href="#FRM12"><sup>12</sup></a> |
-| <img src="../../assets/logos/gemini.png" width="45"  alt="Google Gemini logo" /> | Google Gemini | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_13" href="#FRM11"><sup>13</sup></a> |
+| <img src="../../assets/logos/gemini.png" width="45"  alt="Google Gemini logo" /> | Google Gemini | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_13" href="#FRM13"><sup>13</sup></a> |
 | <img src="../../assets/logos/copilot.png" width="45"  alt="Microsoft Copilot logo" /> | Microsoft Copilot | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_14" href="#FRM14"><sup>14</sup></a> |
-
+| <img src="../../assets/logos/imgbb.png" width="45"  alt="ImgBB logo" /> | ImgBB | Hospedagem e compartilhamento de imagens utilizadas na documentação do projeto. <a id="anchor_15" href="#FRM15"><sup>15</sup></a> |
+| <img src="../../assets/logos/figma.png" width="45"  alt="Figma logo" /> | Figma | Criação de protótipos de interface e designs colaborativos para o projeto. <a id="anchor_16" href="#FRM16"><sup>16</sup></a> |
 
 <font size="2"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto - Autores: Fernanda Vaz e Gabriel Maciel</p></font>
 
-
-## Referências Bibliograficas
+## **Referências Bibliograficas**
 ><a id="FRM1" href="#anchor_1">1.</a>  WhatsApp . Disponível em: [https://blog.whatsapp.com/whats-app-web?lang=pt_BR](). Acesso em: 07 de set. de 2025.
 
 ><a id="FRM2" href="#anchor_2">2.</a> Google Docs. Disponível em: [https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=pt_BR](). Acesso em: 07 de set. de 2025.
@@ -55,9 +55,26 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 
 ><a id="FRM14" href="#anchor_14">14.</a> Microsoft Copilot. Disponível em: [https://copilot.microsoft.com/](). Acesso em: 10 de set. de 2025.
 
-## Histórico de Versões
+><a id="FRM15" href="#anchor_15">15.</a> ImgBB. Disponível em: [https://imgbb.com/](). Acesso em: 10 de set. de 2025.
+
+><a id="FRM16" href="#anchor_16">16.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 10 de set. de 2025.
+
+## **Contribuição**
+
+| Nome     | Contribuição |
+| :------- | :---------------: |
+| João G.  |      Desenvolvimento da Página       |
+| João L.   |      Desenvolvimento da Página       |
+| Fernanda |      Desenvolvimento da Página       |
+
+## **Histórico de Versões**
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 07/09/2025 | Criação da tabela de ferramentas  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Fernanda Vaz ](https://github.com/Fernandavazgit1) |
 | 1.1 | 09/09/2025 | Ajustes nas imagens dos ícones e adição de novas ferramentas. | [João Ramos](https://github.com/joaoramos) | [João Ramos](https://github.com/joaoramos) |
+| 1.2 | 19/11/2025 | Adição das ferramentas ImgBB e Figma. | [João Gabriel](https://github.com/JoaoComTil) | [João Ramos](https://github.com/joaoramos) |
+
+## **Agradecimentos**
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

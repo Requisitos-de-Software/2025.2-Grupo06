@@ -4,6 +4,8 @@ Este documento apresenta o planejamento detalhado do projeto, distribuído em et
 
 O cronograma foi construído de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, para o segundo semestre de 2025.
 
+
+
 ## Cronograma Geral
 
 A tabela 1 apresenta uma visão geral das etapas do projeto com suas respectivas datas de entrega e datas de apresentação.
@@ -124,6 +126,17 @@ A tabela 7 detalha as atividades relacionadas à modelagem de requisitos, inclui
 
 **SALES, André Barros de.** *Plano de ensino – Requisitos de Software (FGA0313 – Turma 03).* **Brasília: Universidade de Brasília, 2025.** Disponível em: <https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf>. Acesso em: 7 set. 2025.
 
+## Contribuição
+
+| Nome     | Contribuição |
+| :------- | :---------------: |
+| João G.  |      Planejamento de Todo Cronograma       |
+| João L.   |      Planejamento de Todo Cronograma       |
+| Daniel     |      Planejamento de Todo Cronograma       |
+| Fernanda |      Planejamento de Todo Cronograma       |
+| Cauã   |      Planejamento de Todo Cronograma       |
+| Gabriel   |      Planejamento de Todo Cronograma       |
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -132,3 +145,8 @@ A tabela 7 detalha as atividades relacionadas à modelagem de requisitos, inclui
 | 1.1 | 07/09 | Correções de datas e de revisores | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
 | 1.2 | 07/09 | Adição de textos às tabelas e etapas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
 | 1.3 | 23/09 | Reestruturação do cronograma da Etapa 2 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
+
+
+## Agradecimentos
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

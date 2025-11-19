@@ -9,21 +9,21 @@ Aplicativo gratuito lançado pelo Governo do Distrito Federal (GDF), desenvolvid
 - Funcionalidades de personalização e acessibilidade  
 - Disponível gratuitamente para Android e iOS.
 ---
-## Introdução
+## **Introdução**
 O **DF no Ponto** é uma iniciativa estratégica do GDF para modernizar e simplificar a experiência de transporte público. Sob o lema _"menos espera, mais mobilidade"_, o aplicativo consolida dados oficiais em uma plataforma acessível e confiável.
 
-### Órgãos envolvidos:
+### **Órgãos envolvidos:**
 - **Secretaria de Transporte e Mobilidade (SEMOB)**
 - **Sociedade de Transportes Coletivos de Brasília (TCB)**
 
-### Missão principal:
+### **Missão principal:**
 Ser um **guia inteligente** que facilite o dia a dia do cidadão, garantindo mobilidade urbana simples e sem contratempos.
 
-### Lançamento:
+### **Lançamento:**
 - A versão móvel foi lançada oficialmente por volta de **29 de julho de 2025**, substituindo um site anterior com serviços semelhantes.
   
 ---
-## Lista de Apps Avaliados
+## **Lista de Apps Avaliados**
 
 | Aplicativo | Finalidade |
 |---|---|
@@ -37,7 +37,7 @@ Ser um **guia inteligente** que facilite o dia a dia do cidadão, garantindo mob
 <font size="2"><p style="text-align: center"><b>Tabela 2</b> - Aplicativos Analisados - Autoria: Daniel Nunes</p></font>
 
 
-### Razões para escolha do DF no Ponto:
+### **Razões para escolha do DF no Ponto:**
 
 - **Abrangência de funcionalidades**: rastreamento, planejamento de rotas, alertas e personalização.
 - **Acessibilidade**: suporte ao TalkBack para usuários com deficiência visual.
@@ -46,7 +46,7 @@ Ser um **guia inteligente** que facilite o dia a dia do cidadão, garantindo mob
 - **Facilidade de uso**: não exige registro para funcionamento.
 - **Interação com o usuário**: canal direto com o Centro de Supervisão Operacional e espaço para feedback.
 
-### Recepção dos usuários:
+### **Recepção dos usuários:**
 Apesar da alta classificação geral, há críticas quanto à performance no Android:
 - Lentidão e travamentos
 - Preferência pela versão web anterior
@@ -54,7 +54,7 @@ Apesar da alta classificação geral, há críticas quanto à performance no And
 
 ---
 
-### Funcionalidades Detalhadas
+### **Funcionalidades Detalhadas**
 
 | **Categoria de Recurso**     | **Funcionalidades**                                                                                                                                           |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -67,7 +67,7 @@ Apesar da alta classificação geral, há críticas quanto à performance no And
 
 ---
 
-## Termos de Uso e Política de Privacidade
+## **Termos de Uso e Política de Privacidade**
 
 As diretrizes legais e de privacidade do aplicativo **DF no Ponto** estão disponíveis nos links oficiais abaixo:
 
@@ -77,7 +77,7 @@ As diretrizes legais e de privacidade do aplicativo **DF no Ponto** estão dispo
 Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem como o tratamento de dados pessoais conforme as diretrizes da LGPD (Lei Geral de Proteção de Dados).
 
 ---
-## Referências Bibliográficas
+## **Referências Bibliográficas**
 ><a id="APP1" href="#anchor_APP1">1.</a> Moovit . Disponível em: [https://moovitapp.com/](). Acesso em: 09 de set. de 2025.
 
 ><a id="APP2" href="#anchor_APP2">2.</a> Qualifica DF . Disponível em: [https://www.df.gov.br/qualifica-df/](). Acesso em: 09 de set. de 2025.
@@ -91,7 +91,18 @@ Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem c
 ><a id="APP6" href="#anchor_APP6">6.</a> SIGAA . Disponível em: [https://sigaa.ufrn.br/sigaa/public/home.jsf](). Acesso em: 09 de set. de 2025.
 
 
-## Histórico de Versões
+## **Contribuição**
+
+| Nome     | Contribuição |
+| :------- | :---------------: |
+| João G.  |      Desenvolvimento da Página       |
+| João L.   |      Alocação de Tempo       |
+| Daniel     |      Alocação de Tempo       |
+| Fernanda |      Desenvolvimento da Página       |
+| Cauã   |      Alocação de Tempo       |
+| Gabriel   |      Alocação de Tempo       |
+
+## **Histórico de Versões**
 
 | **Versão** | **Data**     | **Descrição**             | **Autor(es)**           | **Revisor(es)**         |
 |------------|--------------|----------------------------|--------------------------|--------------------------|
@@ -99,3 +110,6 @@ Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem c
 | 1.1        | 30/09/2025   | Atualização das informações| [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Cauã Nicolas](https://github.com/cauanicolas)   |
 
 
+## **Agradecimentos**
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
