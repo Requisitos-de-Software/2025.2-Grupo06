@@ -4,6 +4,18 @@ Conforme diretrizes do Ministério da Ciência, Tecnologia e Inovação [(MCTI, 
 
 A presente especificação aplica-se ao aplicativo móvel DF no Ponto, disponível para plataformas Android e iOS, destinado aos cidadãos do Distrito Federal para acesso a informações de transporte público em tempo real.
 
+## Tabela de contribuição
+
+|        Nome          | Contribuição |
+|----------------------|--------------|
+| Cauã Nicolas | Especificação Suplementar dos Requisitos de 
+| Daniel Nunes |
+| Fernanda Vaz |
+| Gabriel Maciel |
+| João Gabriel |
+| João Ramos |
+
+
 ## Metodologia
 
 A elaboração desta Especificação Suplementar fundamenta-se nas diretrizes estabelecidas pelo Processo de Software do MCTIC [(MCTI, 2014)](#ref-mctic), que define este artefato como um documento complementar aos casos de uso, capturando requisitos não-funcionais e restrições globais do sistema. Conforme sugerido pelo MCTIC, a especificação suplementar abrange requisitos de usabilidade, confiabilidade, desempenho, suportabilidade, além de restrições de design, implementação, interface e requisitos físicos.
@@ -23,11 +35,16 @@ Para a construção deste documento, adotou-se uma abordagem sistemática que en
 Esta metodologia garante que a Especificação Suplementar esteja alinhada tanto com as boas práticas da engenharia de requisitos quanto com as necessidades específicas do contexto do aplicativo DF no Ponto, proporcionando uma base sólida para o desenvolvimento e validação do sistema.
 
 ## Usabilidade
-A usabilidade representa o esforço necessário para utilizar o aplicativo e a avaliação individual desse uso por um conjunto específico de cidadãos. Abrange aspectos como facilidade de aprendizado, eficiência, memorização, prevenção de erros e satisfação do público-alvo, garantindo uma experiência intuitiva e acessível.
 
-### Usabilidade (print da fonte)
-<a href="https://ibb.co/CKFdJqMd"><img src="https://i.ibb.co/tp5fZSxf/image.png" alt="image" border="0"></a>
-> *Autora: *Fernanda Vaz,2025 [MCTI, 2014](#ref-mctic)
+A Tabela 3 apresenta os Requisitos de Usabilidade, que representam o esforço necessário para utilizar o aplicativo e a avaliação individual desse uso por um conjunto específico de cidadãos. Abrange aspectos como facilidade de aprendizado, eficiência, memorização, prevenção de erros e satisfação do público-alvo, garantindo uma experiência intuitiva e acessível.
+
+<details>
+
+<summary>Tabela 2: Requisitos de Usabilidade (RU) - Versão 1.0 </summary>
+
+Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a Tabela 2 tornou-se depreciada e foi criada a Tabela 3, que readapta os requisitos da Tabela 2 correlacinando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
+
+**Autoria:** Fernanda Vaz, 2025
 
 | ID | Descrição |
 |---|---|
@@ -41,11 +58,20 @@ A usabilidade representa o esforço necessário para utilizar o aplicativo e a a
 | RU08 | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
 | RU09 | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
 
-**Tabela 2:** RU - Requisito de Utilidade/Usabilidade
+</details>
 
-<span style="color:blue;">Autoria: Fernanda Vaz e João Ramos, 2025.</span>
+### Tabela 3: Requisitos de Usabilidade (RU) - Versão 2.0
+
+| ID | Descrição | Rastreabilidade | Autoria |
+|----|-----------|-----------------|---------|
+| RU01 | Interface acessível para idosos e pessoas com deficiência visual | [RNF04](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
+| RU02 | Sistema de notificação com som e vibração configuráveis | [RNF05](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
+| RU03 | Compatibilidade com dispositivos Android e iOS | [RNF07](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
+| RU04 | Personalização da interface com base em preferências do usuário | [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
+
 
 ## Confiabilidade
+
 A confiabilidade expressa a capacidade do sistema de manter seu nível de desempenho sob condições estabelecidas durante um período determinado. Contempla aspectos como disponibilidade, maturidade, tolerância a falhas, recuperabilidade e estabilidade, assegurando que o aplicativo opere de forma consistente e resiliente.
 
 ### Confiabilidade (print da fonte)
@@ -63,20 +89,18 @@ A confiabilidade expressa a capacidade do sistema de manter seu nível de desemp
 
 **Tabela 3:** RC - Requisito de Confiabilidade
 
-<span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
+<span style="color:blue;">Autoria: Fernanda Vaz e João Ramos, 2025.</span>
 
 ## Desempenho
 O desempenho define as características de eficiência do sistema, incluindo tempos de resposta para transações, a taxa de transferência de dados e a capacidade de usuários simultâneos que o sistema pode acomodar. Conforme as diretrizes, esta seção detalha os requisitos de performance e a utilização de recursos como memória e disco, garantindo que a aplicação opere dentro dos parâmetros esperados.
 
-### Desempenho (print da fonte)
-<a href="https://ibb.co/1t56SXb2"><img src="https://i.ibb.co/cSHLm8xT/Captura-de-tela-de-2025-09-28-23-39-57111111111.png" alt="Captura-de-tela-de-2025-09-28-23-39-57111111111" border="0"></a>
 
-| ID | Descrição | Rastreabilidade |
-|---|---|---|
-| RD01 | O tempo de rastreio de um veículo em tempo real deve ser menor que 20 segundos. | RNF03 - Elicitação de Requisitos |
-| RD02 | O tempo de carregamento da tela principal deve ser inferior a 3 segundos. | RNF10 - Elicitação de Requisitos: Entrevista (ENT17) |
-| RD03 | O aplicativo deve apresentar baixo consumo de bateria e dados móveis durante o uso. | RNF06 - Elicitação de Requisitos |
-| RD04 | O sistema deve suportar múltiplos usuários simultâneos sem apresentar lentidão ou degradação de performance. | RNF14 - Elicitação de Requisitos: Brainstorm (BRS15) |
+| ID | Descrição | Rastreabilidade | Autoria |
+|---|---|---|---|
+| RD01 | O tempo de rastreio de um veículo em tempo real deve ser menor que 20 segundos. | RNF03 - Elicitação de Requisitos | Gabriel Maciel|
+| RD02 | O tempo de carregamento da tela principal deve ser inferior a 3 segundos. | RNF10 - Elicitação de Requisitos: Entrevista (ENT17) | Gabriel Maciel |
+| RD03 | O aplicativo deve apresentar baixo consumo de bateria e dados móveis durante o uso. | RNF06 - Elicitação de Requisitos | Gabriel Maciel |
+| RD04 | O sistema deve suportar múltiplos usuários simultâneos sem apresentar lentidão ou degradação de performance. | RNF14 - Elicitação de Requisitos: Brainstorm (BRS15) | Gabriel Maciel |
 
 
 **Tabela 4:** RD - Requisito de Desempenho
@@ -153,8 +177,10 @@ Esta seção define os requisitos de privacidade e proteção de dados pessoais 
 | 1.2 | 08/10/2025 | Adição de especificação suplementar inicial. | Fernanda Vaz | Gabriel Maciel |
 | 1.3 | 12/10/2025 | Adição de componentes de Desempenho e Requisitos do Sistema para especificação suplementar. | João Ramos | Gabriel Maciel |
 | 1.4 | 12/10/2025 | Adição de especificações suplementares (Segurança, Privacidade) | Daniel Nunes Duarte | Gabriel Maciel |
-| 1.5 | 19/10/2025 | Adição de novos requisitos não-funcionais relacionados a desempenho | Gabriel Maciel | |
+| 1.5 | 19/10/2025 | Adição de novos requisitos não-funcionais relacionados a desempenho | Gabriel Maciel | A revisar |
 | 2.0 | 19/11/2025 | Adição da metodologia; Remoção das seções Finalidade e Escopo; Adição de referência ao template de Especificação Suplementar do MCTIC | Gabriel Maciel | A revisar |
+| 2.1 | 20/11/2025 | Adição da Tabela 2: Requisitos de Usabilidade - Versão 2.0, que readapta os requisitos da antiga tabela com requisitos não-funcionais elicitados | Gabriel Maciel | A revisar |
 
 ## Agradecimentos
+
 > Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
