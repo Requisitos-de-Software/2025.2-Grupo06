@@ -1,6 +1,6 @@
 ## Introdução
 
-Conforme diretrizes do Ministério da Ciência, Tecnologia e Inovação [(MCTI, 2014)](#ref-mctic), a Especificação Suplementar é um artefato essencial no processo de engenharia de requisitos, destinado a capturar as exigências do sistema não abordadas nos casos de uso. Este documento detalha um vasto conjunto de requisitos não-funcionais e restrições globais, abrangendo desde requisitos legais e regulatórios até os atributos de qualidade que definem a operação do sistema, como usabilidade, confiabilidade, desempenho e suportabilidade. Além disso, a especificação também define restrições técnicas, como ambientes operacionais, requisitos de compatibilidade e limitações de design que devem ser consideradas no projeto.
+Conforme as diretrizes do Ministério da Ciência, Tecnologia e Inovação [(MCTI, 2014)](#ref-mctic), a Especificação Suplementar é um artefato essencial no processo de engenharia de requisitos, destinado a capturar as exigências do sistema não abordadas nos casos de uso. Este documento detalha um vasto conjunto de requisitos não-funcionais e restrições globais, abrangendo desde requisitos legais e regulatórios até os atributos de qualidade que definem a operação do sistema, como usabilidade, confiabilidade, desempenho e suportabilidade. Além disso, a especificação também define restrições técnicas, como ambientes operacionais, requisitos de compatibilidade e limitações de design que devem ser consideradas no projeto.
 
 A presente especificação aplica-se ao aplicativo móvel DF no Ponto, disponível para plataformas Android e iOS, destinado aos cidadãos do Distrito Federal para acesso a informações de transporte público em tempo real.
 
@@ -11,7 +11,7 @@ A presente especificação aplica-se ao aplicativo móvel DF no Ponto, disponív
 | Cauã Nicolas | A preencher. |
 | Daniel Nunes | A preencher. |
 | Fernanda Vaz | - [Especificação Suplementar dos Requisitos de Usabilidade](#usabilidade) |
-| Gabriel Maciel | - [Especificação Suplementar dos Requisitos de Desempenho](#desempenho) <br> - Revisão e correções do documento |
+| Gabriel Maciel | - [Especificação Suplementar dos Requisitos de Desempenho](#desempenho) <br> - Revisão e correções do documento (Versão 2.0) |
 | João Gabriel | A preencher. |
 | João Ramos | A preencher. |
 
@@ -38,27 +38,23 @@ Esta metodologia garante que a Especificação Suplementar esteja alinhada tanto
 
 A Tabela 3 apresenta os Requisitos de Usabilidade, que representam o esforço necessário para utilizar o aplicativo e a avaliação individual desse uso por um conjunto específico de cidadãos. Abrange aspectos como facilidade de aprendizado, eficiência, memorização, prevenção de erros e satisfação do público-alvo, garantindo uma experiência intuitiva e acessível.
 
-<details>
+??? info "Tabela 2: Requisitos de Usabilidade (RU) - Versão 1.0"
 
-<summary>Tabela 2: Requisitos de Usabilidade (RU) - Versão 1.0 </summary>
+    Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a Tabela 2 tornou-se depreciada e foi criada a Tabela 3, que readapta os requisitos da Tabela 2 correlacionando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
 
-Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a Tabela 2 tornou-se depreciada e foi criada a Tabela 3, que readapta os requisitos da Tabela 2 correlacinando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
+    **Autoria:** Fernanda Vaz, 2025
 
-**Autoria:** Fernanda Vaz, 2025
-
-| ID | Descrição |
-|---|---|
-| RU01 | Cidadãos devem conseguir utilizar funcionalidades básicas sem treinamento prévio. |
-| RU02 | oferecer resultados precisos para o usuário |
-| RU03 | Interface deve ser facilmente memorável para passageiros que usam ocasionalmente. |
-| RU04 | A interface deve ser agradável e satisfatória de usar. |
-| RU05 | Suporte a leitores de tela e ajuste de contraste conforme [WCAG](#ref-wcag) (*Web Content Accessibility Guidelines*). |
-| RU06 | Mensagens de erro e confirmação devem ser claras e objetivas. |
-| RU07 | Padrões visuais e de interação consistentes em todo o aplicativo. |
-| RU08 | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
-| RU09 | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
-
-</details>
+    | ID | Descrição |
+    |---|---|
+    | RU01 | Cidadãos devem conseguir utilizar funcionalidades básicas sem treinamento prévio. |
+    | RU02 | oferecer resultados precisos para o usuário |
+    | RU03 | Interface deve ser facilmente memorável para passageiros que usam ocasionalmente. |
+    | RU04 | A interface deve ser agradável e satisfatória de usar. |
+    | RU05 | Suporte a leitores de tela e ajuste de contraste conforme [WCAG](#ref-wcag) (*Web Content Accessibility Guidelines*). |
+    | RU06 | Mensagens de erro e confirmação devem ser claras e objetivas. |
+    | RU07 | Padrões visuais e de interação consistentes em todo o aplicativo. |
+    | RU08 | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
+    | RU09 | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
 
 ### Tabela 3: Requisitos de Usabilidade (RU) - Versão 2.0
 
@@ -72,24 +68,32 @@ Por não haver correspondência real com os requisitos elicitados a partir das t
 
 ## Confiabilidade
 
-A confiabilidade expressa a capacidade do sistema de manter seu nível de desempenho sob condições estabelecidas durante um período determinado. Contempla aspectos como disponibilidade, maturidade, tolerância a falhas, recuperabilidade e estabilidade, assegurando que o aplicativo opere de forma consistente e resiliente.
+A Tabela 5 apresenta os Requisitos de Confiabilidade, que expressam a capacidade do sistema de manter seu nível de desempenho sob condições estabelecidas durante um período determinado. Contempla aspectos como disponibilidade, maturidade, tolerância a falhas, recuperabilidade e estabilidade, assegurando que o aplicativo opere de forma consistente e resiliente.
 
-### Confiabilidade (print da fonte)
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/zVq9f94W/image.png" alt="image" border="0"></a>
+??? info "Tabela 4: Requisitos de Confiabilidade - Versão 1.0"
 
-| ID | Descrição |
-|---|---|
-| RC01 | Sistema deve operar sem falhas críticas. |
-| RC02 | O sistema deve continuar operando mesmo com falhas parciais. |
-| RC03 | Capacidade de recuperar dados e restabelecer operação após falhas. |
-| RC04 | Funcionamento adequado em condições de rede instável com conectividade intermitente. |
-| RC05 | Transações devem ser completadas integralmente ou revertidas sem estados parciais. |
-| RC06 | Sistema deve detectar e reportar falhas automaticamente em logs. |
-| RC07 | Dados devem permanecer consistentes entre diferentes sessões e dispositivos. |
+    Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a Tabela 4 tornou-se depreciada e foi criada a Tabela 5, que readapta os requisitos da Tabela 2 correlacionando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
 
-**Tabela 3:** RC - Requisito de Confiabilidade
+    Autoria: Fernanda Vaz e João Ramos, 2025.
 
-<span style="color:blue;">Autoria: Fernanda Vaz e João Ramos, 2025.</span>
+    | ID | Descrição |
+    |---|---|
+    | RC01 | Sistema deve operar sem falhas críticas. |
+    | RC02 | O sistema deve continuar operando mesmo com falhas parciais. |
+    | RC03 | Capacidade de recuperar dados e restabelecer operação após falhas. |
+    | RC04 | Funcionamento adequado em condições de rede instável com conectividade intermitente. |
+    | RC05 | Transações devem ser completadas integralmente ou revertidas sem estados parciais. |
+    | RC06 | Sistema deve detectar e reportar falhas automaticamente em logs. |
+    | RC07 | Dados devem permanecer consistentes entre diferentes sessões e dispositivos. |
+
+### Tabela 5 - Requisitos de Confiabilidade (RC) - Versão 2.0
+
+| ID | Descrição | Rastreabilidade | Autoria |
+|----|-----------|-----------------|---------|
+| RC01 | Alta disponibilidade do sistema (≥ 98% uptime) | [RNF13](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
+| RC02 | Suporte a múltiplos usuários simultâneos sem lentidão | [RNF14](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
+| RC03 | As informações de horários (de saída e chegada) e localização dos ônibus devem ser precisas (horário com precisão de ±5 minutos, localização com precisão de ±100 metros) | [RNF01](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | João Ramos, Gabriel Maciel | 
+| RC04 | Tempo de atualização da localização (dos ônibus) ≤ 20 segundos | [RNF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | João Ramos, Gabriel Maciel |
 
 ## Desempenho
 O desempenho define as características de eficiência do sistema, incluindo tempos de resposta para transações, a taxa de transferência de dados e a capacidade de usuários simultâneos que o sistema pode acomodar. Conforme as diretrizes, esta seção detalha os requisitos de performance e a utilização de recursos como memória e disco, garantindo que a aplicação opere dentro dos parâmetros esperados.
@@ -97,7 +101,7 @@ O desempenho define as características de eficiência do sistema, incluindo tem
 
 | ID | Descrição | Rastreabilidade | Autoria |
 |---|---|---|---|
-| RD01 | O tempo de rastreio de um veículo em tempo real deve ser menor que 20 segundos. | RNF03 - Elicitação de Requisitos | Gabriel Maciel|
+| RD01 | O tempo de rastreio de um veículo em tempo real deve ser menor que 20 segundos. | RNF03 - Elicitação de Requisitos | Gabriel Maciel |
 | RD02 | O tempo de carregamento da tela principal deve ser inferior a 3 segundos. | RNF10 - Elicitação de Requisitos: Entrevista (ENT17) | Gabriel Maciel |
 | RD03 | O aplicativo deve apresentar baixo consumo de bateria e dados móveis durante o uso. | RNF06 - Elicitação de Requisitos | Gabriel Maciel |
 | RD04 | O sistema deve suportar múltiplos usuários simultâneos sem apresentar lentidão ou degradação de performance. | RNF14 - Elicitação de Requisitos: Brainstorm (BRS15) | Gabriel Maciel |
