@@ -62,7 +62,7 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | [RNF11](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf11) | Funcionamento offline | Não Funcional | Não | RNI05, ENT18, BRS06 |
 | [RNF12](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf12) | Pagamento seguro | Não Funcional | Não | BRS10 |
 | [RNF13](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf13) | Disponibilidade ≥ 98% | Não Funcional | Sim | — |
-| [RNF14](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf14) | Suporte a múltiplos usuários | Não Funcional | Sim | BRS15 |
+| <a id="rnf14"></a> [RNF14](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf14) | Suporte a múltiplos usuários | Não Funcional | Sim | BRS15 |
 | [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf15) | Personalização da interface | Não Funcional | Não | BRS13 |
 
 
