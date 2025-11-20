@@ -162,10 +162,10 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 04 |
 |----|----------------------|--------|----------------------------|
-| 01 | Histórias de usuário são escritas pelo cliente? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](../assets/imagens/checklist_4/print_historia_1.png) |
-| 02 | O cliente atribuiu valor/prioridade? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](../assets/imagens/checklist_4/print_historia_2.png) |
-| 03 | Clientes e desenvolvedores definem juntos agrupamentos por versão? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://i.ibb.co/0WRXV3r/image.png) |
-| 04 | Histórias de usuário descrevem o resultado esperado? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](../assets/imagens/checklist_4/print_nfr_2.png) |
+| 01 | Histórias de usuário são escritas pelo cliente? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](https://ibb.co/9C3Nr75) |
+| 02 | O cliente atribuiu valor/prioridade? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](https://ibb.co/qZvpppV) |
+| 03 | Clientes e desenvolvedores definem juntos agrupamentos por versão? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/My6bZqc3) |
+| 04 | Histórias de usuário descrevem o resultado esperado? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](https://ibb.co/xKK2WzRK) |
 
 
 
@@ -173,10 +173,10 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 04 |
 |----|----------------------|--------|----------------------------|
-| 01 | Itens do backlog estão detalhados (DEEP)? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](../assets/imagens/checklist_4/print_backlog_2.png) |
-| 02 | Conteúdo definido pelo Product Owner? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://i.ibb.co/DDz0Xhmj/image.png) |
-| 03 | O backlog cresce e muda conforme aprendizado do produto? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://i.ibb.co/DDz0Xhmj/image.png) |
-| 04 | Product Owner prioriza itens na Sprint Planning? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](../assets/imagens/checklist_4/2-Backlog.png) |
+| 01 | Itens do backlog estão detalhados (DEEP)? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](https://ibb.co/gZ5dypLy) |
+| 02 | Conteúdo definido pelo Product Owner? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/xKthYFsF) |
+| 03 | O backlog cresce e muda conforme aprendizado do produto? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/p6CZbY69) |
+| 04 | Product Owner prioriza itens na Sprint Planning? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](https://ibb.co/8kdbXTW) |
 
 
 ---
@@ -224,6 +224,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
