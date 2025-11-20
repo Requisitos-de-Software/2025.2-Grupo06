@@ -24,12 +24,12 @@ Requisitos escolhidos:
 
 | Aluno            |  Contribuição               |
 |------------------|----------------------------------------|
-| Fernanda Vaz     |[Elaboração do prototipo 02](#prototipo-02)|
-| Gabriel Maciel   |[Elaboração do protótipo 01](#prototipo-01)|
-| João Gabriel     | [Elaboração do protótipo 04](#prototipo-04)                                     |
-| João Lucas       |[Elaboração do protótipo 05](#prototipo-05)                                    |
-| Daniel Nunes     | [Elaboração do protótipo 06](#prototipo-06)                                     |
-| Cauã Nicolas     |[Elaboração do protótipo 03](#prototipo-03)|
+| Fernanda Vaz     |[Elaboração dos requisitos  RF13 e  RF14](#prototipo-02)|
+| Gabriel Maciel   |[Elaboração dos requisitos  RF01 e  RF28](#prototipo-01)|
+| João Gabriel     | [Elaboração dos requisitos  RF15 e  RF16 ](#prototipo-04)                                     |
+| João Lucas       |[Elaboração dos requisitos  RF 36 e  RF38](#prototipo-05)                                    |
+| Daniel Nunes     | [Elaboração dos requisitos  RF 07 e  RF22](#prototipo-06)                                     |
+| Cauã Nicolas     |[Elaboração dos requisitos  RF25 e  RF 37](#prototipo-03)|
 
 ## Prototipações
 
@@ -99,6 +99,7 @@ Autoria: Fernanda vaz, 2025
 ---
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mVfVxG8g/Opera-Instant-neo-2025-11-11-193648-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-193648-www-figma-com" border="0"></a> 
+
 **Figura 04 – Tela 04**
 
 ---
