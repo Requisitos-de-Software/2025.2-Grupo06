@@ -81,14 +81,14 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 03 |
 |----|----------------------|--------|----------------------------|
-| 01 | O cenário possui um ambiente ou contexto? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/1fF56YTp/image.png) |
-| 02 | O cenário possui atores? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/TBW0MVgH/image.png) |
-| 03 | Os cenários possuem eventos ou ações externas? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/W4JGcHJz/Captura-de-tela-de-2025-10-12-22-29-344.png) |
-| 05 | O cenário tem avaliação (interpretação da situação)? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/CpRGhdWh/Captura-de-tela-de-2025-10-12-22-31-233.png) |
-| 06 | A narrativa expressa necessidades e objetivos do ator? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/7.png) |
-| 07 | O ator descrito deriva de informações reais (perfil do usuário)? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/6.png) |
-| 08 | O cenário é uma narrativa concreta e rica em detalhes? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/6.png) |
-| 09 | O cenário foi refinado para reduzir ambiguidades? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/6.png) |
+| 01 | O cenário possui um ambiente ou contexto? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://ibb.co/233qx99d) |
+| 02 | O cenário possui atores? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://ibb.co/rGzMpmqG) |
+| 03 | Os cenários possuem eventos ou ações externas? | João Ramos | [Imagem e Fonte da Etapa 03](https://ibb.co/SDXfk04x) |
+| 05 | O cenário tem avaliação (interpretação da situação)? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/cKxPdpMY/1-44.png) |
+| 06 | A narrativa expressa necessidades e objetivos do ator? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/ns2KS4SL/1-5.png) |
+| 07 | O ator descrito deriva de informações reais (perfil do usuário)? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/ns2KS4SL/1-5.png) |
+| 08 | O cenário é uma narrativa concreta e rica em detalhes? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/1twBy7FJ/cendan.png) |
+| 09 | O cenário foi refinado para reduzir ambiguidades? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/1twBy7FJ/cendan.png) |
 
 
 
@@ -224,6 +224,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
