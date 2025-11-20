@@ -11,7 +11,7 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 ### Tabela 1: Lista de requisitos elicitados de todas as técnicas
 | **ID** | **Requisito** | **Tipo** | **Implementado** | **Rastreabilidade (origem)** |
 |:------:|:---------------|:----------|:----------------:|:------------------------------|
-| [RF01](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf01) | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
+|[RF01](#rf01) | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
 | [RF02](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf02) | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
 | [RF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf03) | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
 | [RF04](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf04) | Permitir pesquisa por linhas e rotas de ônibus | Funcional | Sim | Análise de Documentos (RF02), Entrevista (ENT01) |
