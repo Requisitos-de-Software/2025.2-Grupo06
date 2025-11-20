@@ -12,8 +12,8 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | **ID** | **Requisito** | **Tipo** | **Implementado** | **Rastreabilidade (origem)** |
 |:------:|:---------------|:----------|:----------------:|:------------------------------|
 | <a id="rf01"></a>  [RF01](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf01)  | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
-| [RF02](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf02) | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
-| [RF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf03) | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
+|  <a id="rf02"></a> [RF02](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf02) | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
+| <a id="rf03"></a>  [RF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf03) | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
 | [RF04](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf04) | Permitir pesquisa por linhas e rotas de ônibus | Funcional | Sim | Análise de Documentos (RF02), Entrevista (ENT01) |
 | [RF05](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf05) | Apresentar horários de saída e chegada | Funcional | Sim | Entrevista (ENT02) |
 | [RF06](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf06) | Oferecer mapa interativo com pontos e linhas | Funcional | Sim | Entrevista (ENT06) |
