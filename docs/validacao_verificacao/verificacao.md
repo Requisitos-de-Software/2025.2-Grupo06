@@ -98,13 +98,13 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 03 |
 |----|----------------------|--------|----------------------------|
-| 01 | O léxico possui noção? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/PGg7C69R/image.png) |
-| 02 | O léxico possui símbolo com sinônimos? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/PGg7C69R/image.png) |
-| 03 | Léxicos do tipo objeto são usados ou alterados por ações? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/print_4.png) |
-| 04 | Léxicos do tipo estado são decorrentes do impacto? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/CszjPq8W/Captura-de-tela-de-2025-10-12-22-47-254.png) |
-| 05 | O léxico possui noção bem definida? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) |
-| 06 | O léxico apresenta tipos de estados? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) |
-| 07 | O léxico apresenta noções adequadas? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) |
+| 01 | O léxico possui noção? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](hhttps://i.ibb.co/F4Q9PSQM/01.png) |
+| 02 | O léxico possui símbolo com sinônimos? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YFqsVpy3/L02.png) |
+| 03 | Léxicos do tipo objeto são usados ou alterados por ações? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/WNffyj7m/L04.png) |
+| 04 | Léxicos do tipo estado são decorrentes do impacto? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/WNffyj7m/L04.png) |
+| 05 | O léxico possui noção bem definida? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/nsY6Ljgp/L07.png) |
+| 06 | O léxico apresenta tipos de estados? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/nsY6Ljgp/L07.png) |
+| 07 | O léxico apresenta noções adequadas? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/nsY6Ljgp/L07.png) |
 
 
 
@@ -224,6 +224,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
