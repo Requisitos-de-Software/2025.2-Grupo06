@@ -12,7 +12,7 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 
 | **ID** | **Requisito** | **Tipo** | **Implementado** | **Rastreabilidade (origem)** |
 |:------:|:---------------|:----------|:----------------:|:------------------------------|
-| [**RF01**](../Pos-rastreabilidade/forward.md#RF01) | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
+| <a href="../Elicitacao/elicitacao_lista_requisitos_elicitados.md#RF01">RF01</a> | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
 | [**RF02**](../Pos-rastreabilidade/forward.md#RF02) | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
 | [**RF03**](../Pos-rastreabilidade/forward.md#RF03) | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
 | [**RF04**](../Pos-rastreabilidade/forward.md#RF04) | Permitir pesquisa por linhas e rotas de ônibus | Funcional | Sim | Análise de Documentos (RF02), Entrevista (ENT01) |
