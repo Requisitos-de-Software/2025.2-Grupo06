@@ -115,10 +115,10 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 03 |
 |----|----------------------|--------|----------------------------|
-| 01 | O caso de uso possui atores? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/RkcB0dX9/image.png) |
-| 02 | O caso de uso possui associações? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/Wv10zKfw/image.png) |
-| 03 | O nome do sistema está no topo do retângulo? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/LD1kHmpf/Captura-de-tela-de-2025-10-12-22-06-055.png) |
-| 04 | Os atores estão fora do retângulo do sistema? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/2TcYV1q/Captura-de-tela-de-2025-10-12-22-11-077.png) |
+| 01 | O caso de uso possui atores? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/DHKNpfFp/V04.png) |
+| 02 | O caso de uso possui associações? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/4gKrttPx/C03.png) |
+| 03 | O nome do sistema está no topo do retângulo? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/W4hf6fMv/C02.png) |
+| 04 | Os atores estão fora do retângulo do sistema? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/W4hf6fMv/C02.png) |
 | 05 | O diagrama apresenta o fluxo básico das funcionalidades? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/print_2.png) |
 | 06 | Cada ator interage com pelo menos um caso de uso? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/print_2.png) |
 
@@ -126,14 +126,14 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 03 |
 |----|----------------------|--------|----------------------------|
-| 01 | A Especificação Suplementar captura os requisitos do sistema? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/twMfmPhs/image.png) |
-| 02 | Há análise de usabilidade? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/0pFcB8Wx/image.png) |
-| 03 | Requisitos de confiabilidade foram especificados? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/F4yLBB90/Captura-de-tela-de-2025-10-12-21-41-399.png) |
-| 04 | Requisitos de manutenibilidade foram descritos? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YTymr8tp/Captura-de-tela-de-2025-10-12-21-44-277.png) |
-| 05 | A introdução apresenta visão geral do documento? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/1.png) |
-| 06 | A seção de identificação apresenta a sigla do projeto? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/3.png) |
-| 07 | Critérios de desempenho estão definidos? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/3.png) |
-| 08 | Interfaces foram detalhadas? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/3.png) |
+| 01 | A Especificação Suplementar captura os requisitos do sistema? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://i.ibb.co/Szm6yk5/01E.png) |
+| 02 | Há análise de usabilidade? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://ibb.co/TBRwRnMD) |
+| 03 | Requisitos de confiabilidade foram especificados? | João Ramos | [Imagem e Fonte da Etapa 03](https://ibb.co/album/PMFKNC) |
+| 04 | Requisitos de manutenibilidade foram descritos? | João Ramos | [Imagem e Fonte da Etapa 03](https://ibb.co/album/PMFKNC) |
+| 05 | A introdução apresenta visão geral do documento? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/m59Gh73B/E05.png) |
+| 06 | A seção de identificação apresenta a sigla do projeto? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YTbWRjVb/E08.png) |
+| 07 | Critérios de desempenho estão definidos? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YTbWRjVb/E08.png.) |
+| 08 | Interfaces foram detalhadas? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YTbWRjVb/E08.png) |
 
 
 
@@ -224,6 +224,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
