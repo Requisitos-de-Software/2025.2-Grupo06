@@ -150,11 +150,11 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 04 |
 |----|----------------------|--------|----------------------------|
-| 01 | As softgoals do tipo NFR representam requisitos não funcionais? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](../assets/imagens/checklist_4/print_nfr_2.png) |
-| 02 | Softgoals de operacionalização representam soluções para satisfazer NFRs? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://i.ibb.co/rRgGd1xH/image.png) |
-| 03 | Existem três tipos de softgoals no NFR Framework? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://i.ibb.co/8njd3pN6/image.png) |
-| 04 | Contribuição AND determina que todos descendentes satisfeitos satisfazem o ascendente? | João Ramos | [Imagem e Fonte da Etapa 04](https://ibb.co/GfKX6nwT) |
-| 05 | Contribuição OR determina que apenas um descendente satisfeito basta? | João Ramos | [Imagem e Fonte da Etapa 04](https://ibb.co/tTr0qP8t) |
+| 01 | As softgoals do tipo NFR representam requisitos não funcionais? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](https://i.ibb.co/S7xJbSwz/01.png) |
+| 02 | Softgoals de operacionalização representam soluções para satisfazer NFRs? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/wNb8p90W) |
+| 03 | Existem três tipos de softgoals no NFR Framework? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/8nDpBJt0) |
+| 04 | Contribuição AND determina que todos descendentes satisfeitos satisfazem o ascendente? | João Ramos | [Imagem e Fonte da Etapa 04](https://i.ibb.co/GQ9fT3S2/image.png) |
+| 05 | Contribuição OR determina que apenas um descendente satisfeito basta? | João Ramos | [Imagem e Fonte da Etapa 04](https://ibb.co/9HnsJQBS) |
 
 
 
@@ -224,6 +224,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
