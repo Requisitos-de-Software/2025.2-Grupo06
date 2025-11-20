@@ -191,22 +191,22 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 06 |
 |----|----------------------|--------|----------------------------|
-| 01 | A rastreabilidade forward-to liga elicitação a requisitos? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://github.com/Requisitos-de-Software/2025.2-Grupo06/blob/main/docs/assets/imagens/check5/imagem_2025-10-27_203140850.png?raw=true) |
-| 02 | A rastreabilidade backward-from liga requisitos às fontes? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://i.ibb.co/sp1NvSFg/image.png) |
-| 03 | Rastreabilidade acompanha a vida do requisito? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://i.ibb.co/35h2NwmG/image.png) |
-| 04 | Toranzo utiliza quatro estratégias de trabalho? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://i.ibb.co/5XJtTZk4/image.png) |
-| 05 | O elo recurso indica dependência entre classes? | Cauã Nicolas | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/6-lv.png) |
-| 06 | O nível desenvolvimento inclui informações de diversos artefatos? | Cauã Nicolas | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/9-lv.png) |
-| 07 | O elo satisfação indica dependência de satisfação entre classes? | Cauã Nicolas | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/10-lv.png) |
-| 08 | A rastreabilidade forward-from liga requisitos a artefatos? | João Gabriel | [Imagem e Fonte da Etapa 06](https://ibb.co/gZnzf0BX) |
-| 09 | A rastreabilidade backward-to liga artefatos aos requisitos? | João Gabriel | [Imagem e Fonte da Etapa 06](https://ibb.co/gZnzf0BX) |
-| 10 | A matriz de rastreabilidade documenta relações entre artefatos? | João Gabriel | [Imagem e Fonte da Etapa 06](https://ibb.co/gZnzf0BX) |
-| 11 | Nível desenvolvimento contém artefatos gerados no processo? | Gabriel Maciel | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/18-lv.png) |
-| 12 | Requisitos são representados em outras linguagens? | Gabriel Maciel | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/19-lv.png) |
-| 13 | Informações rastreadas classificadas em níveis ambiental, organizacional, gerencial ou desenvolvimento? | João Ramos | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/21-lv.png) |
-| 14 | Nível ambiental contém contexto da organização? | João Ramos | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/21-lv.png) |
-| 15 | Nível organizacional contém missão, objetivos e estratégias? | João Ramos | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/21-lv.png) |
-| 16 | Nível gerencial contém informações para gerir o projeto? | João Ramos | [Imagem e Fonte da Etapa 06](../assets/imagens/checklist_5/21-lv.png) |
+| 01 | A rastreabilidade forward-to liga elicitação a requisitos? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://i.ibb.co/cXK78cWX/1.png) |
+| 02 | A rastreabilidade backward-from liga requisitos às fontes? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://i.ibb.co/cXK78cWX/1.png) |
+| 03 | Rastreabilidade acompanha a vida do requisito? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://i.ibb.co/zWbhtGKg/2.png) |
+| 04 | Toranzo utiliza quatro estratégias de trabalho? | Fernanda Vaz | [Imagem e Fonte da Etapa 06](https://i.ibb.co/Q7YCmvkN/3.png) |
+| 05 | O elo recurso indica dependência entre classes? | Cauã Nicolas | [Imagem e Fonte da Etapa 06](https://i.ibb.co/Cs0J2Bq5/9-lv.png) |
+| 06 | O nível desenvolvimento inclui informações de diversos artefatos? | Cauã Nicolas | [Imagem e Fonte da Etapa 06](https://i.ibb.co/Tjqg9sH/10-lv.png) |
+| 07 | O elo satisfação indica dependência de satisfação entre classes? | Cauã Nicolas | [Imagem e Fonte da Etapa 06](https://i.ibb.co/wrWMLkJh/item2-7.png) |
+| 08 | A rastreabilidade forward-from liga requisitos a artefatos? | João Gabriel | [Imagem e Fonte da Etapa 06]() |
+| 09 | A rastreabilidade backward-to liga artefatos aos requisitos? | João Gabriel | [Imagem e Fonte da Etapa 06]() |
+| 10 | A matriz de rastreabilidade documenta relações entre artefatos? | João Gabriel | [Imagem e Fonte da Etapa 06]() |
+| 11 | Nível desenvolvimento contém artefatos gerados no processo? | Gabriel Maciel | [Imagem e Fonte da Etapa 06]() |
+| 12 | Requisitos são representados em outras linguagens? | Gabriel Maciel | [Imagem e Fonte da Etapa 06]() |
+| 13 | Informações rastreadas classificadas em níveis ambiental, organizacional, gerencial ou desenvolvimento? | João Ramos | [Imagem e Fonte da Etapa 06]() |
+| 14 | Nível ambiental contém contexto da organização? | João Ramos | [Imagem e Fonte da Etapa 06]() |
+| 15 | Nível organizacional contém missão, objetivos e estratégias? | João Ramos | [Imagem e Fonte da Etapa 06]() |
+| 16 | Nível gerencial contém informações para gerir o projeto? | João Ramos | [Imagem e Fonte da Etapa 06]() |
 
 
 
@@ -224,6 +224,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
