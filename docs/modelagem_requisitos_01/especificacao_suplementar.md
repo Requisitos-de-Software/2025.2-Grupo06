@@ -8,12 +8,12 @@ A presente especificação aplica-se ao aplicativo móvel DF no Ponto, disponív
 
 |        Nome          | Contribuição |
 |----------------------|--------------|
-| Cauã Nicolas | Especificação Suplementar dos Requisitos de 
-| Daniel Nunes |
-| Fernanda Vaz |
-| Gabriel Maciel |
-| João Gabriel |
-| João Ramos |
+| Cauã Nicolas | A preencher. |
+| Daniel Nunes | A preencher. |
+| Fernanda Vaz | - [Especificação Suplementar dos Requisitos de Usabilidade](#usabilidade) |
+| Gabriel Maciel | - [Especificação Suplementar dos Requisitos de Desempenho](#desempenho) <br> - Revisão e correções do documento |
+| João Gabriel | A preencher. |
+| João Ramos | A preencher. |
 
 
 ## Metodologia
