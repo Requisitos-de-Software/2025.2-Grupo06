@@ -12,9 +12,6 @@
 
 [![vídeo no YouTube](https://img.youtube.com/vi/oX0_zzmZAH8/0.jpg)](https://www.youtube.com/watch?v=16B2R2ww0DA)
 
-
-
-
 ## Etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade
 
 | ID | Item de Verificação | Autor Consolidado | Link para Imagem | Avaliação |
@@ -31,10 +28,9 @@
 
 **Estatística da Etapa 1:** 8 Conforme (89%) | 1 Não Conforme (11%)
 
-
 <a href="https://ibb.co/XrPRd8jf"><img src="https://i.ibb.co/q38Q457L/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 1</b> - Gráfico de Pizza da Etapa 1<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
 ---
 
@@ -48,13 +44,12 @@
 | 8 | As entrevistas seguiram roteiro e focaram nos objetivos do projeto? | João Gabriel | Visualizar | Conforme |
 | 9 | Todas as partes interessadas foram identificadas? | João Gabriel | Visualizar | Conforme |
 
-** Estatística da Elicitação:** 3 Conforme (100%) | 0 Não Conforme (0%)
-
-
+**Estatística da Elicitação:** 3 Conforme (100%) | 0 Não Conforme (0%)
 
 <a href="https://ibb.co/Hf2FybML"><img src="https://i.ibb.co/RkSvKsMG/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 2</b> - Gráfico de Pizza da Elicitação de Requisitos<br><i>Fonte: Fernanda Vaz, 2025</i></p>
+
 ---
 
 ### Priorização de Requisitos
@@ -65,15 +60,13 @@
 | 11 | Foram considerados valor, custo e risco na priorização? | João Gabriel | Visualizar | Conforme |
 | 12 | Os critérios MoSCoW foram aplicados corretamente? | Cauã Nicolas | Visualizar | Não Conforme |
 
-** Estatística da Priorização:** 2 Conforme (67%) | 1 Não Conforme (33%)
+**Estatística da Priorização:** 2 Conforme (67%) | 1 Não Conforme (33%)
 
 <a href="https://ibb.co/4nKxb7GQ"><img src="https://i.ibb.co/v6V8NHGt/image.png" alt="image" border="0"></a>
 
+<p align="center"><b>Figura 3</b> - Gráfico de Pizza da Priorização de Requisitos<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
-*Fonte: FERNANDA VAZ, 2025*
-
- ---
- 
+---
 
 ### Perfil de Usuário
 
@@ -84,18 +77,13 @@
 | 23 | O perfil apresenta um layout acessível e intuitivo? | Fernanda Vaz | Visualizar | Conforme |
 | 24 | As informações registradas incluem idade, escolaridade e profissão do usuário? | Gabriel Maciel | Visualizar | Não Conforme |
 
-** Estatística do Perfil de Usuário:** 3 Conforme (75%) | 1 Não Conforme (25%)
-
-
-
+**Estatística do Perfil de Usuário:** 3 Conforme (75%) | 1 Não Conforme (25%)
 
 <a href="https://ibb.co/v46VbfFY"><img src="https://i.ibb.co/Xxrj96Q8/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
-
+<p align="center"><b>Figura 4</b> - Gráfico de Pizza do Perfil de Usuário<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
 ---
-
 
 ## Etapa 3 - Modelagem de Requisitos 1
 
@@ -114,13 +102,11 @@
 
 **Estatística dos Cenários:** 7 Conforme (88%) | 1 Não Conforme (12%)
 
-
 <a href="https://ibb.co/1tXcdVvz"><img src="https://i.ibb.co/7dphRcYk/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 5</b> - Gráfico de Pizza dos Cenários<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
 ---
-
 
 ### Léxicos
 
@@ -134,15 +120,13 @@
 | 06 | O léxico apresenta algum dos tipos de estados? | Daniel Nunes Duarte | [Ver imagem](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) | Conforme |
 | 07 | Apresenta alguma das noções dos lexicos? | Daniel Nunes Duarte | [Ver imagem](https://i.ibb.co/m5g12kv2/Captura-de-tela-de-2025-10-12-22-50-233.png) | Não Conforme |
 
-** Estatística dos Léxicos:** 6 Conforme (86%) | 1 Não Conforme (14%)
-
-
+**Estatística dos Léxicos:** 6 Conforme (86%) | 1 Não Conforme (14%)
 
 <a href="https://ibb.co/N6wnKv3Y"><img src="https://i.ibb.co/MDq57vhN/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 6</b> - Gráfico de Pizza dos Léxicos<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
-
+---
 
 ### Casos de Uso
 
@@ -155,11 +139,13 @@
 | 07 | O diagrama de casos de uso UML apresenta o fluxo básico? | Gabriel Maciel | [Ver imagem](../assets/imagens/checklist_3/print_2.png) | Conforme |
 | 08 | Cada ator está interagindo com pelo menos um caso de uso? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/print_2.png) | Não Conforme |
 
-** Estatística dos Casos de Uso:** 5 Conforme (83%) | 1 Não Conforme (17%)
+**Estatística dos Casos de Uso:** 5 Conforme (83%) | 1 Não Conforme (17%)
 
 <a href="https://ibb.co/mrqnPLfM"><img src="https://i.ibb.co/Cp7jSkRT/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 7</b> - Gráfico de Pizza dos Casos de Uso<br><i>Fonte: Fernanda Vaz, 2025</i></p>
+
+---
 
 ### Especificação Suplementar
 
@@ -174,12 +160,13 @@
 | 07 | Foram definidos critérios de Desempenho? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/3.png) | Não Conforme |
 | 08 | As Interfaces foram detalhadas o suficiente? | Daniel Nunes Duarte | [Ver imagem](../assets/imagens/checklist_3/3.png) | Conforme |
 
-** Estatística da Especificação Suplementar:** 7 Conforme (88%) | 1 Não Conforme (12%)
+**Estatística da Especificação Suplementar:** 7 Conforme (88%) | 1 Não Conforme (12%)
 
 <a href="https://ibb.co/m5LwGYwT"><img src="https://i.ibb.co/23DQyLQh/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 8</b> - Gráfico de Pizza da Especificação Suplementar<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
+---
 
 ## Etapa 4 - Modelagem de Requisitos 2 (Ágil)
 
@@ -193,14 +180,13 @@
 | 04 | O tipo de contribuição AND está determinando satisfação dos softgoals? | João Ramos | [Visualizar](https://ibb.co/GfKX6nwT) | Conforme |
 | 05 | O tipo de contribuição OR está determinando satisfação dos softgoals? | João Ramos | [Visualizar](https://ibb.co/tTr0qP8t) | Não Conforme |
 
-** Estatística do NFR Framework:** 4 Conforme (80%) | 1 Não Conforme (20%)
-
+**Estatística do NFR Framework:** 4 Conforme (80%) | 1 Não Conforme (20%)
 
 <a href="https://ibb.co/tpLB6xSj"><img src="https://i.ibb.co/Jj3nTyN6/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 9</b> - Gráfico de Pizza do NFR Framework<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
-
+---
 
 ### Histórias de Usuários
 
@@ -211,12 +197,13 @@
 | 03 | Clientes e desenvolvedores trabalham juntos para agrupar histórias? | Fernanda Vaz | [Visualizar](https://i.ibb.co/0WRXV3r/image.png) | Conforme |
 | 04 | As histórias de usuário estão descrevendo o resultado para o software? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_4/print_nfr_2.png) | Não Conforme |
 
-** Estatística das Histórias de Usuário:** 3 Conforme (75%) | 1 Não Conforme (25%)
+**Estatística das Histórias de Usuário:** 3 Conforme (75%) | 1 Não Conforme (25%)
 
 <a href="https://ibb.co/YBg2bvPz"><img src="https://i.ibb.co/Kxn6mCbM/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 10</b> - Gráfico de Pizza das Histórias de Usuário<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
+---
 
 ### Backlog
 
@@ -227,11 +214,13 @@
 | 03 | O Product Backlog cresce e muda conforme aprendizado? | Fernanda Vaz | [Visualizar](https://i.ibb.co/DDz0Xhmj/image.png) | Conforme |
 | 04 | No processo da Sprint Planning, o PO prioriza os itens? | Cauã Nicolas | [Visualizar](../assets/imagens/checklist_4/2-Backlog.png) | Conforme |
 
-** Estatística do Backlog:** 4 Conforme (100%) | 0 Não Conforme (0%)
+**Estatística do Backlog:** 4 Conforme (100%) | 0 Não Conforme (0%)
 
 <a href="https://ibb.co/Hf2FybML"><img src="https://i.ibb.co/RkSvKsMG/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 11</b> - Gráfico de Pizza do Backlog<br><i>Fonte: Fernanda Vaz, 2025</i></p>
+
+---
 
 ## Etapa 6 - Pós-Rastreabilidade
 
@@ -256,16 +245,17 @@
 
 **Estatística da Pós-Rastreabilidade:** 14 Conforme (88%) | 2 Não Conforme (12%)
 
-
 <a href="https://ibb.co/zWJMSWCL"><img src="https://i.ibb.co/j9RNL9qx/image.png" alt="image" border="0"></a>
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 12</b> - Gráfico de Pizza da Pós-Rastreabilidade<br><i>Fonte: Fernanda Vaz, 2025</i></p>
+
+---
 
 ## Resumo Geral da Inspeção 
 
 <img src="https://i.ibb.co/b5t8RXDd/Opera-Instant-neo-2025-11-20-164819-docs-google-com.png" alt="Opera-Instant-neo-2025-11-20-164819-docs-google-com" border="0">
 
-*Fonte: FERNANDA VAZ, 2025*
+<p align="center"><b>Figura 13</b> - Gráfico de Barras do Resumo Geral da Inspeção<br><i>Fonte: Fernanda Vaz, 2025</i></p>
 
 | Etapa | Conforme | Não Conforme | Percentual |
 |-------|----------|--------------|------------|
@@ -285,7 +275,9 @@
 
 **Percentual Geral de Conformidade: 86%**
 
-##  Histórico de Versão
+---
+
+## Histórico de Versão
 
 | **Versão** | **Data** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 |:--:|:--:|:--|:--|:--|
@@ -294,7 +286,8 @@
 | **2.2** | 12/11/2025 | Adição da lista da Etapa 3 | João Ramos | João Gabriel |
 | **2.3** | 12/11/2025 | Adição da lista da Etapa 3 | Cauã Nicolas | João Ramos |
 
+---
+
 ## Agradecimentos
 
->Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
- 
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras.
