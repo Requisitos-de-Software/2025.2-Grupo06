@@ -265,9 +265,6 @@
 
 ## Resumo Geral da Inspeção 
 
-<img src="https://i.ibb.co/b5t8RXDd/Opera-Instant-neo-2025-11-20-164819-docs-google-com.png" alt="Opera-Instant-neo-2025-11-20-164819-docs-google-com" border="0">
-
-<p align="center"><b>Figura 13</b> - Gráfico de Barras do Resumo Geral da Inspeção<br><i>Fonte:Fernanda Vaz, 2025</i></p>
 
 | Etapa | Conforme | Não Conforme | Percentual |
 |-------|----------|--------------|------------|
