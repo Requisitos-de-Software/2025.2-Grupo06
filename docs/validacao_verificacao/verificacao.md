@@ -16,7 +16,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 05 | A construção foi baseada em pesquisa com usuários reais (entrevistas, brainstorming)? | João Gabriel | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/zVVhynrx/image.png) |
 | 06 | O diagrama revela insights sobre organização e problemas não previstos inicialmente? | João Gabriel | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/ZQtDYf9/image.png) |
 | 07 | Elementos gráficos seguem padrões reconhecíveis (bonecos para atores, setas para fluxos)? | Cauã Nicolas | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/zVmjcbbh/image.png) |
-| 08 | A comunicação visual é clara e compreensível para diferentes stakeholders? | Todos | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/fGKxh5Hk/image.png) |
+| 08 | A comunicação visual é clara e compreensível para diferentes stakeholders? |  Fernanda Vaz | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/fGKxh5Hk/image.png) |
 
 ## Etapa 2 - Elicitação de Requisitos e Priorização v(2.0)
  *Autoria: Fernanda Vaz, 2025*  
@@ -63,10 +63,10 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 02 |
 |----|----------------------|--------|----------------------------|
-| 21 | O perfil foi construído com proporção de usuários reais? | João Gabriel | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 22 | Campos obrigatórios estão preenchidos corretamente? | Fernanda Vaz | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 23 | Layout é acessível e intuitivo? | Fernanda Vaz | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 24 | Inclui idade, escolaridade e profissão? | Gabriel Maciel | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 21 | O perfil foi construído com proporção de usuários reais? | João Gabriel | [Imagem e Fonte da Etapa 02](https://ibb.co/Kj6Sj55J) |
+| 22 | Os perfis de usuários  possuem características semelhantes ? | Fernanda Vaz | [Imagem e Fonte da Etapa 02](https://ibb.co/Kj6Sj55J) |
+| 23 | o perfil tem características de acordo com as necessidades do produto? | Fernanda Vaz | [Imagem e Fonte da Etapa 02](https://ibb.co/3Y4881H2) |
+| 24 | Inclui idade, escolaridade e profissão? | Gabriel Maciel | [Imagem e Fonte da Etapa 02](https://ibb.co/3Y4881H2) |
 
 
 ---
@@ -224,6 +224,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
