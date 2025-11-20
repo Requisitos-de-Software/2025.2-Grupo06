@@ -47,6 +47,8 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 - RNF: Requisito Não Funcional
 - ENT: Entrevista
 - RNI: Requisitos Não Implementados
+
+  
 | ID do Requisito | Descrição do Requisito | Fonte/Origem | Classificação da Fonte | Tipo de Elo | Autoria |
 |-----------------|------------------------|--------------|------------------------|-------------|---------|
 | <a href="../Elicitacao/elicitacao_lista_requisitos_elicitados.md#RF01">RF01</a> | Exibir a localização dos ônibus em tempo real no mapa | <a href="../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais">Análise de Documentos (RF01)</a>, <a href="../Elicitacao/elicitacao_entrevista.md#resultados">Entrevista (ENT03)</a> | Ambiental | Agregação (Agrega dados do Análise de Documentos (RF01) e ENT03) | João Gabriel |
