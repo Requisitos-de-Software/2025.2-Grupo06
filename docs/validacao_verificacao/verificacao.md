@@ -3,34 +3,33 @@
 Esta página apresenta as versões finais de cada lista de verificação de cada etapa feita no projeto, corrigindo diversos fatores como remoção de itens redundantes, adição de novos itens mais relevantes para aquele tópico e edição de itens para que sejam mais facilmente verificaveis em um projeto. 
 
 ## Etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade v(2.0)
-### **Rich Picture (v2.0)** 
-
 *Autoria: João Gabriel, 2025*
 
-| ID | Item de Verificação | Autor Consolidado | Link para Imagem |
+> Foi realizada uma melhoria na [Lista Planejamento do Projeto e Pré-Rastreabilidade v1](https://requisitos-de-software.github.io/2025.2-Grupo06/checklist/lista01), com ajustes de redundâncias, reestruturação dos critérios e  link direto para imagem e fonte.
+
+| ID | Item de Verificação | Autor  |  Imagem e Fonte da Etapa 01 |
 |---|---------------------|-------------------|------------------|
-| 01 | Stakeholders principais e suas preocupações estão identificados e representados? | Fernanda Vaz | [Ver imagem](https://i.ibb.co/JR9m4Kxt/image.png) |
-| 02 | Limite do sistema está claramente definido e elementos internos/externos estão distinguidos? | Fernanda Vaz/Cauã Nicolas | [Ver imagem](https://i.ibb.co/60vLLs2D/image.png) |
-| 03 | Operações do sistema estão mapeadas com atores responsáveis e fluxos de dados definidos? | Gabriel Maciel | [Ver imagem](https://i.ibb.co/BVJ2tdn9/image.png) |
-| 04 | Armazenamentos de dados estão identificados com suas interações e tipos de dados? | Gabriel Maciel | [Ver imagem](https://i.ibb.co/WNJVdvbR/image.png) |
-| 05 | A construção foi baseada em pesquisa com usuários reais (entrevistas, brainstorming)? | João Gabriel | [Ver imagem](https://i.ibb.co/zVVhynrx/image.png) |
-| 06 | O diagrama revela insights sobre organização e problemas não previstos inicialmente? | João Gabriel | [Ver imagem](https://i.ibb.co/ZQtDYf9/image.png) |
-| 07 | Elementos gráficos seguem padrões reconhecíveis (bonecos para atores, setas para fluxos)? | Cauã Nicolas | [Ver imagem](https://i.ibb.co/zVmjcbbh/image.png) |
-| 08 | A comunicação visual é clara e compreensível para diferentes stakeholders? | Todos | [Ver imagem](https://i.ibb.co/fGKxh5Hk/image.png) |
+| 01 | Stakeholders principais e suas preocupações estão identificados e representados? | Fernanda Vaz | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/JR9m4Kxt/image.png) |
+| 02 | Limite do sistema está claramente definido e elementos internos/externos estão distinguidos? | Fernanda Vaz/Cauã Nicolas | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/60vLLs2D/image.png) |
+| 03 | Operações do sistema estão mapeadas com atores responsáveis e fluxos de dados definidos? | Gabriel Maciel | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/BVJ2tdn9/image.png) |
+| 04 | Armazenamentos de dados estão identificados com suas interações e tipos de dados? | Gabriel Maciel | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/WNJVdvbR/image.png) |
+| 05 | A construção foi baseada em pesquisa com usuários reais (entrevistas, brainstorming)? | João Gabriel | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/zVVhynrx/image.png) |
+| 06 | O diagrama revela insights sobre organização e problemas não previstos inicialmente? | João Gabriel | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/ZQtDYf9/image.png) |
+| 07 | Elementos gráficos seguem padrões reconhecíveis (bonecos para atores, setas para fluxos)? | Cauã Nicolas | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/zVmjcbbh/image.png) |
+| 08 | A comunicação visual é clara e compreensível para diferentes stakeholders? | Todos | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/fGKxh5Hk/image.png) |
 
 ## Etapa 2 - Elicitação de Requisitos e Priorização v(2.0)
+ *Autoria: Fernanda Vaz, 2025*  
 
-### Autoria: Fernanda Vaz, 2025  
-
-> Foi realizada uma melhoria na [Lista Elicitação de Requisitos e Priorização v1](https://requisitos-de-software.github.io/2025.2-Grupo06/checklist/lista02), com ajustes de redundâncias, reestruturação dos critérios e  link direto para evidências no Google Docs.
+> Foi realizada uma melhoria na [Lista Elicitação de Requisitos e Priorização v1](https://requisitos-de-software.github.io/2025.2-Grupo06/checklist/lista02), com ajustes de redundâncias, reestruturação dos critérios e  link direto para imagem e fonte.
 
 ---
 
 ### Cenário
 
-| ID | Item de Verificação | Autor | Link |
+| ID | Item de Verificação | Autor |  Imagem e Fonte da Etapa 02 |
 |----|----------------------|--------|------|
-| 1 | O cenário descreve o comportamento do autor? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 1 | O cenário descreve o comportamento do autor? | Fernanda Vaz | [ Imagem e Fonte da Etapa 02 ](https://i.ibb.co/LXPDqFJ3/Opera-Instant-neo-2025-11-20-122112-aprender3-unb-br.png) |
 | 2 | O cenário descreve as experiências dos autores? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 3 | O cenário possui um enredo, ambiente e contexto? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
 | 4 | Está vinculado a uma persona e descreve passo a passo o que ela faz? | Fernanda Vaz | [Visualizar](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
@@ -215,3 +214,4 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
