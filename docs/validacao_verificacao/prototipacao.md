@@ -7,29 +7,30 @@ Os estudantes desenvolveram protótipos de alta fidelidade no Figma para cada re
 
 Requisitos escolhidos:
 
-| ID   | Requisito                                                         | Tipo       | Rastreabilidade (origem)                                  |
-|------|-------------------------------------------------------------------|-----------|------------------------------------------------------------|
-| RF01 | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Análise de Documentos (RF01), Entrevista (ENT03) |
-| RF13 | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Funcional | Entrevista (ENT07) |
-| RF14 | Permitir integração com o cartão de transporte, incluindo saldo e recarga | Funcional | Entrevista (ENT07) |
-| RF15 | Manter histórico de viagens do usuário | Funcional | Análise de Documentos (RNI03) |
-| RF16 | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Entrevista (ENT20) |
-| RF28 | Permitir avaliação da qualidade do serviço de cada linha | Funcional | Análise de Documentos (RNI04)                             |
-| RF25 | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Entrevista (ENT08)          |
-| RF37 | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Brainstorm (BRS18) |
-| RF36| Oferecer suporte multilíngue (português e inglês, no mínimo) | Funcional | Entrevista (ENT22) |
-| RF38 | Visualizar linhas que possuem ar-condicionado | Funcional | Brainstorm (BRS20) |
+| ID                    | Requisito                                                                                | Tipo      | Rastreabilidade (origem)                         |
+| --------------------- | ---------------------------------------------------------------------------------------- | --------- | ------------------------------------------------ |
+| [RF01](#prototipo-02) | Exibir a localização dos ônibus em tempo real no mapa                                    | Funcional | Análise de Documentos (RF01), Entrevista (ENT03) |
+| [RF13](#prototipo-01) | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)            | Funcional | Entrevista (ENT07)                               |
+| [RF14](#prototipo-01) | Permitir integração com o cartão de transporte, incluindo saldo e recarga                | Funcional | Entrevista (ENT07)                               |
+| [RF15](#prototipo-04) | Manter histórico de viagens do usuário                                                   | Funcional | Análise de Documentos (RNI03)                    |
+| [RF16](#prototipo-04) | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Entrevista (ENT20)                               |
+| [RF28](#prototipo-02) | Permitir avaliação da qualidade do serviço de cada linha                                 | Funcional | Análise de Documentos (RNI04)                    |
+| [RF25](#prototipo-03) | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Entrevista (ENT08)                               |
+| [RF37](#prototipo-03) | Permitir cadastro, login e autenticação de usuários no sistema                           | Funcional | Brainstorm (BRS18)                               |
+| [RF36](#prototipo-05) | Oferecer suporte multilíngue (português e inglês, no mínimo)                             | Funcional | Entrevista (ENT22)                               |
+| [RF38](#prototipo-05) | Visualizar linhas que possuem ar-condicionado                                            | Funcional | Brainstorm (BRS20)                               |
 
 ## Tabela de Contribuição
 
-| Aluno            |  Contribuição               |
-|------------------|----------------------------------------|
-| Fernanda Vaz     |[Elaboração dos requisitos  RF13 e  RF14](#prototipo-02)|
-| Gabriel Maciel   |[Elaboração dos requisitos  RF01 e  RF28](#prototipo-01)|
-| João Gabriel     | [Elaboração dos requisitos  RF15 e  RF16 ](#prototipo-04)                                     |
-| João Lucas       |[Elaboração dos requisitos  RF 36 e  RF38](#prototipo-05)                                    |
-| Daniel Nunes     | [Elaboração dos requisitos  RF 07 e  RF22](#prototipo-06)                                     |
-| Cauã Nicolas     |[Elaboração dos requisitos  RF25 e  RF 37](#prototipo-03)|
+| Aluno          | Contribuição                                           |
+| -------------- | ------------------------------------------------------ |
+| Fernanda Vaz   | [Elaboração dos requisitos RF13 e RF14](#prototipo-02) |
+| Gabriel Maciel | [Elaboração dos requisitos RF01 e RF28](#prototipo-01) |
+| João Gabriel   | [Elaboração dos requisitos RF15 e RF16](#prototipo-04) |
+| João Lucas     | [Elaboração dos requisitos RF36 e RF38](#prototipo-05) |
+| Daniel Nunes   | [Elaboração dos requisitos RF07 e RF22](#prototipo-06) |
+| Cauã Nicolas   | [Elaboração dos requisitos RF25 e RF37](#prototipo-03) |
+
 
 ## Prototipações
 
