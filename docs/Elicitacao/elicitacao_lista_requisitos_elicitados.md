@@ -9,62 +9,62 @@ Cada requisito está vinculado à técnica de elicitação que o originou, permi
 Esta rastreabilidade é fundamental para garantir a validação dos requisitos e facilitar futuras manutenções e refinamentos do sistema.
 
 ### Tabela 1: Lista de requisitos elicitados de todas as técnicas
-
 | **ID** | **Requisito** | **Tipo** | **Implementado** | **Rastreabilidade (origem)** |
 |:------:|:---------------|:----------|:----------------:|:------------------------------|
-| <a href="../Elicitacao/elicitacao_lista_requisitos_elicitados.md#RF01">RF01</a> | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
-| [**RF02**](../Pos-rastreabilidade/forward.md#RF02) | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
-| [**RF03**](../Pos-rastreabilidade/forward.md#RF03) | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
-| [**RF04**](../Pos-rastreabilidade/forward.md#RF04) | Permitir pesquisa por linhas e rotas de ônibus | Funcional | Sim | Análise de Documentos (RF02), Entrevista (ENT01) |
-| [**RF05**](../Pos-rastreabilidade/forward.md#RF05) | Apresentar horários de saída e chegada dos transportes | Funcional | Sim | Entrevista (ENT02) |
-| [**RF06**](../Pos-rastreabilidade/forward.md#RF06) | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes | Funcional | Sim | Entrevista (ENT06) |
-| [**RF07**](../Pos-rastreabilidade/forward.md#RF07) | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais | Funcional | Sim | Análise de Documentos (RNI02), Brainstorm (BRS04) |
-| [**RF08**](../Pos-rastreabilidade/forward.md#RF08) | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes) | Funcional | Sim | Entrevista (ENT16) |
-| [**RF09**](../Pos-rastreabilidade/forward.md#RF09) | Indicar lotação do ônibus (vazio, moderado, lotado) | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS07) |
-| [**RF10**](../Pos-rastreabilidade/forward.md#RF10) | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS03) |
-| [**RF11**](../Pos-rastreabilidade/forward.md#RF11) | Enviar notificação quando o ônibus estiver a X minutos da parada | Funcional | Sim | Análise de Documentos (RNI01), Entrevista (ENT15), Brainstorm (BRS05) |
-| [**RF12**](../Pos-rastreabilidade/forward.md#RF12) | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários | Funcional | Sim | Entrevista (ENT05), Brainstorm (BRS05) |
-| [**RF13**](../Pos-rastreabilidade/forward.md#RF13) | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Funcional | Não | Entrevista (ENT07) |
-| [**RF14**](../Pos-rastreabilidade/forward.md#RF14) | Permitir integração com o cartão de transporte, incluindo saldo e recarga | Funcional | Não | Entrevista (ENT07) |
-| [**RF15**](../Pos-rastreabilidade/forward.md#RF15) | Manter histórico de viagens do usuário | Funcional | Não | Análise de Documentos (RNI03) |
-| [**RF16**](../Pos-rastreabilidade/forward.md#RF16) | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Não | Entrevista (ENT20) |
-| [**RF17**](../Pos-rastreabilidade/forward.md#RF17) | Exibir preço da passagem por linha ou trajeto | Funcional | Sim | Entrevista (ENT23) |
-| [**RF18**](../Pos-rastreabilidade/forward.md#RF18) | Listar linhas que passam em uma parada específica | Funcional | Sim | — |
-| [**RF19**](../Pos-rastreabilidade/forward.md#RF19) | Disponibilizar versão web leve para acesso rápido em pontos de ônibus | Funcional | Sim | Brainstorm (BRS17) |
-| [**RF20**](../Pos-rastreabilidade/forward.md#RF20) | Botão de pânico/emergência para alertar motorista e/ou autoridades | Funcional | Não | — |
-| [**RF21**](../Pos-rastreabilidade/forward.md#RF21) | Mostrar alertas de trânsito e acidentes | Funcional | Sim | Brainstorm (BRS12) |
-| [**RF22**](../Pos-rastreabilidade/forward.md#RF22) | Permitir compartilhar trajeto em tempo real com outros usuários | Funcional | Não | — |
-| [**RF23**](../Pos-rastreabilidade/forward.md#RF23) | Exibir quantidade de assentos preferenciais e totais no ônibus | Funcional | Não | — |
-| [**RF24**](../Pos-rastreabilidade/forward.md#RF24) | Permitir favoritar linhas ou paradas para acesso rápido | Funcional | Sim | Entrevista (ENT14) |
-| [**RF25**](../Pos-rastreabilidade/forward.md#RF25) | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Não | Entrevista (ENT08) |
-| [**RF26**](../Pos-rastreabilidade/forward.md#RF26) | Filtrar ônibus por empresa operadora | Funcional | Sim | Análise de Documentos (RF03) |
-| [**RF27**](../Pos-rastreabilidade/forward.md#RF27) | Visualizar quais veículos estão em operação no momento | Funcional | Sim | Análise de Documentos (RF04) |
-| [**RF28**](../Pos-rastreabilidade/forward.md#RF28) | Permitir avaliação da qualidade do serviço de cada linha | Funcional | Não | Análise de Documentos (RNI04) |
-| [**RF29**](../Pos-rastreabilidade/forward.md#RF29) | Sistema de gamificação para incentivar uso do transporte público | Funcional | Não | Brainstorm (BRS01) |
-| [**RF30**](../Pos-rastreabilidade/forward.md#RF30) | Previsão inteligente de horários baseada em dados históricos e machine learning | Funcional | Sim | Brainstorm (BRS02) |
-| [**RF31**](../Pos-rastreabilidade/forward.md#RF31) | Sistema de recompensas por uso sustentável do transporte público | Funcional | Não | Brainstorm (BRS09) |
-| [**RF32**](../Pos-rastreabilidade/forward.md#RF32) | Exibir relatórios de impacto ambiental (CO₂ economizado) | Funcional | Não | Brainstorm (BRS11) |
-| [**RF33**](../Pos-rastreabilidade/forward.md#RF33) | Suporte a comandos de voz para facilitar interação durante deslocamentos | Funcional | Não | Brainstorm (BRS14) |
-| [**RF34**](../Pos-rastreabilidade/forward.md#RF34) | Integração com assistentes virtuais (Alexa, Google Assistant) | Funcional | Não | Brainstorm (BRS16) |
-| [**RF35**](../Pos-rastreabilidade/forward.md#RF35) | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | Funcional | Não | Entrevista (ENT12) |
-| [**RF36**](../Pos-rastreabilidade/forward.md#RF36) | Oferecer suporte multilíngue (português e inglês, no mínimo) | Funcional | Não | Entrevista (ENT22) |
-| [**RF37**](../Pos-rastreabilidade/forward.md#RF37) | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Não | Brainstorm (BRS18) |
-| [**RF38**](../Pos-rastreabilidade/forward.md#RF38) | Visualizar linhas que possuem ar-condicionado | Funcional | Não | Brainstorm (BRS20) |
-| [**RNF01**](../Pos-rastreabilidade/forward.md#RNF01) | As informações de horários e localização dos ônibus devem ser precisas | Não Funcional | Sim | Entrevista (ENT09) |
-| [**RNF02**](../Pos-rastreabilidade/forward.md#RNF02) | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | Não Funcional | Sim | Entrevista (ENT13) |
-| [**RNF03**](../Pos-rastreabilidade/forward.md#RNF03) | Tempo de atualização da localização ≤ 20 segundos | Não Funcional | Não | ENT23 |
-| [**RNF04**](../Pos-rastreabilidade/forward.md#RNF04) | Interface acessível para idosos e pessoas com deficiência visual | Não Funcional | Não | Entrevista (ENT10), Brainstorm (BRS08) |
-| [**RNF05**](../Pos-rastreabilidade/forward.md#RNF05) | Sistema de notificação com som e vibração configuráveis | Não Funcional | Sim | Elicitação de Requisitos: Brainstorm (BRS18) |
-| [**RNF06**](../Pos-rastreabilidade/forward.md#RNF06) | Baixo consumo de bateria e dados móveis | Não Funcional | Sim | — |
-| [**RNF07**](../Pos-rastreabilidade/forward.md#RNF07) | Compatibilidade com dispositivos Android e iOS | Não Funcional | Sim | Entrevista (ENT19) |
-| [**RNF08**](../Pos-rastreabilidade/forward.md#RNF08) | Proteção contra reportes falsos de lotação (mecanismo de confiança) | Não Funcional | Não | — |
-| [**RNF09**](../Pos-rastreabilidade/forward.md#RNF09) | Dados de localização e pessoais protegidos conforme LGPD | Não Funcional | Sim | Entrevista (ENT21) |
-| [**RNF10**](../Pos-rastreabilidade/forward.md#RNF10) | Tempo de carregamento da tela principal < 3 segundos | Não Funcional | Não | Entrevista (ENT17) |
-| [**RNF11**](../Pos-rastreabilidade/forward.md#RNF11) | Funcionamento offline para consulta a rotas salvas e horários | Não Funcional | Não | Análise de Documentos (RNI05), Entrevista (ENT18), Brainstorm (BRS06) |
-| [**RNF12**](../Pos-rastreabilidade/forward.md#RNF12) | Integração segura com sistemas de pagamento (recarga de cartão) | Não Funcional | Não | Brainstorm (BRS10) |
-| [**RNF13**](../Pos-rastreabilidade/forward.md#RNF13) | Alta disponibilidade do sistema (≥ 98% uptime) | Não Funcional | Sim | — |
-| [**RNF14**](../Pos-rastreabilidade/forward.md#RNF14) | Suporte a múltiplos usuários simultâneos sem lentidão | Não Funcional | Sim | Brainstorm (BRS15) |
-| [**RNF15**](../Pos-rastreabilidade/forward.md#RNF15) | Personalização da interface com base em preferências do usuário | Não Funcional | Não | Brainstorm (BRS13) |
+| [RF01](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf01) | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
+| [RF02](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf02) | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
+| [RF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf03) | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
+| [RF04](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf04) | Permitir pesquisa por linhas e rotas de ônibus | Funcional | Sim | Análise de Documentos (RF02), Entrevista (ENT01) |
+| [RF05](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf05) | Apresentar horários de saída e chegada | Funcional | Sim | Entrevista (ENT02) |
+| [RF06](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf06) | Oferecer mapa interativo com pontos e linhas | Funcional | Sim | Entrevista (ENT06) |
+| [RF07](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf07) | Integrar informações de outros modais | Funcional | Sim | Análise de Documentos (RNI02), Brainstorm (BRS04) |
+| [RF08](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf08) | Exibir informações de acessibilidade | Funcional | Sim | Entrevista (ENT16) |
+| [RF09](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf09) | Indicar lotação do ônibus | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS07) |
+| [RF10](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf10) | Reportar lotação (colaborativo) | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS03) |
+| [RF11](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf11) | Notificação de chegada | Funcional | Sim | Análise (RNI01), ENT15, BRS05 |
+| [RF12](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf12) | Alertas de atrasos e mudanças | Funcional | Sim | ENT05, BRS05 |
+| [RF13](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf13) | Recarga de cartão | Funcional | Não | ENT07 |
+| [RF14](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf14) | Integração com cartão | Funcional | Não | ENT07 |
+| [RF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf15) | Histórico de viagens | Funcional | Não | Análise (RNI03) |
+| [RF16](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf16) | Reportar problemas | Funcional | Não | ENT20 |
+| [RF17](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf17) | Exibir preço da passagem | Funcional | Sim | ENT23 |
+| [RF18](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf18) | Listar linhas por parada | Funcional | Sim | — |
+| [RF19](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf19) | Versão web leve | Funcional | Sim | BRS17 |
+| [RF20](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf20) | Botão de pânico | Funcional | Não | — |
+| [RF21](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf21) | Alertas de trânsito | Funcional | Sim | BRS12 |
+| [RF22](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf22) | Compartilhar trajeto | Funcional | Não | — |
+| [RF23](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf23) | Exibir assentos | Funcional | Não | — |
+| [RF24](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf24) | Favoritar linhas ou paradas | Funcional | Sim | ENT14 |
+| [RF25](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf25) | Exibir informações em regiões afastadas | Funcional | Não | ENT08 |
+| [RF26](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf26) | Filtrar ônibus por empresa | Funcional | Sim | Análise (RF03) |
+| [RF27](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf27) | Mostrar veículos em operação | Funcional | Sim | Análise (RF04) |
+| [RF28](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf28) | Avaliação do serviço | Funcional | Não | Análise (RNI04) |
+| [RF29](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf29) | Gamificação | Funcional | Não | BRS01 |
+| [RF30](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf30) | Previsão inteligente (ML) | Funcional | Sim | BRS02 |
+| [RF31](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf31) | Recompensas sustentáveis | Funcional | Não | BRS09 |
+| [RF32](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf32) | Relatórios ambientais | Funcional | Não | BRS11 |
+| [RF33](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf33) | Comandos de voz | Funcional | Não | BRS14 |
+| [RF34](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf34) | Integração com assistentes | Funcional | Não | BRS16 |
+| [RF35](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf35) | Rastreamento de múltiplas linhas | Funcional | Não | ENT12 |
+| [RF36](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf36) | Suporte multilíngue | Funcional | Não | ENT22 |
+| [RF37](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf37) | Cadastro e autenticação | Funcional | Não | BRS18 |
+| [RF38](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rf38) | Linhas com ar-condicionado | Funcional | Não | BRS20 |
+| [RNF01](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf01) | Informações precisas | Não Funcional | Sim | ENT09 |
+| [RNF02](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf02) | Rastreamento confiável | Não Funcional | Sim | ENT13 |
+| [RNF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf03) | Atualização ≤ 20s | Não Funcional | Não | ENT23 |
+| [RNF04](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf04) | Interface acessível | Não Funcional | Não | ENT10, BRS08 |
+| [RNF05](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf05) | Notificações configuráveis | Não Funcional | Sim | BRS18 |
+| [RNF06](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf06) | Baixo consumo de bateria | Não Funcional | Sim | — |
+| [RNF07](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf07) | Compatível com Android/iOS | Não Funcional | Sim | ENT19 |
+| [RNF08](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf08) | Proteção contra reportes falsos | Não Funcional | Não | — |
+| [RNF09](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf09) | Proteção LGPD | Não Funcional | Sim | ENT21 |
+| [RNF10](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf10) | Tela principal < 3s | Não Funcional | Não | ENT17 |
+| [RNF11](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf11) | Funcionamento offline | Não Funcional | Não | RNI05, ENT18, BRS06 |
+| [RNF12](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf12) | Pagamento seguro | Não Funcional | Não | BRS10 |
+| [RNF13](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf13) | Disponibilidade ≥ 98% | Não Funcional | Sim | — |
+| [RNF14](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf14) | Suporte a múltiplos usuários | Não Funcional | Sim | BRS15 |
+| [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf15) | Personalização da interface | Não Funcional | Não | BRS13 |
+
 
 *Tabela 1: Lista de requisitos elicitados de todas as técnicas - Autoria: Gabriel Maciel, 2025*
 
