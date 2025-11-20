@@ -30,8 +30,8 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 02 |
 |----|----------------------|--------|----------------------------|
 | 6 | Há documentos do processo de elicitação? | João Gabriel | [Imagem e Fonte da Etapa 02](https://i.ibb.co/1GyBD48v/etapa2-6.png) |
-| 8 | As entrevistas seguiram roteiro e focaram nos objetivos do projeto? | João Gabriel | [Imagem e Fonte da Etapa 02]() |
-| 9 | Todas as partes interessadas foram identificadas? | João Gabriel | [Imagem e Fonte da Etapa 02]() |
+| 8 | As entrevistas seguiram roteiro e focaram nos objetivos do projeto? | João Gabriel | [Imagem e Fonte da Etapa 02](https://i.ibb.co/KxTtgHhF/07.png) |
+| 9 | Todas as partes interessadas foram identificadas? | João Gabriel | [Imagem e Fonte da Etapa 02](https://i.ibb.co/6RMqQdYV/08.png) |
 
 
 ---
@@ -40,9 +40,9 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 02 |
 |----|----------------------|--------|----------------------------|
-| 10 | O processo de priorização foi revisitado? | João Gabriel | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 11 | Foram considerados valor, custo e risco? | João Gabriel | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 12 | Critérios MoSCoW foram aplicados corretamente? | Cauã Nicolas | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 10 | O processo de priorização foi revisitado? | João Gabriel | [Imagem e Fonte da Etapa 02](https://i.ibb.co/zVtPs8WC/09.png) |
+| 11 | Foram considerados valor, custo e risco? | João Gabriel | [Imagem e Fonte da Etapa 02](https://i.ibb.co/q3yyjxJT/10.png) |
+| 12 | Critérios MoSCoW foram aplicados corretamente? | Cauã Nicolas | [Imagem e Fonte da Etapa 02](https://i.ibb.co/CKLKx44x/11.png) |
 
 
 ---
@@ -51,9 +51,9 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 02 |
 |----|----------------------|--------|----------------------------|
-| 13 | Personas possuem nome, arquétipo e objetivos definidos? | Gabriel Maciel | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 14 | Dificuldades e tarefas estão descritas? | Daniel Nunes | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
-| 15 | Elenco representa a diversidade dos usuários? | João Lucas | [Imagem e Fonte da Etapa 02](https://docs.google.com/document/d/1MMI93HGoF5u1kWgYH30KmRnb36T6yh4_HLJG37F9fDA/edit?tab=t.0) |
+| 13 | Personas possuem nome, arquétipo e objetivos definidos? | Gabriel Maciel | [Imagem e Fonte da Etapa 02]() |
+| 14 | Dificuldades e tarefas estão descritas? | Daniel Nunes | [Imagem e Fonte da Etapa 02]() |
+| 15 | Elenco representa a diversidade dos usuários? | João Lucas | [Imagem e Fonte da Etapa 02]() |
 
 
 
@@ -224,5 +224,6 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
