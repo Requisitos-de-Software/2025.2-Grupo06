@@ -65,6 +65,7 @@ A Tabela 3 apresenta os Requisitos de Usabilidade, que representam o esforço ne
 | RU03 | Compatibilidade com dispositivos Android e iOS | [RNF07](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
 | RU04 | Personalização da interface com base em preferências do usuário | [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel  |
 | RU05 | Suporte a leitores de tela e ajuste de contraste conforme [WCAG](#ref-wcag) (*Web Content Accessibility Guidelines*). | Conformidade com Padrões Internacionais [WCAG 2.1 AA](#ref-wcag) | Fernanda Vaz |
+| RU06 | Sempre que uma mensagem de erro for exibida, ela deve identificar claramente qual é o elemento que gerou o erro de forma visual e audível (exemplo: mudança de cor no elemento + um ícone de alerta + uma mensagem em texto). |  Conformidade com Padrões Internacionais [WCAG 2.1 AA](#ref-wcag) (Critério de Sucesso 3.3.1 - Identificação de erro) | Fernanda Vaz, Gabriel Maciel |
 
 ## Confiabilidade
 
