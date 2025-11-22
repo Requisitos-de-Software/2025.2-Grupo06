@@ -4,16 +4,15 @@ Conforme as diretrizes do Ministério da Ciência, Tecnologia e Inovação [(MCT
 
 A presente especificação aplica-se ao aplicativo móvel DF no Ponto, disponível para plataformas Android e iOS, destinado aos cidadãos do Distrito Federal para acesso a informações de transporte público em tempo real.
 
-## Tabela de contribuição
+## Tabela 1 - Tabela de contribuição
 
 |        Nome          | Contribuição |
 |----------------------|--------------|
-| Cauã Nicolas | A preencher. |
-| Daniel Nunes | A preencher. |
-| Fernanda Vaz | - [Especificação Suplementar dos Requisitos de Usabilidade](#usabilidade) |
-| Gabriel Maciel | - [Especificação Suplementar dos Requisitos de Desempenho](#desempenho) <br> - Revisão e correções do documento (Versão 2.0) |
-| João Gabriel | A preencher. |
-| João Ramos | A preencher. |
+| Cauã Nicolas | - [Especificação Suplementar dos Requisitos do Sistema (RS)](#requisitos-do-sistema-portabilidadecompatibilidade) |
+| Daniel Nunes Duarte | - [Especificação Suplementar dos Padrões Aplicáveis (9.1)](#91-padrões-aplicáveis) <br> - Requisitos de Privacidade (RPV01-RPV06) <br> - Requisitos de Segurança (RSE01-RSE06) |
+| Fernanda Vaz | - [Especificação Suplementar dos Requisitos de Usabilidade](#usabilidade) <br> - Requisitos de Confiabilidade (RC) - Versão 1.0 |
+| Gabriel Maciel | - [Especificação Suplementar dos Requisitos de Desempenho](#desempenho) <br> - Revisão e correções do documento (Versão 2.0) <br> - [Tabela 5 - Requisitos de Confiabilidade (RC) - Versão 2.0](#tabela-5-requisitos-de-confiabilidade-rc-versao-20) <br> - [Tabela 3 - Requisitos de Usabilidade (RU) - Versão 2.0](#tabela-3-requisitos-de-usabilidade-ru-versao-20) <br> - [Padrões Aplicáveis](#padroes-aplicaveis) |
+| João Ramos | - Requisitos de Confiabilidade - Tabela 2 (Versão 1.0) <br> - [Tabela 5 - Requisitos de Confiabilidade (RC) - Versão 2.0 <br>](#tabela-5-requisitos-de-confiabilidade-rc-versao-20) |
 
 
 ## Metodologia
@@ -56,7 +55,7 @@ A Tabela 3 apresenta os Requisitos de Usabilidade, que representam o esforço ne
     | RU08 | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
     | RU09 | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
 
-### Tabela 3: Requisitos de Usabilidade (RU) - Versão 2.0
+### Tabela 3 - Requisitos de Usabilidade (RU) - Versão 2.0
 
 | ID | Descrição | Rastreabilidade | Autoria |
 |----|-----------|-----------------|---------|
@@ -127,7 +126,7 @@ Os Requisitos de Sistema definem todas as condições necessárias para suportar
     | RS04 | O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização. |
     | RS05 | A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. |
 
-### Tabela 8: Requisitos do Sistema (RS) - Versão 2.0
+### Tabela 8 - Requisitos do Sistema (RS) - Versão 2.0
 
 | ID | Descrição | Rastreabilidade | Autoria |
 |---|---|---|---|
