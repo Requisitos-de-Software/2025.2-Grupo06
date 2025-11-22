@@ -27,6 +27,21 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 4. **Representação**: Captura como os requisitos ou outros elementos são modelados ou representados em diferentes linguagens.
 5. **Alocado**: A classe de origem está relacionada a uma classe de destino que geralmente representa um subsistema.
 6. **Agregação**: Indica a composição de elementos, ou seja, que um elemento é composto por outros.
+  
+  ---
+
+  
+## Tabela de Contribuição
+
+|        Nome          | Contribuição|
+|----------------------|-------------|
+| Cauã Nicolas         | Adição [RNF04](#rnf04--interface-acessível-para-idosos-e-pessoas-com-deficiência-visual) e [RNF05](#rnf05--sistema-de-notificação-com-som-e-vibração-configuráveis), [RF13](#rf13--oferecer-recarga-de-cartão-de-transporte-ex-integração-com-brb-mobilidade), [RF14](#rf14--permitir-integração-com-o-cartão-de-transporte-incluindo-saldo-e-recarga), [RF15](#rf15--manter-histórico-de-viagens-do-usuário), [RF16](#rf16--permitir-reportar-problemas-motorista-ônibus-cobrança-com-dados-do-veículo-e-horário), [RF24](#rf24--permitir-favoritar-linhas-ou-paradas-para-acesso-rápido) e [RF25](#rf25--ampliar-a-cobertura-e-exibir-informações-também-em-regiões-afastadas-do-distrito-federal) |
+| Daniel Nunes Duarte  | Rastreabilidade Forward-From dos Requisitos [RF17](#rf17--exibir-preço-da-passagem-por-linha-ou-trajeto), [RF20](#rf20--botão-de-pânicoemergência-para-alertar-motorista-eou-autoridades), [RF22](#rf22--permitir-compartilhar-trajeto-em-tempo-real-com-outros-usuários), [RF27](#rf27--visualizar-quais-veículos-estão-em-operação-no-momento), [RF29](#rf29--sistema-de-gamificação-para-incentivar-uso-do-transporte-público), [RF33](#rf33--suporte-a-comandos-de-voz-para-facilitar-interação-durante-deslocamentos), [RNF14](#rnf14--suporte-a-múltiplos-usuários-simultâneos-sem-lentidão), [RNF15](#rnf15--personalização-da-interface-com-base-em-preferências-do-usuário) |
+| Fernanda Vaz         | Forward: [RNF06](#rnf06--baixo-consumo-de-bateria-e-dados-móveis) e [RNF07](#rnf07--compatibilidade-com-dispositivos-android-e-ios), [RF05](#rf05--apresentar-horários-de-saída-e-chegada-dos-transportes), [RF06](#rf06--oferecer-um-mapa-interativo-com-os-pontos-de-ônibus-e-suas-linhas-correspondentes), [RF07](#rf07--integrar-informações-de-outros-modais-metrô-outros-ônibus-em-rotas-multimodais), [RF08](#rf08--exibir-informações-de-acessibilidade-do-ônibus-ex-acessível-para-cadeirantes), [RF31](#rf31--sistema-de-recompensas-por-uso-sustentável-do-transporte-público), [RF32](#rf32--exibir-relatórios-de-impacto-ambiental-co₂-economizado) |
+| Gabriel Maciel       | Rastreabilidade Forward-From dos Requisitos [RF19](#rf19--disponibilizar-versão-web-leve-para-acesso-rápido-em-pontos-de-ônibus-via-qr-code), [RF26](#rf26--filtrar-ônibus-por-empresa-operadora), [RF28](#rf28--permitir-avaliação-da-qualidade-do-serviço-de-cada-linha), [RF34](#rf34--integração-com-assistentes-virtuais-alexa-google-assistant), [RF35](#rf35--permitir-rastreamento-de-múltiplas-linhas-de-ônibus-simultaneamente-no-mapa), [RF36](#rf36--oferecer-suporte-multilíngue-português-e-inglês-no-mínimo), [RNF10](#rnf10--tempo-de-carregamento-da-tela-principal--3-segundos), [RNF11](#rnf11--funcionamento-offline-para-consulta-a-rotas-salvas-e-horários) |
+| João Gabriel         | Adição [RNF01](#rnf01--as-informações-de-horários-e-localização-dos-ônibus-devem-ser-precisas) ao [RNF03](#rnf03--tempo-de-atualização-da-localização--20-segundos) e [RF01](#rf01--exibir-a-localização-dos-ônibus-em-tempo-real-no-mapa) ao [RF05](#rf05--apresentar-horários-de-saída-e-chegada-dos-transportes), [RF37](#rf37--permitir-cadastro-login-e-autenticação-de-usuários-no-sistema), [RF30](#rf30--previsão-inteligente-de-horários-baseada-em-dados-históricos-e-machine-learning) |
+| João Ramos           | Adição [RNF09](#rnf09--dados-de-localização-e-pessoais-protegidos-conforme-lgpd), [RNF12](#rnf12--integração-segura-com-sistemas-de-pagamento-recarga-de-cartão), [RF09](#rf09--indicar-lotação-do-ônibus-vazio-moderado-lotado), [RF10](#rf10--permitir-que-usuários-reportem-a-lotação-do-ônibus-sistema-colaborativo), [RF11](#rf11--enviar-notificação-quando-o-ônibus-estiver-a-x-minutos-da-parada), [RF18](#rf18--listar-linhas-que-passam-em-uma-parada-específica), [RF21](#rf21--mostrar-alertas-de-trânsito-acidentes-e-rotas-alternativas)
+
 
 # Rastreabilidade de Requisitos
 
@@ -38,8 +53,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Especificação Suplementar** | Confiabilidade | Representação | Representa os critérios de precisão do RNF01 |
-    |**NFR** | SIG - Confiabilidade | Satisfação | Satisfaz o requisito de confiabilidade do sistema |
+    |**Especificação Suplementar** | [Confiabilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | Representação | Representa os critérios de precisão do RNF01 |
+    |**NFR** |[ SIG - Confiabilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | Satisfação | Satisfaz o requisito de confiabilidade do sistema |
     |**Artefatos de Elicitação** | [Entrevista (ENT09)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT09 representa a necessidade de precisão nas informações |
 
 ??? info "RNF02 – Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas"
@@ -48,8 +63,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Especificação Suplementar** | Confiabilidade | Representação | Representa os critérios de confiabilidade do RNF02 |
-    |**NFR** | SIG - Confiabilidade | Satisfação | Satisfaz o requisito de confiabilidade do sistema |
+    |**Especificação Suplementar** | [Confiabilidade] (https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar)| Representação | Representa os critérios de confiabilidade do RNF02 |
+    |**NFR** | [ SIG - Confiabilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | Satisfação | Satisfaz o requisito de confiabilidade do sistema |
     |**Artefatos de Elicitação** | [Entrevista (ENT13)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT13 representa a necessidade de rastreamento confiável |
 
 ??? info "RNF03 – Tempo de atualização da localização ≤ 20 segundos"
@@ -58,8 +73,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Especificação Suplementar** | Desempenho | Representação | Representa os critérios de desempenho do RNF03 |
-    |**NFR** | SIG-Desempenho | Satisfação | Satisfaz o requisito de desempenho do sistema |
+    |**Especificação Suplementar** | [Desempenho](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) | Representação | Representa os critérios de desempenho do RNF03 |
+      |**NFR** | [ SIG-Desempenho ] |(https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_01/especificacao_suplementar) Satisfação | Satisfaz o requisito de desempenho do sistema |
     |**Artefatos de Elicitação** | [Entrevista (ENT)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT representa a necessidade de atualização rápida |
 
     
@@ -109,7 +124,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 8: Gestão de Usuário e Conta | Representação | A gestão de usuários engloba consentimento, controle e proteção de dados pessoais. |
+    |**Épico** | [Épico 8: Gestão de Usuário e Conta] (https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr)| Representação | A gestão de usuários engloba consentimento, controle e proteção de dados pessoais. |
     |**História de Usuário** | [US30 - Criar conta e fazer login de forma segura](../modelagem_requisitos_02/historias_de_usuario.md#us30---criar-uma-conta-e-fazer-login-de-forma-segura) | Representação | US30 descreve operações que envolvem dados pessoais e autenticação, demandando conformidade com proteção de dados. |
     |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | UC01 (ex.: Avaliação de Linhas) e UC04 (Integração BRB) — pré-condição de usuário autenticado | Representação | Vários casos de uso exigem autenticação e tratamento de dados pessoais; UC04 e UC01 citam pré-condição de usuário autenticado. |
@@ -157,8 +172,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Especificação Suplementar** | Desempenho / Requisitos do Sistema | Representação | Relaciona-se com requisitos de capacidade e performance que detalham o suporte a múltiplos usuários simultâneos |
-    |**NFR** | SIG - Desempenho / RS - Escalabilidade | Satisfação | Satisfaz a necessidade de dimensionamento e escalabilidade do sistema |
+    |**Especificação Suplementar** | [Desempenho / Requisitos do Sistema](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | Representação | Relaciona-se com requisitos de capacidade e performance que detalham o suporte a múltiplos usuários simultâneos |
+    |**NFR** | [SIG - Desempenho / RS - Escalabilidade] (https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr)| Satisfação | Satisfaz a necessidade de dimensionamento e escalabilidade do sistema |
     |**Artefatos de Elicitação** | [Brainstorm (BRS15)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS15 indicou a necessidade de suportar múltiplos usuários concorrentes sem degradação perceptível |
 
 
@@ -169,8 +184,8 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Especificação Suplementar** | Usabilidade / Privacidade | Representação | Relaciona-se com requisitos de usabilidade e privacidade que regem preferências e armazenamento de configurações do usuário |
-    |**NFR** | SIG - Usabilidade | Satisfação | Satisfaz a necessidade de adaptação da interface para diferentes perfis e preferências de usuário |
+    |**Especificação Suplementar** | [Usabilidade / Privacidade | Representação](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | Relaciona-se com requisitos de usabilidade e privacidade que regem preferências e armazenamento de configurações do usuário |
+    |**NFR** | [SIG - Usabilidade](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | Satisfação | Satisfaz a necessidade de adaptação da interface para diferentes perfis e preferências de usuário |
     |**Artefatos de Elicitação** | [Brainstorm (BRS13)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS13 trouxe sugestões de personalização da interface como melhoria de usabilidade |
 
 
@@ -182,11 +197,11 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Agregação | Agrega RF01 como funcionalidade central do épico |
-    |**História de Usuário** | US15 | Representação | US15 representa a implementação do RF01 em termos de usuário |
-    |**Léxico** | L12: Tempo real | Representação | L12 representa o conceito de tempo real do RF01 |
-    |**Casos de Uso** | UC03 | Representação | UC03 modela a interação para exibir localização em tempo real |
-    |**Cenários** | CEN03 | Representação | CEN03 descreve situação de uso do RF01 |
+    |**Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | Agregação | Agrega RF01 como funcionalidade central do épico |
+    |**História de Usuário** | [US15] (https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr)| Representação | US15 representa a implementação do RF01 em termos de usuário |
+    |**Léxico** | [L12: Tempo real](https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr) | Representação | L12 representa o conceito de tempo real do RF01 |
+    |**Casos de Uso** |[ UC03 ]()| Representação | UC03 modela a interação para exibir localização em tempo real |
+    |**Cenários** |[ CEN03] ()| Representação | CEN03 descreve situação de uso do RF01 |
     |**Artefatos de Elicitação** | [Análise de Documentos (RF01)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais), [Entrevista (ENT03)](../Elicitacao/elicitacao_entrevista.md#resultados) | Agregação | Agrega dados de múltiplas fontes de elicitação |
 
 ??? info "RF02 – Mostrar o tempo estimado de chegada do ônibus à parada"
@@ -195,51 +210,54 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Agregação | Agrega RF02 como funcionalidade complementar do épico |
-    |**História de Usuário** | US16 | Representação | US16 representa a implementação do RF02 em termos de usuário |
-    |**Léxico** | L09: Agora | Representação | L09 representa o conceito de tempo atual do RF02 |
-    |**Casos de Uso** | UC02 | Representação | UC02 modela a interação para mostrar tempo estimado |
-    |**Cenários** | CEN01 | Representação | CEN01 descreve situação de uso do RF02 |
+    |**Épico** | [Épico 1: Rastreamento e Informações em Tempo Real] (https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr)| Agregação | Agrega RF02 como funcionalidade complementar do épico |
+    |**História de Usuário** | [US16] (https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr)| Representação | US16 representa a implementação do RF02 em termos de usuário |
+    |**Léxico** |[ L09: Agora] (https://requisitos-de-software.github.io/2025.2-Grupo06/modelagem_requisitos_02/nfr)| Representação | L09 representa o conceito de tempo atual do RF02 |
+    |**Casos de Uso** | [UC02 ]() | Representação | UC02 modela a interação para mostrar tempo estimado |
+    |**Cenários** | [CEN01] ()| Representação | CEN01 descreve situação de uso do RF02 |
     |**Artefatos de Elicitação** | [Entrevista (ENT04)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT04 representa a necessidade do RF02 |
 
 ??? info "RF03 – Permitir planejamento de viagem com rotas sugeridas"
 
     *Autoria: João Gabriel*
-    
-     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
-    |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 7: Planejamento de Viagens | Agregação | Agrega RF03 como funcionalidade principal do épico |
-    |**História de Usuário** | US17 | Representação | US17 representa a implementação do RF03 em termos de usuário |
-    |**Léxico** | L05: Planejar | Representação | L05 representa o conceito de planejamento do RF03 |
-    |**Casos de Uso** | UC09 | Representação | UC09 modela a interação para planejamento de viagens |
-    |**Cenários** | CEN09 | Representação | CEN09 descreve situação de uso do RF03 |
-    |**Artefatos de Elicitação** | [Análise de Documentos (RNI02)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados) | Satisfação | RNI02 satisfaz a necessidade do RF03 |
+
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    |:-- |:-- |:-- |:-- |
+    | **Épico** | [Épico 7: Planejamento de Viagens](../modelagem_requisitos_02/backlog.md#épico-7---planejamento-de-viagens) | Agregação | Agrega RF03 como funcionalidade principal do épico |
+    | **História de Usuário** | [US17](../modelagem_requisitos_02/historias_de_usuario.md#us17) | Representação | US17 representa a implementação do RF03 em termos de usuário |
+    | **Léxico** | [L05: Planejar](../modelagem_requisitos_01/lexico.md#l05-planejar) | Representação | L05 representa o conceito de planejamento do RF03 |
+    | **Casos de Uso** | [UC09](../modelagem_requisitos_01/casos_de_uso.md#uc09) | Representação | UC09 modela a interação para planejamento de viagens |
+    | **Cenários** | [CEN09](../modelagem_requisitos_01/cenarios.md#cen09) | Representação | CEN09 descreve situação de uso do RF03 |
+    | **Artefatos de Elicitação** | [Análise de Documentos (RNI02)](../Elicitacao/elicitacao_analise_documentos.md#rni02) | Satisfação | RNI02 satisfaz a necessidade do RF03 |
+
 
 ??? info "RF04 – Permitir pesquisa por linhas e rotas de ônibus"
 
     *Autoria: João Gabriel*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 2: Filtragem | Agregação | Agrega RF04 como funcionalidade central do épico |
-    |**História de Usuário** | US18 | Representação | US18 representa a implementação do RF04 em termos de usuário |
-    |**Léxico** | L11: Pesquisar | Representação | L11 representa o conceito de pesquisa do RF04 |
-    |**Casos de Uso** | *Não identificados* | — | — |
-    |**Cenários** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Análise de Documentos (RF02)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-funcionais), [Entrevista (ENT01)](../Elicitacao/elicitacao_entrevista.md#resultados) | Agregação | Agrega dados de múltiplas fontes de elicitação |
+    | **Épico** | [Épico 2: Filtragem](../modelagem_requisitos_02/backlog.md#épico-2---filtragem) | Agregação | Agrega RF04 como funcionalidade central do épico |
+    | **História de Usuário** | [US18](../modelagem_requisitos_02/historias_de_usuario.md#us18) | Representação | US18 representa a implementação do RF04 em termos de usuário |
+    | **Léxico** | [L11: Pesquisar](../modelagem_requisitos_01/lexico.md#l11-pesquisar) | Representação | L11 representa o conceito de pesquisa do RF04 |
+    | **Casos de Uso** | *Não identificados* | — | — |
+    | **Cenários** | *Não identificados* | — | — |
+    | **Artefatos de Elicitação** | [Análise de Documentos (RF02)](../Elicitacao/elicitacao_analise_documentos.md#rf02), [Entrevista (ENT01)](../Elicitacao/elicitacao_entrevista.md#ent01) | Agregação | Agrega dados de múltiplas fontes de elicitação |
+
 
 ??? info "RF05 – Apresentar horários de saída e chegada dos transportes"
 
     *Autoria: João Gabriel*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Agregação | Agrega RF05 como funcionalidade informativa do épico |
-    |**História de Usuário** | US05, US19 | Representação | US05 e US19 representam a implementação do RF05 |
-    |**Léxico** | L09: Agora | Representação | L09 representa o conceito de tempo atual do RF05 |
-    |**Casos de Uso** | *Não identificados* | — | — |
-    |**Cenários** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Entrevista (ENT02)](../Elicitacao/elicitacao_entrevista.md#resultados) | Representação | ENT02 representa a necessidade do RF05 |
+    | **Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1---rastreamento-e-informações-em-tempo-real) | Agregação | Agrega RF05 como funcionalidade informativa do épico |
+    | **História de Usuário** | [US05](../modelagem_requisitos_02/historias_de_usuario.md#us05), [US19](../modelagem_requisitos_02/historias_de_usuario.md#us19) | Representação | US05 e US19 representam a implementação do RF05 |
+    | **Léxico** | [L09: Agora](../modelagem_requisitos_01/lexico.md#l09-agora) | Representação | L09 representa o conceito de tempo atual do RF05 |
+    | **Casos de Uso** | *Não identificados* | — | — |
+    | **Cenários** | *Não identificados* | — | — |
+    | **Artefatos de Elicitação** | [Entrevista (ENT02)](../Elicitacao/elicitacao_entrevista.md#ent02) | Representação | ENT02 representa a necessidade do RF05 |
+
 
 ??? info "RF06 – Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes"
 
@@ -282,53 +300,45 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     *Autoria: João Ramos*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 4: Avaliar e Reportar | Agregação | A funcionalidade de indicar lotação compõe o conjunto de avaliação e reporte da experiência do usuário. |
-    |**História de Usuário** | US03 | Representação | A história detalha a necessidade de visualização e avaliação da lotação das linhas. |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC01 | Representação | UC01 modela o fluxo de avaliação/consulta de métricas das linhas, incluindo lotação. |
-    |**Cenários** | CEN02 | Representação | Cenário que descreve o usuário consultando a lotação em tempo real. |
-    |**Artefatos de Elicitação** | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS07)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | ENT11 e BRS07 fundamentam a necessidade de indicar lotação. |
+    | **Épico** | [Épico 4: Avaliar e Reportar](../modelagem_requisitos_02/backlog.md#épico-4---avaliar-e-reportar) | Agregação | A funcionalidade de indicar lotação compõe o conjunto de avaliação e reporte da experiência do usuário. |
+    | **História de Usuário** | [US03](../modelagem_requisitos_02/historias_de_usuario.md#us03) | Representação | A história detalha a necessidade de visualização e avaliação da lotação das linhas. |
+    | **Léxico** | *Não identificado* | — | — |
+    | **Casos de Uso** | [UC01](../modelagem_requisitos_01/casos_de_uso.md#uc01) | Representação | UC01 modela o fluxo de avaliação/consulta de métricas das linhas, incluindo lotação. |
+    | **Cenários** | [CEN02](../modelagem_requisitos_01/cenarios.md#cen02) | Representação | CEN02 descreve o usuário consultando a lotação em tempo real. |
+    | **Artefatos de Elicitação** | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#ent11), [Brainstorm (BRS07)](../Elicitacao/elicitacao_brainstorm.md#brs07) | Representação | ENT11 e BRS07 fundamentam a necessidade de indicar lotação. |
+
 
 ??? info "RF10 – Permitir que usuários reportem a lotação do ônibus (sistema colaborativo)"
 
     *Autoria: João Ramos*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 4: Avaliar e Reportar | Representação | O reporte colaborativo é parte das funcionalidades de avaliação e feedback do sistema. |
-    |**História de Usuário** | US03 | Representação | A história contempla a ação do usuário em reportar condições do ônibus (lotação). |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC01 | Representação | UC01 inclui fluxos de envio e processamento de reports pelos usuários. |
-    |**Cenários** | CEN02 | Representação | Cenário exemplifica um usuário reportando a lotação durante a viagem. |
-    |**Artefatos de Elicitação** | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS03)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | ENT11 e BRS03 são fontes que justificam o desenvolvimento do recurso colaborativo. |
+    | **Épico** | [Épico 4: Avaliar e Reportar](../modelagem_requisitos_02/backlog.md#épico-4---avaliar-e-reportar) | Representação | O reporte colaborativo é parte das funcionalidades de avaliação e feedback do sistema. |
+    | **História de Usuário** | [US03](../modelagem_requisitos_02/historias_de_usuario.md#us03) | Representação | A história contempla a ação do usuário em reportar condições do ônibus (lotação). |
+    | **Léxico** | *Não identificado* | — | — |
+    | **Casos de Uso** | [UC01](../modelagem_requisitos_01/casos_de_uso.md#uc01) | Representação | UC01 inclui fluxos de envio e processamento de reports pelos usuários. |
+    | **Cenários** | [CEN02](../modelagem_requisitos_01/cenarios.md#cen02) | Representação | CEN02 exemplifica um usuário reportando a lotação durante a viagem. |
+    | **Artefatos de Elicitação** | [Entrevista (ENT11)](../Elicitacao/elicitacao_entrevista.md#ent11), [Brainstorm (BRS03)](../Elicitacao/elicitacao_brainstorm.md#brs03) | Representação | ENT11 e BRS03 são fontes que justificam o desenvolvimento do recurso colaborativo. |
 
-??? info "RF11 – Enviar notificação quando o ônibus estiver a X minutos da parada"
+   ??? info "RF11 – Enviar notificação quando o ônibus estiver a X minutos da parada"
 
     *Autoria: João Ramos*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Notificações baseadas em proximidade fazem parte do rastreamento em tempo real. |
-    |**História de Usuário** | US15 | Satisfação | A US que demanda alertas de chegada fundamenta este requisito. |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC03 | Representação | UC03 descreve fluxos de rastreamento e envio de notificações ao usuário. |
-    |**Cenários** | CEN03 | Representação | Cenário exemplifica o recebimento de notificação quando o veículo se aproxima. |
-    |**Artefatos de Elicitação** | [Análise de Documentos (RNI01)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-nao-implementados), [Entrevista (ENT15)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | RNI01, ENT15 e BRS05 suportam a necessidade de notificações de proximidade. |
+    | **Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1---rastreamento-e-informações-em-tempo-real) | Representação | Notificações baseadas em proximidade fazem parte do rastreamento em tempo real. |
+    | **História de Usuário** | [US15](../modelagem_requisitos_02/historias_de_usuario.md#us15) | Satisfação | US15 demanda alertas de chegada, fundamentando este requisito. |
+    | **Léxico** | *Não identificado* | — | — |
+    | **Casos de Uso** | [UC03](../modelagem_requisitos_01/casos_de_uso.md#uc03) | Representação | UC03 descreve fluxos de rastreamento e envio de notificações ao usuário. |
+    | **Cenários** | [CEN03](../modelagem_requisitos_01/cenarios.md#cen03) | Representação | CEN03 exemplifica o recebimento de notificação quando o veículo se aproxima. |
+    | **Artefatos de Elicitação** | [Análise de Documentos (RNI01)](../Elicitacao/elicitacao_analise_documentos.md#rni01), [Entrevista (ENT15)](../Elicitacao/elicitacao_entrevista.md#ent15), [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#brs05) | Representação | RNI01, ENT15 e BRS05 suportam a necessidade de notificações de proximidade. |
 
-??? info "RF12 – Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários"
 
-    *Autoria: João Ramos*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
-    |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Alertas operacionais são parte do escopo de rastreamento em tempo real. |
-    |**História de Usuário** | US15 | Representação | A história que trata de informações em tempo real justifica alertas sobre mudanças. |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC03 | Representação | UC03 contempla fluxos de monitoramento e notificação diante de eventos operacionais. |
-    |**Cenários** | CEN03 | Representação | Cenário descreve usuário recebendo alerta de atraso ou alteração de rota. |
-    |**Artefatos de Elicitação** | [Entrevista (ENT05)](../Elicitacao/elicitacao_entrevista.md#resultados), [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | ENT05 e BRS05 são fontes que motivam a implementação de alertas operacionais. |
+
 
 ??? info "RF13 – Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade)"
 
@@ -382,28 +392,29 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     *Autoria: Daniel Nunes Duarte*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Gerencional | Representação | RF17 relaciona-se a funcionalidades de informação tarifária e gestão de tarifas |
-    |**História de Usuário** | [USxx - Exibir preço da passagem por linha ou trajeto](../modelagem_requisitos_02/historias_de_usuario.md#usxx---exibir-preco-da-passagem-por-linha-ou-trajeto) | Representação | Planejada: criar história de usuário com origem em BRS19 (linkada aqui quando criada) |
-    |**Especificação Suplementar** | [Especificação Suplementar](../modelagem_requisitos_01/especificacao_suplementar.md) | Representação | Pode ser documentada na Especificação Suplementar caso haja regras tarifárias, políticas de privacidade ou processamento de dados relacionadas às tarifas |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | *Não identificados* | — | — |
-    |**Cenários** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS19)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS19 representa e fundamenta a necessidade do RF17 |
+    | **Épico** | *Gerencional* | Representação | RF17 relaciona-se a funcionalidades de informação tarifária e gestão de tarifas. |
+    | **História de Usuário** | [USxx – Exibir preço da passagem por linha ou trajeto](../modelagem_requisitos_02/historias_de_usuario.md#usxx---exibir-preco-da-passagem-por-linha-ou-trajeto) | Representação | Planejada: história de usuário futura com origem em BRS19. |
+    | **Especificação Suplementar** | [Especificação Suplementar](../modelagem_requisitos_01/especificacao_suplementar.md) | Representação | Pode documentar regras tarifárias, políticas ou processamento de dados relacionados a tarifas. |
+    | **Léxico** | *Não identificado* | — | — |
+    | **Casos de Uso** | *Não identificados* | — | — |
+    | **Cenários** | *Não identificados* | — | — |
+    | **Artefatos de Elicitação** | [Brainstorm (BRS19)](../Elicitacao/elicitacao_brainstorm.md#brs19) | Representação | BRS19 fundamenta a necessidade do RF17. |
 
 ??? info "RF18 – Listar linhas que passam em uma parada específica"
 
     *Autoria: João Ramos*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 2: Filtragem | Representação | A listagem por parada é uma funcionalidade de filtragem e descoberta de linhas. |
-    |**História de Usuário** | US01 | Representação | US01 de filtragem representa a necessidade de consultar linhas por parada. |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC02 | Representação | UC02 modela a busca/consulta de linhas por critérios (ex.: parada). |
-    |**Cenários** | CEN01 | Representação | Cenário descreve usuário consultando linhas que passam em uma parada. |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS05 fundamenta a necessidade de listagem por parada. |
+    | **Épico** | [Épico 2: Filtragem](../modelagem_requisitos_02/backlog.md#épico-2---filtragem) | Representação | A listagem por parada é uma funcionalidade de filtragem e descoberta de linhas. |
+    | **História de Usuário** | [US01](../modelagem_requisitos_02/historias_de_usuario.md#us01) | Representação | US01 representa a necessidade de consultar linhas por parada. |
+    | **Léxico** | *Não identificado* | — | — |
+    | **Casos de Uso** | [UC02](../modelagem_requisitos_01/casos_de_uso.md#uc02) | Representação | UC02 modela a busca e consulta de linhas com base em critérios como parada. |
+    | **Cenários** | [CEN01](../modelagem_requisitos_01/cenarios.md#cen01) | Representação | CEN01 descreve usuário consultando linhas que passam em uma parada. |
+    | **Artefatos de Elicitação** | [Brainstorm (BRS05)](../Elicitacao/elicitacao_brainstorm.md#brs05) | Representação | BRS05 fundamenta a necessidade de listagem por parada. |
+
 
 ??? info "RF19 – Disponibilizar versão web leve para acesso rápido em pontos de ônibus (via QR Code)"
 
@@ -422,38 +433,39 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
         *Autoria: Daniel Nunes Duarte*
 
-        |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+        | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
         |:-- | :-- | :-- | :-- |
-        |**Épico** | Ambiental | Representação | RF20 relata a necessidade de segurança imediata para usuários em risco |
-        |**História de Usuário** | *Não identificada* | Representação | BRS21 sugere botão de pânico para alertas emergenciais |
-        |**Léxico** | *Não identificado* | — | — |
-        |**Casos de Uso** | *Não identificados* | — | — |
-        |**Artefatos de Elicitação** | [Brainstorm (BRS21)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS21 representa a necessidade de um mecanismo de alerta de emergência |
+        | **Épico** | *Ambiental* | Representação | RF20 atende necessidade de segurança imediata para usuários em risco. |
+        | **História de Usuário** | *Não identificada* | Representação | BRS21 sugere a criação de um botão de pânico emergencial. |
+        | **Léxico** | *Não identificado* | — | — |
+        | **Casos de Uso** | *Não identificados* | — | — |
+        | **Artefatos de Elicitação** | [Brainstorm (BRS21)](../Elicitacao/elicitacao_brainstorm.md#brs21) | Representação | BRS21 fundamenta a necessidade do mecanismo de alerta emergencial. |
 
 ??? info "RF21 – Mostrar alertas de trânsito, acidentes e rotas alternativas"
 
     *Autoria: João Ramos*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Épico 1: Rastreamento e Informações em Tempo Real | Representação | Alertas de tráfego complementam o rastreamento e planejamento de rotas em tempo real. |
-    |**História de Usuário** | US15 | Representação | A US de informação em tempo real contempla alertas operacionais e alterações de rota. |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC03 | Representação | UC03 inclui fluxo de recepção e exibição de alertas de trânsito ao usuário. |
-    |**Cenários** | CEN03 | Representação | Cenário exemplifica a notificação de incidente e sugestão de rota alternativa. |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS12)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS12 é a fonte que sugere a necessidade de alertas de trânsito e rotas alternativas. |
+    | **Épico** | [Épico 1: Rastreamento e Informações em Tempo Real](../modelagem_requisitos_02/backlog.md#épico-1---rastreamento-e-informações-em-tempo-real) | Representação | Alertas de tráfego complementam o rastreamento e planejamento em tempo real. |
+    | **História de Usuário** | [US15](../modelagem_requisitos_02/historias_de_usuario.md#us15) | Representação | US15 contempla avisos e informações dinâmicas do sistema. |
+    | **Léxico** | *Não identificado* | — | — |
+    | **Casos de Uso** | [UC03](../modelagem_requisitos_01/casos_de_uso.md#uc03) | Representação | UC03 inclui o fluxo de recepção e exibição de alertas de trânsito. |
+    | **Cenários** | [CEN03](../modelagem_requisitos_01/cenarios.md#cen03) | Representação | CEN03 exemplifica alertas e recomendações de rota alternativa. |
+    | **Artefatos de Elicitação** | [Brainstorm (BRS12)](../Elicitacao/elicitacao_brainstorm.md#brs12) | Representação | BRS12 sugere a necessidade de alertas de trânsito e alternativas de rota. |
 
 ??? info "RF22 – Permitir compartilhar trajeto em tempo real com outros usuários"
 
     *Autoria: Daniel Nunes Duarte*
 
-    |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
+    | **Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Ambiental | Representação | RF22 melhora segurança e colaboração entre usuários durante deslocamentos |
-    |**História de Usuário** | *Não identificada* | Representação | BRS20 indica interesse em compartilhar trajeto em tempo real |
-    |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS20)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS20 fundamenta a necessidade de compartilhamento de trajeto |
+    | **Épico** | *Ambiental* | Representação | RF22 reforça segurança e colaboração entre usuários durante deslocamentos. |
+    | **História de Usuário** | *Não identificada* | Representação | BRS20 indica interesse no compartilhamento de trajeto em tempo real. |
+    | **Léxico** | *Não identificado* | — | — |
+    | **Casos de Uso** | *Não identificados* | — | — |
+    | **Artefatos de Elicitação** | [Brainstorm (BRS20)](../Elicitacao/elicitacao_brainstorm.md#brs20) | Representação | BRS20 fundamenta a necessidade do compartilhamento de trajeto. |
+
 
 
 ??? info "RF24 – Permitir favoritar linhas ou paradas para acesso rápido"
@@ -523,26 +535,25 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Desenvolvimento | Agregação | Gamificação agrega incentivos para aumentar uso do transporte público e engajamento 
+    |**Épico** | Épico: Desenvolvimento | Agregação | Gamificação agrega incentivos para aumentar uso do transporte público e engajamento |
     |**História de Usuário** | *Não identificada* | Representação | Brainstorm (BRS01) propôs mecanismos lúdicos e recompensas para usuários |
     |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS01)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Agregação | BRS01 agrega ideias de mecânicas de gamificação aplicáveis ao sistema |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS01)](../Elicitacao/elicitacao_brainstorm.md#brs01) | Agregação | BRS01 agrega ideias de mecânicas de gamificação aplicáveis ao sistema |
 
-
-
-??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
+  ??? info "RF30 – Previsão inteligente de horários baseada em dados históricos e machine learning"
 
     *Autoria: João Gabriel*
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
     |**Épico** | Épico 7: Planejamento de Viagens | Agregação | Agrega RF30 como funcionalidade inteligente do épico |
-    |**História de Usuário** | US31 | Representação | US31 representa a implementação do RF30 em termos de usuário |
+    |**História de Usuário** | [US31](../modelagem_requisitos_02/historias_de_usuario.md#us31) | Representação | US31 representa a implementação do RF30 em termos de usuário |
     |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC10 | Representação | UC10 modela a interação para previsão inteligente |
-    |**Cenários** | CEN10 | Representação | CEN10 descreve situação de uso do RF30 |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS02)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS02 representa a necessidade do RF30 |
+    |**Casos de Uso** | [UC10](../modelagem_requisitos_02/casos_de_uso.md#uc10) | Representação | UC10 modela a interação para previsão inteligente |
+    |**Cenários** | [CEN10](../modelagem_requisitos_02/cenarios.md#cen10) | Representação | CEN10 descreve situação de uso do RF30 |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS02)](../Elicitacao/elicitacao_brainstorm.md#brs02) | Representação | BRS02 representa a necessidade do RF30 |
+
 
 ??? info "RF31 – Sistema de recompensas por uso sustentável do transporte público"
 
@@ -575,11 +586,11 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
-    |**Épico** | Ambiental | Representação | RF33 melhora usabilidade e segurança permitindo interação sem tocar o dispositivo | 
+    |**Épico** | Ambiental | Representação | [RF33 melhora usabilidade e segurança permitindo interação sem tocar o dispositivo](#rf33) |
     |**História de Usuário** | *Não identificada* | Representação | Brainstorm (BRS14) sugere suporte por voz; recurso BRS11 gera insumo para RF33 |
     |**Léxico** | *Não identificado* | — | — |
     |**Casos de Uso** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS14)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS14 identifica necessidade de comandos de voz para uso durante deslocamentos |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS14)](../Elicitacao/elicitacao_brainstorm.md#brs14) | Representação | BRS14 identifica necessidade de comandos de voz para uso durante deslocamentos |
 
 
 
@@ -629,23 +640,14 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
     |**Elemento** | **Artefatos Relacionados** | **Tipo de Elo** | **Justificativa** |
     |:-- | :-- | :-- | :-- |
     |**Épico** | Épico 8: Gestão de Usuário e Conta | Agregação | Agrega RF37 como funcionalidade central do épico |
-    |**História de Usuário** | US32 | Representação | US32 representa a implementação do RF37 em termos de usuário |
+    |**História de Usuário** | [US32](../modelagem_requisitos_02/historias_de_usuario.md#us32) | Representação | US32 representa a implementação do RF37 em termos de usuário |
     |**Léxico** | *Não identificado* | — | — |
-    |**Casos de Uso** | UC01 | Representação | UC01 modela a interação para cadastro e autenticação |
+    |**Casos de Uso** | [UC01](../modelagem_requisitos_02/casos_de_uso.md#uc01) | Representação | UC01 modela a interação para cadastro e autenticação |
     |**Cenários** | *Não identificados* | — | — |
-    |**Artefatos de Elicitação** | [Brainstorm (BRS18)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Representação | BRS18 representa a necessidade do RF37 |
+    |**Artefatos de Elicitação** | [Brainstorm (BRS18)](../Elicitacao/elicitacao_brainstorm.md#brs18) | Representação | BRS18 representa a necessidade do RF37 |
 
 
-## Tabela de Contribuição
 
-|        Nome          | Contribuição|
-|----------------------|-------------|
-| Cauã Nicolas         | Adição RNF04 e RNF05, RF13, RF14, RF15, RF16, RF24 e RF25 |
-| Daniel Nunes Duarte  | Rastreabilidade Forward-From dos Requisitos RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 |
-| Fernanda Vaz         | Forward: RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
-| Gabriel Maciel       | Rastreabilidade Forward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
-| João Gabriel         | Adição RNF1 ao RNF3 e RF01 ao RF05, RF37, RF30 |
-| João Ramos           | A preencher |
 
 ## Referência bibliográfica 
 
