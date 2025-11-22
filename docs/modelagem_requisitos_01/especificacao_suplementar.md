@@ -199,6 +199,15 @@ O sistema deve estar em conformidade com a [Lei 13.709/2018](https://www.planalt
 | RNFPA01.04 | Dados pessoais armazenados devem ser criptografados em repouso quando tecnicamente viável. | Daniel Nunes Duarte |
 | RNFPA01.05 | Logs e backups que contenham dados pessoais devem ter acesso restrito e retenção limitada conforme política da organização. | Daniel Nunes Duarte |
 | RNFPA01.06 | Deve ser realizada uma avaliação de impacto sobre a proteção de dados (DPIA) para funcionalidades que processem dados sensíveis. | Daniel Nunes Duarte |
+### PA02 - [Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc5246) 1.2 ou superior
+
+Todas as comunicações entre cliente e servidor devem ser criptografadas utilizando TLS 1.2 ou versões mais recentes para garantir segurança nas transmissões de dados.  A Tabela 12 apresenta requisitos não-funcionais criados a partir desta conformidade.
+
+#### Tabela 12 - Requisitos Não-Funcionais que se relacionam com o TLS 1.2 ou superior (RNFPA02)
+
+| ID | Descrição | Autoria |
+|---|---|---|
+| RNFPA02.01 | Todas as comunicações entre cliente e servidor devem ser criptografadas usando TLS 1.2 ou superior. | Daniel Nunes Duarte |
 ## Referências bibliográficas
 
 <a id="ref-mctic"></a>
