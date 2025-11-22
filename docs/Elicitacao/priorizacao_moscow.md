@@ -69,6 +69,8 @@ A Tabela 1 apresenta os requisitos elicitados priorizados pela técnica MoSCoW.
 | Must Have | RNF13 | Alta disponibilidade do sistema (≥ 98% uptime)                                                   |
 | Must Have | RNF14 | Suporte a múltiplos usuários simultâneos sem lentidão                                            |
 
+*Tabela 1: Requisitos identificados através da técnica de Brainstorm - Autor: Gabriel Maciel*
+
 ## Análise dos Resultados
 
 ### Must Have (Deve ter)
@@ -118,3 +120,6 @@ Funcionalidades acordadas como fora do escopo atual:
 >[1] WIEGERS, Karl; BEATTY, Joy. *Software requirements*. 3. ed. Redmond: Microsoft Press, 2013.
 
 >[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
