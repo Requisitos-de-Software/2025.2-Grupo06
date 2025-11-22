@@ -223,6 +223,16 @@ O sistema deve implementar práticas de segurança da informação conforme a no
 | RNFPA03.03 | Registro (logging) de eventos de segurança (tentativas de login, alterações de privilégios, erros críticos) para auditoria. | Daniel Nunes Duarte |
 | RNFPA03.04 | Proteção contra ataques comuns (XSS, CSRF, injeção de SQL) aplicando validação e sanitização de entrada. | Daniel Nunes Duarte |
 
+### PA04 - [Protocolo OAuth 2.0](https://oauth.net/2/) 
+
+Autenticação e autorização devem seguir o padrão OAuth 2.0 para garantir segurança nas operações de login e autenticação multifator.
+
+#### Tabela 14 - Requisitos Não-Funcionais que se relacionam com o Protocolo OAuth 2.0 (RNFPA04) 
+
+| ID | Descrição | Autoria |
+|---|---|---|
+| RNFPA04.01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). | Daniel Nunes Duarte |
+
 ## Referências bibliográficas
 
 <a id="ref-mctic"></a>
