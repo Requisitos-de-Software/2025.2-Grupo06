@@ -149,7 +149,7 @@ Esta seção lista todos os padrões com os quais o produto deverá estar em con
 
 ??? info "Segurança e Privacidade - Versão 1.0"
 
-    A seção de Padrões aplicáveis realinha os requisitos não-funcionais presentes abaixo em padrões e normas correspondentes, como especificado pela definição de Especificação Suplementar do [MCTIC](#ref-mctic)
+    A seção de Padrões aplicáveis realinha os requisitos não-funcionais presentes abaixo a padrões e normas correspondentes, como especificado pela definição de Especificação Suplementar do [MCTIC](#ref-mctic)
 
     ### Segurança
 
