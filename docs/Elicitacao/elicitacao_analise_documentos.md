@@ -16,7 +16,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | Interação     | - Consulta horários e localização dos ônibus em tempo real via GPS. <br> - Acessa informações sobre frota, linhas e empresas operadoras. <br> - Utiliza o app para planejar deslocamentos diários. |
 | Finalidade    | Obter previsibilidade e confiabilidade nos horários dos ônibus. Facilitar o deslocamento para trabalho, estudo e outras atividades cotidianas. |
 
-<font size="2"><p style="text-align: center"><b>Tabela 1</b> - Perfil do Usuário: Passageiro de Transporte Público no DF. Autoria: Fernanda Vaz</p></font>
+*Tabela 1 - Perfil do Usuário: Passageiro de Transporte Público no DF. Autoria: Fernanda Vaz, 2025*
 
 ### Perfil Demográfico dos Usuários
 
@@ -26,7 +26,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | Interação     | - Dependência diária do transporte coletivo. <br> - Busca por soluções digitais que aumentem a eficiência dos deslocamentos.              |
 | Finalidade    | Utilizar o transporte público como principal meio de locomoção, com apoio de ferramentas digitais para reduzir incertezas e atrasos.     |
 
-<font size="2"><p style="text-align: center"><b>Tabela 2</b> - Perfil Demográfico dos Usuários. Autoria: Fernanda Vaz</p></font>
+*Tabela 2 - Perfil Demográfico dos Usuários. Autoria: Fernanda Vaz, 2025*
 
 ## Requisitos Identificados
 
@@ -40,7 +40,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | RF04  | Visualização da frota ativa              | Mostrar quais veículos estão em operação naquele momento.                |
 | RF05  | Planejamento de rota                     | Sugerir trajetos com base no ponto de origem e destino do usuário.       |
 
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Requisitos Funcionais identificados. Autoria: Fernanda Vaz</p></font>
+*Tabela 3 - Requisitos Funcionais identificados. Autoria: Fernanda Vaz, 2025*
 
 ### Requisitos Não Implementados
 
@@ -52,7 +52,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 | RNI04 | Avaliação de linhas                      | Permitir avaliação da qualidade do serviço de cada linha.                |
 | RNI05 | Modo offline                             | Disponibilizar funcionalidades básicas sem conexão à internet.           |
 
-<font size="2"><p style="text-align: center"><b>Tabela 4</b> - Requisitos Não Implementados identificados. Autoria: Fernanda Vaz</p></font>
+*Tabela 4 - Requisitos Não Implementados identificados. Autoria: Fernanda Vaz, 2025*
 
 ## Responsáveis pela Elaboração
 
@@ -74,3 +74,6 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 >[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
 
 >[2] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

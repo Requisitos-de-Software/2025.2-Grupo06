@@ -77,5 +77,5 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 |:-----------:|:--------:|:--------------|:---------------|:----------------|
 | **1.0** | 18/10/2025 | Criação inicial da Tabela Geral de Requisitos Elicitados; consolidação das três técnicas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [João Gabriel](https://github.com/JoaoComTil) |
 | **1.1** | 27/10/2025 | Adição de links bidirecionais para o documento `forward.md` | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Cauã Nicolas](https://github.com/cauanicolas) |
-| **1.2** | 19/11/2025 | Adicão coluna de Requisito Implementado | João Ramos | Gabriel Maciel |
+| **1.2** | 19/11/2025 | Adicão coluna de Requisito Implementado | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 

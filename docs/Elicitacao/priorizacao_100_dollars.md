@@ -29,7 +29,7 @@ Cada participante recebe **$100 fictícios** para "investir" nos itens que serã
 
 ![Planilha da Técnica $100 Dollars](../assets/imagens/Excel100Dollars.png)
 
-*Figura 1: Excel utilizado no 100 Dollars - Fonte: João Gabriel*
+*Figura 1: Excel utilizado no 100 Dollars - Fonte: João Gabriel, 2025*
 
 - Foi feita uma discussão geral entre todos participantes sobre porque escolheram tal requisito como importante, em relação a requisitos em que empatavam pontos etc. Com tudo isso gravado em vídeo para documentação do que **os usuários dava mais prioridade.**
 
@@ -67,7 +67,7 @@ Cada participante recebe **$100 fictícios** para "investir" nos itens que serã
 
 *Legenda: P1, P2, P3, P4 = Participantes 1 a 4*
 
-*Tabela 1: Conclusão 100 Dollars - Fonte: João Gabriel*
+*Tabela 1: Conclusão 100 Dollars - Fonte: João Gabriel, 2025*
 
 ## Análise de Consenso entre Participantes
 
@@ -91,7 +91,7 @@ Com esses dados, poderiamos criar um MVP bem embasado do que grande parte dos pe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LjKYuKdOKN8" title="Técnica de Priorização $100 Dollars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Vídeo 1: Reunião de priorização de 100 Dollars - Fonte: João Gabriel*
+*Vídeo 1: Reunião de priorização de 100 Dollars - Fonte: João Gabriel, 2025*
 
 ## Responsáveis pela Elaboração
 
@@ -115,3 +115,6 @@ Com esses dados, poderiamos criar um MVP bem embasado do que grande parte dos pe
 >[1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Aprender 3. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
 
 >[2] WIEGERS, Karl; BEATTY, Joy. *Software requirements*. 3. ed. Redmond: Microsoft Press, 2013.
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
