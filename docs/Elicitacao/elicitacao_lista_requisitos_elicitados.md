@@ -66,7 +66,7 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | **RNF14** | Suporte a múltiplos usuários simultâneos sem lentidão | Não Funcional | Sim | Brainstorm (BRS15) |
 | **RNF15** | Personalização da interface com base em preferências do usuário | Não Funcional | Não | Brainstorm (BRS13) |
 
-*Tabela 1: Lista de requisitos elicitados de todas as técnicas - Autoria: Gabriel Maciel, João Ramos 2025*
+*Tabela 1: Lista de requisitos elicitados de todas as técnicas - Autoria: Gabriel Maciel, João Ramos, 2025*
 
 ---
 
