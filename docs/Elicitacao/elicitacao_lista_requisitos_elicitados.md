@@ -11,63 +11,65 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 ### Tabela 1: Lista de requisitos elicitados de todas as técnicas
 
 | **ID** | **Requisito** | **Tipo** | **Implementado** | **Rastreabilidade (origem)** |
-|:------:|:--------------|:---------|:----------------:|:------------------------------|
-| <a id="rf01"></a> RF01 | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
-| <a id="rf02"></a> RF02 | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
-| <a id="rf03"></a> RF03 | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
-| <a id="rf04"></a> RF04 | Permitir pesquisa por linhas e rotas de ônibus | Funcional | Sim | Análise de Documentos (RF02), Entrevista (ENT01) |
-| <a id="rf05"></a> RF05 | Apresentar horários de saída e chegada | Funcional | Sim | Entrevista (ENT02) |
-| <a id="rf06"></a> RF06 | Oferecer mapa interativo com pontos e linhas | Funcional | Sim | Entrevista (ENT06) |
-| <a id="rf07"></a> RF07 | Integrar informações de outros modais | Funcional | Sim | Análise de Documentos (RNI02), Brainstorm (BRS04) |
-| <a id="rf08"></a> RF08 | Exibir informações de acessibilidade | Funcional | Sim | Entrevista (ENT16) |
-| <a id="rf09"></a> RF09 | Indicar lotação do ônibus | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS07) |
-| <a id="rf10"></a> RF10 | Reportar lotação (colaborativo) | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS03) |
-| <a id="rf11"></a> RF11 | Notificação de chegada | Funcional | Sim | Análise (RNI01), ENT15, BRS05 |
-| <a id="rf12"></a> RF12 | Alertas de atrasos e mudanças | Funcional | Sim | ENT05, BRS05 |
-| <a id="rf13"></a> RF13 | Recarga de cartão | Funcional | Não | ENT07 |
-| <a id="rf14"></a> RF14 | Integração com cartão | Funcional | Não | ENT07 |
-| <a id="rf15"></a> RF15 | Histórico de viagens | Funcional | Não | Análise (RNI03) |
-| <a id="rf16"></a> RF16 | Reportar problemas | Funcional | Não | ENT20 |
-| <a id="rf17"></a> RF17 | Exibir preço da passagem | Funcional | Sim | ENT23 |
-| <a id="rf18"></a> RF18 | Listar linhas por parada | Funcional | Sim | — |
-| <a id="rf19"></a> RF19 | Versão web leve | Funcional | Sim | BRS17 |
-| <a id="rf20"></a> RF20 | Botão de pânico | Funcional | Não | — |
-| <a id="rf21"></a> RF21 | Alertas de trânsito | Funcional | Sim | BRS12 |
-| <a id="rf22"></a> RF22 | Compartilhar trajeto | Funcional | Não | — |
-| <a id="rf23"></a> RF23 | Exibir assentos | Funcional | Não | — |
-| <a id="rf24"></a> RF24 | Favoritar linhas ou paradas | Funcional | Sim | ENT14 |
-| <a id="rf25"></a> RF25 | Exibir informações em regiões afastadas | Funcional | Não | ENT08 |
-| <a id="rf26"></a> RF26 | Filtrar ônibus por empresa | Funcional | Sim | Análise (RF03) |
-| <a id="rf27"></a> RF27 | Mostrar veículos em operação | Funcional | Sim | Análise (RF04) |
-| <a id="rf28"></a> RF28 | Avaliação do serviço | Funcional | Não | Análise (RNI04) |
-| <a id="rf29"></a> RF29 | Gamificação | Funcional | Não | BRS01 |
-| <a id="rf30"></a> RF30 | Previsão inteligente (ML) | Funcional | Sim | BRS02 |
-| <a id="rf31"></a> RF31 | Recompensas sustentáveis | Funcional | Não | BRS09 |
-| <a id="rf32"></a> RF32 | Relatórios ambientais | Funcional | Não | BRS11 |
-| <a id="rf33"></a> RF33 | Comandos de voz | Funcional | Não | BRS14 |
-| <a id="rf34"></a> RF34 | Integração com assistentes | Funcional | Não | BRS16 |
-| <a id="rf35"></a> RF35 | Rastreamento de múltiplas linhas | Funcional | Não | ENT12 |
-| <a id="rf36"></a> RF36 | Suporte multilíngue | Funcional | Não | ENT22 |
-| <a id="rf37"></a> RF37 | Cadastro e autenticação | Funcional | Não | BRS18 |
-| <a id="rf38"></a> RF38 | Linhas com ar-condicionado | Funcional | Não | BRS20 |
-| <a id="rnf01"></a> RNF01 | Informações precisas | Não Funcional | Sim | ENT09 |
-| <a id="rnf02"></a> RNF02 | Rastreamento confiável | Não Funcional | Sim | ENT13 |
-| <a id="rnf03"></a> RNF03 | Atualização ≤ 20s | Não Funcional | Não | ENT23 |
-| <a id="rnf04"></a> RNF04 | Interface acessível | Não Funcional | Não | ENT10, BRS08 |
-| <a id="rnf05"></a> RNF05 | Notificações configuráveis | Não Funcional | Sim | BRS18 |
-| <a id="rnf06"></a> RNF06 | Baixo consumo de bateria | Não Funcional | Sim | — |
-| <a id="rnf07"></a> RNF07 | Compatível com Android/iOS | Não Funcional | Sim | ENT19 |
-| <a id="rnf08"></a> RNF08 | Proteção contra reportes falsos | Não Funcional | Não | — |
-| <a id="rnf09"></a> RNF09 | Proteção LGPD | Não Funcional | Sim | ENT21 |
-| <a id="rnf10"></a> RNF10 | Tela principal < 3s | Não Funcional | Não | ENT17 |
-| <a id="rnf11"></a> RNF11 | Funcionamento offline | Não Funcional | Não | RNI05, ENT18, BRS06 |
-| <a id="rnf12"></a> RNF12 | Pagamento seguro | Não Funcional | Não | BRS10 |
-| <a id="rnf13"></a> RNF13 | Disponibilidade ≥ 98% | Não Funcional | Sim | — |
-| <a id="rnf14"></a> RNF14 | Suporte a múltiplos usuários | Não Funcional | Sim | BRS15 |
-| <a id="rnf15"></a> RNF15 | Personalização da interface | Não Funcional | Não | BRS13 |
-
+|:------:|:---------------|:----------|:----------------:|:------------------------------|
+| **RF01** | Exibir a localização dos ônibus em tempo real no mapa | Funcional | Sim | Análise de Documentos (RF01), Entrevista (ENT03) |
+| **RF02** | Mostrar o tempo estimado de chegada do ônibus à parada | Funcional | Sim | Entrevista (ENT04) |
+| **RF03** | Permitir planejamento de viagem (origem → destino) com rotas sugeridas | Funcional | Sim | Análise de Documentos (RF05) |
+| **RF04** | Permitir pesquisa por linhas e rotas de ônibus | Funcional | Sim | Análise de Documentos (RF02), Entrevista (ENT01) |
+| **RF05** | Apresentar horários de saída e chegada dos transportes | Funcional | Sim | Entrevista (ENT02) |
+| **RF06** | Oferecer um mapa interativo com os pontos de ônibus e suas linhas correspondentes | Funcional | Sim | Entrevista (ENT06) |
+| **RF07** | Integrar informações de outros modais (metrô, outros ônibus) em rotas multimodais | Funcional | Sim | Análise de Documentos (RNI02), Brainstorm (BRS04) |
+| **RF08** | Exibir informações de acessibilidade do ônibus (ex.: acessível para cadeirantes) | Funcional | Sim | Entrevista (ENT16) |
+| **RF09** | Indicar lotação do ônibus (vazio, moderado, lotado) | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS07) |
+| **RF10** | Permitir que usuários reportem a lotação do ônibus (sistema colaborativo) | Funcional | Não | Entrevista (ENT11), Brainstorm (BRS03) |
+| **RF11** | Enviar notificação quando o ônibus estiver a X minutos da parada | Funcional | Sim | Análise de Documentos (RNI01), Entrevista (ENT15), Brainstorm (BRS05) |
+| **RF12** | Enviar alertas sobre atrasos, mudanças de rota ou alterações nos horários | Funcional | Sim | Entrevista (ENT05), Brainstorm (BRS05) |
+| **RF13** | Oferecer recarga de cartão de transporte (ex.: integração com BRB Mobilidade) | Funcional | Não | Entrevista (ENT07) |
+| **RF14** | Permitir integração com o cartão de transporte, incluindo saldo e recarga | Funcional | Não | Entrevista (ENT07) |
+| **RF15** | Manter histórico de viagens do usuário | Funcional | Não | Análise de Documentos (RNI03) |
+| **RF16** | Permitir reportar problemas (motorista, ônibus, cobrança) com dados do veículo e horário | Funcional | Não | Entrevista (ENT20) |
+| **RF17** | Exibir preço da passagem por linha ou trajeto | Funcional | Sim | Entrevista (ENT23) |
+| **RF18** | Listar linhas que passam em uma parada específica | Funcional | Sim | — |
+| **RF19** | Disponibilizar versão web leve para acesso rápido em pontos de ônibus | Funcional | Sim | Brainstorm (BRS17) |
+| **RF20** | Botão de pânico/emergência para alertar motorista e/ou autoridades | Funcional | Não | — |
+| **RF21** | Mostrar alertas de trânsito e acidentes | Funcional | Sim | Brainstorm (BRS12) |
+| **RF22** | Permitir compartilhar trajeto em tempo real com outros usuários | Funcional | Não | — |
+| **RF23** | Exibir quantidade de assentos preferenciais e totais no ônibus | Funcional | Não | — |
+| **RF24** | Permitir favoritar linhas ou paradas para acesso rápido | Funcional | Sim | Entrevista (ENT14) |
+| **RF25** | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Não | Entrevista (ENT08) |
+| **RF26** | Filtrar ônibus por empresa operadora | Funcional | Sim | Análise de Documentos (RF03) |
+| **RF27** | Visualizar quais veículos estão em operação no momento | Funcional | Sim | Análise de Documentos (RF04) |
+| **RF28** | Permitir avaliação da qualidade do serviço de cada linha | Funcional | Não | Análise de Documentos (RNI04) |
+| **RF29** | Sistema de gamificação para incentivar uso do transporte público | Funcional | Não | Brainstorm (BRS01) |
+| **RF30** | Previsão inteligente de horários baseada em dados históricos e machine learning | Funcional | Sim | Brainstorm (BRS02) |
+| **RF31** | Sistema de recompensas por uso sustentável do transporte público | Funcional | Não | Brainstorm (BRS09) |
+| **RF32** | Exibir relatórios de impacto ambiental (CO₂ economizado) | Funcional | Não | Brainstorm (BRS11) |
+| **RF33** | Suporte a comandos de voz para facilitar interação durante deslocamentos | Funcional | Não | Brainstorm (BRS14) |
+| **RF34** | Integração com assistentes virtuais (Alexa, Google Assistant) | Funcional | Não | Brainstorm (BRS16) |
+| **RF35** | Permitir rastreamento de múltiplas linhas de ônibus simultaneamente no mapa | Funcional | Não | Entrevista (ENT12) |
+| **RF36** | Oferecer suporte multilíngue (português e inglês, no mínimo) | Funcional | Não | Entrevista (ENT22) |
+| **RF37** | Permitir cadastro, login e autenticação de usuários no sistema | Funcional | Não | Brainstorm (BRS18) |
+| **RF38** | Visualizar linhas que possuem ar-condicionado | Funcional | Não | Brainstorm (BRS20) |
+| **RNF01** | As informações de horários e localização dos ônibus devem ser precisas | Não Funcional | Sim | Entrevista (ENT09) |
+| **RNF02** | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas | Não Funcional | Sim | Entrevista (ENT13) |
+| **RNF03** | Tempo de atualização da localização ≤ 20 segundos | Não Funcional | Não | ENT23 |
+| **RNF04** | Interface acessível para idosos e pessoas com deficiência visual | Não Funcional | Não | Entrevista (ENT10), Brainstorm (BRS08) |
+| **RNF05** | Sistema de notificação com som e vibração configuráveis | Não Funcional | Sim | Elicitação de Requisitos: Brainstorm (BRS18) |
+| **RNF06** | Baixo consumo de bateria e dados móveis | Não Funcional | Sim | — |
+| **RNF07** | Compatibilidade com dispositivos Android e iOS | Não Funcional | Sim | Entrevista (ENT19) |
+| **RNF08** | Proteção contra reportes falsos de lotação (mecanismo de confiança) | Não Funcional | Não | — |
+| **RNF09** | Dados de localização e pessoais protegidos conforme LGPD | Não Funcional | Sim | Entrevista (ENT21) |
+| **RNF10** | Tempo de carregamento da tela principal < 3 segundos | Não Funcional | Não | Entrevista (ENT17) |
+| **RNF11** | Funcionamento offline para consulta a rotas salvas e horários | Não Funcional | Não | Análise de Documentos (RNI05), Entrevista (ENT18), Brainstorm (BRS06) |
+| **RNF12** | Integração segura com sistemas de pagamento (recarga de cartão) | Não Funcional | Não | Brainstorm (BRS10) |
+| **RNF13** | Alta disponibilidade do sistema (≥ 98% uptime) | Não Funcional | Sim | — |
+| **RNF14** | Suporte a múltiplos usuários simultâneos sem lentidão | Não Funcional | Sim | Brainstorm (BRS15) |
+| **RNF15** | Personalização da interface com base em preferências do usuário | Não Funcional | Não | Brainstorm (BRS13) |
 
 *Tabela 1: Lista de requisitos elicitados de todas as técnicas - Autoria: Gabriel Maciel, 2025*
+
+
+*Tabela 1: Lista de requisitos elicitados de todas as técnicas - Autoria: Gabriel Maciel, João Ramos 2025*
 
 ---
 
