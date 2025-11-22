@@ -185,6 +185,20 @@ Esta seção lista todos os padrões com os quais o produto deverá estar em con
 
     <span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
 
+### PAO1 - Lei Geral de Proteção de Dados (LGPD) - Brasil
+
+O sistema deve estar em conformidade com a [Lei 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), garantindo a proteção de dados pessoais dos usuários, inclusive direitos de acesso, correção, exclusão e consentimento informado. A Tabela 11 apresenta requisitos não-funcionais criados a partir desta conformidade.
+
+#### Tabela 11 - Requisitos Não-Funcionais que se relacionam com a LGPD (RNFPA01)
+
+| ID | Descrição | Autoria |
+|---|---|---|
+| RNFPA01.01 | Coleta de dados deve ser limitada ao mínimo necessário para a finalidade declarada e informada ao usuário. | Daniel Nunes Duarte |
+| RNFPA01.02 | Deve ser fornecido um termo de consentimento claro e acessível, permitindo que o usuário aceite ou recuse coleta de dados sensíveis. | Daniel Nunes Duarte |
+| RNFPA01.03 | Usuários devem ter mecanismos para visualizar, corrigir e solicitar exclusão de seus dados pessoais. | Daniel Nunes Duarte |
+| RNFPA01.04 | Dados pessoais armazenados devem ser criptografados em repouso quando tecnicamente viável. | Daniel Nunes Duarte |
+| RNFPA01.05 | Logs e backups que contenham dados pessoais devem ter acesso restrito e retenção limitada conforme política da organização. | Daniel Nunes Duarte |
+| RNFPA01.06 | Deve ser realizada uma avaliação de impacto sobre a proteção de dados (DPIA) para funcionalidades que processem dados sensíveis. | Daniel Nunes Duarte |
 ## Referências bibliográficas
 
 <a id="ref-mctic"></a>
