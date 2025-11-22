@@ -22,6 +22,20 @@ A metodologia adotada para a construção da matriz de pós-rastreabilidade cons
 
 ---
 
+
+## Tabela de Contribuição
+
+|        Nome          | Contribuição|
+|----------------------|-------------|
+| Cauã Nicolas         | Revisão|
+| Daniel Nunes Duarte  | Adição de RF17, RF20, RF22, RF27, RF29, RF33, RNF14 e RNF15; atualização da Matriz de Pós-Rastreabilidade |
+| Fernanda Vaz         | Elaboração da tabela e dos intens |
+| Gabriel Maciel       | Revisão|
+| João Gabriel         |Revisão |
+| João Ramos           |Revisão |
+
+
+
 ## Tabela de Pós-Rastreabilidade
 
 | ID | Descrição do Requisito | Classificação da Fonte | Tipo de Elo | Épico / Artefato Relacionado | Cenário | Caso de Uso | Autor(a) |
@@ -61,21 +75,14 @@ A metodologia adotada para a construção da matriz de pós-rastreabilidade cons
 
 
 
+** FONTE: ** FERNANDA VAZ, 2025
 
 
 
 
 
-## Tabela de Contribuição
 
-|        Nome          | Contribuição|
-|----------------------|-------------|
-| Cauã Nicolas         | A preencher |
-| Daniel Nunes Duarte  | Adição de RF17, RF20, RF22, RF27, RF29, RF33, RNF14 e RNF15; atualização da Matriz de Pós-Rastreabilidade |
-| Fernanda Vaz         | ELABORAÇÃO INICIAL DO ARTEFATO|
-| Gabriel Maciel       | A preencher |
-| João Gabriel         | A preencher |
-| João Ramos           | A preencher |
+
 
 
 ## Referência bibliográfica 
