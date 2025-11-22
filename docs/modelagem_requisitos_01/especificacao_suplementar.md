@@ -142,7 +142,7 @@ Esta seção lista todos os padrões com os quais o produto deverá estar em con
 
 | ID | Padrão Aplicável | Autoria |
 |----|------------------|---------|
-| [PA01](#pao1---lei-geral-de-proteção-de-dados-lgpd---brasil) | Lei Geral de Proteção de Dados (LGPD) | Gabriel Maciel, Daniel Nunes Duarte |
+| [PA01](#pa01---lei-geral-de-proteção-de-dados-lgpd---brasil) | Lei Geral de Proteção de Dados (LGPD) | Gabriel Maciel, Daniel Nunes Duarte |
 | [PA02](#pa02---transport-layer-security-tls-12-ou-superior) | Transport Layer Security (TLS) 1.2 ou superior | Gabriel Maciel, Daniel Nunes Duarte |
 | [PA03](#pa03---norma-isoiec-27001-segurança-da-informação) | Norma ISO/IEC 27001 (Segurança da Informação) | Gabriel Maciel, Daniel Nunes Duarte |
 | [PA04](#pa04---protocolo-oauth-20) | Protocolo OAuth 2.0 | Gabriel Maciel, Daniel Nunes Duarte |
@@ -185,7 +185,7 @@ Esta seção lista todos os padrões com os quais o produto deverá estar em con
 
     <span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
 
-### PAO1 - Lei Geral de Proteção de Dados (LGPD) - Brasil
+### PA01 - Lei Geral de Proteção de Dados (LGPD) - Brasil
 
 O sistema deve estar em conformidade com a [Lei 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), garantindo a proteção de dados pessoais dos usuários, inclusive direitos de acesso, correção, exclusão e consentimento informado. A Tabela 11 apresenta requisitos não-funcionais criados a partir desta conformidade.
 
