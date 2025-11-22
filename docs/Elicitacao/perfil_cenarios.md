@@ -123,3 +123,7 @@ Cenários são uma técnica fundamental no desenvolvimento de sistemas, funciona
 |------------|--------------|----------------------------|--------------------------|--------------------------|
 | 1.0        | 30/09/2025   | Cenários  | [Daniel Nunes](https://github.com/DanNunes777)  | [Fernanda Vaz](https://github.com/Fernandavazgit1)   |
 | 1.1   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Daniel Nunes](https://github.com/DanielNunes777) |
+| 2.0   | 22/11/2025 | Adiciona agradecimentos  | [Cauã Nicolas](https://github.com/cauanicolas)  | [João Ramos](https://github.com/Joaolramos) |
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

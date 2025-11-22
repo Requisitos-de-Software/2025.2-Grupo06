@@ -73,3 +73,7 @@ Com base nas semelhanças de comportamento e objetivos, foram definidos grupos:
 | 1.0    | 28/09/2025 | Criação da página.                 | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 | 1.1    | 30/09/2025 | Atualização do perfil de usuário. | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 | 2.0   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+| 3.0   | 22/11/2025 | Corrige erros ortográficos e adiciona agradecimentos   | [Cauã Nicolas](https://github.com/cauanicolas)  | [João Ramos](https://github.com/Joaolramos) |
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

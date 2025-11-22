@@ -64,13 +64,19 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | BRS19 | Listar linhas que passam em uma parada específica  | RF | Brainstorm
 | BRS20 | Visualizar linhas que possuem ar-condiconado  | RF | Brainstorm
 
-*Tabela 1: Requisitos identificados através da técnica de Brainstorm - Autor: João Gabriel*
+*Tabela 1: Requisitos identificados através da técnica de Brainstorm - Autor: João Gabriel, 2025*
 
 **Legenda:**
 
 - **BRS:** Requisito identificado a partir da técnica de Brainstorm.
 - **RF:** Requisito Funcional.
 - **RNF:** Requisito Não Funcional.
+
+## Bibliografia
+
+>[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
+
+>[2] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
 
 ## Responsáveis pela Elaboração
 
@@ -92,12 +98,6 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Gabriel |
 | 2.2    | 18/10/2025 | Adiciona novos requisitos não elicitados anteriormente  | Gabriel Maciel  | João Gabriel |
 | 3.0    | 22/11/2025 | Correção ortográfica e geral da página  | Cauã Nicolas  | João Ramos |
-
-## Bibliografia
-
->[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
-
->[2] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

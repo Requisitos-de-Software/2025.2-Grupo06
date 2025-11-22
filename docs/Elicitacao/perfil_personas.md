@@ -166,9 +166,13 @@ O uso de personas será um diferencial estratégico no projeto. Elas irão norte
 | 1.0    | 28/09/2025 | Criação da página e elaboração das personas    | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
 | 1.1    | 29/09/2025 | Padronização e melhorias na formatação         | [Fernanda Vaz](https://github.com/Fernandavazgit1)         | [Fernanda Vaz](https://github.com/Fernandavazgit1)        |
 | 1.2   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+| 2.0   | 22/11/2025 | Adiciona agradecimentos  | [Cauã Nicolas](https://github.com/cauanicolas)  | [João Ramos](https://github.com/Joaolramos) |
 
 ---
 
 ## Bibliografia
 >BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2011.
 >**This Person Doesn't Exist**. Imagens geradas através da aplicação de inteligência artificial. Disponível em: https://this-person-does-not-exist.com/. Acesso em: 29 set. 2025.
+
+## Agradecimentos
+>>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
