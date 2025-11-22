@@ -64,7 +64,7 @@ A Tabela 3 apresenta os Requisitos de Usabilidade, que representam o esforço ne
 | RU02 | Sistema de notificação com som e vibração configuráveis | [RNF05](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
 | RU03 | Compatibilidade com dispositivos Android e iOS | [RNF07](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
 | RU04 | Personalização da interface com base em preferências do usuário | [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
-
+| RU05 | Suporte a leitores de tela e ajuste de contraste conforme [WCAG](#ref-wcag) (*Web Content Accessibility Guidelines*). | Conformidade com Padrões Internacionais [WCAG 2.1 AA](#ref-wcag) | Fernanda Vaz |
 
 ## Confiabilidade
 
@@ -96,8 +96,10 @@ A Tabela 5 apresenta os Requisitos de Confiabilidade, que expressam a capacidade
 | RC04 | Tempo de atualização da localização (dos ônibus) ≤ 20 segundos | [RNF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | João Ramos, Gabriel Maciel |
 
 ## Desempenho
+
 O desempenho define as características de eficiência do sistema, incluindo tempos de resposta para transações, a taxa de transferência de dados e a capacidade de usuários simultâneos que o sistema pode acomodar. Conforme as diretrizes, esta seção detalha os requisitos de performance e a utilização de recursos como memória e disco, garantindo que a aplicação opere dentro dos parâmetros esperados.
 
+### Tabela 6 - Requisitos de Desempenho (RD) - Versão 2.0
 
 | ID | Descrição | Rastreabilidade | Autoria |
 |---|---|---|---|
@@ -106,20 +108,13 @@ O desempenho define as características de eficiência do sistema, incluindo tem
 | RD03 | O aplicativo deve apresentar baixo consumo de bateria e dados móveis durante o uso. | RNF06 - Elicitação de Requisitos | Gabriel Maciel |
 | RD04 | O sistema deve suportar múltiplos usuários simultâneos sem apresentar lentidão ou degradação de performance. | RNF14 - Elicitação de Requisitos: Brainstorm (BRS15) | Gabriel Maciel |
 
-
-**Tabela 4:** RD - Requisito de Desempenho
-
-<span style="color:blue;">Autoria: Gabriel Maciel, 2025.</span>
-
 ## Requisitos do Sistema (Portabilidade/Compatibilidade)
+
 Os Requisitos de Sistema definem todas as condições necessárias para suportar o aplicativo, garantindo sua correta operação em diferentes ambientes. Esta seção especifica as plataformas de hardware, os sistemas operacionais e as redes suportadas, assegurando que o produto esteja em conformidade com os padrões de plataforma aplicáveis (como Windows, Android, iOS, etc.) e interaja corretamente com outros softwares e periféricos definidos.
 
-### Requisitos do Sistema (print da fonte)
-<a href="https://ibb.co/RpNB5wnW"><img src="https://i.ibb.co/6R81dCh5/Captura-de-tela-de-2025-10-12-20-25-322222222222.png" alt="Captura-de-tela-de-2025-10-12-20-25-322222222222" border="0"></a>
-
-| ID | Descrição |
-|---|---|
-| RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis(celulares) |
+| ID | Descrição | Rastreabilidade | Autoria |
+|---|---|---|---|
+| RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis (celulares) |
 | RS02 | A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários. |
 | RS03 | O sistema de notificação com som e vibração devem estar devidamente configuráveis. |
 | RS04 | O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização. |
