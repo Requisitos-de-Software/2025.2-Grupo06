@@ -77,7 +77,7 @@ A metodologia adotada para a construção da matriz de pós-rastreabilidade cons
 
 
 
-** FONTE: ** FERNANDA VAZ, 2025
+ *FONTE: FERNANDA VAZ, 2025*
 
 
 
