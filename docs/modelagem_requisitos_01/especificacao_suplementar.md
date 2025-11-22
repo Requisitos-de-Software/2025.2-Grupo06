@@ -40,7 +40,7 @@ A Tabela 3 apresenta os Requisitos de Usabilidade, que representam o esforço ne
 
 ??? info "Tabela 2: Requisitos de Usabilidade (RU) - Versão 1.0"
 
-    Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a Tabela 2 tornou-se depreciada e foi criada a Tabela 3, que readapta os requisitos da Tabela 2 correlacionando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
+    Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a a partir da Tabela 2, foi criada a Tabela 3, que readapta os requisitos desta tabela correlacionando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
 
     **Autoria:** Fernanda Vaz, 2025
 
@@ -63,7 +63,7 @@ A Tabela 3 apresenta os Requisitos de Usabilidade, que representam o esforço ne
 | RU01 | Interface acessível para idosos e pessoas com deficiência visual | [RNF04](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
 | RU02 | Sistema de notificação com som e vibração configuráveis | [RNF05](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
 | RU03 | Compatibilidade com dispositivos Android e iOS | [RNF07](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
-| RU04 | Personalização da interface com base em preferências do usuário | [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel |
+| RU04 | Personalização da interface com base em preferências do usuário | [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Fernanda Vaz, Gabriel Maciel  |
 | RU05 | Suporte a leitores de tela e ajuste de contraste conforme [WCAG](#ref-wcag) (*Web Content Accessibility Guidelines*). | Conformidade com Padrões Internacionais [WCAG 2.1 AA](#ref-wcag) | Fernanda Vaz |
 
 ## Confiabilidade
@@ -72,7 +72,7 @@ A Tabela 5 apresenta os Requisitos de Confiabilidade, que expressam a capacidade
 
 ??? info "Tabela 4: Requisitos de Confiabilidade - Versão 1.0"
 
-    Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a Tabela 4 tornou-se depreciada e foi criada a Tabela 5, que readapta os requisitos da Tabela 2 correlacionando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
+    Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a partir da Tabela 4, foi criada a Tabela 5, que readapta os requisitos não-funcionais desta tabela correlacionando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
 
     Autoria: Fernanda Vaz e João Ramos, 2025.
 
@@ -103,26 +103,37 @@ O desempenho define as características de eficiência do sistema, incluindo tem
 
 | ID | Descrição | Rastreabilidade | Autoria |
 |---|---|---|---|
-| RD01 | O tempo de rastreio de um veículo em tempo real deve ser menor que 20 segundos. | RNF03 - Elicitação de Requisitos | Gabriel Maciel |
-| RD02 | O tempo de carregamento da tela principal deve ser inferior a 3 segundos. | RNF10 - Elicitação de Requisitos: Entrevista (ENT17) | Gabriel Maciel |
-| RD03 | O aplicativo deve apresentar baixo consumo de bateria e dados móveis durante o uso. | RNF06 - Elicitação de Requisitos | Gabriel Maciel |
-| RD04 | O sistema deve suportar múltiplos usuários simultâneos sem apresentar lentidão ou degradação de performance. | RNF14 - Elicitação de Requisitos: Brainstorm (BRS15) | Gabriel Maciel |
+| RD01 | O tempo de rastreio de um veículo em tempo real deve ser menor que 20 segundos. | [RNF03](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Gabriel Maciel |
+| RD02 | O tempo de carregamento da tela principal deve ser inferior a 3 segundos. | [RNF10](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Gabriel Maciel |
+| RD03 | O aplicativo deve apresentar baixo consumo de bateria e dados móveis durante o uso. | [RNF06](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Gabriel Maciel |
+| RD04 | O sistema deve suportar múltiplos usuários simultâneos sem apresentar lentidão ou degradação de performance. | [RNF14](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Gabriel Maciel |
 
 ## Requisitos do Sistema (Portabilidade/Compatibilidade)
 
 Os Requisitos de Sistema definem todas as condições necessárias para suportar o aplicativo, garantindo sua correta operação em diferentes ambientes. Esta seção especifica as plataformas de hardware, os sistemas operacionais e as redes suportadas, assegurando que o produto esteja em conformidade com os padrões de plataforma aplicáveis (como Windows, Android, iOS, etc.) e interaja corretamente com outros softwares e periféricos definidos.
 
+??? info "Tabela 7: Requisitos do Sistema (RS) - Versão 1.0"
+
+    Por não haver correspondência real com os requisitos elicitados a partir das técnicas de elicitação, a partir da Tabela 4, foi criada a Tabela 5, que readapta os requisitos não-funcionais desta tabela correlacionando-os com os [requisitos não-funcionais da tabela geral](../Elicitacao/elicitacao_lista_requisitos_elicitados.md).
+
+    Autoria: Cauã Nicolas, 2025.
+
+    | ID | Descrição | Rastreabilidade | Autoria |
+    |---|---|---|---|
+    | RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis (celulares) |
+    | RS02 | A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários. |
+    | RS03 | O sistema de notificação com som e vibração devem estar devidamente configuráveis. |
+    | RS04 | O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização. |
+    | RS05 | A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. |
+
+### Tabela 8: Requisitos do Sistema (RS) - Versão 2.0
+
 | ID | Descrição | Rastreabilidade | Autoria |
 |---|---|---|---|
-| RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis (celulares) |
-| RS02 | A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários. |
-| RS03 | O sistema de notificação com som e vibração devem estar devidamente configuráveis. |
-| RS04 | O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização. |
-| RS05 | A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. |
-
-**Tabela 5:** RS - Requisito do Sistena
-
-<span style="color:blue;">Autoria: Cauã Nicolas, 2025.</span>
+| RS01 | A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis (celulares) | [RF19](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Cauã Nicolas |
+| RS02 | A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários. | [RNF11](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Cauã Nicolas |
+| RS03 | O sistema de notificação com som e vibração devem ser configuráveis. | [RNF05](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Cauã Nicolas |
+| RS04 | A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. | Conformidade com Padrões Internacionais [WCAG 2.1 AA](#ref-wcag)| Cauã Nicolas |
 
 ## Segurança
 
