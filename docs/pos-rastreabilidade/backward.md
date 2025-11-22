@@ -37,6 +37,15 @@ Indica a composição de elementos, ou seja, que um elemento é composto por out
 
 ---
 
+|        Nome          | Contribuição|
+|----------------------|-------------|
+| Cauã Nicolas         | Adição [RNF04](#rnf04--interface-acessível-para-idosos-e-pessoas-com-deficiência-visual) e [RNF05](#rnf05--sistema-de-notificação-com-som-e-vibração-configuráveis), [RF13](#rf13--oferecer-recarga-de-cartão-de-transporte-ex-integração-com-brb-mobilidade), [RF14](#rf14--permitir-integração-com-o-cartão-de-transporte-incluindo-saldo-e-recarga), [RF15](#rf15--manter-histórico-de-viagens-do-usuário), [RF16](#rf16--permitir-reportar-problemas-motorista-ônibus-cobrança-com-dados-do-veículo-e-horário), [RF24](#rf24--permitir-favoritar-linhas-ou-paradas-para-acesso-rápido) e [RF25](#rf25--ampliar-a-cobertura-e-exibir-informações-também-em-regiões-afastadas-do-distrito-federal) |
+| Daniel Nunes Duarte  | Rastreabilidade Forward-From dos Requisitos [RF17](#rf17--exibir-preço-da-passagem-por-linha-ou-trajeto), [RF20](#rf20--botão-de-pânicoemergência-para-alertar-motorista-eou-autoridades), [RF22](#rf22--permitir-compartilhar-trajeto-em-tempo-real-com-outros-usuários), [RF27](#rf27--visualizar-quais-veículos-estão-em-operação-no-momento), [RF29](#rf29--sistema-de-gamificação-para-incentivar-uso-do-transporte-público), [RF33](#rf33--suporte-a-comandos-de-voz-para-facilitar-interação-durante-deslocamentos), [RNF14](#rnf14--suporte-a-múltiplos-usuários-simultâneos-sem-lentidão), [RNF15](#rnf15--personalização-da-interface-com-base-em-preferências-do-usuário) |
+| Fernanda Vaz         | Forward: [RNF06](#rnf06--baixo-consumo-de-bateria-e-dados-móveis) e [RNF07](#rnf07--compatibilidade-com-dispositivos-android-e-ios), [RF05](#rf05--apresentar-horários-de-saída-e-chegada-dos-transportes), [RF06](#rf06--oferecer-um-mapa-interativo-com-os-pontos-de-ônibus-e-suas-linhas-correspondentes), [RF07](#rf07--integrar-informações-de-outros-modais-metrô-outros-ônibus-em-rotas-multimodais), [RF08](#rf08--exibir-informações-de-acessibilidade-do-ônibus-ex-acessível-para-cadeirantes), [RF31](#rf31--sistema-de-recompensas-por-uso-sustentável-do-transporte-público), [RF32](#rf32--exibir-relatórios-de-impacto-ambiental-co₂-economizado) |
+| Gabriel Maciel       | Rastreabilidade Forward-From dos Requisitos [RF19](#rf19--disponibilizar-versão-web-leve-para-acesso-rápido-em-pontos-de-ônibus-via-qr-code), [RF26](#rf26--filtrar-ônibus-por-empresa-operadora), [RF28](#rf28--permitir-avaliação-da-qualidade-do-serviço-de-cada-linha), [RF34](#rf34--integração-com-assistentes-virtuais-alexa-google-assistant), [RF35](#rf35--permitir-rastreamento-de-múltiplas-linhas-de-ônibus-simultaneamente-no-mapa), [RF36](#rf36--oferecer-suporte-multilíngue-português-e-inglês-no-mínimo), [RNF10](#rnf10--tempo-de-carregamento-da-tela-principal--3-segundos), [RNF11](#rnf11--funcionamento-offline-para-consulta-a-rotas-salvas-e-horários) |
+| João Gabriel         | Adição [RNF01](#rnf01--as-informações-de-horários-e-localização-dos-ônibus-devem-ser-precisas) ao [RNF03](#rnf03--tempo-de-atualização-da-localização--20-segundos) e [RF01](#rf01--exibir-a-localização-dos-ônibus-em-tempo-real-no-mapa) ao [RF05](#rf05--apresentar-horários-de-saída-e-chegada-dos-transportes), [RF37](#rf37--permitir-cadastro-login-e-autenticação-de-usuários-no-sistema), [RF30](#rf30--previsão-inteligente-de-horários-baseada-em-dados-históricos-e-machine-learning) |
+| João Ramos           | Adição [RNF09](#rnf09--dados-de-localização-e-pessoais-protegidos-conforme-lgpd), [RNF12](#rnf12--integração-segura-com-sistemas-de-pagamento-recarga-de-cartão), [RF09](#rf09--indicar-lotação-do-ônibus-vazio-moderado-lotado), [RF10](#rf10--permitir-que-usuários-reportem-a-lotação-do-ônibus-sistema-colaborativo), [RF11](#rf11--enviar-notificação-quando-o-ônibus-estiver-a-x-minutos-da-parada), [RF18](#rf18--listar-linhas-que-passam-em-uma-parada-específica), [RF21](#rf21--mostrar-alertas-de-trânsito-acidentes-e-rotas-alternativas)
+
 ## Tabela de Rastreabilidade Backward-From
 
 A tabela de rastreabilidade backward-from, apresentada neste documento, operacionaliza estes quatro níveis de Toranzo ao mapear cada requisito de volta às suas fontes de origem. Cada linha da tabela representa um requisito do sistema (nível Desenvolvimento) e seus relacionamentos com informações dos níveis Ambiental (contexto externo, stakeholders), Organizacional (objetivos do negócio) e Gerencial (pessoas responsáveis, tarefas associadas). Por meio dos elos de rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação), estabelece-se um mapeamento explícito que permite identificar não apenas "o quê" foi requisitado, mas também "por quê" foi requisitado e "quem" está envolvido em sua execução. Desta forma, a tabela funciona como um artefato central que documenta e valida a rastreabilidade bidirecional entre requisitos e suas origens, garantindo conformidade com os princípios propostos por Toranzo e Sayão & Leite.
@@ -105,16 +114,6 @@ A tabela de rastreabilidade backward-from, apresentada neste documento, operacio
 | [RNF14](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf14) | Múltiplos usuários | [Brainstorm (BRS15)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Responsabilidade | Daniel Nunes |
 | [RNF15](../Elicitacao/elicitacao_lista_requisitos_elicitados.md#rnf15) | Personalização | [Brainstorm (BRS13)](../Elicitacao/elicitacao_brainstorm.md#resultados) | Ambiental | Recurso | Daniel Nunes |
 
-## Tabela de Contribuição
-
-|        Nome          | Contribuição|
-|----------------------|-------------|
-| Cauã Nicolas         | Rastreabilidade Backward-From dos Requisitos RF13, RF14, RF15, RF16, RF24, RF25, RNF04, RNF05 |
-| Daniel Nunes Duarte  | Rastreabilidade Backward-From dos Requisitos RF17, RF20, RF22, RF27, RF29, RF33, RNF14, RNF15 |
-| Fernanda Vaz         | Rastreabilidade Backward-From dos Requisito:RNF6 e RNF7, RF05, RF06, RF07, RF08, RF31, RF32 |
-| Gabriel Maciel       | Rastreabilidade Backward-From dos Requisitos RF19, RF26, RF28, RF34, RF35, RF36, RNF10, RNF11 |
-| João Gabriel         | A preencher |
-| João Ramos           | Rastreabilidade Backward-From dos Requisitos: RF09 ao RF12, RF18, RF21, RNF09 e RNF12 |
 
 
 ## Referência bibliográfica 
