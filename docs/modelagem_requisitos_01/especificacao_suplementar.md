@@ -209,6 +209,20 @@ Todas as comunicações entre cliente e servidor devem ser criptografadas utiliz
 | ID | Descrição | Autoria |
 |---|---|---|
 | RNFPA02.01 | Todas as comunicações entre cliente e servidor devem ser criptografadas usando TLS 1.2 ou superior. | Daniel Nunes Duarte |
+
+### PA03 - [Norma ISO/IEC 27001](https://www.iso.org/standard/27001) (Segurança da Informação)
+
+O sistema deve implementar práticas de segurança da informação conforme a norma ISO/IEC 27001, incluindo autenticação forte, logging de eventos e proteção contra ataques.
+
+#### Tabela 13 - Requisitos Não-Funcionais que se relacionam com a Norma ISO/IEC 27001 (RNFPA03)
+
+| ID | Descrição | Autoria |
+|---|---|---|
+| RNFPA03.01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). | Daniel Nunes Duarte |
+| RNFPA03.02 | Senhas e credenciais devem ser armazenadas usando hashing seguro (ex.: bcrypt, Argon2) com salt. | Daniel Nunes Duarte |
+| RNFPA03.03 | Registro (logging) de eventos de segurança (tentativas de login, alterações de privilégios, erros críticos) para auditoria. | Daniel Nunes Duarte |
+| RNFPA03.04 | Proteção contra ataques comuns (XSS, CSRF, injeção de SQL) aplicando validação e sanitização de entrada. | Daniel Nunes Duarte |
+
 ## Referências bibliográficas
 
 <a id="ref-mctic"></a>
