@@ -114,6 +114,8 @@ Além das informações sobre Especificação de Casos de Uso extraídas da docu
 
 ---
 
+## Casos de Uso UC01 e UC02 (Fernanda Vaz)
+
 A Tabela 3 apresenta a especificação detalhada do caso de uso UC01, que permite aos passageiros avaliar a qualidade das linhas de ônibus através de um sistema de notas e comentários.
 
 ### Tabela 3 - UC01: Avaliação de Linhas de Ônibus (Requisito não implementado)
@@ -147,6 +149,10 @@ A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define
 | **Rastreabilidade**  | Relacionado com:<br> Consulta de Horários e Rotas<br>Avaliação de Linhas<br> Performance de notificações em tempo real<br> Disponibilidade do sistema<br>Precisão de geolocalização |
 
 *Autoria: Fernanda Vaz, 2025*
+
+---
+
+## Casos de Uso UC03 e UC04 (Gabriel Maciel)
 
 A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permite aos passageiros visualizar simultaneamente múltiplas linhas de ônibus no mapa e obter informações detalhadas sobre cada uma delas.
 
@@ -185,6 +191,10 @@ A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permit
 
 *Autoria: Gabriel Maciel, 2025*
 
+---
+
+## Casos de Uso UC05 e UC06 (Cauã Nicolas)
+
 A Tabela 7 apresenta a especificação detalhada do caso de uso UC05, que permite aos passageiros visualizar as viagens realizadas, incluindo horários, rotas, meio de transporte e duração.
 
 ### Tabela 7 - UC05: Histórico de Viagens (Requisito não implementado)
@@ -221,6 +231,10 @@ A Tabela 8 apresenta a especificação detalhada do caso de uso UC06, que é amp
 
 *Autoria: Cauã Nicolas, 2025*
 
+---
+
+## Casos de Uso UC07 e UC08 (João Ramos)
+
 A Tabela 8 apresenta a especificação detalhada do caso de uso UC07, que descreve o funcionamento do modo off-line do aplicativo, permitindo aos passageiros acessar informações essenciais mesmo sem conexão à internet, garantindo maior autonomia e acessibilidade durante o uso do sistema.
 
 ### Tabela 8 - UC07: Modo Off-line (Requisito não implementado)
@@ -256,6 +270,10 @@ A Tabela 9 apresenta a especificação detalhada do caso de uso UC08, que permit
 | **Rastreabilidade**         | **ENT11**: O sistema permite que os usuários avaliem e visualizem o nível de lotação do ônibus<br>**BRS03**: Sistema colaborativo de feedback sobre qualidade do serviço |
 
 *Autoria: João Ramos, 2025*
+
+---
+
+## Casos de Uso UC09 e UC10 (João Gabriel)
 
 ### Tabela 10 - UC09: Planejamento de Viagens (Requisito não implementado)
 
@@ -459,6 +477,8 @@ A Tabela 11 apresenta a especificação detalhada do caso de uso UC10, que tem c
 </div>
 
 ---
+
+## Casos de Uso UC11 e UC12 (Daniel Nunes Duarte)
 
 ### Tabela 12 - UC11: Compartilhamento de Rotas entre Usuários (Requisito não implementado)
 
