@@ -159,64 +159,54 @@ O vídeo 3 apresenta, entre o trecho 3:07 e 5:39, a validação dos léxicos 4, 
 
 *Vídeo 3: Validação dos Léxicos 7, 8 e 9*
 
-## Léxico 10: Transporte público
+## Léxicos 10, 11 e 12 (Gabriel Maciel)
 
+### Léxico 10: Transporte público
 
 **Tabela 11** - Transporte público
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Objeto |
 | Impacto | Núcleo de informação do aplicativo; todas as consultas e rotas dependem de seus dados e horários. |
 | Noção | Sistema coletivo de deslocamento que serve à população, operado por empresas públicas ou privadas. |
 | Dicionário | Ônibus, coletivo, mobilidade urbana |
 
-*Autor(a): Gabriel Maciel, 2025.*
+*Fonte: Gabriel Maciel, 2025.*
 
-
----
-
-## Léxico 11: Pesquisar
-
+### Léxico 11: Pesquisar
 
 **Tabela 12** - Pesquisar
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Verbo |
 | Impacto | Ativa os principais recursos do sistema, permitindo acessar dados essenciais para locomoção. |
 | Noção | Ação de procurar informações sobre rotas, paradas, linhas ou horários dentro do aplicativo. |
 | Dicionário | Ônibus, coletivo, mobilidade urbana |
 
-*Autor(a): Gabriel Maciel, 2025.*
+*Fonte: Gabriel Maciel, 2025.*
 
-
----
-
-## Léxico 12: Tempo real
-
+### Léxico 12: Tempo real
 
 **Tabela 13** - Tempo real
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Estado |
 | Impacto | Aumenta a precisão, confiabilidade e a eficiência das decisões do usuário durante o trajeto. |
 | Noção | Condição em que a localização e horários são atualizadas continuamente. |
 | Dicionário | Ao vivo, atualização instantânea |
 
-*Autor(a): Gabriel Maciel, 2025.*
+*Fonte: Gabriel Maciel, 2025.*
 
-
----
-
-### Validação com usuário real dos Léxicos 10, 11 e 12 (Gabriel Maciel)
+### Validação com usuário real dos Léxicos 10, 11 e 12 
 
 O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 5 e 6 com um usuário real.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wl211vLAZI0?si=EL8QPVtHvj648FMU&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Vídeo 3: Validação dos Léxicos 10, 11 e 12*
+*Vídeo 4: Validação dos Léxicos 10, 11 e 12*
 
 ## Léxico 13: Compromisso
 
