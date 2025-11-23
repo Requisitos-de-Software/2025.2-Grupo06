@@ -6,7 +6,13 @@
 
 ### Elementos característicos de um cenário
 
-![Trecho de texto que especifica os elementos de um cenário](https://i.ibb.co/TMCHStMR/image.png)
+A Figura 1 ilustra os elementos fundamentais que compõem um cenário: **ambiente ou contexto** (detalhes da situação), **atores** (pessoas envolvidas), **objetivos** (efeitos desejados), **planejamento** (atividade mental), **ações** (comportamento observável), **eventos** (reações do sistema) e **avaliação** (interpretação da situação).
+
+<div style="text-align: center;">
+  <p>Figura 1: Captura de tela de trecho de texto
+  <img src="https://i.ibb.co/TMCHStMR/image.png" alt="Trecho de texto que especifica os elementos de um cenário"><br>
+  Fonte: Interação humano-computador e experiência do usuário (BARBOSA et al., 2021, p. iii)</p>
+</div>
 
 ## Tabela 1 - Tabela de contribuição
 
