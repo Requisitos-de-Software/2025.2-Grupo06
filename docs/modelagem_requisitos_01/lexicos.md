@@ -208,56 +208,46 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 
 *Vídeo 4: Validação dos Léxicos 10, 11 e 12*
 
-## Léxico 13: Compromisso
+## Léxicos 13, 14 e 15 (João Gabriel)
 
+### Léxico 13: Compromisso
 
-**Tabela 10** - Compromisso
+**Tabela 14** - Compromisso
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Objeto |
 | Impacto | Representa o ponto central da rotina do usuário, determinando horários e destinos prioritários que precisam ser cumpridos. Permite que o aplicativo estruture alertas, rotas e informações de deslocamento de forma a garantir que o usuário chegue ao local no tempo planejado. |
 | Noção | É o evento, atividade ou destino para o qual o usuário precisa se deslocar no horário definido — como aulas, consultas, compromissos profissionais ou pessoais. |
 | Dicionário | Comprometimento, obrigação, agenda, compromisso marcado |
 
-*Autor(a): João Gabriel, 2025.*
+*Fonte: João Gabriel, 2025.*
 
+### Léxico 14: Relaxar
 
----
-
-## Léxico 14: Relaxar
-
-
-**Tabela 11** - Relaxar
+**Tabela 15** - Relaxar
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Verbo |
 | Impacto | Proporciona ao usuário tranquilidade e confiança no sistema, garantindo que ele receba informações confiáveis sobre deslocamentos e horários. Reduz o estresse associado ao transporte público, permitindo que o usuário não precise monitorar constantemente o trajeto. |
 | Noção | Ação de se sentir tranquilo e despreocupado com relação ao deslocamento, confiando que o sistema informará qualquer mudança ou atraso. |
 | Dicionário | Tranquilizar, acalmar, aliviar, descansar |
 
-*Autor(a): João Gabriel, 2025.*
+*Fonte: João Gabriel, 2025.*
 
+### Léxico 15: Organizado
 
----
-
-## Léxico 15: Organizado
-
-
-**Tabela 12** - Organizado
+**Tabela 16** - Organizado
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Estado |
 | Impacto | Define a situação do usuário que possui toda a sua rotina de deslocamentos planejada no aplicativo — incluindo horários, alertas, transportes e contingências — resultando em maior eficiência no uso do transporte público. |
 | Noção | Situação em que os deslocamentos, horários e trajetos estão estruturados, visíveis e atualizados no sistema, reduzindo incertezas e aumentando a previsibilidade. |
 | Dicionário | Planejado, estruturado, sistematizado, preparado |
 
-*Autor(a): João Gabriel, 2025.*
-
-
----
+*Fonte: João Gabriel, 2025.*
 
 ## Léxico 16: Trabalhador
 
@@ -265,7 +255,7 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 **Tabela 17** - Trabalhador
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Objeto |
 | Impacto | Representa o utilizador do transporte publico que utiliza o transporte público para deslocamento ao trabalho. Influencia requisitos de confiabilidade, previsibilidade de horários e integrações entre os onibus. Pode acionar funcionalidades como histórico de viagens, alertas personalizados e planejamento de rotas. |
 | Noção | Pessoa que se desloca diariamente ao trabalho utilizando transporte público, como ônibus e/ou metrô, e utiliza o aplicativo para planejar e acompanhar suas viagens. |
@@ -282,7 +272,7 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 **Tabela 18** - Alertar
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Verbo |
 | Impacto | Gera notificações ou avisos para o passageiro em situações relevantes (aproximação do transporte a parada selecionada, atrasos, mudanças de rota). Impacta a usabilidade e segurança, exigindo mecanismos de delivery confiáveis (push, som, visual). |
 | Noção | A ação do sistema de enviar uma mensagem ou sinal ao passageiro para informar sobre eventos relevantes do transporte, como aproximação, chegada, atraso ou necessidade de mudança de rota. Pode ser sonora, visual ou por notificação no dispositivo. |
@@ -299,7 +289,7 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 **Tabela 19** - Aproximação do ônibus
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Estado |
 | Impacto | Estado que representa quando um ônibus está em rota de chegada a uma parada/estação dentro de um raio ou tempo pré-definido. Pode disparar alertas ao Passageiro, atualizar estimativas de chegada e influenciar decisões de saída/embarque. |
 | Noção | Condição em que a posição e velocidade do ônibus indicam que ele chegará à parada em um intervalo curto (por exemplo, < 5 minutos ou dentro de um raio de 500 m), conforme cálculo do sistema. |
