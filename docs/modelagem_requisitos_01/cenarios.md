@@ -30,7 +30,6 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 ## Cenários 1 e 2 (Fernanda Vaz)
 
 ### Cenário 1 – Notificações de Chegada (Requisito não implementado)
-<span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -43,7 +42,6 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Avaliação** | Juliana interpreta a mensagem, confirma que o ônibus está próximo e se dirige ao ponto. Ela reconhece que o recurso de notificação é útil e melhora sua experiência diária com o transporte. |
 
 ### Cenário 2 – Avaliar Linhas (Requisito não implementado)
-<span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
