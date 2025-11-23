@@ -66,6 +66,9 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
   allowfullscreen>
 </iframe>
 
+## Cenários 3 e 4 (Gabriel Maciel)
+
+### Cenário 3 – Rastreamento de múltiplas linhas (Requisito não implementado)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -77,20 +80,7 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Eventos** | O GPS dos ônibus transmite posições em tempo real ao sistema. Diego observa no mapa que a Linha C está a 2 km de distância. O app exibe: "Linha A: 8 min", "Linha B: 12 min", "Linha C: 5 min". Diego decide aguardar a Linha C. |
 | **Avaliação** | Diego visualiza claramente todos os ônibus e faz uma escolha informada. Pega a Linha C com apenas 3 minutos de espera. Reconhece que a funcionalidade foi essencial para otimizar seu deslocamento, satisfeito com a praticidade e confiabilidade do recurso. |
 
----
-### Validação com usuário real dos Cenários 1 e 2 (Fernanda Vaz)
-
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
-
-## Cenário 4 - Integração com BRB Mobilidade (Requisito não implementado)
-<span style="color:blue;">Autoria: Gabriel Maciel, 2025.</span>
+### Cenário 4 - Integração com BRB Mobilidade (Requisito não implementado)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -102,9 +92,7 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Eventos** | O sistema do DF no Ponto comunica-se com a API do BRB Mobilidade para validar o cartão e exibir o saldo. Após o pagamento, o sistema registra a transação e envia os dados para o BRB Mobilidade. Em poucos segundos, o app confirma: "Recarga de R$ 50,00 realizada com sucesso. Novo saldo: R$ 58,50". |
 | **Avaliação** | Diego conclui a recarga em menos de 2 minutos sem sair do trabalho. Fica satisfeito com a praticidade de não precisar procurar pontos de recarga e com a rapidez da confirmação. Reconhece que a integração torna o uso do transporte público mais conveniente e prático. |
 
----
-
-### Validação com usuário real dos Cenários 3 e 4 (Gabriel Maciel)
+### Validação com usuário real dos Cenários 3 e 4 
 
 O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 e 4 com um usuário real, mostrando brevemente o uso das funcionalidades de rastreamento de múltiplas linhas e integração com o BRB Mobilidade no aplicativo.
 
