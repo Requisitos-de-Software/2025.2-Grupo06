@@ -4,7 +4,6 @@
 
 De acordo com a metodologia apresentada por [Serrano e Serrano](#referências-bibliográficas), a construção do léxico é uma técnica de engenharia de requisitos que visa descrever os símbolos e a terminologia de uma linguagem de domínio. O objetivo central dessa abordagem é a identificação e definição precisa de palavras ou frases específicas do contexto social e operacional da aplicação em análise.
 
-
 ## Metodologia
 
 A metodologia selecionada para a documentação do vocabulário do projeto é a notação do Léxico Ampliado da Linguagem (LAL), conforme a abordagem de [Serrano e Serrano](#referências-bibliográficas). Esta técnica consiste em descrever formalmente os símbolos da linguagem de domínio, onde cada símbolo é detalhado por meio de duas perspectivas centrais: sua **Noção** (o conceito ou significado) e seu **Impacto** (as ações e efeitos que o símbolo exerce ou sofre no sistema).
@@ -12,68 +11,50 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 ## Metodologia (print)
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gLmr9Cbr/image.png" alt="image" border="0"></a>
 
-## Léxico 01: Notificações de Chegada
+## Léxicos 01, 02 e 03 (Fernanda Vaz)
+
+### Léxico 01: Notificações de Chegada
 
 **Tabela 2** - Notificações de Chegada
 
 | ID | Descrição |
-|:-:|:-|
+|----|-----------|
 | **Classificação** | Verbo |
 | **Impacto** | As notificações de chegada permitem que o usuário seja informado, em tempo real, sobre a aproximação ou chegada do transporte. |
 | **Noção** | O aplicativo envia a notificação.<br>O passageiro compartilha sua geolocalização com o aplicativo.<br>O passageiro é avisado quando o transporte está próximo.<br>Ocorre um alerta sonoro e visual para o passageiro. |
 | **Dicionário** | Alerta, aviso, lembrete, sinalização, mensagem de chegada. |
 
-*Autor(a): Fernanda Vaz, 2025.*
+*Fonte: Fernanda Vaz, 2025.*
 
----
-
-## Léxico 02: Transporte Atrasado
+### Léxico 02: Transporte Atrasado
 
 **Tabela 3** - Transporte Atrasado
 
 | ID | Descrição |
-|:-:|:-|
+|----|-----------|
 | **Classificação** | Estado |
 | **Impacto** | Ao atingir o estado de atraso, o sistema pode desencadear ações como envio de notificações de aviso ao usuário, replanejamento automático da rota, ou recomendação de alternativas de transporte. |
 | **Noção** | Significa que uma linha de transporte público apresenta atraso em relação ao tempo estimado. Esse estado é alcançado a partir de ações ou eventos como congestionamentos, falhas mecânicas, atrasos na rota anterior e acidentes no percurso. |
 | **Dicionário** | Veículo atrasado, linha fora do horário, atraso de transporte, demora na chegada. |
 
-*Autor(a): Fernanda Vaz, 2025.*
+*Fonte: Fernanda Vaz, 2025.*
 
----
-
-## Léxico 03: Passageiro
-
+### Léxico 03: Passageiro
 
 **Tabela 4** - Passageiro
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Objeto |
-| Impacto | • Pesquisar rotas entre origem e destino<br>
-        • Escolher horário de partida ou chegada desejado<br>
-        • Visualizar rotas alternativas sugeridas<br>
-        • Salvar endereços frequentes (casa, trabalho, escola)<br>
-        • Acompanhar localização do transporte em tempo real<br>
-        • Verificar previsão de chegada em pontos/estações<br>
-        • Receber alertas de aproximação do transporte<br>
-        • Ser notificado sobre atrasos e mudanças de rota<br>
-        • Consultar condições de trânsito e tempo de viagem<br>
-        • Salvar rotas favoritas<br>
-        • Avaliar linhas e reportar problemas<br>
-        • Gerenciar perfil e preferências<br>
-        • Acessar histórico de viagens |
+| Impacto | • Pesquisar rotas entre origem e destino<br> • Escolher horário de partida ou chegada desejado<br> • Visualizar rotas alternativas sugeridas<br> • Salvar endereços frequentes (casa, trabalho, escola)<br> • Acompanhar localização do transporte em tempo real<br> • Verificar previsão de chegada em pontos/estações<br> • Receber alertas de aproximação do transporte<br> • Ser notificado sobre atrasos e mudanças de rota<br> • Consultar condições de trânsito e tempo de viagem<br> • Salvar rotas favoritas<br> • Avaliar linhas e reportar problemas<br> • Gerenciar perfil e preferências<br> •  Acessar histórico de viagens |
 | Noção | Usuário que utiliza aplicativos de acompanhamento de transporte público para planejar e acompanhar viagens de transporte público( Passageiro). Interage com o sistema buscando rotas, visualizando informações em tempo real e recebendo notificações sobre seu trajeto. |
 | Dicionário | Viajante, utilizador, clientes do transporte, frequentadores de transporte público e deslocantes. |
 
 *Autor(a): Fernanda Vaz, 2025.*
 
+### Validação com usuário real dos Léxicos 01, 02 e 03 
 
----
-
-### Validação com usuário real dos Léxicos 1, 2 e 3 (Fernanda Vaz)
-
-O vídeo 1 apresenta, entre o trecho 6:20 e 10:00, a validação dos léxicos 4, 5 e 6 com um usuário real.
+O vídeo 1 apresenta, entre o trecho 6:20 e 10:00, a validação dos léxicos 01, 02 e 03 com um usuário real.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B57AOMl5WTk?si=f2F1lRRxoZ2GqsvV&amp;start=380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
