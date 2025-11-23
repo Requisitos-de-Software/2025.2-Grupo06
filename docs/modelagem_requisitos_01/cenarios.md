@@ -14,9 +14,11 @@ A Figura 1 apresenta os elementos fundamentais que compõem um cenário: **ambie
   Fonte: Interação humano-computador e <br>experiência do usuário (BARBOSA et al., 2021, p. iii)</p>
 </div>
 
-## Tabela 1 - Tabela de contribuição
+## Tabela de contribuição
 
 A Tabela 1 apresenta as contribuições de cada membro da equipe para a elaboração desta Especificação Suplementar, indicando as seções, requisitos e funcionalidades pelas quais cada um foi responsável.
+
+**Tabela 1: Tabela de Contribuição**
 
 | Nome | Contribuição |
 |------|--------------|
@@ -31,6 +33,10 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 
 ### Cenário 1 – Notificações de Chegada (Requisito não implementado)
 
+A tabela 2 a especifica em detalhe os elementos constitutivos do cenário 1, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 2: Especificação do cenário 1**
+
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
 | **Ambiente ou contexto** | Juliana está voltando da faculdade e precisa pegar o ônibus da linha A206 para ir até sua casa. Ela está em um ponto pouco movimentado e perigoso, e quer evitar ficar esperando por muito tempo no ponto de ônibus. O aplicativo de acompanhamento de ônibus está configurado para enviar notificações quando o veículo estiver próximo, permitindo que ela vá para a parada apenas quando o ônibus estiver chegando. |
@@ -41,7 +47,13 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Eventos** | O GPS do ônibus atualiza a posição no sistema central. O servidor processa os dados e dispara a notificação para o celular de Juliana. O aviso aparece na tela com a mensagem: “Atenção! Seu ônibus da linha A206 está a 3 minutos de distância”. |
 | **Avaliação** | Juliana interpreta a mensagem, confirma que o ônibus está próximo e se dirige ao ponto. Ela reconhece que o recurso de notificação é útil e melhora sua experiência diária com o transporte. |
 
+*Fonte: Fernanda Vaz, 2025*
+
 ### Cenário 2 – Avaliar Linhas (Requisito não implementado)
+
+A Tabela 3 a seguir especifica em detalhe os elementos constitutivos do cenário 2, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 3: Especificação do cenário 2**
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -52,6 +64,8 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Ações** | Diego seleciona a linha A205 em seu histórico, atribui uma nota de 2 estrelas e escreve o comentário: “Ônibus atrasado e veio extremamente lotado”. Em seguida, envia a avaliação no aplicativo. |
 | **Eventos** | O sistema registra a avaliação de Diego no banco de dados e atualiza automaticamente a média de pontuação da linha A205. Outros passageiros passam a visualizar a nova nota e o comentário. A empresa de transporte recebe o feedback para análise. |
 | **Avaliação** | Diego sente que contribuiu para a melhoria do serviço e percebe que o aplicativo valoriza a participação dos passageiros. Ele fica satisfeito por poder ajudar outras pessoas que enfrentam os mesmos problemas e melhora sua experiência na plataforma. |
+
+*Fonte: Fernanda Vaz, 2025*
 
 ### Validação com usuário real dos Cenários 1 e 2
 
@@ -68,6 +82,10 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 
 ### Cenário 3 – Rastreamento de múltiplas linhas (Requisito não implementado)
 
+A Tabela 4 a seguir especifica em detalhe os elementos constitutivos do cenário 3, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 4: Especificação do cenário 3**
+
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
 | **Ambiente ou contexto** | Diego está retornando do Plano Piloto para o Gama em um ônibus expresso, mas precisa descer no Setor Central do Gama por um imprevisto. Desse ponto, várias linhas podem levá-lo ao Setor Leste. Ele usa o aplicativo para rastrear simultaneamente três linhas diferentes e escolher a melhor opção. |
@@ -78,7 +96,13 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Eventos** | O GPS dos ônibus transmite posições em tempo real ao sistema. Diego observa no mapa que a Linha C está a 2 km de distância. O app exibe: "Linha A: 8 min", "Linha B: 12 min", "Linha C: 5 min". Diego decide aguardar a Linha C. |
 | **Avaliação** | Diego visualiza claramente todos os ônibus e faz uma escolha informada. Pega a Linha C com apenas 3 minutos de espera. Reconhece que a funcionalidade foi essencial para otimizar seu deslocamento, satisfeito com a praticidade e confiabilidade do recurso. |
 
+*Fonte: Gabriel Maciel, 2025*
+
 ### Cenário 4 - Integração com BRB Mobilidade (Requisito não implementado)
+
+A Tabela 5 a seguir especifica em detalhe os elementos constitutivos do cenário 4, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 5: Especificação do cenário 4**
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -89,6 +113,8 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Ações** | Diego visualiza seu saldo atual (R$ 8,50) na tela. Seleciona "Recarregar" e escolhe o valor (R$ 50,00). O app apresenta opções de pagamento: cartão de crédito, débito, Pix ou boleto. Diego escolhe Pix, gera o QR Code e efetua o pagamento pelo app do banco. |
 | **Eventos** | O sistema do DF no Ponto comunica-se com a API do BRB Mobilidade para validar o cartão e exibir o saldo. Após o pagamento, o sistema registra a transação e envia os dados para o BRB Mobilidade. Em poucos segundos, o app confirma: "Recarga de R$ 50,00 realizada com sucesso. Novo saldo: R$ 58,50". |
 | **Avaliação** | Diego conclui a recarga em menos de 2 minutos sem sair do trabalho. Fica satisfeito com a praticidade de não precisar procurar pontos de recarga e com a rapidez da confirmação. Reconhece que a integração torna o uso do transporte público mais conveniente e prático. |
+
+*Fonte: Gabriel Maciel, 2025*
 
 ### Validação com usuário real dos Cenários 3 e 4 
 
@@ -102,6 +128,10 @@ O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 
 
 ### Cenário 5 - Modo Off-line (Requisito não implementado)
 
+A Tabela 6 a seguir especifica em detalhe os elementos constitutivos do cenário 5, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 6: Especificação do cenário 5**
+
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
 | **Ambiente ou contexto** | Juliana está em casa planejando sua ida à universidade no dia seguinte. Ela sabe que em determinados trechos do trajeto entre sua casa e a FGA a conexão de internet móvel é instável. Para evitar ficar sem informações durante o deslocamento, ela decide baixar previamente os dados das linhas que costuma usar e os horários das paradas próximas. |
@@ -112,7 +142,13 @@ O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 
 | **Eventos** | No dia seguinte, no ônibus, Juliana perde o sinal de internet. Ela abre o app, que detecta automaticamente a ausência de conexão e exibe um ícone indicando "Modo Offline ativo". Juliana consulta o trajeto da próxima linha, os horários da parada de destino e quais ônibus passam por lá, tudo sem internet. |
 | **Avaliação** | Juliana consegue planejar sua integração mesmo sem internet. Fica satisfeita por poder consultar horários e trajetos offline, evitando ansiedade e incerteza durante o deslocamento. Reconhece que o modo offline é essencial para regiões com sinal instável. |
 
+*Fonte: João Ramos, 2025*
+
 ### Cenário 6 - Reportar lotação do ônibus (Requisito não implementado)
+
+A Tabela 7 a seguir especifica em detalhe os elementos constitutivos do cenário 6, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 7: Especificação do cenário 6**
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -123,6 +159,8 @@ O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 
 | **Ações** | Juliana vê que o primeiro ônibus está marcado com ícone vermelho (9 usuários reportaram "lotado" há 3 minutos). Decide esperar. O segundo ônibus mostra ícone amarelo (5 reportes de "médio"). Juliana embarca e, uma vez dentro, acessa o app e reporta a lotação como "médio" para ajudar outros usuários. |
 | **Eventos** | O sistema recebe o reporte de Juliana e atualiza o status do ônibus em tempo real. Outros usuários aguardando em paradas à frente visualizam a informação atualizada. O app exibe: "Lotação reportada: Médio (6 usuários confirmaram nos últimos 5 minutos)". |
 | **Avaliação** | Juliana consegue evitar um ônibus muito lotado usando informações colaborativas. Sente-se parte de uma comunidade que se ajuda. Reconhece que o sistema de reporte colaborativo melhora a experiência de todos e permite decisões mais informadas sobre quando e qual ônibus pegar. |
+
+*Fonte: João Ramos, 2025*
 
 ### Validação com usuário real dos Cenários 5 e 6
 
@@ -136,6 +174,10 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 
 ### Cenário 7 - Histórico de viagens (Requisito não implementado)
 
+A Tabela 8 a seguir especifica em detalhe os elementos constitutivos do cenário 7, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 8: Especificação do cenário 7**
+
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
 | **Ambiente ou contexto** | Isabela está visitando Brasília a trabalho por uma semana. Como autônoma, ela precisa contabilizar suas despesas com transporte para incluir na nota fiscal do projeto. Durante a semana, ela usou várias linhas de ônibus para se deslocar entre o hotel, reuniões com clientes e visitas a obras. No último dia, antes de voltar para casa, ela precisa verificar todas as viagens que fez e seus respectivos custos. |
@@ -146,7 +188,13 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 | **Eventos** | O sistema recupera do banco de dados todos os registros de viagens vinculados ao cartão ou app de Isabela. Organiza cronologicamente com detalhes: data, linha, horário de embarque e valor pago. Gera um resumo total e permite exportação em PDF para comprovação de despesas. |
 | **Avaliação** | Isabela consegue rapidamente compilar todas suas despesas com transporte. Fica satisfeita com a praticidade de ter tudo registrado automaticamente e a facilidade de exportar para prestação de contas. Reconhece que o histórico é essencial para quem usa o transporte ocasionalmente e precisa de controle financeiro. |
 
+*Fonte: Cauã Nicolas, 2025*
+
 ### Cenário 8 - Ampliação da cobertura de informações de transporte do entorno do DF (Requisito não implementado)
+
+A Tabela 9 a seguir especifica em detalhe os elementos constitutivos do cenário 8, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 9: Especificação do cenário 8**
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -157,6 +205,8 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 | **Ações** | O app exibe as linhas intermunicipais (ex: "Linha A - Brasília/Luziânia"), com horários de saída (06:00, 08:00, 10:00, 12:00...), tempo de viagem (aproximadamente 1h15min) e principais pontos de parada em Luziânia. Maria seleciona o horário das 10:00 e salva como favorito. |
 | **Eventos** | O sistema integra dados de empresas de transporte intermunicipal do entorno. Exibe informações atualizadas sobre linhas, horários e itinerários. Quando disponível, mostra também a localização em tempo real dos ônibus intermunicipais. Maria recebe uma notificação: "Linha salva com sucesso. Horário selecionado: 10:00". |
 | **Avaliação** | Maria consegue planejar sua viagem a Luziânia sem precisar usar outro aplicativo ou ir até a rodoviária presencialmente para consultar horários. Fica satisfeita com a ampliação da cobertura para o entorno e reconhece que isso torna o app mais completo e útil para quem precisa se deslocar entre o DF e cidades vizinhas. |
+
+*Fonte: Cauã Nicolas, 2025*
 
 ### Validação com usuário real dos Cenários 7 e 8 (Cauã Nicolas)
 
@@ -170,6 +220,10 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 
 ### Cenário 9 – Planejamento de Viagens (Requisito não implementado)
 
+A Tabela 10 a seguir especifica em detalhe os elementos constitutivos do cenário 9, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 10: Especificação do cenário 9**
+
 | Elemento | Descrição |
 |----------|-----------|
 | **Ambiente ou contexto** | Matheus está se preparando para uma semana de aulas e compromissos fixos. Ele utiliza diferentes meios de transporte ao longo do dia, combinando carro, ônibus e metrô para ir e voltar da faculdade. Nos últimos dias, ele tem sentido dificuldade em organizar os horários de cada trajeto, o que acaba resultando em atrasos ou esperas longas entre um transporte e outro. O aplicativo **DF no Ponto** passa a oferecer uma funcionalidade de **planejamento de viagens**, permitindo que Matheus monte um roteiro diário, salvando rotas com horários e modais utilizados. |
@@ -180,7 +234,13 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 | **Eventos** | O sistema registra a rota criada e gera lembretes automáticos próximos dos horários definidos. Ao longo do dia, João recebe notificações como: "Seu ônibus da linha A205 sai em 10 minutos" ou "Hora de ir para a estação de metrô Central". Se houver atrasos detectados no percurso, o app sinaliza com alertas para ajustes no plano. |
 | **Avaliação** | Matheus sente que sua rotina está mais organizada e consegue reduzir o tempo de espera entre transportes. Ele reconhece que o planejamento de viagens oferece mais previsibilidade e praticidade, melhorando sua experiência diária de deslocamento. |
 
+*Fonte: João Gabriel, 2025*
+
 ### Cenário 10 – Análise Preditiva de Horários dos Ônibus com IA (Requisito não implementado)
+
+A Tabela 11 a seguir especifica em detalhe os elementos constitutivos do cenário 10, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 11: Especificação do cenário 10**
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -191,6 +251,8 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 | **Ações** | O sistema analisa dados de localização em tempo real combinados com históricos de atrasos e padrões de trânsito da linha. Com base nisso, estima que, embora o horário oficial seja 22h30, a chegada mais provável será às 22h42. Uma notificação sonora e visual é enviada para Juliana no horário correto, permitindo que ela vá até o ponto com tempo justo. |
 | **Eventos** | O algoritmo preditivo atualiza o horário estimado conforme a posição do ônibus muda. Caso ocorra um imprevisto no trajeto, o horário previsto também é ajustado. Na tela, Juliana visualiza a mensagem: "Previsão de chegada: 22h42 (com base em 187 viagens anteriores)". |
 | **Avaliação** | Juliana chega ao ponto pouco antes da chegada real do ônibus, evitando tempo de espera desnecessário. Ela reconhece a utilidade da previsão inteligente e sente mais segurança e tranquilidade ao se deslocar em horários noturnos. A funcionalidade melhora sua experiência com o transporte público e aumenta sua confiança no aplicativo. |
+
+*Fonte: João Gabriel, 2025*
 
 ### Validação dos cenários 9 e 10
 
@@ -204,6 +266,10 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 
 ### Cenário 11 – Alertas de desvio e interrupção de rota (Requisito não implementado)
 
+A Tabela 12 a seguir especifica em detalhe os elementos constitutivos do cenário 11, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 12: Especificação do cenário 11**
+
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
 | **Ambiente ou contexto** | Ana está em casa se arrumando antes de sair para o estágio. Em alguns dias ocorrem obras, desvios ou ocorrências que alteram o itinerário ou interrompem a circulação de determinada linha. Ana precisa saber, com antecedência, se sua linha sofrerá desvios, atrasos significativos ou cancelamentos para ajustar seu horário de saída e evitar perder a conexão. |
@@ -214,7 +280,13 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **Eventos** | O sistema recebe sinalizações de operadores, sensores ou detecção por GPS de desvios no itinerário; registra interrupções e calcula impacto no tempo de chegada. Em seguida, dispara notificações aos usuários afetados, exibe a causa (obra, acidente, operação) e sugere rotas alternativas ou pontos de embarque diferentes. |
 | **Avaliação** | Ana considera a ação bem-sucedida quando recebe o alerta com antecedência suficiente para ajustar sua saída, visualiza alternativas viáveis e consegue embarcar sem grandes atrasos. O sucesso é medido pela redução do tempo de espera imprevisto e pela capacidade do usuário de escolher uma alternativa que minimize o impacto no deslocamento. |
 
+*Fonte: Daniel Nunes Duarte, 2025*
+
 ### Cenário 12 – Integração ônibus e metrô (Requisito não implementado)
+
+A Tabela 13 a seguir especifica em detalhe os elementos constitutivos do cenário 12, descrevendo o contexto, os atores envolvidos, objetivos, planejamento, ações, eventos e avaliação.
+
+**Tabela 13: Especificação do cenário 12**
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -225,6 +297,8 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **Ações** | 1. Abrir o aplicativo. <br> 2. Selecionar a linha de ônibus e/ou estação de metrô desejada. <br> 3. Ativar a opção de "Rastrear múltiplos modais" (ônibus + metrô). <br> 4. Visualizar no mapa os ícones diferenciados para ônibus e trens e conferir as previsões de chegada. <br> 5. Decidir o momento de sair de casa ou de seguir para a estação com base nas previsões combinadas. |
 | **Eventos** | Os sistemas de GPS dos ônibus e os dados de sinalização do metrô atualizam as posições no sistema central. O servidor cruza as informações e exibe, no app de Suianne, as previsões de chegada e alertas de conexão. Caso haja atraso em um dos modais, o app sugere alternativas (aguardar próximo ônibus, trocar por outra estação/linha ou ajustar a rota). |
 | **Avaliação** | Suianne considera o recurso eficaz quando consegue sincronizar as conexões com confiança, reduzindo esperas e evitando perder o trem ou o ônibus de conexão. O sucesso é medido pela redução do tempo total de deslocamento e pelo aumento da previsibilidade das integrações. |
+
+*Fonte: Daniel Nunes Duarte, 2025*
 
 ## Referências 
 
