@@ -6,9 +6,21 @@
 
 ### Elementos característicos de um cenário
 
-<a href="https://ibb.co/ZzZhPxzK"><img src="https://i.ibb.co/TMCHStMR/image.png" alt="image" border="0"></a>
+![Trecho de texto que especifica os elementos de um cenário](https://i.ibb.co/TMCHStMR/image.png)
 
-<a id="cenário-1---notificações-de-chegada"></a>
+## Tabela 1 - Tabela de contribuição
+
+A Tabela 1 apresenta as contribuições de cada membro da equipe para a elaboração desta Especificação Suplementar, indicando as seções, requisitos e funcionalidades pelas quais cada um foi responsável.
+
+| Nome | Contribuição |
+|------|--------------|
+| **Cauã Nicolas** | - Elaboração e Validação dos cenários 7 e 8 |
+| **Daniel Nunes Duarte** | - Elaboração dos cenários 11 e 12 |
+| **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
+| **Gabriel Maciel** | - Elaboração e Validação dos cenários 3 e 4 |
+| **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
+| **João Ramos** | - Elaboração e Validação dos cenários 9 e 10 |
+
 ## Cenário 1 – Notificações de Chegada (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
@@ -25,7 +37,6 @@
 
 ---
 
-<a id="cenário-2---avaliar-linhas"></a>
 ## Cenário 2 – Avaliar Linhas (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
@@ -42,7 +53,6 @@
 
 ---
 
-<a id="cenário-3---rastreamento-de-múltiplas-linhas"></a>
 ## Cenário 3 – Rastreamento de múltiplas linhas (Requisito não implementado)
 
 
@@ -250,17 +260,6 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **Avaliação** | Suianne considera o recurso eficaz quando consegue sincronizar as conexões com confiança, reduzindo esperas e evitando perder o trem ou o ônibus de conexão. O sucesso é medido pela redução do tempo total de deslocamento e pelo aumento da previsibilidade das integrações. |
 
 ---
-
-## Responsáveis pela elaboração do artefato
-
-| Nome            | Responsabilidade              |
-|-----------------|-------------------------------|
-| **Cauã Nicolas** | - Elaboração e Validação dos cenários 7 e 8 |
-| **Daniel Nunes Duarte** | - Elaboração dos cenários 11 e 12 |
-| **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
-| **Gabriel Maciel** | - Elaboração e Validação dos cenários 3 e 4 |
-| **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
-| **João Ramos** | - Elaboração e Validação dos cenários 9 e 10 |
 
 ## Referências 
 
