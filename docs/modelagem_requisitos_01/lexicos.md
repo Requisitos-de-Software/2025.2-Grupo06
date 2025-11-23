@@ -58,62 +58,56 @@ O vídeo 1 apresenta, entre o trecho 6:20 e 10:00, a validação dos léxicos 01
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B57AOMl5WTk?si=f2F1lRRxoZ2GqsvV&amp;start=380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Vídeo 1: Validação dos Léxicos 1, 2 e 3* 
+*Vídeo 1: Validação dos Léxicos 01, 02 e 03* 
 
-## Léxico 04: Estudante
+## Léxicos 04, 05 e 06 (João Ramos)
+
+### Léxico 04: Estudante
 
 **Tabela 5** - Estudante
 
 | ID | Descrição |
-|:-:|:-|
+|----|-----------|
 | **Classificação** | Objeto |
 | **Impacto** | Um dos principais perfis de usuários do sistema, influenciando diretamente o design e funcionalidades gerais do sistema. O comportamento desse grupo ajuda a aprimorar a eficiência e a acessibilidade do aplicativo. |
 | **Noção** | O usuário do aplicativo que utiliza o transporte público principalmente para se deslocar até instituições de ensino, como escolas, cursos ou universidades. |
 | **Dicionário** | Discente, aluno, aprendiz |
 
-*Autor(a): João Lucas, 2025.*
+*Autor(a): João Ramos, 2025.*
 
----
-
-## Léxico 05: Planejar
+### Léxico 05: Planejar
 
 **Tabela 6** - Planejar
 
 | ID | Descrição |
-|:-:|:-|
+|----|-----------|
 | **Classificação** | Verbo |
 | **Impacto** | Permite que o usuário escolha a melhor opção de deslocamento, otimizando tempo e recursos. É essencial para a usabilidade do aplicativo. |
 | **Noção** | Definir previamente uma rota ou trajeto considerando tempo, distância e destino. |
 | **Dicionário** | Preparar, criar, gerar |
 
-*Autor(a): João Lucas, 2025.*
+*Autor(a): João Ramos, 2025.*
 
----
-
-## Léxico 06: Favorito
-
+### Léxico 06: Favorito
 
 **Tabela 7** - Favorito
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Estado |
 | Impacto | Facilita o uso recorrente e personalizado do aplicativo, aumentando a eficiência do usuário. |
 | Noção | Representa linhas, rotas ou pontos que o usuário marcou para acesso rápido. |
 | Dicionário | Preferido, marcado |
 
-*Autor(a): João Lucas, 2025.*
+*Autor(a): João Ramos, 2025.*
 
-
----
-
-### Validação com usuário real dos Léxicos 4, 5 e 6 (João Ramos)
+### Validação com usuário real dos Léxicos 04, 05 e 06
 
 O vídeo 2 apresenta, entre o trecho 3:42 e 6:55, a validação dos léxicos 4, 5 e 6 com um usuário real.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rJsODyJZQvk?si=jbqWS4hPGhBX_SA2&amp;start=222" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Vídeo 1: Validação dos Léxicos 4, 5 e 6*
+*Vídeo 1: Validação dos Léxicos 04, 05 e 06*
 
 ## Léxico 07: Destino
 
