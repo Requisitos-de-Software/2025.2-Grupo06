@@ -12,44 +12,6 @@ A metodologia selecionada para a documentação do vocabulário do projeto é a 
 ## Metodologia (print)
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gLmr9Cbr/image.png" alt="image" border="0"></a>
 
----
-
-## Léxico 16: Trabalhador
-
-<div align="center">
-
-<p><strong>Tabela 14</strong> - Trabalhador</p>
-
-<table>
-  <tr>
-    <th>ID</th>
-    <th>Descrição</th>
-  </tr>
-  <tr>
-    ---
-    <td>Estado/Objeto/Verbo</td>
-  </tr>
-  <tr>
-    <td><strong>Impacto</strong></td>
-    <td>Descrição de ações e de seus efeitos</td>
-  </tr>
-  <tr>
-    <td><strong>Noção</strong></td>
-    <td>Símbolo</td>
-  </tr>
-  <tr>
-    <td><strong>Dicionário</strong></td>
-    <td>Sinônimos</td>
-  </tr>
-</table>
-
-<small style="color:blue;">Autor(a): Fernanda Vaz, 2025.</small>
-
-</div>
-
----
-
-<a id="léxico-01---notificações-de-chegada"></a>
 ## Léxico 01: Notificações de Chegada
 
 
