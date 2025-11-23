@@ -324,6 +324,14 @@ A Tabela 13 a seguir especifica em detalhe os elementos constitutivos do cenári
 
 *Fonte: Daniel Nunes Duarte, 2025*
 
+### Validação com usuário real dos Cenários 3 e 4 
+
+O vídeo 5 apresenta a validação dos cenários 11 e 12 com um usuário real, mostrando brevemente alertas de desvio e interrupção de rota e integração ônibus e metrô no aplicativo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wl211vLAZI0?si=gvEFU5-uOmm7YEkF&amp;start=19](https://youtu.be/ewHxzE303KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 1: Validação dos Cenários 11 e 12*
+
 ## Referências 
 
 <a id="ref-barbosa-silva"></a>
