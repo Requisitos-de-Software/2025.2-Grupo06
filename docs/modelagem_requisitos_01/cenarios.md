@@ -1,11 +1,13 @@
 ## Introdução
 
 > Um cenário é basicamente uma história sobre pessoas realizando uma atividade [(Rosson e Carroll, 2002)](#ref-rosson-carroll). É uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais.
-> Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e avaliar se um produto satisfaz a necessidade dos seus usuários [(Rosson e Carroll, 2002)](#ref-rosson-carroll).
-> *Fonte: Adapatado de [BARBOSA; SILVA, 2010](#ref-barbosa-silva)*
 
----
-## Elementos característicos de um cenário (Print)
+> Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e avaliar se um produto satisfaz a necessidade dos seus usuários [(Rosson e Carroll, 2002)](#ref-rosson-carroll).
+
+*Fonte: Adapatado de [BARBOSA; SILVA, 2010](#ref-barbosa-silva)*
+
+### Elementos característicos de um cenário (Print)
+
 <a href="https://ibb.co/ZzZhPxzK"><img src="https://i.ibb.co/TMCHStMR/image.png" alt="image" border="0"></a>
 
 <a id="cenário-1---notificações-de-chegada"></a>
