@@ -211,7 +211,7 @@ Todas as comunicações entre cliente e servidor devem ser criptografadas utiliz
 
 ### PA03 - [Norma ISO/IEC 27001](https://www.iso.org/standard/27001) (Segurança da Informação)
 
-O sistema deve implementar práticas de segurança da informação conforme a norma ISO/IEC 27001, incluindo autenticação forte, logging de eventos e proteção contra ataques.
+O sistema deve implementar práticas de segurança da informação conforme a norma ISO/IEC 27001, incluindo autenticação forte, logging de eventos e proteção contra ataques. A Tabela 13 apresenta requisitos não-funcionais criados a partir desta conformidade.
 
 #### Tabela 13 - Requisitos Não-Funcionais que se relacionam com a Norma ISO/IEC 27001 (RPA03)
 
@@ -224,7 +224,7 @@ O sistema deve implementar práticas de segurança da informação conforme a no
 
 ### PA04 - [Protocolo OAuth 2.0](https://oauth.net/2/) 
 
-Autenticação e autorização devem seguir o padrão OAuth 2.0 para garantir segurança nas operações de login e autenticação multifator.
+Autenticação e autorização devem seguir o padrão OAuth 2.0 para garantir segurança nas operações de login e autenticação multifator. A Tabela 14 apresenta requisitos não-funcionais criados a partir desta conformidade.
 
 #### Tabela 14 - Requisitos Não-Funcionais que se relacionam com o Protocolo OAuth 2.0 (RPA04) 
 
