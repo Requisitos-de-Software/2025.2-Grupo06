@@ -204,10 +204,7 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 
 ## Cenários 11 e 12 (Daniel Nunes)
 
----
-
-## Cenário 11 – Alertas de desvio e interrupção de rota (Requisito não implementado)
-<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
+### Cenário 11 – Alertas de desvio e interrupção de rota (Requisito não implementado)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -223,10 +220,7 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **Eventos** | O sistema recebe sinalizações de operadores, sensores ou detecção por GPS de desvios no itinerário; registra interrupções e calcula impacto no tempo de chegada. Em seguida, dispara notificações aos usuários afetados, exibe a causa (obra, acidente, operação) e sugere rotas alternativas ou pontos de embarque diferentes. |
 | **Avaliação** | Ana considera a ação bem-sucedida quando recebe o alerta com antecedência suficiente para ajustar sua saída, visualiza alternativas viáveis e consegue embarcar sem grandes atrasos. O sucesso é medido pela redução do tempo de espera imprevisto e pela capacidade do usuário de escolher uma alternativa que minimize o impacto no deslocamento. |
 
----
-
-## Cenário 12 – Integração ônibus e metrô (Requisito não implementado)
-<span style="color:blue;">Autoria: Daniel Nunes Duarte, 2025.</span>
+### Cenário 12 – Integração ônibus e metrô (Requisito não implementado)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -242,8 +236,6 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **Eventos** | Os sistemas de GPS dos ônibus e os dados de sinalização do metrô atualizam as posições no sistema central. O servidor cruza as informações e exibe, no app de Suianne, as previsões de chegada e alertas de conexão. Caso haja atraso em um dos modais, o app sugere alternativas (aguardar próximo ônibus, trocar por outra estação/linha ou ajustar a rota). |
 | **Avaliação** | Suianne considera o recurso eficaz quando consegue sincronizar as conexões com confiança, reduzindo esperas e evitando perder o trem ou o ônibus de conexão. O sucesso é medido pela redução do tempo total de deslocamento e pelo aumento da previsibilidade das integrações. |
 
----
-
 ## Referências 
 
 <a id="ref-barbosa-silva"></a>
@@ -251,8 +243,6 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 
 <a id="ref-rosson-carroll"></a>
 > ROSSON, M. B.; CARROLL, J. M. *Usability Engineering: Scenario-Based Development of Human-Computer Interaction.* San Francisco: Morgan Kaufmann, 2002..
-
----
 
 ## Histórico de Versão
 
@@ -265,8 +255,8 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | 1.4 | 10/10/2025 | Adição dos cenários 7 e 8 | Cauã Nicolas | Gabriel Maciel |
 | 1.5 | 12/10/2025 | Adição dos vídeos de Validação com usuário dos Cenários 3 a 4 | Gabriel Maciel | João Ramos, Cauã Nicolas |
 | 1.6 | 12/10/2025 | Adição da Validação com usuário dos Cenários 9 a 10 | João Gabriel | João Ramos, Fernanda Vaz |
-| 1.7 | 12/10/2025 | Adição do Cenário 11 e Cenário 12; atualização de autores e validação | Daniel Nunes Duarte | --------- |
-| 1.8 | 12/10/2025 | Atualização do Cenário 11 para evitar duplicidade com Cenário 3 (alterado para alertas de desvio/interrupção) | Daniel Nunes Duarte | --------- |
+| 1.7 | 12/10/2025 | Adição do Cenário 11 e Cenário 12; atualização de autores e validação | Daniel Nunes Duarte | Gabriel Maciel |
+| 1.8 | 12/10/2025 | Atualização do Cenário 11 para evitar duplicidade com Cenário 3 (alterado para alertas de desvio/interrupção) | Daniel Nunes Duarte | Gabriel Maciel |
 
 ## Agradecimentos
->>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+> Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
