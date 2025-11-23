@@ -100,9 +100,9 @@ O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 
 
 *Vídeo 1: Validação dos Cenários 3 e 4*
 
+## Cenários 5 e 6 (João Ramos)
 
-## Cenário 5 - Modo Off-line (Requisito não implementado)
-<span style="color:blue;">Autoria: João Lucas, 2025.</span>
+### Cenário 5 - Modo Off-line (Requisito não implementado)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -114,10 +114,7 @@ O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 
 | **Eventos** | No dia seguinte, no ônibus, Juliana perde o sinal de internet. Ela abre o app, que detecta automaticamente a ausência de conexão e exibe um ícone indicando "Modo Offline ativo". Juliana consulta o trajeto da próxima linha, os horários da parada de destino e quais ônibus passam por lá, tudo sem internet. |
 | **Avaliação** | Juliana consegue planejar sua integração mesmo sem internet. Fica satisfeita por poder consultar horários e trajetos offline, evitando ansiedade e incerteza durante o deslocamento. Reconhece que o modo offline é essencial para regiões com sinal instável. |
 
----
-
-## Cenário 6 - Reportar lotação do ônibus (Requisito não implementado)
-<span style="color:blue;">Autoria: João Lucas, 2025.</span>
+### Cenário 6 - Reportar lotação do ônibus (Requisito não implementado)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -129,9 +126,7 @@ O vídeo 1 apresenta, entre o trecho 0:19 e 3:17, a validação dos cenários 3 
 | **Eventos** | O sistema recebe o reporte de Juliana e atualiza o status do ônibus em tempo real. Outros usuários aguardando em paradas à frente visualizam a informação atualizada. O app exibe: "Lotação reportada: Médio (6 usuários confirmaram nos últimos 5 minutos)". |
 | **Avaliação** | Juliana consegue evitar um ônibus muito lotado usando informações colaborativas. Sente-se parte de uma comunidade que se ajuda. Reconhece que o sistema de reporte colaborativo melhora a experiência de todos e permite decisões mais informadas sobre quando e qual ônibus pegar. |
 
----
-
-### Validação com usuário real dos Cenários 5 e 6 (João Ramos)
+### Validação com usuário real dos Cenários 5 e 6
 
 O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 e 6 com um usuário real, demonstrando o funcionamento do modo offline para consulta de horários e trajetos sem internet, além do sistema colaborativo de reporte de lotação dos ônibus no aplicativo.
 
@@ -139,8 +134,7 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 
 *Vídeo 2: Validação dos Cenários 5 e 6*
 
-## Cenário 7 - Histórico de viagens (Requisito não implementado)
-<span style="color:blue;">Autoria: Cauã Nicolas, 2025.</span>
+## Cenário 7 e 8 (Cauã Nicolas)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
