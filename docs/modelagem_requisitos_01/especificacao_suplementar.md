@@ -6,6 +6,8 @@ A presente especificação aplica-se ao aplicativo móvel DF no Ponto, disponív
 
 ## Tabela 1 - Tabela de contribuição
 
+A Tabela 1 apresenta as contribuições de cada membro da equipe para a elaboração desta Especificação Suplementar, indicando as seções, requisitos e funcionalidades pelas quais cada um foi responsável.
+
 |        Nome          | Contribuição |
 |----------------------|--------------|
 | Cauã Nicolas | - [Especificação Suplementar dos Requisitos do Sistema (RS)](#requisitos-do-sistema-portabilidadecompatibilidade) |
