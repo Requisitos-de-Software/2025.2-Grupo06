@@ -29,6 +29,30 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **João Gabriel** | - [Elaboração e Validação dos cenários 9 e 10](#cenarios-9-e-10-joao-gabriel) |
 | **João Ramos** | - [Elaboração e Validação dos cenários 5 e 6](#cenarios-5-e-6-joao-ramos) |
 
+## Metodologia
+
+### Definição de Cenários
+
+De acordo com Rosson e Carroll (2002), um cenário é basicamente uma história sobre pessoas realizando uma atividade. É uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais. Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e avaliar se um produto satisfaz a necessidade dos seus usuários (ROSSON; CARROLL, 2002).
+
+### Elementos Constitutivos de um Cenário
+
+Conforme Rosson e Carroll (2002), os elementos característicos de um cenário são:
+
+- **Ambiente ou contexto**: detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário.
+- **Atores**: pessoas interagindo com o computador ou outros elementos do ambiente; características pessoais relevantes ao cenário.
+- **Objetivos**: efeitos na situação que motivam as ações realizadas pelos atores.
+- **Planejamento**: atividade mental dirigida para transformar um objetivo em um comportamento ou conjunto de ações.
+- **Ações**: comportamento observável.
+- **Eventos**: ações externas ou reações produzidas pelo computador ou outras características do ambiente; algumas delas podem ser ocultas ao ator mas importantes para o cenário.
+- **Avaliação**: atividade mental dirigida para interpretar a situação.
+
+### Processo de Elaboração dos Cenários
+
+Para a elaboração dos cenários deste documento, foi utilizada a Tabela 8.3 do livro *Interação Humano-Computador e Experiência do Usuário* (BARBOSA et al., 2021), que propõe um conjunto de perguntas para refinar cada elemento de um cenário e auxiliar na análise. Essa técnica, baseada no questionamento sistemático (CARROLL et al., 1994), permite segmentar o cenário em proposições e investigar mais profundamente cada proposição a partir de um conjunto geral de perguntas, cujas respostas geram novas proposições, repetindo o ciclo até que o conjunto de proposições seja considerado suficientemente completo.
+
+Os cenários foram estruturados para capturar o contexto de uso do aplicativo **DF no Ponto**, descrevendo situações específicas de usuários reais ou potenciais utilizando as funcionalidades propostas para o sistema. Cada cenário foi desenvolvido com base nas personas e objetivos dos usuários identificados durante as fases anteriores de elicitação e análise de requisitos, garantindo que as narrativas refletissem de forma precisa e detalhada as necessidades e experiências de uso do aplicativo.
+
 ## Cenários 1 e 2 (Fernanda Vaz)
 
 ### Cenário 1 – Notificações de Chegada (Requisito não implementado)
