@@ -109,64 +109,55 @@ O vídeo 2 apresenta, entre o trecho 3:42 e 6:55, a validação dos léxicos 4, 
 
 *Vídeo 1: Validação dos Léxicos 04, 05 e 06*
 
-## Léxico 07: Destino
+## Léxicos 07, 08 e 09 (Cauã Nicolas)
 
+### Léxico 07: Destino
 
 **Tabela 8** - Destino
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Objeto |
 | Impacto | Determina o cálculo da rota, tempo estimado de chegada sendo essencial para o funcionamento do sistema. |
 | Noção | Local definido pelo usuário como o fim de sua viagem ou trajeto. |
 | Dicionário | Propósito, ponto final, local de chegada |
 
-*Autor(a): Cauã Nicolas, 2025.*
+*Fonte: Cauã Nicolas, 2025.*
 
-
----
-
-## Léxico 08: Rastrear
+### Léxico 08: Rastrear
 
 
 **Tabela 9** - Rastrear
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Verbo |
 | Impacto | Proporciona transparência e segurança ao usuário, além de aumentar a confiança nas informações do aplicativo. |
 | Noção | Ação de acompanhar em tempo real a localização de um ônibus, linha. |
 | Dicionário | Monitorar, acompanhar |
 
-*Autor(a): Cauã Nicolas, 2025.*
+*Fonte: Cauã Nicolas, 2025.*
 
-
----
-
-## Léxico 09: Agora
-
+### Léxico 09: Agora
 
 **Tabela 10** - Agora
 
 | ID | Descrição |
-|:|-|
+|----|-----------|
 | Classificação | Estado |
 | Impacto | Indica o tempo exato de chegada, sendo fundamental para a funcionalidade de tempo real. |
 | Noção | Momento em que o ônibus se encontra no ponto de parada ou que acabou de chegar. |
 | Dicionário | Monitorar, acompanhar |
 
-*Autor(a): Cauã Nicolas, 2025.*
+*Fonte: Cauã Nicolas, 2025.*
 
-
----
-
-### Validação com usuário real dos Léxicos 7, 8 e 9 (Cauã Nicolas)
+### Validação com usuário real dos Léxicos 7, 8 e 9
 
 O vídeo 3 apresenta, entre o trecho 3:07 e 5:39, a validação dos léxicos 4, 5 e 6 com um usuário real.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZcf-jDlhao?si=_Eg0qO_7vEo617h0&amp;start=187" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Vídeo 2: Validação dos Léxicos 7, 8 e 9*
+*Vídeo 3: Validação dos Léxicos 7, 8 e 9*
 
 ## Léxico 10: Transporte público
 
