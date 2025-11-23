@@ -20,12 +20,12 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 
 | Nome | Contribuição |
 |------|--------------|
-| **Cauã Nicolas** | - Elaboração e Validação dos cenários 7 e 8 |
-| **Daniel Nunes Duarte** | - Elaboração dos cenários 11 e 12 |
-| **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
-| **Gabriel Maciel** | - Elaboração e Validação dos cenários 3 e 4 |
-| **João Gabriel** | - Elaboração e Validação dos cenários 9 e 10 |
-| **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
+| **Cauã Nicolas** | - [Elaboração e Validação dos cenários 7 e 8](#cenarios-7-e-8-caua-nicolas) |
+| **Daniel Nunes Duarte** | - [Elaboração dos cenários 11 e 12](#cenarios-11-e-12-daniel-nunes-duarte) |
+| **Fernanda Vaz** | - [Elaboração dos texto de Introdução](#introducao) <br> - [Elaboração dos cenários 1 e 2](#cenarios-1-e-2-fernanda-vaz) |
+| **Gabriel Maciel** | - [Elaboração e Validação dos cenários 3 e 4](#cenarios-3-e-4-gabriel-maciel) |
+| **João Gabriel** | - [Elaboração e Validação dos cenários 9 e 10](#cenarios-9-e-10-joao-gabriel) |
+| **João Ramos** | - [Elaboração e Validação dos cenários 5 e 6](#cenarios-5-e-6-joao-ramos) |
 
 ## Cenários 1 e 2 (Fernanda Vaz)
 
@@ -132,7 +132,7 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 
 *Vídeo 2: Validação dos Cenários 5 e 6*
 
-## Cenário 7 e 8 (Cauã Nicolas)
+## Cenários 7 e 8 (Cauã Nicolas)
 
 ### Cenário 7 - Histórico de viagens (Requisito não implementado)
 
@@ -200,7 +200,7 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 
 *Vídeo 4: Validação dos cenários 9 e 10*
 
-## Cenários 11 e 12 (Daniel Nunes)
+## Cenários 11 e 12 (Daniel Nunes Duarte)
 
 ### Cenário 11 – Alertas de desvio e interrupção de rota (Requisito não implementado)
 
