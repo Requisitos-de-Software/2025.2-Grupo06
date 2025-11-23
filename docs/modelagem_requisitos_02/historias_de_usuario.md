@@ -567,6 +567,17 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 
 ---
 
+## Validação(Daniel Nunes Duarte)
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/OPVuApWBT6k](https://youtu.be/jFVMDRidtTo?si=q67Ral-qGbkpR1LK" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+
+---
+
 ## Tabela de Contribuições
 
 | Nome                 | Responsabilidade                                                                                              |
