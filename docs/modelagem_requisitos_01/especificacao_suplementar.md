@@ -188,49 +188,49 @@ Esta seção lista todos os padrões com os quais o produto deverá estar em con
 
 O sistema deve estar em conformidade com a [Lei 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), garantindo a proteção de dados pessoais dos usuários, inclusive direitos de acesso, correção, exclusão e consentimento informado. A Tabela 11 apresenta requisitos não-funcionais criados a partir desta conformidade.
 
-#### Tabela 11 - Requisitos Não-Funcionais que se relacionam com a LGPD (RNFPA01)
+#### Tabela 11 - Requisitos Não-Funcionais que se relacionam com a LGPD (RPA01)
 
 | ID | Descrição | Autoria |
 |---|---|---|
-| RNFPA01.01 | Coleta de dados deve ser limitada ao mínimo necessário para a finalidade declarada e informada ao usuário. | Daniel Nunes Duarte |
-| RNFPA01.02 | Deve ser fornecido um termo de consentimento claro e acessível, permitindo que o usuário aceite ou recuse coleta de dados sensíveis. | Daniel Nunes Duarte |
-| RNFPA01.03 | Usuários devem ter mecanismos para visualizar, corrigir e solicitar exclusão de seus dados pessoais. | Daniel Nunes Duarte |
-| RNFPA01.04 | Dados pessoais armazenados devem ser criptografados em repouso quando tecnicamente viável. | Daniel Nunes Duarte |
-| RNFPA01.05 | Logs e backups que contenham dados pessoais devem ter acesso restrito e retenção limitada conforme política da organização. | Daniel Nunes Duarte |
-| RNFPA01.06 | Deve ser realizada uma avaliação de impacto sobre a proteção de dados (DPIA) para funcionalidades que processem dados sensíveis. | Daniel Nunes Duarte |
+| RPA01.01 | Coleta de dados deve ser limitada ao mínimo necessário para a finalidade declarada e informada ao usuário. | Daniel Nunes Duarte |
+| RPA01.02 | Deve ser fornecido um termo de consentimento claro e acessível, permitindo que o usuário aceite ou recuse coleta de dados sensíveis. | Daniel Nunes Duarte |
+| RPA01.03 | Usuários devem ter mecanismos para visualizar, corrigir e solicitar exclusão de seus dados pessoais. | Daniel Nunes Duarte |
+| RPA01.04 | Dados pessoais armazenados devem ser criptografados em repouso quando tecnicamente viável. | Daniel Nunes Duarte |
+| RPA01.05 | Logs e backups que contenham dados pessoais devem ter acesso restrito e retenção limitada conforme política da organização. | Daniel Nunes Duarte |
+| RPA01.06 | Deve ser realizada uma avaliação de impacto sobre a proteção de dados (DPIA) para funcionalidades que processem dados sensíveis. | Daniel Nunes Duarte |
 
 ### PA02 - [Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc5246) 1.2 ou superior
 
 Todas as comunicações entre cliente e servidor devem ser criptografadas utilizando TLS 1.2 ou versões mais recentes para garantir segurança nas transmissões de dados.  A Tabela 12 apresenta requisitos não-funcionais criados a partir desta conformidade.
 
-#### Tabela 12 - Requisitos Não-Funcionais que se relacionam com o TLS 1.2 ou superior (RNFPA02)
+#### Tabela 12 - Requisitos Não-Funcionais que se relacionam com o TLS 1.2 ou superior (RPA02)
 
 | ID | Descrição | Autoria |
 |---|---|---|
-| RNFPA02.01 | Todas as comunicações entre cliente e servidor devem ser criptografadas usando TLS 1.2 ou superior. | Daniel Nunes Duarte |
+| RPA02.01 | Todas as comunicações entre cliente e servidor devem ser criptografadas usando TLS 1.2 ou superior. | Daniel Nunes Duarte |
 
 ### PA03 - [Norma ISO/IEC 27001](https://www.iso.org/standard/27001) (Segurança da Informação)
 
 O sistema deve implementar práticas de segurança da informação conforme a norma ISO/IEC 27001, incluindo autenticação forte, logging de eventos e proteção contra ataques.
 
-#### Tabela 13 - Requisitos Não-Funcionais que se relacionam com a Norma ISO/IEC 27001 (RNFPA03)
+#### Tabela 13 - Requisitos Não-Funcionais que se relacionam com a Norma ISO/IEC 27001 (RPA03)
 
 | ID | Descrição | Autoria |
 |---|---|---|
-| RNFPA03.01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). | Daniel Nunes Duarte |
-| RNFPA03.02 | Senhas e credenciais devem ser armazenadas usando hashing seguro (ex.: bcrypt, Argon2) com salt. | Daniel Nunes Duarte |
-| RNFPA03.03 | Registro (logging) de eventos de segurança (tentativas de login, alterações de privilégios, erros críticos) para auditoria. | Daniel Nunes Duarte |
-| RNFPA03.04 | Proteção contra ataques comuns (XSS, CSRF, injeção de SQL) aplicando validação e sanitização de entrada. | Daniel Nunes Duarte |
+| RPA03.01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). | Daniel Nunes Duarte |
+| RPA03.02 | Senhas e credenciais devem ser armazenadas usando hashing seguro (ex.: bcrypt, Argon2) com salt. | Daniel Nunes Duarte |
+| RPA03.03 | Registro (logging) de eventos de segurança (tentativas de login, alterações de privilégios, erros críticos) para auditoria. | Daniel Nunes Duarte |
+| RPA03.04 | Proteção contra ataques comuns (XSS, CSRF, injeção de SQL) aplicando validação e sanitização de entrada. | Daniel Nunes Duarte |
 
 ### PA04 - [Protocolo OAuth 2.0](https://oauth.net/2/) 
 
 Autenticação e autorização devem seguir o padrão OAuth 2.0 para garantir segurança nas operações de login e autenticação multifator.
 
-#### Tabela 14 - Requisitos Não-Funcionais que se relacionam com o Protocolo OAuth 2.0 (RNFPA04) 
+#### Tabela 14 - Requisitos Não-Funcionais que se relacionam com o Protocolo OAuth 2.0 (RPA04) 
 
 | ID | Descrição | Autoria |
 |---|---|---|
-| RNFPA04.01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). | Daniel Nunes Duarte |
+| RPA04.01 | O sistema deve utilizar autenticação forte para todos os usuários (ex.: OAuth2 ou autenticação multifator para operações sensíveis). | Daniel Nunes Duarte |
 
 ## Referências bibliográficas
 
