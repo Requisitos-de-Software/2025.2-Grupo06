@@ -8,8 +8,21 @@ De acordo com a metodologia apresentada por [Serrano e Serrano](#referências-bi
 
 A metodologia selecionada para a documentação do vocabulário do projeto é a notação do Léxico Ampliado da Linguagem (LAL), conforme a abordagem de [Serrano e Serrano](#referências-bibliográficas). Esta técnica consiste em descrever formalmente os símbolos da linguagem de domínio, onde cada símbolo é detalhado por meio de duas perspectivas centrais: sua **Noção** (o conceito ou significado) e seu **Impacto** (as ações e efeitos que o símbolo exerce ou sofre no sistema).
 
-## Metodologia (print)
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gLmr9Cbr/image.png" alt="image" border="0"></a>
+### Tipos de Léxicos
+
+No processo de elicitação e análise de requisitos, os léxicos são classificados em três tipos principais, conforme ilustrado na Figura 1:
+
+- **Verbo**: Representa as ações executadas pelos atores ou pelo sistema. A noção descreve quem realiza a ação e em quais circunstâncias, enquanto o impacto detalha os reflexos dessa ação no ambiente, incluindo novos estados decorrentes.
+
+- **Objeto**: Define entidades e artefatos do domínio. A noção identifica o objeto e relaciona outros objetos com os quais interage, enquanto o impacto documenta as ações que podem ser aplicadas ao objeto.
+
+- **Estado**: Representa condições ou situações. A noção explica o significado do estado e quais ações levaram a esse estado, enquanto o impacto descreve outros estados e ações que podem ocorrer a partir do estado em questão.
+
+**Figura 1** - Tipos de Léxicos e suas Características
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gLmr9Cbr/image.png" alt="Tipos de Léxicos" border="0"></a>
+
+*Fonte: Requisitos - Aula 10 (Serrano e Serrano)*
 
 ## Léxicos 01, 02 e 03 (Fernanda Vaz)
 
