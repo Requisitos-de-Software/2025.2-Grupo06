@@ -249,8 +249,9 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 
 *Fonte: João Gabriel, 2025.*
 
-## Léxico 16: Trabalhador
+## Léxicos 16, 17 e 18 (Daniel Nunes Duarte)
 
+### Léxico 16: Trabalhador
 
 **Tabela 17** - Trabalhador
 
@@ -261,13 +262,9 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 | Noção | Pessoa que se desloca diariamente ao trabalho utilizando transporte público, como ônibus e/ou metrô, e utiliza o aplicativo para planejar e acompanhar suas viagens. |
 | Dicionário | Trabalhadora, profissional, CLT |
 
-*Autor(a): Daniel Nunes Duarte, 2025.*
+*Fonte: Daniel Nunes Duarte, 2025.*
 
-
----
-
-## Léxico 17: Alertar
-
+### Léxico 17: Alertar
 
 **Tabela 18** - Alertar
 
@@ -278,13 +275,9 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 | Noção | A ação do sistema de enviar uma mensagem ou sinal ao passageiro para informar sobre eventos relevantes do transporte, como aproximação, chegada, atraso ou necessidade de mudança de rota. Pode ser sonora, visual ou por notificação no dispositivo. |
 | Dicionário | Avisar, notificar, sinalizar, comunicar, alarmar |
 
-*Autor(a): Daniel Nunes Duarte, 2025.*
+*Fonte: Daniel Nunes Duarte, 2025.*
 
-
----
-
-## Léxico 18: Aproximação do ônibus
-
+### Léxico 18: Aproximação do ônibus
 
 **Tabela 19** - Aproximação do ônibus
 
@@ -295,31 +288,19 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 | Noção | Condição em que a posição e velocidade do ônibus indicam que ele chegará à parada em um intervalo curto (por exemplo, < 5 minutos ou dentro de um raio de 500 m), conforme cálculo do sistema. |
 | Dicionário | Chegando, perto, iminente, próximo |
 
-*Autor(a): Daniel Nunes Duarte, 2025.*
+*Fonte: Daniel Nunes Duarte, 2025.*
 
-
----
-
-### Validação dos léxicos com um utilizador do transporte publico 16, 17 e 18 (Daniel Nunes Duarte)
+### Validação dos léxicos com um utilizador do transporte publico 16, 17 e 18 
 
 O vídeo 6 apresenta, entre o trecho -:-- e -:-- , a validação dos léxicos 16, 17 e 18 com um utilizador do transporte publico.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wl211vLAZI0?si=EL8QPVtHvj648FMU&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Vídeo a ser adicionado.
 
 *Vídeo 6: Validação dos Léxicos 16, 17 e 18*
-
----
-
-## Bibliografia
->Arquitetura da Informação. Disponível em: <https://redefederal.ifrj.edu.br/simbolos>. Acesso em: 9 out. 2025.
-
-
 
 ## Referências Bibliográficas
 
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FCTE.
-
----
 
 ## Histórico de Versão
 
@@ -333,4 +314,4 @@ O vídeo 6 apresenta, entre o trecho -:-- e -:-- , a validação dos léxicos 16
 | 1.4    | 12/10/2025 | Adição dos léxicos 16,17 e 18. | Daniel Nunes Duarte | ----- |
 
 ## Agradecimentos
->>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+> Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
