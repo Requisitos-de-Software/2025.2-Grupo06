@@ -27,9 +27,10 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
 | **João Ramos** | - Elaboração e Validação dos cenários 9 e 10 |
 
-## Cenário 1 – Notificações de Chegada (Requisito não implementado)
-<span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
+## Cenários 1 e 2 (Fernanda Vaz)
 
+### Cenário 1 – Notificações de Chegada (Requisito não implementado)
+<span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -41,11 +42,8 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Eventos** | O GPS do ônibus atualiza a posição no sistema central. O servidor processa os dados e dispara a notificação para o celular de Juliana. O aviso aparece na tela com a mensagem: “Atenção! Seu ônibus da linha A206 está a 3 minutos de distância”. |
 | **Avaliação** | Juliana interpreta a mensagem, confirma que o ônibus está próximo e se dirige ao ponto. Ela reconhece que o recurso de notificação é útil e melhora sua experiência diária com o transporte. |
 
----
-
-## Cenário 2 – Avaliar Linhas (Requisito não implementado)
+### Cenário 2 – Avaliar Linhas (Requisito não implementado)
 <span style="color:blue;">Autoria: Fernanda Vaz, 2025.</span>
-
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -57,9 +55,16 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Eventos** | O sistema registra a avaliação de Diego no banco de dados e atualiza automaticamente a média de pontuação da linha A205. Outros passageiros passam a visualizar a nova nota e o comentário. A empresa de transporte recebe o feedback para análise. |
 | **Avaliação** | Diego sente que contribuiu para a melhoria do serviço e percebe que o aplicativo valoriza a participação dos passageiros. Ele fica satisfeito por poder ajudar outras pessoas que enfrentam os mesmos problemas e melhora sua experiência na plataforma. |
 
----
+### Validação com usuário real dos Cenários 1 e 2
 
-## Cenário 3 – Rastreamento de múltiplas linhas (Requisito não implementado)
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/B57AOMl5WTk?start=33"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 
 | **Elemento** | **Descrição** |
