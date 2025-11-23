@@ -168,10 +168,9 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 
 *Vídeo 3: Validação dos Cenários 7 e 8*
 
----
-## Cenário 9 – Planejamento de Viagens (Requisito não implementado)
+## Cenários 9 e 10 (João Gabriel)
 
-**Autoria: João Gabriel, 2025.**
+### Cenário 9 – Planejamento de Viagens (Requisito não implementado)
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -183,11 +182,7 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 | **Eventos** | O sistema registra a rota criada e gera lembretes automáticos próximos dos horários definidos. Ao longo do dia, João recebe notificações como: "Seu ônibus da linha A205 sai em 10 minutos" ou "Hora de ir para a estação de metrô Central". Se houver atrasos detectados no percurso, o app sinaliza com alertas para ajustes no plano. |
 | **Avaliação** | Matheus sente que sua rotina está mais organizada e consegue reduzir o tempo de espera entre transportes. Ele reconhece que o planejamento de viagens oferece mais previsibilidade e praticidade, melhorando sua experiência diária de deslocamento. |
 
----
-
-## Cenário 10 – Análise Preditiva de Horários dos Ônibus com IA (Requisito não implementado)
-
-**Autoria: João Gabriel, 2025.**
+### Cenário 10 – Análise Preditiva de Horários dos Ônibus com IA (Requisito não implementado)
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -199,7 +194,7 @@ O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 
 | **Eventos** | O algoritmo preditivo atualiza o horário estimado conforme a posição do ônibus muda. Caso ocorra um imprevisto no trajeto, o horário previsto também é ajustado. Na tela, Juliana visualiza a mensagem: "Previsão de chegada: 22h42 (com base em 187 viagens anteriores)". |
 | **Avaliação** | Juliana chega ao ponto pouco antes da chegada real do ônibus, evitando tempo de espera desnecessário. Ela reconhece a utilidade da previsão inteligente e sente mais segurança e tranquilidade ao se deslocar em horários noturnos. A funcionalidade melhora sua experiência com o transporte público e aumenta sua confiança no aplicativo. |
 
-<div align="center">
+### Validação dos cenários 9 e 10
 
 O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, perguntando se é válido o uso de um possível recurso de planejamento de viagens e predição de rotas por IA.
 
@@ -207,7 +202,7 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 
 *Vídeo 4: Validação dos cenários 9 e 10*
 
-</div>
+## Cenários 11 e 12 (Daniel Nunes)
 
 ---
 
