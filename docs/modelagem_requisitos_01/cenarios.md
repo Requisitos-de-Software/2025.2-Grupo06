@@ -1,12 +1,10 @@
 ## Introdução
 
-> Um cenário é basicamente uma história sobre pessoas realizando uma atividade [(Rosson e Carroll, 2002)](#ref-rosson-carroll). É uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais.
+> "[...] um cenário é basicamente uma história sobre pessoas realizando uma atividade [(Rosson e Carroll, 2002)](#ref-rosson-carroll). É uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais.
 
-> Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e avaliar se um produto satisfaz a necessidade dos seus usuários [(Rosson e Carroll, 2002)](#ref-rosson-carroll).
+> Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e avaliar se um produto satisfaz a necessidade dos seus usuários [(Rosson e Carroll, 2002)](#ref-rosson-carroll). [...]" (ROSSON; CARROLL, 2002, apud BARBOSA et al., 2021, p. iii).
 
-*Fonte: Adapatado de [BARBOSA; SILVA, 2010](#ref-barbosa-silva)*
-
-### Elementos característicos de um cenário (Print)
+### Elementos característicos de um cenário
 
 <a href="https://ibb.co/ZzZhPxzK"><img src="https://i.ibb.co/TMCHStMR/image.png" alt="image" border="0"></a>
 
@@ -264,12 +262,10 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
 | **João Ramos** | - Elaboração e Validação dos cenários 9 e 10 |
 
-## Bibliografia
-
-## Referência bibliográfica 
+## Referências 
 
 <a id="ref-barbosa-silva"></a>
-> BARBOSA, Simone D. J.; SILVA, Bruno S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
+> **BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira.** *Interação humano-computador e experiência do usuário*. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1.
 
 <a id="ref-rosson-carroll"></a>
 > ROSSON, M. B.; CARROLL, J. M. *Usability Engineering: Scenario-Based Development of Human-Computer Interaction.* San Francisco: Morgan Kaufmann, 2002..
