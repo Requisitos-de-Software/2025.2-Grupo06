@@ -212,11 +212,7 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **Atores** | Ana, estudante universitária que utiliza ônibus diariamente para ir ao estágio. Possui familiaridade com apps móveis e depende de informações confiáveis sobre circulação e itinerário. |
 | **Objetivos** | Receber alertas em tempo real sobre desvios, interrupções ou mudanças de itinerário nas linhas de interesse, além de receber sugestões de rotas alternativas quando houver impacto no trajeto. |
 | **Planejamento** | Ana marca sua linha favorita e ativa a opção "Alertas de desvio/interrupção" nas configurações do aplicativo. Define um raio de notificações para o ponto onde costuma embarcar e opta por notificações por push e notificações na tela inicial. |
-| **Ações** | 1. Abrir o aplicativo.
-2. Selecionar a linha favorita e o ponto de embarque.
-3. Ativar "Alertas de desvio/interrupção" e configurar preferências de notificação.
-4. Receber notificação push quando o sistema detectar um desvio, interrupção ou cancelamento que afete a linha/ponto selecionado.
-5. Consultar as sugestões de rotas alternativas ou estimativas de atraso oferecidas pelo aplicativo e decidir o horário de saída de casa. |
+| **Ações** | 1. Abrir o aplicativo. <br> 2. Selecionar a linha favorita e o ponto de embarque. <br> 3. Ativar "Alertas de desvio/interrupção" e configurar preferências de notificação. <br> 4. Receber notificação push quando o sistema detectar um desvio, interrupção ou cancelamento que afete a linha/ponto selecionado. <br> 5. Consultar as sugestões de rotas alternativas ou estimativas de atraso oferecidas pelo aplicativo e decidir o horário de saída de casa. |
 | **Eventos** | O sistema recebe sinalizações de operadores, sensores ou detecção por GPS de desvios no itinerário; registra interrupções e calcula impacto no tempo de chegada. Em seguida, dispara notificações aos usuários afetados, exibe a causa (obra, acidente, operação) e sugere rotas alternativas ou pontos de embarque diferentes. |
 | **Avaliação** | Ana considera a ação bem-sucedida quando recebe o alerta com antecedência suficiente para ajustar sua saída, visualiza alternativas viáveis e consegue embarcar sem grandes atrasos. O sucesso é medido pela redução do tempo de espera imprevisto e pela capacidade do usuário de escolher uma alternativa que minimize o impacto no deslocamento. |
 
@@ -228,11 +224,7 @@ O vídeo 4 apresenta a validação dos cenários 9 e 10 com um usuário real, pe
 | **Atores** | Suianne, trabalhadora da área de vendas que combina ônibus e metrô em seu deslocamento casa→trabalho. Tem familiaridade com apps de mobilidade e valoriza informações de integração entre modais. |
 | **Objetivos** | Visualizar em um único mapa a localização em tempo real dos ônibus e do metrô, com previsões de chegada nas respectivas paradas/estações, para escolher a melhor sequência de embarques e reduzir o tempo de espera. |
 | **Planejamento** | Suianne abre o aplicativo DF no Ponto e seleciona as linhas de ônibus e a estação de metrô que fazem parte do seu trajeto. Ela ativa a visualização integrada para monitorar ambos os modais enquanto se aproxima do ponto de conexão. |
-| **Ações** | 1. Abrir o aplicativo.
-2. Selecionar a linha de ônibus e/ou estação de metrô desejada.
-3. Ativar a opção de "Rastrear múltiplos modais" (ônibus + metrô).
-4. Visualizar no mapa os ícones diferenciados para ônibus e trens e conferir as previsões de chegada.
-5. Decidir o momento de sair de casa ou de seguir para a estação com base nas previsões combinadas. |
+| **Ações** | 1. Abrir o aplicativo. <br> 2. Selecionar a linha de ônibus e/ou estação de metrô desejada. <br> 3. Ativar a opção de "Rastrear múltiplos modais" (ônibus + metrô). <br> 4. Visualizar no mapa os ícones diferenciados para ônibus e trens e conferir as previsões de chegada. <br> 5. Decidir o momento de sair de casa ou de seguir para a estação com base nas previsões combinadas. |
 | **Eventos** | Os sistemas de GPS dos ônibus e os dados de sinalização do metrô atualizam as posições no sistema central. O servidor cruza as informações e exibe, no app de Suianne, as previsões de chegada e alertas de conexão. Caso haja atraso em um dos modais, o app sugere alternativas (aguardar próximo ônibus, trocar por outra estação/linha ou ajustar a rota). |
 | **Avaliação** | Suianne considera o recurso eficaz quando consegue sincronizar as conexões com confiança, reduzindo esperas e evitando perder o trem ou o ônibus de conexão. O sucesso é medido pela redução do tempo total de deslocamento e pelo aumento da previsibilidade das integrações. |
 
