@@ -24,8 +24,8 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 | **Daniel Nunes Duarte** | - Elaboração dos cenários 11 e 12 |
 | **Fernanda Vaz** | - Elaboração dos texto de Introdução <br> - Elaboração dos cenários 1 e 2 |
 | **Gabriel Maciel** | - Elaboração e Validação dos cenários 3 e 4 |
+| **João Gabriel** | - Elaboração e Validação dos cenários 9 e 10 |
 | **João Ramos** | - Elaboração e Validação dos cenários 5 e 6 |
-| **João Ramos** | - Elaboração e Validação dos cenários 9 e 10 |
 
 ## Cenários 1 e 2 (Fernanda Vaz)
 
