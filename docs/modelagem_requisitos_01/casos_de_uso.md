@@ -1,7 +1,6 @@
 ## Introdução
 O objetivo do diagrama de caso de uso em UML é demonstrar as diferentes maneiras que o usuário pode interagir com um sistema. Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre casos de uso, atores e sistemas. O caso de uso é representado por uma forma oval rotulada. Bonecos palito representam os atores no processo, e a participação do ator no sistema é modelada com uma linha entre o ator e o caso de uso. Para representar o limite do sistema, desenhe uma caixa em torno do próprio caso de uso. [(Lucidchart, 2025)](#ref-Lucid).
 
-
 ## Metodologia
 Segundo o vídeo do [(Lucidchart, 2025)](#ref-Lucid), os elementos apresentados na tabela 1, que descreve o elemento e dá um exemplo visual, são todos os elementos que podem conter em um caso de uso.
 
@@ -167,7 +166,7 @@ A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permit
 | **Data da criação**         |11/10/25|
 | **Rastreabilidade**         | **ENT12**: O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa. |
 
-*Autoria: Daniel Nunes Duarte, 2025*
+*Autoria: Gabriel Maciel, 2025*
 
 A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permite aos passageiros consultar saldo e recarregar o cartão BRB Mobilidade diretamente pelo aplicativo, oferecendo praticidade e agilidade nas transações.
 
