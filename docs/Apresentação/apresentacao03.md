@@ -20,7 +20,7 @@ Como não foi possível conciliar nossos horários, optei por gravar minha parte
 
 | Versão | Data       | Descrição                        | Autor(es)      | Revisor       |
 |:------:|:-----------|:---------------------------------|:---------------|:--------------|
-| 1.0    | 04/11/2025 | Organização da barra de navegação | Gabriel Maciel | João Ramos |
+| 1.0 | 07/11/2025 | Criação inicial do documento | Gabriel Maciel | Cauã Nicolas|
 | 1.1    | 12/11/2025 | Adição de vídeo | Fernanda Vaz | Gabriel Maciel |
 | 1.2    | 12/11/2025 | Adição de vídeo  | João Gabriel | Gabriel Maciel |
 | 1.3    | 23/11/2025 | Correção da introdução da apresentação | Gabriel Maciel | João Ramos |
