@@ -136,6 +136,8 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 
 ## Cenário 7 e 8 (Cauã Nicolas)
 
+### Cenário 7 - Histórico de viagens (Requisito não implementado)
+
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
 | **Ambiente ou contexto** | Isabela está visitando Brasília a trabalho por uma semana. Como autônoma, ela precisa contabilizar suas despesas com transporte para incluir na nota fiscal do projeto. Durante a semana, ela usou várias linhas de ônibus para se deslocar entre o hotel, reuniões com clientes e visitas a obras. No último dia, antes de voltar para casa, ela precisa verificar todas as viagens que fez e seus respectivos custos. |
@@ -146,10 +148,7 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 | **Eventos** | O sistema recupera do banco de dados todos os registros de viagens vinculados ao cartão ou app de Isabela. Organiza cronologicamente com detalhes: data, linha, horário de embarque e valor pago. Gera um resumo total e permite exportação em PDF para comprovação de despesas. |
 | **Avaliação** | Isabela consegue rapidamente compilar todas suas despesas com transporte. Fica satisfeita com a praticidade de ter tudo registrado automaticamente e a facilidade de exportar para prestação de contas. Reconhece que o histórico é essencial para quem usa o transporte ocasionalmente e precisa de controle financeiro. |
 
----
-
-## Cenário 8 - Ampliação da cobertura de informações de transporte do entorno do DF (Requisito não implementado)
-<span style="color:blue;">Autoria: Cauã Nicolas, 2025.</span>
+### Cenário 8 - Ampliação da cobertura de informações de transporte do entorno do DF (Requisito não implementado)
 
 | **Elemento** | **Descrição** |
 | :-----------: | :------------ |
@@ -160,10 +159,6 @@ O vídeo 2 apresenta, entre o trecho 0:27 e 3:42, a validação dos cenários 5 
 | **Ações** | O app exibe as linhas intermunicipais (ex: "Linha A - Brasília/Luziânia"), com horários de saída (06:00, 08:00, 10:00, 12:00...), tempo de viagem (aproximadamente 1h15min) e principais pontos de parada em Luziânia. Maria seleciona o horário das 10:00 e salva como favorito. |
 | **Eventos** | O sistema integra dados de empresas de transporte intermunicipal do entorno. Exibe informações atualizadas sobre linhas, horários e itinerários. Quando disponível, mostra também a localização em tempo real dos ônibus intermunicipais. Maria recebe uma notificação: "Linha salva com sucesso. Horário selecionado: 10:00". |
 | **Avaliação** | Maria consegue planejar sua viagem a Luziânia sem precisar usar outro aplicativo ou ir até a rodoviária presencialmente para consultar horários. Fica satisfeita com a ampliação da cobertura para o entorno e reconhece que isso torna o app mais completo e útil para quem precisa se deslocar entre o DF e cidades vizinhas. |
-
----
-
-
 
 ### Validação com usuário real dos Cenários 7 e 8 (Cauã Nicolas)
 
