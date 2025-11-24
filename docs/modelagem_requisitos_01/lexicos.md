@@ -339,7 +339,7 @@ O vídeo 6 apresenta a validação dos léxicos 16, 17 e 18 com um utilizador do
 | 1.4    | 12/10/2025 | Adição dos léxicos 09, 10, 11                            | João Gabriel   | Fernanda Vaz, João Lucas    |
 | 1.5    | 12/10/2025 | Adiciona vídeos de Validação com usuário real dos Léxicos | Gabriel Maciel  | Fernanda Vaz, JoÃo Lucas, Cauã Nicolas    |
 | 1.6    | 12/10/2025 | Adição dos léxicos 16 , 17 e 18. | Daniel Nunes Duarte | Gabriel Maciel |
-| 2.0    | 23/11/2025 | Preenchimento da tabela de contribuição com hyperlinks | Gabriel Maciel | - |
+| 2.0    | 23/11/2025 | Preenchimento da tabela de contribuição com hyperlinks | Gabriel Maciel | Daniel Nunes Duarte |
 
 ## Agradecimentos
 > Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
