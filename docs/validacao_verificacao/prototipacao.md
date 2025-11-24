@@ -181,13 +181,6 @@ Autoria: João Gabriel, 2025
 
 [🔗 Link para o protótipo no Figma](https://www.figma.com/proto/NkqyrIBYcYtGHBxMmJahan/Historico-e-Report-DF-no-Ponto?node-id=1-122&p=f&t=ZqEtuRTrzfsL1YyN-1&scaling=scale-down&page-id=0%3A1)
 
-<iframe
-  style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 8px;"
-  width="800"
-  height="450"
-  src="https://embed.figma.com/proto/NkqyrIBYcYtGHBxMmJahan/Historico-e-Report-DF-no-Ponto?node-id=1-122&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A122&embed-host=share"
-  allowfullscreen>
-</iframe>
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
