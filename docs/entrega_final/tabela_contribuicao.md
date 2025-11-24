@@ -26,7 +26,7 @@ A Tabela 2 registra as contribuições durante a etapa de elicitação e prioriz
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
 | Perfil de Usuário | 0 | 0 | [1](../Elicitacao/perfil.md) | 0 | [1](../Elicitacao/perfil.md) | 0 |
 | Personas | 0 | 0 | [1](../Elicitacao/perfil_personas.md) | 0 | 0 | 0 |
-| Análise de Documentos | 0 | 0 | [1](../Elicitacao/elicitacao_analise_documentos.md) | 0 | [1](../Elicitacao/elicitacao_analise_documentos.md) | 0 |
+| Análise de Documentos | 0 | [1](../Elicitacao/elicitacao_analise_documentos.md) | [1](../Elicitacao/elicitacao_analise_documentos.md) | 0 | [1](../Elicitacao/elicitacao_analise_documentos.md) | 0 |
 | Brainstorming | [1](../Elicitacao/elicitacao_brainstorm.md) | [1](../Elicitacao/elicitacao_brainstorm.md) | [1](../Elicitacao/elicitacao_brainstorm.md) | [1](../Elicitacao/elicitacao_brainstorm.md) | [1](../Elicitacao/elicitacao_brainstorm.md) | [1](../Elicitacao/elicitacao_brainstorm.md)  |
 | Entrevista | [1](../Elicitacao/elicitacao_entrevista.md) | 0 | 0 | [1](../Elicitacao/elicitacao_entrevista.md) | 0 | [1](../Elicitacao/elicitacao_entrevista.md) |
 | Requisitos Elicitados | [23 (Entrevista)](../Elicitacao/elicitacao_entrevista.md#resultados) | 0 | [10 (Análise de documentos)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-identificados) | [23 (Entrevista)](../Elicitacao/elicitacao_entrevista.md#resultados) | [10 (Análise de documentos)](../Elicitacao/elicitacao_analise_documentos.md#requisitos-identificados) | [23 (Entrevista)](../Elicitacao/elicitacao_entrevista.md#resultados) |
