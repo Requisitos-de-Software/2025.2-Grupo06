@@ -1,7 +1,6 @@
 ## Introdução
 O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem utilizada para representar e analisar RNF. Segundo Reinaldo Antônio <sup>[1](#ref-1)</sup>, seu objetivo é auxiliar desenvolvedores a implementar soluções personalizadas. Essa abordagem considera as características específicas do sistema — como requisitos funcionais, não-funcionais, prioridades e carga de trabalho — para determinar as alternativas de desenvolvimento mais adequadas (CHUNG et al., 2000).
 
----
 
 ###### Print da Referência 
 <p align="center">
@@ -10,7 +9,15 @@ O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem utili
 <font size="3">Figura 01 – NFR Framework.</font>
 </p>
 
----
+## Tabela de Contribuições
+
+| Nome                 | Responsabilidade                                                                                              |
+|----------------------|---------------------------------------------------------------------------------------------------------------|
+| Cauã Nicolas         | [- Elaboração do SIG Portabilidade](#sig-portabilidadecompatibilidade) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Portabilidade](#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-portabilidade) |
+| Fernanda Vaz         | [- Adição de introdução](#introducao) <br>[- Elaboração do SIG Usabilidade](#sig-usabilidade) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade](#cartao-de-especificacao-01-facilidade-de-aprendizagem) |
+| Gabriel Maciel       | [- Elaboração do SIG Desempenho](#sig-desempenho) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Desempenho](#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho) |
+| João Gabriel         | [- Elaboração do SIG Confiabilidade](#sig-confiabilidade) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Confiabilidade](#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-confiabilidade) |
+| João Ramos           | [- Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade](#ru09-adaptabilidade-e-acessibilidade) <br>[- Validação](#validacaojoao-ramos) |
 
 ## Softgoal Interdependency Graph
 Segundo Reinaldo Antônio <sup>[1](#ref-1)</sup> o "Softgoal Interdependency Graph" (SIG) é um gráfico que registra as análises do desenvolvedor sobre os softgoals (objetivos não-funcionais) e mostra como eles dependem uns dos outros. Essencialmente, os SIGs armazenam todo o histórico das decisões de desenvolvimento e a lógica do projeto de forma visual e resumida.
@@ -36,7 +43,6 @@ O Cartão de Especificação de Requisitos segue o padrão utilizado no NFR Fram
 
 ##### PRINT
 <a href="https://ibb.co/QqScJ5N"><img src="https://i.ibb.co/2LV6Fbt/image.png" alt="image" border="0"></a>
----
 
 ### Tipos de Softgoal
 
@@ -54,7 +60,6 @@ Existem três tipos de softgoals: **Softgoals NFR**, **Softgoals de Operacionali
 <font size="3">Figura 02 – Tipos de Softgoal.</font>
 </p>
 
----
 
 ### Tipos de Decomposições
 
@@ -71,7 +76,6 @@ As decomposições refinam softgoals para obter outros mais especializados, auxi
 <font size="3">Figura 03 – Tipos de Decomposição.</font>
 </p>
 
----
 
 ### Contribuições
 
@@ -99,7 +103,6 @@ O **NFR Framework** permite diversos tipos de contribuições que descrevem como
 <font size="3">Figura 05 – Exemplos de Contribuições “MAKE”, “BREAK”, “HELP” e “HURT”.</font>
 </p>
 
----
 
 ## SIG Usabilidade
 
@@ -113,183 +116,126 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 <font size="3">Figura 06 – Diagrama SIG Usabilidade.</font>
 </p>
 
----
 
-### Requisitos Não-Funcionais do SIG Usabilidade
-??? info "Requisitos Não-Funcionais do SIG - Usabilidade"
+## Cartão de Especificação 01 — Facilidade de Aprendizagem
 
-    | **ID** | **Descrição** |
-    |:------:|:---------------|
-    | **RU01** | Cidadãos devem conseguir utilizar funcionalidades básicas sem treinamento prévio. |
-    | **RU02** | Oferecer resultados precisos para o usuário. |
-    | **RU03** | A interface deve ser facilmente memorável para passageiros que usam ocasionalmente. |
-    | **RU04** | A interface deve ser agradável e satisfatória de usar. |
-    | **RU05** | Suporte a leitores de tela e ajuste de contraste conforme WCAG (Web Content Accessibility Guidelines). |
-    | **RU06** | Mensagens de erro e confirmação devem ser claras e objetivas. |
-    | **RU07** | Padrões visuais e de interação consistentes em todo o aplicativo. |
-    | **RU08** | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
-    | **RU09** | A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora). |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU01 / RNF01 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Facilidade de Aprendizagem |
+| **Descrição** | Cidadãos devem conseguir utilizar funcionalidades básicas sem treinamento prévio. |
+| **Justificativa** | Permite acesso imediato às informações de transporte para usuários com diferentes níveis de alfabetização digital. |
+| **Origem** | Entrevistas com usuários finais; Análise de usabilidade. |
+| **Critério de Ajuste** | 90% dos novos usuários completam 3 tarefas básicas em até 5 minutos sem assistência. |
+| **Dependências** | Nenhum |
+| **Prioridade** | 10 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
-### Cartão de Especificação de Requisitos Não-Funcionais do SIG Usabilidade
+## Cartão de Especificação 02 — Eficiência e Precisão
 
-??? info "RU01 - Facilidade de Aprendizagem"
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU02 / RNF02 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Eficiência e Precisão |
+| **Descrição** | O sistema deve oferecer resultados precisos para o usuário. |
+| **Justificativa** | Garantir confiança no planejamento dos deslocamentos, evitando atrasos causados por dados incorretos. |
+| **Origem** | Análise de reclamações dos usuários. |
+| **Critério de Ajuste** | Precisão ≥ 95%; erro de horário ≤ 3 min; reclamações < 2%. |
+| **Dependências** | RNF-Desempenho, RNF-Integração |
+| **Prioridade** | 10 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
-    ## Cartão de Especificação 01 Facilidade de Aprendizagem
+## Cartão de Especificação 03 — Memorabilidade
 
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU01 / RNF01 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Facilidade de Aprendizagem |
-    | **Descrição** | Cidadãos devem conseguir utilizar funcionalidades básicas sem treinamento prévio. |
-    | **Justificativa** | É fundamental que o sistema permita que os usuários realizem suas operações de forma simples, sem que haja dificuldade durante o seu uso. Garantir acesso imediato às informações de transporte para usuários de diferentes níveis de alfabetização digital. |
-    | **Origem** | Elicitação de Requisitos: Entrevista com usuários finais, Análise de usabilidade |
-    | **Critério de Ajuste** | 90% dos novos usuários devem completar 3 tarefas básicas (consultar rota, ver horários, localizar parada) em até 5 minutos sem assistência; |
-    | **Dependências** |Nenhum |
-    | **Prioridade** | 10 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU03 / RNF03 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Memorabilidade |
+| **Descrição** | Interface deve ser facilmente memorável para passageiros ocasionais. |
+| **Justificativa** | Usuários esporádicos devem conseguir reutilizar o sistema sem reaprendizagem. |
+| **Origem** | Entrevistas com usuários. |
+| **Critério de Ajuste** | 85% dos usuários retornando após 30 dias completam tarefas sem ajuda; tempo de reaprendizagem < 2 min. |
+| **Dependências** | Nenhum |
+| **Prioridade** | 8 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
----
+## Cartão de Especificação 04 — Satisfação do Usuário
 
-??? info "RU02 - Eficiência e Precisão"
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU04 / RNF04 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Satisfação do Usuário |
+| **Descrição** | A interface deve ser agradável e satisfatória de usar. |
+| **Justificativa** | Melhora a percepção do transporte público e aumenta a adesão ao sistema. |
+| **Origem** | Análise de documentos. |
+| **Critério de Ajuste** | SUS ≥ 80; avaliação ≥ 4.5 estrelas; satisfação ≥ 85%. |
+| **Dependências** | Nenhum |
+| **Prioridade** | 8 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
-    ## Cartão de Especificação 02  Eficiência e Precisão"
+## Cartão de Especificação 05 — Acessibilidade
 
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU02 / RNF02 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Eficiência e Precisão |
-    | **Descrição** | O sistema deve oferecer resultados precisos para o usuário. |
-    | **Justificativa** | A precisão das informações é crítica para que usuários possam planejar seus deslocamentos com confiança, evitando atrasos e frustrações causadas por dados incorretos ou desatualizados. |
-    | **Origem** | Elicitação de Requisitos: Análise de reclamações dos usuários |
-    | **Critério de Ajuste** | Precisão de rotas sugeridas ≥ 95%; Margem de erro em horários previstos ≤ 3 minutos; Taxa de reclamações sobre informações incorretas < 2%. |
-    | **Dependências** | RNF-Desempenho, RNF-Integração |
-    | **Prioridade** | 10 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU05 / RNF05 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Acessibilidade |
+| **Descrição** | Suporte a leitores de tela e contraste conforme WCAG 2.1 AA. |
+| **Justificativa** | Atende a requisitos legais e garante inclusão digital. |
+| **Origem** | Entrevistas com usuários PCD; WCAG. |
+| **Critério de Ajuste** | 100% conformidade WCAG 2.1 AA; contraste ≥ 4.5:1; sucesso ≥ 90% com usuários PCD. |
+| **Dependências** | Nenhum |
+| **Prioridade** | 10 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
----
+## Cartão de Especificação 06 — Feedback e Comunicação
 
-??? info "RU03 - Memorabilidade"
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU06 / RNF06 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Feedback e Comunicação |
+| **Descrição** | Mensagens de erro e confirmação devem ser claras e objetivas. |
+| **Justificativa** | Ajuda na correção rápida de erros, reduz frustração e aumenta confiança. |
+| **Origem** | Análise de documentos. |
+| **Critério de Ajuste** | 95% das mensagens compreendidas sem explicação; leitura até 8º ano; resolução de erros < 30s. |
+| **Dependências** | Nenhum |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
-    ## Cartão de Especificação 03  Memorabilidade
+## Cartão de Especificação 07 — Consistência
 
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU03 / RNF03 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Memorabilidade |
-    | **Descrição** | Interface deve ser facilmente memorável para passageiros que usam ocasionalmente. |
-    | **Justificativa** | Usuários esporádicos (turistas, visitantes ocasionais) devem conseguir relembrar como usar o sistema sem necessidade de reaprender, aumentando a adoção e satisfação geral. |
-    | **Origem** | Elicitação de Requisitos: entrevistas com usuários|
-    | **Critério de Ajuste** | 85% dos usuários retornando após 30 dias devem completar tarefas sem consultar ajuda; Tempo de reaprendizagem < 2 minutos; NPS ≥ 70 para facilidade de uso. |
-    | **Dependências** | Nenhum|
-    | **Prioridade** | 8 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz|
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU07 / RNF07 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Consistência |
+| **Descrição** | Padrões visuais e de interação consistentes em todo o aplicativo. |
+| **Justificativa** | Reduz carga cognitiva e facilita aprendizado. |
+| **Origem** | Entrevistas. |
+| **Critério de Ajuste** | 100% conformidade com Design System; score ≥ 95% em auditoria de consistência. |
+| **Dependências** | Nenhum |
+| **Prioridade** | 9 |
+| **Conflitos** | Nenhum |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |     
 
----
+## Cartão de Especificação 08 — Personalização
 
-??? info "RU04 - Satisfação do Usuário"
-
-    ## Cartão de Especificação 04 Satisfação do Usuário
-
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU04 / RNF04 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Satisfação do Usuário |
-    | **Descrição** | A interface deve ser agradável e satisfatória de usar. |
-    | **Justificativa** | Uma experiência agradável aumenta a fidelização dos usuários, reduz resistência à adoção de tecnologia e melhora a percepção geral do serviço de transporte público. |
-    | **Origem** | Analise de documentos |
-    | **Critério de Ajuste** | System Usability Scale (SUS) ≥ 80 pontos; Avaliação média na loja de apps ≥ 4.5 estrelas; Taxa de satisfação em pesquisas ≥ 85%. |
-    | **Dependências** | Nenhum|
-    | **Prioridade** | 8 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor:Fernanda Vaz |
-
----
-
-??? info "RU05 - Acessibilidade"
-
-    ## Cartão de Especificação 05 Acessibilidade
-
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU05 / RNF05 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Acessibilidade |
-    | **Descrição** | Suporte a leitores de tela e ajuste de contraste conforme WCAG (Web Content Accessibility Guidelines). |
-    | **Justificativa** | Garantir inclusão digital e atendimento a requisitos legais (Lei Brasileira de Inclusão - LBI 13.146/2015), permitindo que pessoas com deficiência visual utilizem plenamente o sistema. |
-    | **Origem** | Entrevistas e WCAG  |
-    | **Critério de Ajuste** | Conformidade WCAG 2.1 Nível AA (100%); Razão de contraste ≥ 4.5:1 para textos normais e ≥ 3:1 para textos grandes; Teste com usuários PCD com taxa de sucesso ≥ 90%. |
-    | **Dependências** |Nenhum |
-    | **Prioridade** | 10 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor:Fernanda Vaz |
-
----
-
-??? info "RU06 - Feedback e Comunicação"
-
-    ## Cartão de Especificação 06 Feedback e Comunicação
-
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU06 / RNF06 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Feedback e Comunicação |
-    | **Descrição** | Mensagens de erro e confirmação devem ser claras e objetivas. |
-    | **Justificativa** | Feedback adequado reduz frustração, ajuda usuários a corrigir erros rapidamente e aumenta a confiança no sistema, especialmente para usuários menos experientes. |
-    | **Origem** | Analise de documentos |
-    | **Critério de Ajuste** | 95% das mensagens devem ser compreendidas sem necessidade de esclarecimento adicional; Linguagem em nível de leitura até 8º ano fundamental; Tempo médio para resolver erros < 30 segundos; Taxa de contato ao suporte por mensagens confusas < 5%. |
-    | **Dependências** |Nenhum |
-    | **Prioridade** | 9 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
-
----
-
-??? info "RU07 - Consistência"
- 
-    ## Cartão de Especificação 07 Consistência
-
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU07 / RNF07 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Consistência |
-    | **Descrição** | Padrões visuais e de interação consistentes em todo o aplicativo. |
-    | **Justificativa** | Consistência facilita aprendizado, reduz carga cognitiva e aumenta a eficiência de uso, permitindo que usuários desenvolvam modelos mentais claros sobre o funcionamento do sistema. |
-    | **Origem** | Entrevistas |
-    | **Critério de Ajuste** | 100% conformidade com Design System estabelecido; Auditoria de consistência com score ≥ 95%; Mesmos padrões de cores, tipografia e espaçamento em todas as telas; Componentes reutilizáveis em ≥ 90% da interface. |
-    | **Dependências** |Nenhum |
-    | **Prioridade** | 9 |
-    | **Conflitos** | Nenhum |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
-
----
-
-??? info "RU08 - Personalização"
-
-    ## Cartão de Especificação 08 Personalização
-
-    | **Campo** | **Descrição** |
-    |-----------|---------------|
-    | **Nr Requisito** | RU08 / RNF08 |
-    | **Classificação** | Requisito Não-Funcional de Usabilidade - Personalização |
-    | **Descrição** | Permitir ajustes básicos de preferências visuais (tema, fonte, notificações). |
-    | **Justificativa** | Personalização aumenta satisfação e acessibilidade, permitindo que usuários adaptem o sistema às suas preferências e necessidades específicas (ex: modo escuro, fontes maiores). |
-    | **Origem** |  Feedback no google playstore|
-    | **Critério de Ajuste** | Disponibilizar no mínimo: tema claro/escuro, 3 tamanhos de fonte, controle de notificações; Configurações salvas persistem entre sessões (100%); Tempo para aplicar preferências < 3 segundos; Taxa de uso de personalização ≥ 40%. |
-    | **Dependências** | nenhum  |
-    | **Prioridade** | 8 |
-    | **Conflitos** | Possível conflito com RU07 (Consistência) se personalização excessiva fragmentar a experiência |
-    | **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
-
----
-
-
-
-
-
-
----
+| **Campo** | **Descrição** |
+|-----------|---------------|
+| **Nr Requisito** | RU08 / RNF08 |
+| **Classificação** | Requisito Não-Funcional de Usabilidade — Personalização |
+| **Descrição** | Permitir ajustes de preferências visuais (tema, fonte, notificações). |
+| **Justificativa** | Aumenta satisfação e acessibilidade do sistema. |
+| **Origem** | Feedback dos usuários na Play Store. |
+| **Critério de Ajuste** | Tema claro/escuro; 3 tamanhos de fonte; controle de notificações; persistência 100%. |
+| **Dependências** | Nenhum |
+| **Prioridade** | 8 |
+| **Conflitos** | Pode conflitar com RU07 se personalização excessiva reduzir consistência. |
+| **Histórico** | Criado em 21/10/2025 — Autor: Fernanda Vaz |
 
 #### RU09 - Adaptabilidade e Acessibilidade
 
@@ -306,11 +252,6 @@ Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Es
 | **Conflitos** | Pode conflitar com requisitos de design (estética) se não for bem planejado. |
 | **Histórico** | Criado em 21/10/2025 — Autor: João Ramos |
 
----
-
-
-
-
 ## SIG Desempenho
 
 *Autoria: Gabriel Maciel, 2025.*
@@ -325,7 +266,6 @@ Os softgoals de desempenho foram extraídos dos Requisitos de Desempenho (RD01-R
 <font size="3">Figura 07 – Diagrama SIG Desempenho.</font>
 </center>
 
----
 
 #### Softgoals NFR
 
@@ -342,7 +282,6 @@ A **Tabela 05** lista os softgoals NFR principais.
 | SIG-D03 | Consumo Eficiente | Reduzir uso de bateria e dados móveis. |
 | SIG-D04 | Múltiplos Usuários | Suportar vários usuários simultaneamente. |
 
----
 
 #### Softgoals de Operacionalização
 
@@ -363,7 +302,6 @@ A **Tabela 05** lista os softgoals NFR principais.
 | OP-D06 | Cache de Informações | SIG-D04 | Armazenar dados de linhas, paradas e horários localmente para reduzir carga de requisições ao servidor. |
 | OP-D07 | Servidor Responsivo | SIG-D04 | Manter infraestrutura de servidor estável e responsiva para processar múltiplas requisições simultâneas de rastreamento e consulta. |
 
----
 
 #### Softgoals de Afirmação
 
@@ -378,7 +316,6 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | AF-D01 | Satisfação do Usuário | SIG-D02 | Usuários satisfeitos com a velocidade da aplicação. |
 | AF-D02 | Funcionamento em Dispositivos Limitados | SIG-D03, SIG-D04 | Sistema funciona bem em smartphones com recursos reduzidos. |
 
----
 
 #### Rastreabilidade
 
@@ -393,7 +330,6 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | SIG-D03 | RD03 | OP-D03, OP-D04, OP-D05, AF-D02 |
 | SIG-D04 | RD04 | OP-D06, OP-D07, AF-D02 |
 
----
 
 ### Cartão de Especificação de Requisitos Não-Funcionais do SIG Desempenho
 
@@ -457,7 +393,6 @@ A **Tabela 07** especifica os softgoals de afirmação.
 | **Conflitos** | Nenhum |
 | **Histórico** | Criado em 21/10/2025  — Autor: Gabriel Maciel |
 
----
 
 ## SIG Portabilidade/Compatibilidade
 
@@ -469,7 +404,6 @@ A **Tabela 07** especifica os softgoals de afirmação.
 <font size="3">Figura 08 – Diagrama SIG Portabilidade.</font>
 </center>
 
----
 
 ### Cartão de Especificação de Requisitos Não-Funcionais do SIG Portabilidade
 
@@ -560,7 +494,6 @@ Os softgoals de confiabilidade foram extraídos dos Requisitos de Confiabilidade
 <font size="3">Figura 09 – Diagrama SIG Confiabilidade.</font>
 </center>
 
----
 
 #### Softgoals NFR
 
@@ -581,7 +514,6 @@ A **Tabela 10** lista os softgoals NFR principais.
 | SIG-C07 | Monitoramento | Sistema deve detectar e reportar falhas automaticamente |
 | SIG-C08 | Consistência de Dados | Dados devem permanecer consistentes entre sessões e dispositivos |
 
----
 
 #### Softgoals de Operacionalização
 
@@ -601,7 +533,6 @@ A **Tabela 10** lista os softgoals NFR principais.
 | OP-C06 | Reporte Automático de Logs | SIG-C07 | Detectar e registrar falhas automaticamente para análise |
 | OP-C07 | Reporte Manual por Usuário | SIG-C07 | Permitir que usuários reportem erros observados manualmente |
 
----
 
 #### Softgoals de Afirmação
 
@@ -617,7 +548,6 @@ A **Tabela 12** especifica os softgoals de afirmação.
 | AF-C02 | Experiência Consistente | SIG-C04, SIG-C08 | Experiência uniforme independente de condições externas |
 | AF-C03 | Resiliência Operacional | SIG-C05, SIG-C06 | Sistema mantém operação em cenários adversos |
 
----
 
 #### Rastreabilidade
 
@@ -636,7 +566,6 @@ A **Tabela 12** especifica os softgoals de afirmação.
 | SIG-C07 | RC06 | OP-C06, OP-C07 |
 | SIG-C08 | RC07 | OP-C05, AF-C02 |
 
----
 
 ### Cartão de Especificação de Requisitos Não-Funcionais do SIG Confiabilidade
 
@@ -745,9 +674,8 @@ A **Tabela 12** especifica os softgoals de afirmação.
 | **Conflitos** | Nenhum |
 | **Histórico** | Criado em 21/10/2025 — Autor: João Gabriel |
 
----
 
-## Validação(João Ramos)
+## Validação (João Ramos)
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/OPVuApWBT6k" 
   title="YouTube video player" 
@@ -762,7 +690,6 @@ A **Tabela 12** especifica os softgoals de afirmação.
 
 > <sup>1.</sup> SILVA, Reinaldo Antônio da. **NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados.** Recife: Universidade Federal de Pernambuco, 2019.
 
----
 
 ## Bibliografia 
 
@@ -770,16 +697,6 @@ A **Tabela 12** especifica os softgoals de afirmação.
 > Disponível em: [https://lucid.app/lucidchart/929a11a2-17f7-4526-93f0-3c97ddc4d236](https://lucid.app/lucidchart/929a11a2-17f7-4526-93f0-3c97ddc4d236).  
 > Acesso em: 19 out. 2025.
 
----
-
-## Tabela de Contribuições
-
-| Nome                 | Responsabilidade                                                                                              |
-|----------------------|---------------------------------------------------------------------------------------------------------------|
-| Cauã Nicolas         | Elaboração do SIG Portabilidade; Elaboração dos cartões de especificação dos RNFs do SIG Portabilidade |
-| Fernanda Vaz         | Adição de introdução; Elaboração do SIG Usabilidade; Elaboração do SIG Acessibilidade |
-| Gabriel Maciel       | Elaboração do SIG Desempenho; Elaboração dos cartões de especificação dos RNFs do SIG Desempenho |
-| João Ramos           | Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade |
 
 ## Histórico de Versões
 
@@ -798,7 +715,6 @@ A **Tabela 12** especifica os softgoals de afirmação.
 | 1.6 | 21/10 | Adição de Cartões de Especificação dos RNFs do SIG Usabilidade | João Ramos | Gabriel Maciel |
 | 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | |
 
----
 
 ## Agradecimentos
 

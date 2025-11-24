@@ -232,7 +232,7 @@ A Tabela 9 a seguir especifica em detalhe os elementos constitutivos do cenário
 
 *Fonte: Cauã Nicolas, 2025*
 
-### Validação com usuário real dos Cenários 7 e 8 (Cauã Nicolas)
+### Validação com usuário real dos Cenários 7 e 8
 
 O vídeo 3 apresenta, entre o trecho 0:33 e 3:07, a validação dos cenários 7 e 8 com um usuário real, mostrando o uso do histórico de viagens para controle de despesas e a consulta de informações sobre linhas intermunicipais do entorno do DF no aplicativo.
 
@@ -324,13 +324,13 @@ A Tabela 13 a seguir especifica em detalhe os elementos constitutivos do cenári
 
 *Fonte: Daniel Nunes Duarte, 2025*
 
-### Validação com usuário real dos Cenários 3 e 4 
+### Validação com usuário real dos Cenários 11 e 12
 
 O vídeo 5 apresenta a validação dos cenários 11 e 12 com um usuário real, mostrando brevemente alertas de desvio e interrupção de rota e integração ônibus e metrô no aplicativo.
 
-<iframe width="560" height="315" src="https://youtu.be/ewHxzE303KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewHxzE303KQ?si=suD-CDVNIAAB-ivR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Vídeo 1: Validação dos Cenários 11 e 12*
+*Vídeo 5: Validação dos Cenários 11 e 12*
 
 ## Referências 
 

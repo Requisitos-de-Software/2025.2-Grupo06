@@ -58,6 +58,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 
 | Nome            | Responsabilidade              |
 |-----------------|-------------------------------|
+| Daniel Nunes Duarte | Elaboração da Análise de Documentos | 
 | Fernanda Vaz    | Elaboração da Análise de Documentos | 
 | João Gabriel    | Elaboração da Análise de Documentos | 
 

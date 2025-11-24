@@ -10,7 +10,7 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 
 |        Nome          | Contribuição |
 |----------------------|--------------|
-| Caúa Nicolas | - [Léxico 07 - Destino](#lexico-07-destino) <br> - [Léxico 08 - Rastrear](#lexico-08-rastrear) <br> - [Léxico 09 - Agora](#lexico-09-agora) |
+| Cauã Nicolas | - [Léxico 07 - Destino](#lexico-07-destino) <br> - [Léxico 08 - Rastrear](#lexico-08-rastrear) <br> - [Léxico 09 - Agora](#lexico-09-agora) |
 | Daniel Nunes Duarte | - [Léxico 16 - Trabalhador](#lexico-16-trabalhador) <br> - [Léxico 17 - Alertar](#lexico-17-alertar) <br> - [Léxico 18 - Aproximação do ônibus](#lexico-18-aproximacao-do-onibus) |
 | Fernanda Vaz | - [Léxico 01 - Notificações de Chegada](#lexico-01-notificacoes-de-chegada)<br> - [Léxico 02 - Transporte Atrasado](#lexico-02-transporte-atrasado) <br> - [Léxico 03 - Passageiro](#lexico-03-passageiro) |
 | Gabriel Maciel | - [Léxico 10 - Transporte público](#lexico-10-transporte-publico) <br> - [Léxico 11 - Pesquisar](#lexico-11-pesquisar) <br> - [Léxico 12 - Tempo real](#lexico-12-tempo-real) |
@@ -316,13 +316,11 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 
 *Fonte: Daniel Nunes Duarte, 2025.*
 
-### Validação dos léxicos com um utilizador do transporte publico 16, 17 e 18 
+### Validação com usuário real dos Léxicos 16, 17 e 18 
 
 O vídeo 6 apresenta a validação dos léxicos 16, 17 e 18 com um utilizador do transporte publico.
 
-<iframe width="560" height="315" src="https://youtu.be/HZO6WKGF-vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Vídeo a ser adicionado.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZO6WKGF-vU?si=fDXUb5kIZN1zW0Qp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Vídeo 6: Validação dos Léxicos 16, 17 e 18*
 
