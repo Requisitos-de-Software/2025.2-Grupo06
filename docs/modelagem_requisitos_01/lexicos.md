@@ -316,13 +316,11 @@ O vídeo 4 apresenta, entre o trecho 3:17 e 5:17, a validação dos léxicos 4, 
 
 *Fonte: Daniel Nunes Duarte, 2025.*
 
-### Validação dos léxicos com um utilizador do transporte publico 16, 17 e 18 
+### Validação com usuário real dos Léxicos 16, 17 e 18 
 
 O vídeo 6 apresenta a validação dos léxicos 16, 17 e 18 com um utilizador do transporte publico.
 
-<iframe width="560" height="315" src="https://youtu.be/HZO6WKGF-vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Vídeo a ser adicionado.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZO6WKGF-vU?si=fDXUb5kIZN1zW0Qp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Vídeo 6: Validação dos Léxicos 16, 17 e 18*
 
