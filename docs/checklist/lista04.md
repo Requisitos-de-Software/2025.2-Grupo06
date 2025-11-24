@@ -182,8 +182,6 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 ---
 
-## Lista de Verificação: Histórias de Usuário
-
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
 | **07:** Cada história é escrita pelo cliente e é colocada em uma ficha? | A avaliar | João Gabriel | 21/10/2025 15:45 |
@@ -218,6 +216,17 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 <a href="https://ibb.co/VYDgWSTD"><img src="https://i.ibb.co/pjZfvzdZ/Captura-de-tela-de-2025-10-21-21-06-188.png" alt="Captura-de-tela-de-2025-10-21-21-06-188" border="0"></a>
 
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
+
+---
+
+| Item | Avaliação | Avaliador(es) | Data e Hora |
+|:-----|:----------|:--------------|:-------------|
+| **11:** A história do usuário foi uma manifestação explícita de requisitos? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
+
+![Fonte do Item 11](https://i.ibb.co/VW6scxpy/H-S.png)  
+**Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 12)
+
+---
 
 ## Lista de Verificação: Backlog
 
@@ -363,39 +372,30 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **17:** As Sprints estão ajustadas dentro do prazo pré-determinado? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 17](../assets/imagens/checklist_4/print_backlog_18.png)  
+![Fonte do Item 17](https://i.ibb.co/VkpHCLk/17-1.png)
 **Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 15)
 
 ---
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **18:** A história do usuário foi uma manifestação explícita de requisitos? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
+| **18:** O backlog é uma lista ordenada de tudo que pode ser necessário no produto? | A avaliar | João Gabriel | 21/10/2025 15:45 |
 
-![Fonte do Item 18](../assets/imagens/checklist_4/print_backlog_19.png)  
-**Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 12)
-
----
-
-| Item | Avaliação | Avaliador(es) | Data e Hora |
-|:-----|:----------|:--------------|:-------------|
-| **19:** O backlog é uma lista ordenada de tudo que pode ser necessário no produto? | A avaliar | João Gabriel | 21/10/2025 15:45 |
-
-![Fonte do Item 19](https://i.ibb.co/DgKJtJXr/image.png)  
+![Fonte do Item 18](https://i.ibb.co/DgKJtJXr/image.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 5 out. 2020. (0:37m)
 
 ---
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **20:** O backlog é a única fonte dos requisitos para qualquer mudança a ser feita no produto? | A avaliar | João Gabriel | 21/10/2025 15:45 |
+| **19:** O backlog é a única fonte dos requisitos para qualquer mudança a ser feita no produto? | A avaliar | João Gabriel | 21/10/2025 15:45 |
 
-![Fonte do Item 20](https://i.ibb.co/MDmk2tkz/image.png)  
+![Fonte do Item 19](https://i.ibb.co/MDmk2tkz/image.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 5 out. 2020. (0:42m)
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **21:** O Product Backlog foi iniciado com os itens mais óbvios — medido em semanas de desenvolvimento — a ela? | A avaliar | João Ramos | 21/10/2025 21:00 |
+| **20:** O Product Backlog foi iniciado com os itens mais óbvios — medido em semanas de desenvolvimento — a ela? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 <a href="https://ibb.co/GvNnMWNc"><img src="https://i.ibb.co/6RLrtHLg/Captura-de-tela-de-2025-10-21-21-14-425.png" alt="Captura-de-tela-de-2025-10-21-21-14-425" border="0"></a>
 
@@ -403,7 +403,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
-| **22:** O Product Backlog foi tratado como um artefato dinâmico que cresce conforme o conhecimento sobre o produto aumenta? | A avaliar | João Ramos | 21/10/2025 21:00 |
+| **21:** O Product Backlog foi tratado como um artefato dinâmico que cresce conforme o conhecimento sobre o produto aumenta? | A avaliar | João Ramos | 21/10/2025 21:00 |
 
 <a href="https://ibb.co/Hfqsq9JN"><img src="https://i.ibb.co/v6kGkMts/Captura-de-tela-de-2025-10-21-21-14-333.png" alt="Captura-de-tela-de-2025-10-21-21-14-333" border="0"></a>
 
@@ -434,6 +434,8 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | 1.1 | 18/10/2025 | Adição de itens 1 e 2 das Listas de Verificação: NFR Framework, Histórias de Usuário e Backlog | Gabriel Maciel | Cauã Nicolas |
 | 1.2 | 18/10/2025 | Adição de novos artefatos (itens 3 e 4) nas Listas de Verificação | Fernanda Vaz | Gabriel Maciel |
 | 1.3 | 19/10/2025 | Adição de novos artefatos (itens 5 e 6) nas Listas de Verificação | Cauã Nicolas | Gabriel Maciel |
-| 1.4 | 21/10/2025 | Adição dos novos itens 9–12 (NFR Framework) e 7–18 (Backlog) | Daniel Nunes Duarte | João Gabriel |
-| 1.5 | 21/10/2025 | Adição dos novos itens  7-8 (NFR), 19-20(backlog) e 7-8 (Historias)| João Gabriel | Daniel Nunes Duarte |
+| 1.4 | 21/10/2025 | Adição dos novos itens 9–12 (NFR Framework) e 7–17 (Backlog) | Daniel Nunes Duarte | João Gabriel |
+| 1.5 | 21/10/2025 | Adição dos novos itens  7-8 (NFR), 18-19(backlog) e 7-8 (Historias)| João Gabriel | Daniel Nunes Duarte |
 | 1.6 | 21/10/2025 | Adição dos novos itens  nas LVs| João Ramos | Daniel Nunes Duarte |
+| 2.0 | 24/11/2025 | Atualização das imagens nos itens e Incremento de itens em Historia de Usuario | Daniel Nunes Duarte | ------- |
+
