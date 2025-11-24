@@ -35,6 +35,12 @@
 | 22  | As setas possuem legendas indicando sua funcionalidade?                             | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
 | 23  | Os atores são representados graficamente por um boneco?                             | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
 | 24  | O limite do sistema é representado por linha circular ou tracejada?                 | Cauã Nicolas        | [Ver imagem](https://docs.google.com/document)
+| 25  | O Rich Picture conta uma história “sobre o sistema” , “o quê” e “para qual propósito”?     | Daniel Nunes Duarte  | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 26  | Os usuários ou grupos de usuários estão representados como figuras de palito?       | Daniel Nunes Duarte | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 27  | O que o sistema faz está representado?                                              | Daniel Nunes Duarte | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 28  | Existem setas conectando atores, operações e dados?                                 | Daniel Nunes Duarte | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 29  | Os atores possuem rótulos descritivos?                                              | Daniel Nunes Duarte | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
+| 30  | Todos as pessoas que usam ou são afetadas pelo sistema estão incluídos?             | Daniel Nunes Duarte | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
 
 # Referências
 >[1] Introducing Rich Pictures - Software Development Project. Aprender3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210571/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em 09 set 2025.
@@ -47,6 +53,7 @@
 |--------|----------|-------------------------------------|---------------|-----------------|
 | 1.0    | 29/09/25 | Atualização da lista de verificação | [FERNANDA VAZ](https://github.com/Fernandavazgit1)  | [DANIEL NUNES DUARTE](https://github.com/DanNunes777)   |
 | 1.1    | 24/11/25 | Contribuição e Agradecimento | [JOÃO GABRIEL](https://github.com/JoaoComTil)  | [FERNANDA VAZ](https://github.com/Fernandavazgit1)   |
+| 2.0    | 24/11/25 | Adicionamento de itens  | [DANIEL NUNES DUARTE](https://github.com/DanNunes777)  | -----------   |
 
 ## **Agradecimentos**
 
