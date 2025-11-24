@@ -218,8 +218,8 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 14 | Nível ambiental contém contexto da organização? | João Ramos | [Imagem e Fonte da Etapa 06](https://i.ibb.co/JWDqKsVk/21-lv.png) |
 | 15 | Nível organizacional contém missão, objetivos e estratégias? | João Ramos | [Imagem e Fonte da Etapa 06](https://i.ibb.co/JWDqKsVk/21-lv.png) |
 | 16 | Nível gerencial contém informações para gerir o projeto? | João Ramos | [Imagem e Fonte da Etapa 06](https://i.ibb.co/JWDqKsVk/21-lv.png) |
-
-
+| 17 |As informações rastreadas estão classificadas em quatro níveis?  | Daniel Nunes | [Imagem e Fonte da Etapa 06](https://i.ibb.co/v4bNPHyS/Opera-Instant-neo-2025-11-24-202432-i-ibb-co.png) |
+| 18 | 	Os elos de rastreabilidade de Toranzo estão identificados? | Daniel Nunes| [Imagem e Fonte da Etapa 06](https://i.ibb.co/r24yDbh0/1646.png) |
 
 ##  Histórico de Versão
 
@@ -235,6 +235,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
