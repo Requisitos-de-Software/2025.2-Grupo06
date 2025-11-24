@@ -62,7 +62,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **07:** Os catálogos de requisitos estão descritos na notação adotada pelo NFR Framework? | A avaliar | João  Gabriel | 21/10/2025 15:45 |
 
-![Fonte do Item 7](https://i.ibb.co/9qkNfrs/image.png)  
+![Fonte do Item 7](https://i.ibb.co/84QVyQM3/7.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -71,7 +71,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **08:** As contribuições entre softgoals foram claramente definidas? | A avaliar | João Gabriel | 21/10/2025 15:45 |
 
-![Fonte do Item 8](https://i.ibb.co/yPjGwL7/image.png)  
+![Fonte do Item 8](https://i.ibb.co/XZgP602h/8.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -80,7 +80,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **09:** O tipo específico de cada contribuição foi determinado? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
 
-![Fonte do Item 9](https://i.ibb.co/7v0VRgC/image.png)  
+![Fonte do Item 9](https://i.ibb.co/F45hCnDJ/9.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -89,7 +89,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **10:** O procedimento de análise para determinar o grau em que as decisões de projeto satisfazem os softgoals foi executado? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
 
-![Fonte do Item 10](https://i.ibb.co/dk63scx/image.png)  
+![Fonte do Item 10](https://i.ibb.co/S4CVRr6j/10.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -98,7 +98,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **11:** Rótulos de avaliação foram atribuídos aos softgoals? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
 
-![Fonte do Item 11](https://i.ibb.co/dcK0D7K/image.png)  
+![Fonte do Item 11](https://i.ibb.co/mCDLjHQK/11.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -107,7 +107,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **12:** Na priorização está ocorrendo o refinamento de um softgoal em outro softgoal com o mesmo tipo e tópicos? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:00 |
 
-![Fonte do Item 12](https://i.ibb.co/3z4kC1s/image.png)  
+![Fonte do Item 12](https://i.ibb.co/FkfGpq5w/12.png)  
 **Fonte ¹:** **SILVA**, Reinaldo Antônio da. *NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. **Recife**: Universidade Federal de Pernambuco, **2019**.
 
 ---
@@ -273,7 +273,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **07:** Está informando a lista de funcionalidades do produto? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 7](../assets/imagens/checklist_4/print_backlog_7.png)  
+![Fonte do Item 7](https://i.ibb.co/RGBGhcyW/7-1.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:08m)
 
 ---
@@ -282,7 +282,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **08:** Está visível? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 8](../assets/imagens/checklist_4/print_backlog_8.png)  
+![Fonte do Item 8](https://i.ibb.co/N6STwzf9/8-1.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (1:30m)
 
 ---
@@ -291,7 +291,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **09:** As informações para a próxima Sprint estão detalhadas? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 9](../assets/imagens/checklist_4/print_backlog_9.png)  
+![Fonte do Item 9](https://i.ibb.co/fzGdBQWq/9-1.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (2:03m)
 
 ---
@@ -300,7 +300,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **10:** Está priorizado com o que entrega mais valor para o cliente? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 10](../assets/imagens/checklist_4/print_backlog_11.png)  
+![Fonte do Item 10](https://i.ibb.co/YBtBGLpW/10-1.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (4:27m)
 
 ---
@@ -309,7 +309,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **11:** O backlog está sendo emergente? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 11](../assets/imagens/checklist_4/print_backlog_12.png)  
+![Fonte do Item 11](https://i.ibb.co/Z1TNLfPs/11-1.png)  
 **Fonte ³:** LUIZTOOLS. *Product Backlog – Introdução*. YouTube, 21 mar. 2020. (3:31m)
 
 ---
@@ -318,7 +318,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **12:** Está de acordo com a necessidade do produto? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 12](../assets/imagens/checklist_4/print_backlog_13.png)  
+![Fonte do Item 12](https://i.ibb.co/MyRWcDBQ/12-1.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 5)
 
 ---
@@ -327,7 +327,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **13:** Foi definida pelo Product Owner (PO)? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 13](../assets/imagens/checklist_4/print_backlog_14.png)  
+![Fonte do Item 13](https://i.ibb.co/BVsbbHh4/13-1.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 8)
 
 ---
@@ -336,7 +336,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **14:** A especificação dos itens está baseada em histórias de usuário, mais focadas em “o que” deve conter? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 14](../assets/imagens/checklist_4/print_backlog_15.png)  
+![Fonte do Item 14](https://i.ibb.co/tpcrhY3k/14-1.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 11)
 
 ---
@@ -345,7 +345,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **15:** O Sprint Backlog está em forma de lista de tarefas ou “Taskboard”? | A avaliar | Daniel Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 15](../assets/imagens/checklist_4/print_backlog_16.png)  
+![Fonte do Item 15](https://i.ibb.co/d4gRZQ20/15-1.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 17)
 
 ---
@@ -354,7 +354,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **16:** Os itens do Sprint Backlog foram extraídos do Product Backlog? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 16](../assets/imagens/checklist_4/print_backlog_17.png)  
+![Fonte do Item 16](https://i.ibb.co/0j7TzDkH/16-1.png)  
 **Fonte ⁴:** **SERRANO, Milene; SERRANO, Maurício.** *Requisitos – Aula 15a*. Brasília: Universidade de Brasília, [s.d.]. (pág. 17)
 
 ---
