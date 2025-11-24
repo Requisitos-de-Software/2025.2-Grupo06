@@ -121,6 +121,8 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 04 | Os atores estão fora do retângulo do sistema? | João Ramos | [Imagem e Fonte da Etapa 03](https://i.ibb.co/W4hf6fMv/C02.png) |
 | 05 | O diagrama apresenta o fluxo básico das funcionalidades? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/print_2.png) |
 | 06 | Cada ator interage com pelo menos um caso de uso? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](../assets/imagens/checklist_3/print_2.png) |
+| 07 | O diagrama documenta o que o sistema faz do ponto de vista do usuário? | João Gabriel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/LzG8YkV9/casos1.png) |
+| 08 |  O diagrama descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários? | João Gabriel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/MDwwWkXB/casos2.png) |
 
 ### Lista de Verificação Especificação Suplementar
 
@@ -130,7 +132,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 02 | Há análise de usabilidade? | Fernanda Vaz | [Imagem e Fonte da Etapa 03](https://ibb.co/TBRwRnMD) |
 | 03 | Requisitos de confiabilidade foram especificados? | João Ramos | [Imagem e Fonte da Etapa 03](https://ibb.co/album/PMFKNC) |
 | 04 | Requisitos de manutenibilidade foram descritos? | João Ramos | [Imagem e Fonte da Etapa 03](https://ibb.co/album/PMFKNC) |
-| 05 | A introdução apresenta visão geral do documento? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/m59Gh73B/E05.png) |
+| 05 | A introdução apresenta visão geral do documento? | João Gabriel e Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/m59Gh73B/E05.png) |
 | 06 | A seção de identificação apresenta a sigla do projeto? | Gabriel Maciel | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YTbWRjVb/E08.png) |
 | 07 | Critérios de desempenho estão definidos? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YTbWRjVb/E08.png.) |
 | 08 | Interfaces foram detalhadas? | Daniel Nunes Duarte | [Imagem e Fonte da Etapa 03](https://i.ibb.co/YTbWRjVb/E08.png) |
@@ -155,6 +157,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 03 | Existem três tipos de softgoals no NFR Framework? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/8nDpBJt0) |
 | 04 | Contribuição AND determina que todos descendentes satisfeitos satisfazem o ascendente? | João Ramos | [Imagem e Fonte da Etapa 04](https://i.ibb.co/GQ9fT3S2/image.png) |
 | 05 | Contribuição OR determina que apenas um descendente satisfeito basta? | João Ramos | [Imagem e Fonte da Etapa 04](https://ibb.co/9HnsJQBS) |
+| 06 | Os catálogos de requisitos estão descritos na notação adotada pelo NFR Framework? | João Gabriel | [Imagem e Fonte da Etapa 04](https://i.ibb.co/84QVyQM3/7.png) |
 
 
 
@@ -162,7 +165,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 04 |
 |----|----------------------|--------|----------------------------|
-| 01 | Histórias de usuário são escritas pelo cliente? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](https://ibb.co/9C3Nr75) |
+| 01 | Histórias de usuário são escritas pelo cliente? | Gabriel Maciel e João Gabriel | [Imagem e Fonte da Etapa 04 (Gabriel)](https://ibb.co/9C3Nr75) // [Imagem e Fonte da Etapa 04 (João)](https://i.ibb.co/N2HT9s9j/image.png) |
 | 02 | O cliente atribuiu valor/prioridade? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](https://ibb.co/qZvpppV) |
 | 03 | Clientes e desenvolvedores definem juntos agrupamentos por versão? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/My6bZqc3) |
 | 04 | Histórias de usuário descrevem o resultado esperado? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](https://ibb.co/xKK2WzRK) |
@@ -177,6 +180,8 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 02 | Conteúdo definido pelo Product Owner? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/xKthYFsF) |
 | 03 | O backlog cresce e muda conforme aprendizado do produto? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/p6CZbY69) |
 | 04 | Product Owner prioriza itens na Sprint Planning? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](https://ibb.co/8kdbXTW) |
+| 05 | O backlog é uma lista ordenada de tudo que pode ser necessário no produto? | João Gabriel | [Imagem e Fonte da Etapa 04](https://i.ibb.co/hx2ZsLz0/image.png) |
+| 06 | O cliente atribui uma valor prioridade à história? | João Gabriel | [Imagem e Fonte da Etapa 04](https://i.ibb.co/d03BtTKX/image.png) |
 
 
 ---
