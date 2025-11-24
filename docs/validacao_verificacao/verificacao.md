@@ -17,6 +17,8 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 06 | O diagrama revela insights sobre organização e problemas não previstos inicialmente? | João Gabriel | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/ZQtDYf9/image.png) |
 | 07 | Elementos gráficos seguem padrões reconhecíveis (bonecos para atores, setas para fluxos)? | Cauã Nicolas | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/zVmjcbbh/image.png) |
 | 08 | A comunicação visual é clara e compreensível para diferentes stakeholders? |  Fernanda Vaz | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/fGKxh5Hk/image.png) |
+| 09 | As setas são usadas para indicar a direção do fluxo de dados ou informações?|  Daniel Nunes | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/Pz9V5frX/image.png) |
+| 10 | O sistema realiza todas as operações que estão dentro da fronteira |  Daniel Nunes | [ Imagem e Fonte da Etapa 01](https://i.ibb.co/3mV0DdkQ/image.png) |
 
 ## Etapa 2 - Elicitação de Requisitos e Priorização v(2.0)
  *Autoria: Fernanda Vaz, 2025*  
@@ -231,6 +233,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
