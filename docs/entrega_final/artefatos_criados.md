@@ -20,7 +20,7 @@ Este documento reúne os principais artefatos desenvolvidos em cada etapa do pro
 | --- | --- | --- | --- |
 | [Perfil de usuário](../Elicitacao/perfil.md) | Caracterização demográfica, objetivos e categorias de usuários do sistema. | Fernanda Vaz; Gabriel Maciel; Cauã Nicolas | Gabriel Maciel; Fernanda Vaz; João Ramos |
 | [Personas](../Elicitacao/perfil_personas.md) | Elenco com personas primárias, secundárias, ocasional e antipersona. | Fernanda Vaz; Gabriel Maciel; Cauã Nicolas | Fernanda Vaz; Gabriel Maciel; João Ramos |
-| [Análise de documentos](../Elicitacao/elicitacao_analise_documentos.md) | Levantamento de requisitos a partir de materiais oficiais e pesquisas. | Fernanda Vaz; Gabriel Maciel | Gabriel Maciel; Fernanda Vaz |
+| [Análise de documentos](../Elicitacao/elicitacao_analise_documentos.md) | Levantamento de requisitos a partir de materiais oficiais e pesquisas. | Daniel Nunes; Fernanda Vaz; Gabriel Maciel; João Gabrial | Gabriel Maciel; Fernanda Vaz |
 | [Brainstorm](../Elicitacao/elicitacao_brainstorm.md) | Sessão registrada com ideias inovadoras e requisitos RF/RNF resultantes. | Gabriel Maciel; Cauã Nicolas | João Gabriel; Fernanda Vaz; João Ramos |
 | [Entrevista](../Elicitacao/elicitacao_entrevista.md) | Planejamento, execução e síntese das entrevistas com usuários reais. | Cauã Nicolas; Fernanda Vaz; João Ramos; Gabriel Maciel | Gabriel Maciel; Cauã Nicolas; João Ramos; Fernanda Vaz; João Gabriel |
 | [Lista consolidada de requisitos](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Tabela mestre com requisitos, origem, tipo e status de implementação. | Gabriel Maciel; Fernanda Vaz; João Ramos | João Gabriel; Cauã Nicolas; Gabriel Maciel |
@@ -56,7 +56,7 @@ Este documento reúne os principais artefatos desenvolvidos em cada etapa do pro
 
 | **Artefato** | **Descrição** | **Autor(es)** | **Revisor(es)** |
 | --- | --- | --- | --- |
-| [Listas de verificação](../validacao_verificacao/verificacao.md) | Consolidação das listas por etapa com evidências e referências aos artefatos auditados. | Fernanda Vaz; João Gabriel; João Ramos; Cauã Nicolas | Cauã Nicolas; João Ramos; João Gabriel |
+| [Listas de verificação](../validacao_verificacao/verificacao.md) | Consolidação das listas por etapa com evidências e referências aos artefatos auditados. | Cauã Nicolas; Daniel Nunes Duarte; Fernanda Vaz; João Gabriel; João Ramos | Cauã Nicolas; João Ramos; João Gabriel |
 | [Prototipação](../validacao_verificacao/prototipacao.md) | Protótipos 01–06 com fluxos validados e vínculos aos requisitos priorizados. | Fernanda Vaz; Gabriel Maciel; Cauã Nicolas; João Gabriel; João Ramos; Daniel Nunes Duarte | Cauã Nicolas; Gabriel Maciel; Fernanda Vaz; João Gabriel |
 | [Comprovação institucional](../validacao_verificacao/comprovacao.md) | Registro do contato formal com a SEMOB/GDF e uso dos protótipos como evidência complementar. | João Gabriel | — |
 
@@ -71,5 +71,6 @@ Este documento reúne os principais artefatos desenvolvidos em cada etapa do pro
 | [Matriz de rastreabilidade](../pos-rastreabilidade/matriz.md) | Visão consolidada dos vínculos entre requisitos e artefatos de desenvolvimento/verificação. | Gabriel Maciel; Fernanda Vaz; Daniel Nunes Duarte | Fernanda Vaz; Gabriel Maciel |
 
 *Tabela 6: Artefatos da Etapa 6 — Pós-Rastreabilidade - Fonte: Fernanda Vaz, 2025*
+
 
 
