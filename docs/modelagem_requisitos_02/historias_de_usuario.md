@@ -12,12 +12,13 @@ A atividade "Ouvir" do Extreme Programming (XP) é usada para gerar as "históri
 
 | Nome                 | Contribuições |
 |----------------------|------------------|
-| Gabriel Maciel       | Elaboração das histórias de usuário US01, US02, US03, US04, US05, US06 |
-| Fernanda Vaz         | Elaboração e Validação das histórias de usuário US07, US08, US09, US10, US11, US12 |
-| Cauã Nicolas         | Elaboração das histórias de usuário US13, US14, US15, US16, US17, US18 |
-| João Gabriel         | Elaboração e Validação das histórias de usuário US19, US20, US21, US22, US23, US24, US25 |
-| João Ramos           | Elaboração e Validação das histórias de usuário US27, US28, US29, US30, US31, US32, US33 |
-| Daniel Nunes Duarte  | Elaboração e Validação das histórias de usuário US34, US35, US36, US37, US38, US39 |
+| Cauã Nicolas         | [Elaboração das histórias de usuário US13, US14, US15, US16, US17, US18](#historias-de-usuario-us13-a-us18-caua-nicolas) |
+| Daniel Nunes Duarte  | [Elaboração e Validação das histórias de usuário US34, US35, US36, US37, US38, US39](#historias-de-usuario-us34-a-us39-daniel-nunes-duarte) |
+| Gabriel Maciel       | [Elaboração das histórias de usuário US01, US02, US03, US04, US05, US06](#historias-de-usuario-us01-a-us06-gabriel-maciel) |
+| Fernanda Vaz         | [Elaboração e Validação das histórias de usuário US07, US08, US09, US10, US11, US12](#historias-de-usuario-us07-a-us12-fernanda-vaz) |
+| João Gabriel         | [Elaboração e Validação das histórias de usuário US19, US20, US21, US22, US23, US24, US25, US26](#historias-de-usuario-us19-a-us26-joao-gabriel) |
+| João Ramos           | [Elaboração e Validação das histórias de usuário US27, US28, US29, US30, US31, US32, US33](#historias-de-usuario-us27-a-us33-joao-ramos) |
+
 
 ## Metodologia
 
@@ -254,7 +255,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Critérios de Aceitação:** | - O sistema deve exibir linhas e horários que atendem regiões mais afastadas do DF.<br>- As informações de localização e tempo estimado de chegada devem funcionar nessas áreas.<br>- A cobertura deve incluir pelo menos as principais paradas e rotas de regiões periféricas.<br>- Deve haver atualização automática quando novas linhas forem adicionadas. |
 | **Prioridade:** | Média |
 
-## Histórias de Usuário US19 a US25 (João Gabriel)
+## Histórias de Usuário US19 a US26 (João Gabriel)
 
 ### **US19 - Visualizar Localização dos Ônibus em Tempo Real no Mapa**
 
@@ -344,7 +345,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | **Critérios de Aceitação:** | - O sistema deve analisar dados históricos de pelo menos 30 dias para gerar previsões<br>- A previsão inteligente deve considerar: padrões de trânsito, horários do dia, dias da semana e eventos especiais<br>- O usuário deve poder ativar/desativar a "previsão inteligente" nas configurações<br>- O sistema deve exibir o horário previsto com indicação visual de confiabilidade (ex: "Alta confiança" baseada em 100+ viagens)<br>- O usuário deve poder programar notificações personalizadas (ex: "5 minutos antes da chegada prevista")<br>- O sistema deve atualizar as previsões em tempo real conforme a posição do ônibus muda<br>- Deve ser mostrada a base estatística da previsão (ex: "Baseado em 187 viagens anteriores")<br>- A interface deve diferenciar claramente entre horário oficial e horário previsto inteligente<br>- O sistema deve funcionar mesmo com conexão limitada, usando os últimos dados preditivos calculados<br>- O algoritmo deve aprender continuamente com novos dados de viagens |
 | **Prioridade:** | Média |
 
-### VValidação das Histórias de Usuário US19 a US25
+### Validação das Histórias de Usuário US19 a US25
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/7hhLPmztqJ8"
