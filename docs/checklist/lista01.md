@@ -1,5 +1,14 @@
 # Lista de verificação feita pelo o grupo  para analisar um Rich Picture
 
+# Tabela de Contribuição dos Membros
+
+| Nome          | Contribuição (Itens)                      |
+|---------------|-------------------------------------------|
+| Fernanda Vaz  | Itens 01, 02, 03, 04, 05, 06             |
+| Gabriel Maciel| Itens 07, 08, 09, 10, 11, 12             |
+| João Gabriel  | Itens 13, 14, 15, 16, 17, 18             |
+| Cauã Nicolas  | Itens 19, 20, 21, 22, 23, 24             |
+
 | ID  | Item de Verificação                                                                 | Autor               | Link para Imagem                                                                 |
 |-----|--------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------|
 | 01  | O rich picture está sendo usado para analisar problemas e expressar ideias?         | Fernanda Vaz        | [Ver imagem](https://docs.google.com/document/d/12bZ9YcfBjSDr7BOQvalih1SkmXbGdaeySNcuNcAPnyc/edit?tab=t.0#heading=h.1jz4qhqxkres) |
@@ -36,4 +45,9 @@
 
 | Versão | Data     | Descrição                          | Autor(es)     | Revisor(es)     |
 |--------|----------|-------------------------------------|---------------|-----------------|
-| 1.0    | 29/09/25 | Atualização da lista de verificação | Fernanda Vaz  | Daniel Duarte   |
+| 1.0    | 29/09/25 | Atualização da lista de verificação | [FERNANDA VAZ](https://github.com/Fernandavazgit1)  | [DANIEL NUNES DUARTE](https://github.com/DanNunes777)   |
+| 1.1    | 24/11/25 | Contribuição e Agradecimento | [JOÃO GABRIEL](https://github.com/JoaoComTil)  | [FERNANDA VAZ](https://github.com/Fernandavazgit1)   |
+
+## **Agradecimentos**
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

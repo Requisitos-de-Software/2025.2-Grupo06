@@ -35,3 +35,8 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 | 1.0    | 06/09/2025 | Criação da tabela de Contribuição  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Gabriel](https://github.com/JoaoComTil), [João Lucas](https://github.com/Joaolramos) |
 | 1.1    | 30/09/2025 | Atualização das contribuições      | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [João Lucas](https://github.com/Joaolramos) |
 | 2.0 | 08/10/2025 | Separação das tabelas de cada entrega em arquivos separados para fins organizacionais | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+
+
+## **Agradecimentos**
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

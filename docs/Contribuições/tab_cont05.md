@@ -50,3 +50,8 @@ A tabela 1 apresenta as contribuições de cada membro do grupo durante a entreg
 |--------|------------|------------------------------------|----------------|---------------------|
 | 1.0    | 08/10/2025 | Criação da tabela de Contribuição  | Fernanda Vaz | João Gabriel, João Lucas |
 | 2.0    | 28/10/2025 | Preenchimento da tabela com contribuições da Etapa 5 (Pós-Rastreabilidade) | Gabriel Maciel | ----------- |
+
+
+## **Agradecimentos**
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.

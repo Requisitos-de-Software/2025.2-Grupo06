@@ -1,4 +1,4 @@
-# Cronograma
+ # Cronograma
 
 Este documento apresenta o planejamento detalhado do projeto, distribuído em etapas e pontos de controle. As tabelas a seguir organizam as entregas, autores e revisores de cada fase, tendo como objetivo facilitar a visualização do progresso e o gerenciamento do trabalho ao longo do semestre.
 
@@ -10,15 +10,15 @@ O cronograma foi construído de acordo com as datas descritas para a entrega e a
 
 A tabela 1 apresenta uma visão geral das etapas do projeto com suas respectivas datas de entrega e datas de apresentação.
 
-| Etapa | Título | Descrição | Entrega | Apresentação |
-|-------|--------|-----------|---------|--------------|
-|   1   | Planejamento | Equipe, Definição do APP, Planejamento do Projeto, RichPicture | 09/09 | 11/09 |
-|   2   | Elicitação de Requisitos | Técnicas e Priorização | 30/09 | 02/10 |
-|   3   | Modelagem de Requisitos | Cenários, Léxico, Use Case, Especificação Suplementar | 12/10 | 14/10 |
-|   4   | Modelagem de Requisitos Ágil | Histórias de Usuário, Backlogs, NFR Framework | 21/10 | 23/10 |
-|   5   | Análise de Requisitos | Verificação e Validação | 29/10 | 13/11 |
-|   6   | Pós-rastreabilidade | Gerência II | 22/10 | 30/10  |
-|   7   | Entrega Final | Entrega Final | 14/11 | 24/11 |
+| Etapa | Título | Descrição | Entrega | Apresentação | Período de Revisão/Ajustes |
+|-------|--------|-----------|---------|--------------|-------------------|
+| 1 | Planejamento | Equipe, Definição do APP, Planejamento do Projeto, RichPicture | 09/09 | 11/09 | 12/09 - 16/09 |
+| 2 | Elicitação de Requisitos | Técnicas e Priorização | 30/09 | 02/10 | 03/10 - 07/10 |
+| 3 | Modelagem de Requisitos | Cenários, Léxico, Use Case, Especificação Suplementar | 12/10 | 14/10 | 15/10 - 19/10 |
+| 4 | Modelagem de Requisitos Ágil | Histórias de Usuário, Backlogs, NFR Framework | 21/10 | 23/10 | 24/10 - 28/10 |
+| 5 | Análise de Requisitos | Verificação e Validação | 29/10 | 13/11 | 14/11 - 18/11 |
+| 6 | Pós-rastreabilidade | Gerência II | 22/10 | 30/10 | 31/10 - 04/11 |
+| 7 | Entrega Final | Entrega Final | 14/11 | 24/11 | 25/11 - 29/11 |
 
 *Tabela 1 - Cronograma Geral - Autoria: Gabriel Maciel 2025*
 
@@ -50,18 +50,18 @@ A tabela 3 detalha as atividades relacionadas à elicitação, incluindo autores
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. Análise de Documentos | 18/09 | 30/09 | A definir | A definir |
-| 2. Brainstorming | 18/09 | 30/09 | A definir | A definir |
-| 3. Entrevista | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Lucas  | A definir |
+| 1. Análise de Documentos | 18/09 | 30/09 | João Gabriel, Fernanda Vaz | João Lucas |
+| 2. Brainstorming | 18/09 | 30/09 | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | Cauã Nicolas, Fernanda Vaz, Gabriel Maciel, Daniel Nunes, João Gabriel, João Lucas | João Gabriel |
+| 3. Entrevista | 18/09 | 30/09 | Cauã Nicolas, Gabriel Maciel, João Lucas  | João Gabriel |
 
 ### Técnicas de Priorização de Elicitações
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. First Things First | 18/09 | 30/09 | A definir  | A definir |
-| 2. In or Out | 18/09 | 30/09 | A definir | A definir |
-| 3. MoSCoW | 18/09 | 30/09 | A definir | A definir |
-| 4. $100 | 18/09 | 30/09 | A definir | A definir |
+| 1. First Things First | 18/09 | 30/09 | Cauã Nicolas  | Gabriel Maciel |
+| 2. In or Out | 18/09 | 30/09 | João Lucas | João Gabriel |
+| 3. MoSCoW | 18/09 | 30/09 | Gabriel Maciel | Cauã Nicolas |
+| 4. $100 | 18/09 | 30/09 | João Gabriel | João Lucas |
 
 ### Datas gerais
 
@@ -145,6 +145,7 @@ A tabela 7 detalha as atividades relacionadas à modelagem de requisitos, inclui
 | 1.1 | 07/09 | Correções de datas e de revisores | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
 | 1.2 | 07/09 | Adição de textos às tabelas e etapas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
 | 1.3 | 23/09 | Reestruturação do cronograma da Etapa 2 | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.4 | 24/11 | Add período de revisão e pequenas alterações de texto  | [João Gabriel](https://github.com/JoaoComTil) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 
 
 ## Agradecimentos

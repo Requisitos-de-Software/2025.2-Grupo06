@@ -96,11 +96,11 @@ Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem c
 | Nome     | Contribuição |
 | :------- | :---------------: |
 | João G.  |      Desenvolvimento da Página       |
-| João L.   |      Alocação de Tempo       |
+| João L.   |      Revisão      |
 | Daniel     |      Alocação de Tempo       |
-| Fernanda |      Desenvolvimento da Página       |
-| Cauã   |      Alocação de Tempo       |
-| Gabriel   |      Alocação de Tempo       |
+| Fernanda |      Revisão       |
+| Cauã   |      Revisão       |
+| Gabriel   |      Revisão       |
 
 ## **Histórico de Versões**
 
@@ -108,6 +108,7 @@ Esses documentos descrevem os direitos, deveres e garantias dos usuários, bem c
 |------------|--------------|----------------------------|--------------------------|--------------------------|
 | 1.0        | 09/09/2025   | Informações do aplicativo  | [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Cauã Nicolas](https://github.com/cauanicolas)   |
 | 1.1        | 30/09/2025   | Atualização das informações| [Daniel Nunes Duarte](https://github.com/DanNunes777)  | [Cauã Nicolas](https://github.com/cauanicolas)   |
+| 1.2        | 24/11/2025   | Tabela de Contribuição e Agradecimentos| [João Gabriel](https://github.com/JoaoComTil)  | [Cauã Nicolas Pereira de Oliveira](https://github.com/cauanicolas), [Daniel Nunes Duarte](https://github.com/DanNunes777), [Fernanda Vaz Duarte dos Santos](https://github.com/Fernandavazgit1), [Gabriel Maciel](https://github.com/GabrielMacielBR), [João Gabriel](https://github.com/JoaoComTil), [João Lucas Ramos dos Reis](https://github.com/Joaolramos)   |
 
 
 ## **Agradecimentos**
