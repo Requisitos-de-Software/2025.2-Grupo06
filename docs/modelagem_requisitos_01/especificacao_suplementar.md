@@ -258,7 +258,7 @@ Autenticação e autorização devem seguir o padrão OAuth 2.0 para garantir se
 | 2.2 | 21/11/2025 | Adição da Tabela 5 - Requisitos de Confiabilidade (RC) - Versão 2.0 correlacionando com requisitos não-funcionais elicitados | Gabriel Maciel | Daniel Nunes Duarte |
 | 2.3 | 21/11/2025 | Adição da Tabela 8: Requisitos do Sistema (RS) - Versão 2.0 com rastreabilidade aos requisitos elicitados | Gabriel Maciel | Daniel Nunes Duarte |
 | 2.4 | 21/11/2025 | Adição de requisito de usabilidade (RU05) com rastreabilidade a padrão externo WCAG 2.1 AA | Gabriel Maciel | Daniel Nunes Duarte |
-| 2.5 | 22/11/2025 | Reorganização de Segurança e Privacidade para nova seção Padrões Aplicáveis | Gabriel Maciel | A revisar |
+| 2.5 | 22/11/2025 | Reorganização de Segurança e Privacidade para nova seção Padrões Aplicáveis | Gabriel Maciel | Daniel Nunes Duarte |
 | 2.6 | 22/11/2025 | Adição do Padrão Aplicável 01 (Lei Geral de Proteção de Dados - LGPD) com tabelas de requisitos relacionados | Gabriel Maciel | Daniel Nunes Duarte |
 | 2.7 | 22/11/2025 | Adição do Padrão Aplicável 02 (Transport Layer Security - TLS 1.2 ou superior) com tabelas de requisitos relacionados | Gabriel Maciel | Daniel Nunes Duarte |
 | 2.8 | 22/11/2025 | Adição do Padrão Aplicável 03 (Norma ISO/IEC 27001 - Segurança da Informação) com tabelas de requisitos relacionados | Gabriel Maciel | Daniel Nunes Duarte |
