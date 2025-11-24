@@ -35,8 +35,8 @@ A Tabela 2 registra as contribuições durante a etapa de elicitação e prioriz
 | Priorização - MoSCoW | 0 | 0 | 0 | [1](../Elicitacao/priorizacao_moscow.md) | 0 | 0 |
 | Priorização - First Things First | [1](../Elicitacao/priorizacao_first_things_first.md) | 0 | 0 | 0 | 0 | 0 |
 | Artefatos adicionais | Não. | [Cenários.](../Elicitacao/perfil_cenarios.md) | Não. | Não. | Não. | Não. |
-| **Total de documentos criados** | **5** | **3** | **5** | **5** | **5** | **4** |
-| **Total de documentos revisados** | **5** | **3** | **5** | **5** | **5** | **4** |
+| **Total de documentos criados** | **5** | **5** | **5** | **5** | **5** | **4** |
+| **Total de documentos revisados** | **5** | **5** | **5** | **5** | **5** | **4** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 2 – Contribuição da etapa 2 - Elicitação - Técnicas e Priorização de Requisitos
