@@ -67,5 +67,6 @@ O projeto evoluiu de forma consistente, com cada etapa contribuindo diretamente 
 
 | Versão | Data       | Descrição                                         | Autora                                   | Revisores |
 |:------:|------------|-----------------------------------------------------|-------------------------------------------|-----------|
-| 1.0    | 24/11/2025 | Criação do resumo, incluindo introdução, conclusão e Etapa 6 | **Fernanda Vaz Duarte dos Santos** | — |
+| 1.0    | 24/11/2025 | Criação do resumo, incluindo introdução, conclusão e Etapa 6 | **Fernanda Vaz Duarte dos Santos** | Daniel Nunes Duarte |
+
 
