@@ -79,46 +79,62 @@ Autoria: Fernanda vaz, 2025
 
 [link para o prototipo ](https://www.figma.com/proto/4tE66APHLGVQ8R1RpRRMnX/DFNOPONTO?node-id=6-161&t=AapaLWICR4I1eKPx-1)
 
-
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/fYr8D9fx/Opera-Instant-neo-2025-11-11-194105-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-194105-www-figma-com" border="0"></a>
-
-**Figura 01 – Tela 01: Tela Inicial**
+# Figuras – Telas do Protótipo
 
 ---
 
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/fYHPF4Rt/Opera-Instant-neo-2025-11-11-193909-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-193909-www-figma-com" border="0"></a>
- 
-**Figura 02 – Tela 02**
+## Figuras 01 e 02
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+
+<img src="https://i.ibb.co/fYHPF4Rt/Opera-Instant-neo-2025-11-11-193909-www-figma-com.png" alt="Tela 01" width="300">
+
+<img src="https://i.ibb.co/hx8J36p0/Opera-Instant-neo-2025-11-11-193752-www-figma-com.png" alt="Tela 02" width="300">
+
+</div>
 
 ---
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hx8J36p0/Opera-Instant-neo-2025-11-11-193752-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-193752-www-figma-com" border="0"></a>
+## Figuras 03 e 04
 
-**Figura 03 – Tela 03**
+<div style="display: flex; gap: 10px; justify-content: center;">
 
----
+<img src="https://i.ibb.co/mVfVxG8g/Opera-Instant-neo-2025-11-11-193648-www-figma-com.png" alt="Tela 03" width="300">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/mVfVxG8g/Opera-Instant-neo-2025-11-11-193648-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-193648-www-figma-com" border="0"></a> 
+<img src="https://i.ibb.co/FqCSD42c/Opera-Instant-neo-2025-11-11-193515-www-figma-com.png" alt="Tela 04" width="300">
 
-**Figura 04 – Tela 04**
-
----
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqCSD42c/Opera-Instant-neo-2025-11-11-193515-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-193515-www-figma-com" border="0"></a> 
-
-**Figura 05 – Tela 05**
-
----
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/1YhpfBDd/Opera-Instant-neo-2025-11-11-193358-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-193358-www-figma-com" border="0"></a>  
-
-**Figura 06 – Tela 06:**
+</div>
 
 ---
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Lhh4P0D5/Opera-Instant-neo-2025-11-11-211824-www-figma-com.png" alt="Opera-Instant-neo-2025-11-11-211824-www-figma-com" border="0"></a>
+## Figuras 05 e 06
 
-**Figura 07 – Tela 07:**
+<div style="display: flex; gap: 10px; justify-content: center;">
+
+<img src="https://i.ibb.co/1YhpfBDd/Opera-Instant-neo-2025-11-11-193358-www-figma-com.png" alt="Tela 05" width="300">
+
+<img src="https://i.ibb.co/Lhh4P0D5/Opera-Instant-neo-2025-11-11-211824-www-figma-com.png" alt="Tela 06" width="300">
+
+</div>
+
+---
+
+## Figuras 07 e 08
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+
+<!-- Figura 07 corrigida -->
+<img src="https://i.ibb.co/fYr8D9fx/Opera-Instant-neo-2025-11-11-194105-www-figma-com.png" alt="Tela 07" width="300">
+
+<!-- Caso você tenha a Figura 08, substitua abaixo. Se não, posso remover. -->
+<img src="https://i.ibb.co/fYr8D9fx/Opera-Instant-neo-2025-11-11-194105-www-figma-com.png" alt="Tela 08" width="300">
+
+</div>
+
+
+
+
+
 
 ## protótipo funcionando:
 
