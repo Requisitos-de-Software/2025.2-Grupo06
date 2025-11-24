@@ -127,4 +127,4 @@ Tabela 6 – Contribuição da etapa 6 - Pós-rastreabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor |
 |:---:|---|---|---|---|
-| 1.0 | 24/11/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | A revisar |
+| 1.0 | 24/11/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | Daniel Nunes Duarte |
