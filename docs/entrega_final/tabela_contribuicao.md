@@ -35,8 +35,8 @@ A Tabela 2 registra as contribuições durante a etapa de elicitação e prioriz
 | Priorização - MoSCoW | 0 | 0 | 0 | [1](../Elicitacao/priorizacao_moscow.md) | 0 | 0 |
 | Priorização - First Things First | [1](../Elicitacao/priorizacao_first_things_first.md) | 0 | 0 | 0 | 0 | 0 |
 | Artefatos adicionais | Não. | [Cenários.](../Elicitacao/perfil_cenarios.md) | Não. | Não. | Não. | Não. |
-| **Total de documentos criados** | 5 | 3 | 5 | 5 | 5 | 4 |
-| **Total de documentos revisados** | 5 | 3 | 5 | 5 | 5 | 4 |
+| **Total de documentos criados** | **5** | **3** | **5** | **5** | **5** | **4** |
+| **Total de documentos revisados** | **5** | **3** | **5** | **5** | **5** | **4** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 2 – Contribuição da etapa 2 - Elicitação - Técnicas e Priorização de Requisitos
@@ -48,16 +48,16 @@ A Tabela 3 documenta as contribuições dos membros durante a modelagem clássic
 
 | Artefato | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
-| Especificação de cenários | 0 | 0 | 0 | [2](../modelagem_requisitos_01/cenarios.md#cenarios-3-e-4-gabriel-maciel) | 0 | 0 |
-| Validação da especificação dos cenários | 0 | 0 | 0 | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-3-e-4) | 0 | 0 |
-| Léxicos | 0 | 0 | 0 | [2](../modelagem_requisitos_01/lexicos.md#lexicos-10-11-e-12-gabriel-maciel) | 0 | 0 |
-| Validação dos léxicos | 0 | 0 | 0 | [2](../modelagem_requisitos_01/lexicos.md#validacao-com-usuario-real-dos-lexicos-10-11-e-12) | 0 | 0 |
-| Especificação de caso de uso  | 0 | 0 | 0 | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc03-e-uc04-gabriel-maciel) | 0 | 0 |
+| Especificação de cenários | [2](../modelagem_requisitos_01/cenarios.md#cenarios-7-e-8-caua-nicolas) | [2](../modelagem_requisitos_01/cenarios.md#cenarios-11-e-12-daniel-nunes-duarte) | [2](../modelagem_requisitos_01/cenarios.md#cenarios-1-e-2-fernanda-vaz) | [2](../modelagem_requisitos_01/cenarios.md#cenarios-3-e-4-gabriel-maciel) | [2](../modelagem_requisitos_01/cenarios.md#cenarios-9-e-10-joao-gabriel) | [2](../modelagem_requisitos_01/cenarios.md#cenarios-5-e-6-joao-ramos) |
+| Validação da especificação dos cenários | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-7-e-8) | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-11-e-12) | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-1-e-2) | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-3-e-4) | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-9-e-10) | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-5-e-6) |
+| Léxicos | [3](../modelagem_requisitos_01/lexicos.md#lexicos-07-08-e-09-caua-nicolas) | [3](../modelagem_requisitos_01/lexicos.md#lexicos-16-17-e-18-daniel-nunes-duarte) | [3](../modelagem_requisitos_01/lexicos.md#lexicos-01-02-e-03-fernanda-vaz) | [3](../modelagem_requisitos_01/lexicos.md#lexicos-10-11-e-12-gabriel-maciel) | [3](../modelagem_requisitos_01/lexicos.md#lexicos-13-14-e-15-joao-gabriel) | [3](../modelagem_requisitos_01/lexicos.md#lexicos-04-05-e-06-joao-ramos) |
+| Validação dos léxicos | [3](../modelagem_requisitos_01/lexicos.md#validacao-com-usuario-real-dos-lexicos-7-8-e-9) | [3](../modelagem_requisitos_01/lexicos.md#validacao-com-usuario-real-dos-lexicos-16-17-e-18) | [3](../modelagem_requisitos_01/lexicos.md#validacao-com-usuario-real-dos-lexicos-01-02-e-03) | [3](../modelagem_requisitos_01/lexicos.md#validacao-com-usuario-real-dos-lexicos-10-11-e-12) | 0 | [3](../modelagem_requisitos_01/lexicos.md#validacao-com-usuario-real-dos-lexicos-04-05-e-06) |
+| Especificação de caso de uso  | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc05-e-uc06-caua-nicolas) | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc11-e-uc12-daniel-nunes-duarte) | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc01-e-uc02-fernanda-vaz) | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc03-e-uc04-gabriel-maciel) | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc09-e-uc10-joao-gabriel) | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc07-e-uc08-joao-ramos) |
 | Validação do caso de uso | 0 | 0 | 0 | 0 | 0 | 0 |
-| Especificação suplementar | 0 | 0 | 0 | [17](../modelagem_requisitos_01/especificacao_suplementar.md) | 0 | 0 |
+| Especificação suplementar | [4](../modelagem_requisitos_01/especificacao_suplementar.md#requisitos-do-sistema-portabilidadecompatibilidade) | [11](../modelagem_requisitos_01/especificacao_suplementar.md#padroes-aplicaveis) | [8](../modelagem_requisitos_01/especificacao_suplementar.md#confiabilidade) | [17](../modelagem_requisitos_01/especificacao_suplementar.md) | 0 | [2](../modelagem_requisitos_01/especificacao_suplementar.md#confiabilidade) |
 | Validação da especificação suplementar | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos criados** | 0 | 0 | 0 | 6 | 0 | 0 |
-| **Total de documentos revisados** | 0 | 0 | 0 | 6 | 0 | 0 |
+| **Total de documentos criados** | **4** | **4** | **4** | **4** | **3** | **4** |
+| **Total de documentos revisados** | **4** | **4** | **4** | **4** | **3** | **4** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 3 – Contribuição da etapa 3 - Modelagem de Requisitos 1
@@ -70,7 +70,7 @@ A Tabela 4 apresenta as contribuições durante a modelagem ágil, onde foram de
 | Pergunta | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 |---------|--------------|----------------|------------|----------------|----------------|-------------|
 | Histórias de Usuário — requisitos funcionais | 0 | 0 | 0 | 0 | 0 | 0 |
-| Histórias de Usuário — funcionais especificados não implementados| 0 | 0 | 0 | 0 | 0 | 0 |
+| Histórias de Usuário — requisitos funcionais não implementados| 0 | 0 | 0 | 0 | 0 | 0 |
 | Validação com usuário da História de Usuário com gravação presencial? | 0 | 0 | 0 | 0 | 0 | 0 |
 | NFR Framework | 0 | 0 | 0 | 0 | 0 | 0 |
 | Quantidade de cartões de especificação de RNF? | 0 | 0 | 0 | 0 | 0 | 0 |
