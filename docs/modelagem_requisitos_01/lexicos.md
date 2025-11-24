@@ -10,7 +10,7 @@ A Tabela 1 apresenta as contribuições de cada membro da equipe para a elabora�
 
 |        Nome          | Contribuição |
 |----------------------|--------------|
-| Caúa Nicolas | - [Léxico 07 - Destino](#lexico-07-destino) <br> - [Léxico 08 - Rastrear](#lexico-08-rastrear) <br> - [Léxico 09 - Agora](#lexico-09-agora) |
+| Cauã Nicolas | - [Léxico 07 - Destino](#lexico-07-destino) <br> - [Léxico 08 - Rastrear](#lexico-08-rastrear) <br> - [Léxico 09 - Agora](#lexico-09-agora) |
 | Daniel Nunes Duarte | - [Léxico 16 - Trabalhador](#lexico-16-trabalhador) <br> - [Léxico 17 - Alertar](#lexico-17-alertar) <br> - [Léxico 18 - Aproximação do ônibus](#lexico-18-aproximacao-do-onibus) |
 | Fernanda Vaz | - [Léxico 01 - Notificações de Chegada](#lexico-01-notificacoes-de-chegada)<br> - [Léxico 02 - Transporte Atrasado](#lexico-02-transporte-atrasado) <br> - [Léxico 03 - Passageiro](#lexico-03-passageiro) |
 | Gabriel Maciel | - [Léxico 10 - Transporte público](#lexico-10-transporte-publico) <br> - [Léxico 11 - Pesquisar](#lexico-11-pesquisar) <br> - [Léxico 12 - Tempo real](#lexico-12-tempo-real) |
