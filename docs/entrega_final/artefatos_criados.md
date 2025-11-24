@@ -22,8 +22,8 @@ Este documento reúne os principais artefatos desenvolvidos em cada etapa do pro
 | [Personas](../Elicitacao/perfil_personas.md) | Elenco com personas primárias, secundárias, ocasional e antipersona. | Fernanda Vaz; Gabriel Maciel; Cauã Nicolas | Fernanda Vaz; Gabriel Maciel; João Ramos |
 | [Análise de documentos](../Elicitacao/elicitacao_analise_documentos.md) | Levantamento de requisitos a partir de materiais oficiais e pesquisas. | Daniel Nunes; Fernanda Vaz; Gabriel Maciel; João Gabrial | Gabriel Maciel; Fernanda Vaz |
 | [Brainstorm](../Elicitacao/elicitacao_brainstorm.md) | Sessão registrada com ideias inovadoras e requisitos RF/RNF resultantes. | Gabriel Maciel; Cauã Nicolas | João Gabriel; Fernanda Vaz; João Ramos |
-| [Entrevista](../Elicitacao/elicitacao_entrevista.md) | Planejamento, execução e síntese das entrevistas com usuários reais. | Cauã Nicolas; Fernanda Vaz; João Ramos; Gabriel Maciel | Gabriel Maciel; Cauã Nicolas; João Ramos; Fernanda Vaz; João Gabriel |
-| [Lista consolidada de requisitos](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Tabela mestre com requisitos, origem, tipo e status de implementação. | Gabriel Maciel; Fernanda Vaz; João Ramos | João Gabriel; Cauã Nicolas; Gabriel Maciel |
+| [Entrevista](../Elicitacao/elicitacao_entrevista.md) | Planejamento, execução e síntese das entrevistas com usuários reais. | Cauã Nicolas; Fernanda Vaz; João Ramos; Gabriel Maciel | Gabriel Maciel; Daniel Nunes Duarte; Cauã Nicolas; João Ramos; Fernanda Vaz; João Gabriel |
+| [Lista consolidada de requisitos](../Elicitacao/elicitacao_lista_requisitos_elicitados.md) | Tabela mestre com requisitos, origem, tipo e status de implementação. | Gabriel Maciel; Fernanda Vaz; João Ramos | João Gabriel; Cauã Nicolas; Daniel Nunes Duarte; Gabriel Maciel |
 | [Priorização MoSCoW](../Elicitacao/priorizacao_moscow.md) | Classificação Must/Should/Could/Won't para o escopo mínimo viável. | Gabriel Maciel | Cauã Nicolas |
 | [Priorização In or Out](../Elicitacao/priorizacao_in_or_out.md) | Votação binária que define o que entra ou sai do MVP. | João Lucas; Gabriel Maciel | Gabriel Maciel; João Lucas |
 | [Priorização First Things First](../Elicitacao/priorizacao_first_things_first.md) | Modelo quantitativo com pesos de benefício, penalidade, custo e risco. | Cauã Nicolas; Gabriel Maciel | Gabriel Maciel; Cauã Nicolas; João Gabriel |
@@ -71,6 +71,7 @@ Este documento reúne os principais artefatos desenvolvidos em cada etapa do pro
 | [Matriz de rastreabilidade](../pos-rastreabilidade/matriz.md) | Visão consolidada dos vínculos entre requisitos e artefatos de desenvolvimento/verificação. | Gabriel Maciel; Fernanda Vaz; Daniel Nunes Duarte | Fernanda Vaz; Gabriel Maciel |
 
 *Tabela 6: Artefatos da Etapa 6 — Pós-Rastreabilidade - Fonte: Fernanda Vaz, 2025*
+
 
 
 
