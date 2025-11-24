@@ -88,7 +88,7 @@ A Tabela 5 registra as contribuições durante a análise de requisitos, incluin
 | Artefato | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
 | Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante | 0 | 0 | 0 | 0 | 0 | 0 |
-|	Quantidade de Validação dos Protótipos com o usuário com gravação presencial | 0 | 0 | 0 | 0 | 0 | 0 |
+| Quantidade de Validação dos Protótipos com o usuário com gravação presencial | 0 | 0 | 0 | 0 | 0 | 0 |
 | Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
 | Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 | 
 | Quantidade de itens da Lista de verificação de Priorização de Requisitos com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -98,7 +98,7 @@ A Tabela 5 registra as contribuições durante a análise de requisitos, incluin
 | Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
 | Quantidade de itens da Lista de verificação das Historias de Usuários com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
 | Quantidade de itens da Lista de verificação do Backlog com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
-|Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
+| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 0 | 0 | 0 | 0 | 0 | 0 |
 | **Total de documentos criados** | 0 | 0 | 0 | 0 | 0 | 0 |
 | **Total de documentos revisados** | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -113,10 +113,11 @@ A Tabela 6 documenta as contribuições dos membros na etapa final de rastreabil
 
 | Artefato | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
-| Quantidade de Elos de Especificação | 0 | 0 | 0 | 0 | 0 | 0 |
-| Participação da Matriz Rastreabilidade(requisitos com versionamento)| 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos criados** | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos revisados** | 0 | 0 | 0 | 0 | 0 | 0 |
+| Forward-from | [8](../pos-rastreabilidade/forward.md) | [8](../pos-rastreabilidade/forward.md) | [8](../pos-rastreabilidade/forward.md) | [8](../pos-rastreabilidade/forward.md) | [8](../pos-rastreabilidade/forward.md) | [7](../pos-rastreabilidade/forward.md) |
+| Backward-from | [8](../pos-rastreabilidade/backward.md) | [8](../pos-rastreabilidade/backward.md) | [8](../pos-rastreabilidade/backward.md) | [8](../pos-rastreabilidade/backward.md) | [8](../pos-rastreabilidade/backward.md) | [7](../pos-rastreabilidade/backward.md) |
+| Participação da Matriz Rastreabilidade(requisitos com versionamento)| [2](../pos-rastreabilidade/matriz.md) | [7](../pos-rastreabilidade/matriz.md) | [7](../pos-rastreabilidade/matriz.md) | [7](../pos-rastreabilidade/matriz.md) | [5](../pos-rastreabilidade/matriz.md) | [4](../pos-rastreabilidade/matriz.md) |
+| **Total de documentos criados** | **3** | **3** | **3** | **3** | **3** | **3** |
+| **Total de documentos revisados** | **3** | **3** | **3** | **3** | **3** | **3** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 6 – Contribuição da etapa 6 - Pós-rastreabilidade
