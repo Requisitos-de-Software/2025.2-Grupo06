@@ -169,6 +169,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 
 
 
+
 ### Backlog
 
 | ID | Item de Verificação | Autor | Imagem e Fonte da Etapa 04 |
@@ -177,6 +178,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 02 | Conteúdo definido pelo Product Owner? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/xKthYFsF) |
 | 03 | O backlog cresce e muda conforme aprendizado do produto? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/p6CZbY69) |
 | 04 | Product Owner prioriza itens na Sprint Planning? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](https://ibb.co/8kdbXTW) |
+| 05 |  Está de acordo com a necessidade do produto?| 	Daniel Nunes | [Imagem e Fonte da Etapa 04](https://i.ibb.co/RpcMyDJq/image.png) |
 
 
 ---
@@ -224,6 +226,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
