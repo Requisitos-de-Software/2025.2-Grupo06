@@ -10,9 +10,7 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 
 A sintetização dos documentos analisados está abaixo:
 
-<embed src="./Perfil de Usuário.pdf" type="application/pdf" width="100%" height="600px" />
-
-
+![Documentos](./Perfil%20de%20Usuário.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
 
 
 ### Perfil do Usuário: Passageiro de Transporte Público no DF
