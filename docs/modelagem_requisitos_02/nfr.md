@@ -14,9 +14,10 @@ O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem utili
 | Nome                 | Responsabilidade                                                                                              |
 |----------------------|---------------------------------------------------------------------------------------------------------------|
 | Cauã Nicolas         | [- Elaboração do SIG Portabilidade](#sig-portabilidadecompatibilidade) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Portabilidade](#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-portabilidade) |
-| Fernanda Vaz         | [- Adição de introdução](#introducao) <br>[- Elaboração do SIG Usabilidade](#sig-usabilidade) |
-| Gabriel Maciel       | [- Elaboração do SIG Desempenho](#sig-desempenho) <br> [- Elaboração dos cartões de especificação dos RNFs do SIG Desempenho](#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho) |
-| João Ramos           | [- Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade](#ru09-adaptabilidade-e-acessibilidade) <br> [- Validação](#validacaojoao-ramos) |
+| Fernanda Vaz         | [- Adição de introdução](#introducao) <br>[- Elaboração do SIG Usabilidade](#sig-usabilidade) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade](#cartao-de-especificacao-01-facilidade-de-aprendizagem) |
+| Gabriel Maciel       | [- Elaboração do SIG Desempenho](#sig-desempenho) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Desempenho](#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho) |
+| João Gabriel         | [- Elaboração do SIG Confiabilidade](#sig-confiabilidade) <br>[- Elaboração dos cartões de especificação dos RNFs do SIG Confiabilidade](#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-confiabilidade) |
+| João Ramos           | [- Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade](#ru09-adaptabilidade-e-acessibilidade) <br>[- Validação](#validacaojoao-ramos) |
 
 ## Softgoal Interdependency Graph
 Segundo Reinaldo Antônio <sup>[1](#ref-1)</sup> o "Softgoal Interdependency Graph" (SIG) é um gráfico que registra as análises do desenvolvedor sobre os softgoals (objetivos não-funcionais) e mostra como eles dependem uns dos outros. Essencialmente, os SIGs armazenam todo o histórico das decisões de desenvolvimento e a lógica do projeto de forma visual e resumida.
