@@ -8,8 +8,8 @@ A Tabela 1 apresenta as contribuições dos membros do grupo durante a etapa de 
 
 | Artefato | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
-| Rich Picture | 1 | 0 | 0 | 0 | 0 | 0 |
-| Validação do RichPicture | 0 | 0 | 0 | 0 | 0 | 0 |
+| Rich Picture | 1 | 1 | 1 | 1 | 1 | 1 |
+| Validação do RichPicture | 0 | 0 | 0 | 0 | 1 | 0 |
 | Artefatos adicionais | [Heatmap.](../Planejamento/Heatmap.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Sobre o aplicativo escolhido.](../Planejamento/Aplicativoescolhido.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Cronograma detalhado;](../Planejamento/Cronogramadetalhado.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) |
 | **Total de documentos criados** | **2** | **2** | **2** | **3** | **2** | **2** |
 | **Total de documentos revisados** | **2** | **2** | **2** | **3** | **2** | **2** |
