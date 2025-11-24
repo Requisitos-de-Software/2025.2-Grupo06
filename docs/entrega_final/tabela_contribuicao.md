@@ -69,14 +69,13 @@ A Tabela 4 apresenta as contribuições durante a modelagem ágil, onde foram de
 
 | Pergunta | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 |---------|--------------|----------------|------------|----------------|----------------|-------------|
-| Histórias de Usuário — requisitos funcionais | 0 | 0 | 0 | 0 | 0 | 0 |
-| Histórias de Usuário — requisitos funcionais não implementados| 0 | 0 | 0 | 0 | 0 | 0 |
-| Validação com usuário da História de Usuário com gravação presencial? | 0 | 0 | 0 | 0 | 0 | 0 |
-| NFR Framework | 0 | 0 | 0 | 0 | 0 | 0 |
-| Quantidade de cartões de especificação de RNF? | 0 | 0 | 0 | 0 | 0 | 0 |
-| Validação com usuário do NFR com gravação presencial? | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos criados**  | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos revisados** | 0 | 0 | 0 | 0 | 0 | 0 |
+| Histórias de Usuário | [6](../modelagem_requisitos_02/historias_de_usuario.md#historias-de-usuario-us13-a-us18-caua-nicolas) | [6](../modelagem_requisitos_02/historias_de_usuario.md#historias-de-usuario-us34-a-us39-daniel-nunes-duarte) | [6](../modelagem_requisitos_02/historias_de_usuario.md#historias-de-usuario-us07-a-us12-fernanda-vaz) | [6](../modelagem_requisitos_02/historias_de_usuario.md#historias-de-usuario-us01-a-us06-gabriel-maciel) | [8](../modelagem_requisitos_02/historias_de_usuario.md#historias-de-usuario-us19-a-us26-joao-gabriel) | [7](../modelagem_requisitos_02/historias_de_usuario.md#historias-de-usuario-us27-a-us33-joao-ramos) |
+| Validação com usuário da História de Usuário com gravação presencial? | 0 | [1](../modelagem_requisitos_02/historias_de_usuario.md#validacao-das-historias-de-usuario-us34-a-us39) | [1](../modelagem_requisitos_02/historias_de_usuario.md#validacao-das-historias-de-usuario-us07-a-us12) | 0 | [1](../modelagem_requisitos_02/historias_de_usuario.md#validacao-das-historias-de-usuario-us19-a-us25) | [1](../modelagem_requisitos_02/historias_de_usuario.md#validacao-das-historias-de-usuario-us27-a-us33) |
+| NFR Framework | [1](../modelagem_requisitos_02/nfr.md#sig-portabilidadecompatibilidade) | 0 | [1](../modelagem_requisitos_02/nfr.md#sig-usabilidade) | [1](../modelagem_requisitos_02/nfr.md#sig-desempenho) | [1](../modelagem_requisitos_02/nfr.md#sig-confiabilidade) | 0 |
+| Quantidade de cartões de especificação de RNF? | [5](../modelagem_requisitos_02/nfr.md#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-portabilidade) | 0 | [8](../modelagem_requisitos_02/nfr.md#cartao-de-especificacao-01-facilidade-de-aprendizagem) | [4](../modelagem_requisitos_02/nfr.md#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho) | [7](../modelagem_requisitos_02/nfr.md#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-confiabilidade) | [1](../modelagem_requisitos_02/nfr.md#ru09-adaptabilidade-e-acessibilidade) |
+| Validação com usuário do NFR com gravação presencial? | 0 | 0 | 0 | 0 | 0 | [1](../modelagem_requisitos_02/nfr.md#validacaojoao-ramos) |
+| **Total de documentos criados**  | **2** | **1** | **2** | **2** | **2** | **2** |
+| **Total de documentos revisados** | **2** | **1** | **2** | **2** | **2** | **2** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 4 – Contribuição da etapa 4 - Modelagem de Requisitos 2 (Ágil)
