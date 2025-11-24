@@ -31,10 +31,10 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | **RF17** | Exibir preço da passagem por linha ou trajeto | Funcional | Sim | Entrevista (ENT23) |
 | **RF18** | Listar linhas que passam em uma parada específica | Funcional | Sim | — |
 | **RF19** | Disponibilizar versão web leve para acesso rápido em pontos de ônibus | Funcional | Sim | Brainstorm (BRS17) |
-| **RF20** | Botão de pânico/emergência para alertar motorista e/ou autoridades | Funcional | Não | — |
+| **RF20** | Botão de pânico/emergência para alertar motorista e/ou autoridades | Funcional | Não | Brainstorm (BRS21) |
 | **RF21** | Mostrar alertas de trânsito e acidentes | Funcional | Sim | Brainstorm (BRS12) |
-| **RF22** | Permitir compartilhar trajeto em tempo real com outros usuários | Funcional | Não | — |
-| **RF23** | Exibir quantidade de assentos preferenciais e totais no ônibus | Funcional | Não | — |
+| **RF22** | Permitir compartilhar trajeto em tempo real com outros usuários | Funcional | Não | Brainstorm (BRS22) |
+| **RF23** | Exibir quantidade de assentos preferenciais e totais no ônibus | Funcional | Não | Brainstorm (BRS23) |
 | **RF24** | Permitir favoritar linhas ou paradas para acesso rápido | Funcional | Sim | Entrevista (ENT14) |
 | **RF25** | Ampliar a cobertura e exibir informações também em regiões afastadas do Distrito Federal | Funcional | Não | Entrevista (ENT08) |
 | **RF26** | Filtrar ônibus por empresa operadora | Funcional | Sim | Análise de Documentos (RF03) |
@@ -55,14 +55,14 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | **RNF03** | Tempo de atualização da localização ≤ 20 segundos | Não Funcional | Não | ENT23 |
 | **RNF04** | Interface acessível para idosos e pessoas com deficiência visual | Não Funcional | Não | Entrevista (ENT10), Brainstorm (BRS08) |
 | **RNF05** | Sistema de notificação com som e vibração configuráveis | Não Funcional | Sim | Elicitação de Requisitos: Brainstorm (BRS18) |
-| **RNF06** | Baixo consumo de bateria e dados móveis | Não Funcional | Sim | — |
+| **RNF06** | Baixo consumo de bateria e dados móveis | Não Funcional | Sim | Brainstorm (BRS24) |
 | **RNF07** | Compatibilidade com dispositivos Android e iOS | Não Funcional | Sim | Entrevista (ENT19) |
-| **RNF08** | Proteção contra reportes falsos de lotação (mecanismo de confiança) | Não Funcional | Não | — |
+| **RNF08** | Proteção contra reportes falsos de lotação (mecanismo de confiança) | Não Funcional | Não | Brainstorm (BRS25) |
 | **RNF09** | Dados de localização e pessoais protegidos conforme LGPD | Não Funcional | Sim | Entrevista (ENT21) |
 | **RNF10** | Tempo de carregamento da tela principal < 3 segundos | Não Funcional | Não | Entrevista (ENT17) |
 | **RNF11** | Funcionamento offline para consulta a rotas salvas e horários | Não Funcional | Não | Análise de Documentos (RNI05), Entrevista (ENT18), Brainstorm (BRS06) |
 | **RNF12** | Integração segura com sistemas de pagamento (recarga de cartão) | Não Funcional | Não | Brainstorm (BRS10) |
-| **RNF13** | Alta disponibilidade do sistema (≥ 98% uptime) | Não Funcional | Sim | — |
+| **RNF13** | Alta disponibilidade do sistema (≥ 98% uptime) | Não Funcional | Sim | Brainstorm (BRS26) |
 | **RNF14** | Suporte a múltiplos usuários simultâneos sem lentidão | Não Funcional | Sim | Brainstorm (BRS15) |
 | **RNF15** | Personalização da interface com base em preferências do usuário | Não Funcional | Não | Brainstorm (BRS13) |
 
@@ -77,4 +77,4 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | **1.0** | 18/10/2025 | Criação inicial da Tabela Geral de Requisitos Elicitados; consolidação das três técnicas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [João Gabriel](https://github.com/JoaoComTil) |
 | **1.1** | 27/10/2025 | Adição de links bidirecionais para o documento `forward.md` | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Cauã Nicolas](https://github.com/cauanicolas) |
 | **1.2** | 19/11/2025 | Adicão coluna de Requisito Implementado | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
-
+| **1.2** | 19/11/2025 | Adcição rastreabilidade dos requisitos | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |

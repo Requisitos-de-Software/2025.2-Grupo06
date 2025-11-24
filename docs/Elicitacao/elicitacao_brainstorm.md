@@ -63,8 +63,14 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | BRS18 | Sistema de notificação com som e vibração configuráveis.  | RNF | Brainstorm
 | BRS19 | Listar linhas que passam em uma parada específica  | RF | Brainstorm
 | BRS20 | Visualizar linhas que possuem ar-condiconado  | RF | Brainstorm
+| BRS21 | Botão de pânico/emergência para alertar motorista e/ou autoridades | RF | Brainstorm |
+| BRS22 | Permitir compartilhar trajeto em tempo real com outros usuários | RF | Brainstorm |
+| BRS23 | Exibir quantidade de assentos preferenciais e totais no ônibus | RF | Brainstorm |
+| BRS24 | Baixo consumo de bateria e dados móveis | RNF | Brainstorm |
+| BRS25 | Proteção contra reportes falsos de lotação (mecanismo de confiança) | RNF | Brainstorm |
+| BRS26 | Alta disponibilidade do sistema (≥ 98% uptime) | RNF | Brainstorm |
 
-*Tabela 1: Requisitos identificados através da técnica de Brainstorm - Autor: João Gabriel, 2025*
+*Tabela 1: Requisitos identificados através da técnica de Brainstorm - Autor: Gabriel ,Ramos , 2025*
 
 **Legenda:**
 
