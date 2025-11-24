@@ -100,8 +100,8 @@ A Tabela 5 registra as contribuições durante a análise de requisitos, incluin
 | Quantidade de itens da Lista de verificação do Backlog com foto da fonte do item | [1](../validacao_verificacao/verificacao.md#backlog) | 0 | [2](../validacao_verificacao/verificacao.md#backlog) | [1](../validacao_verificacao/verificacao.md#backlog) | 0 | 0 |
 | Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 0 | 0 | [2](../validacao_verificacao/verificacao.md#nfr-framework) | [1](../validacao_verificacao/verificacao.md#nfr-framework) | 0 | [2](../validacao_verificacao/verificacao.md#nfr-framework) |
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | [3](../validacao_verificacao/verificacao.md#etapa-6---pos-rastreabilidade-v20) | 0 | [4](../validacao_verificacao/verificacao.md#etapa-6---pos-rastreabilidade-v20) | [2](../validacao_verificacao/verificacao.md#etapa-6---pos-rastreabilidade-v20) | [3](../validacao_verificacao/verificacao.md#etapa-6---pos-rastreabilidade-v20) | [4](../validacao_verificacao/verificacao.md#etapa-6---pos-rastreabilidade-v20) |
-| **Total de documentos criados** | **6** | **6** | **16** | **14** | **8** | **10** |
-| **Total de documentos revisados** | **6** | **6** | **16** | **14** | **8** | **10** |
+| **Total de documentos criados** | **7** | **7** | **12** | **12** | **5** | **7** |
+| **Total de documentos revisados** | **7** | **7** | **12** | **12** | **5** | **7** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 5 – Contribuição da etapa 5 - Análise de Requisitos - Verificação e Validação
