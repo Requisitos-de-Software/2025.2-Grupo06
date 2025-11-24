@@ -3,6 +3,16 @@
 ## **Introdução**
 As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facilitar a realização das atividades e produção dos conteúdos apresentados na disciplina **Requisitos de Software**.
 
+## **Tabela de Contribuição**
+
+| Nome     | Contribuição |
+| :------- | :---------------: |
+| Fernanda Vaz |      Desenvolvimento da Página       |
+| Gabriel Maciel | Desenvolvimento da Página |
+| João Gabriel  |      Desenvolvimento da Página       |
+| João Ramos   |      Desenvolvimento da Página       |
+
+
 ## **Tabela de Ferramentas**
 
 | Logo | Ferramenta | Finalidade |
@@ -23,8 +33,9 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 | <img src="../../assets/logos/copilot.png" width="45"  alt="Microsoft Copilot logo" /> | Microsoft Copilot | Ferramenta de Inteligência Artificial Generativa utilizada para revisão gramatical e estilística dos textos do projeto, contribuindo para aprimorar a clareza, concisão e legibilidade dos conteúdos. <a id="anchor_14" href="#FRM14"><sup>14</sup></a> |
 | <img src="../../assets/logos/imgbb.png" width="45"  alt="ImgBB logo" /> | ImgBB | Hospedagem e compartilhamento de imagens utilizadas na documentação do projeto. <a id="anchor_15" href="#FRM15"><sup>15</sup></a> |
 | <img src="../../assets/logos/figma.png" width="45"  alt="Figma logo" /> | Figma | Criação de protótipos de interface e designs colaborativos para o projeto. <a id="anchor_16" href="#FRM16"><sup>16</sup></a> |
+| <img src="../../assets/logos/davinci.png" width="45"  alt="Davinci Resolve logo" /> | Davinci Resolve | Edição de vídeo <a id="anchor_17" href="#FRM17"><sup>17</sup></a> |
 
-<font size="2"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto - Autores: Fernanda Vaz e Gabriel Maciel</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto - Autores: Fernanda Vaz, Gabriel Maciel, João Gabriel, João Ramos</p></font>
 
 ## **Referências Bibliograficas**
 ><a id="FRM1" href="#anchor_1">1.</a>  WhatsApp . Disponível em: [https://blog.whatsapp.com/whats-app-web?lang=pt_BR](). Acesso em: 07 de set. de 2025.
@@ -59,13 +70,7 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 
 ><a id="FRM16" href="#anchor_16">16.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 10 de set. de 2025.
 
-## **Contribuição**
-
-| Nome     | Contribuição |
-| :------- | :---------------: |
-| João G.  |      Desenvolvimento da Página       |
-| João L.   |      Desenvolvimento da Página       |
-| Fernanda |      Desenvolvimento da Página       |
+><a id="FRM17" href="#anchor_17">16.</a> Davinci Resolve. Disponível em: [https://www.blackmagicdesign.com/br/products/davinciresolve](). Acesso em: 24 de nov. de 2025.
 
 ## **Histórico de Versões**
 
@@ -74,6 +79,7 @@ As ferramentas apresentadas na Tabela 1 foram utilizadas com o intuito de facili
 | 1.0 | 07/09/2025 | Criação da tabela de ferramentas  | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Fernanda Vaz ](https://github.com/Fernandavazgit1) |
 | 1.1 | 09/09/2025 | Ajustes nas imagens dos ícones e adição de novas ferramentas. | [João Ramos](https://github.com/joaoramos) | [João Ramos](https://github.com/joaoramos) |
 | 1.2 | 19/11/2025 | Adição das ferramentas ImgBB e Figma. | [João Gabriel](https://github.com/JoaoComTil) | [João Ramos](https://github.com/joaoramos) |
+| 1.3 | 24/11/2024 | Adição da ferramenta Davinci Resolve | [Gabriel Maciel](https://github.com/GabrielMacielBR) | |
 
 ## **Agradecimentos**
 
