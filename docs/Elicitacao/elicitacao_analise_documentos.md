@@ -8,6 +8,13 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 
 ## Elicitação feita com a Análise de Documentos
 
+A sintetização dos documentos estão abaixo:
+
+<object data="documentos-fernanda.pdf" type="application/pdf" width="100%" height="600px">
+    <p>O seu navegador não consegue exibir este PDF. 
+    <a href="documentos-fernanda.pdf">Clique aqui para descarregar o ficheiro.</a></p>
+</object>
+
 ### Perfil do Usuário: Passageiro de Transporte Público no DF
 
 | Campo         | Descrição                                                                                                                                 |
