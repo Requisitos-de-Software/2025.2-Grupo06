@@ -129,3 +129,12 @@ nav:
           - "Etapa 4": Verificações/inspecao04.md
           - "Etapa 5": Verificações/inspecao06.md
           - "Etapa 6": Verificações/inspecao05.md
+    
+  - Entrega Final:
+    - "Aplicativo escolhido": Planejamento/Aplicativoescolhido.md
+    - "Ferramentas utilizadas": Planejamento/Ferramentasuti.md
+    - "Cronograma final": Planejamento/Cronogramadetalhado.md
+    - "Apresentações": entrega_final/apresentacoes.md
+    - "Resultados alcançados": entrega_final/resultados.md
+    - "Tabela de contribuição final": entrega_final/tabela_contribuicao.md
+    - "Considerações finais": entrega_final/consideracoes.md
