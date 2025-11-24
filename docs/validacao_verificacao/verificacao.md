@@ -160,7 +160,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 04 | Contribuição AND determina que todos descendentes satisfeitos satisfazem o ascendente? | João Ramos | [Imagem e Fonte da Etapa 04](https://i.ibb.co/GQ9fT3S2/image.png) |
 | 05 | Contribuição OR determina que apenas um descendente satisfeito basta? | João Ramos | [Imagem e Fonte da Etapa 04](https://ibb.co/9HnsJQBS) |
 | 06 | Os catálogos de requisitos estão descritos na notação adotada pelo NFR Framework? | João Gabriel | [Imagem e Fonte da Etapa 04](https://i.ibb.co/84QVyQM3/7.png) |
-
+| 07 | O tipo específico de cada contribuição foi determinado?|  Daniel Nunes| [Imagem e Fonte da Etapa 04](https://i.ibb.co/5hZ21J0T/image.png) |
 
 
 ### Histórias de Usuários
@@ -171,6 +171,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 02 | O cliente atribuiu valor/prioridade? | Gabriel Maciel | [Imagem e Fonte da Etapa 04](https://ibb.co/qZvpppV) |
 | 03 | Clientes e desenvolvedores definem juntos agrupamentos por versão? | Fernanda Vaz | [Imagem e Fonte da Etapa 04](https://ibb.co/My6bZqc3) |
 | 04 | Histórias de usuário descrevem o resultado esperado? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](https://ibb.co/xKK2WzRK) |
+| 05 |A história do usuário foi uma manifestação explícita de requisitos? |  Daniel Nunes| [Imagem e Fonte da Etapa 04](https://i.ibb.co/sdWcyrPp/image.png) |
 
 
 
@@ -185,6 +186,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 | 04 | Product Owner prioriza itens na Sprint Planning? | Cauã Nicolas | [Imagem e Fonte da Etapa 04](https://ibb.co/8kdbXTW) |
 | 05 | O backlog é uma lista ordenada de tudo que pode ser necessário no produto? | João Gabriel | [Imagem e Fonte da Etapa 04](https://i.ibb.co/hx2ZsLz0/image.png) |
 | 06 | O cliente atribui uma valor prioridade à história? | João Gabriel | [Imagem e Fonte da Etapa 04](https://i.ibb.co/d03BtTKX/image.png) |
+| 07 |  Está de acordo com a necessidade do produto?|  Daniel Nunes| [Imagem e Fonte da Etapa 04](https://i.ibb.co/93qMy9T5/image.png) |
 
 
 
@@ -233,6 +235,7 @@ Esta página apresenta as versões finais de cada lista de verificação de cada
 ## Agradecimentos
 
 >Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
+
 
 
 
