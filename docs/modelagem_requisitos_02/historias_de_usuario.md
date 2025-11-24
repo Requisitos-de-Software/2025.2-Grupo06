@@ -539,7 +539,7 @@ Todas as histórias de usuário seguem o [Template de Tabela](#template-de-hist�
 | 1.7 | 21/10 | Adição de Histórias de Usuário de US24 até US30 | João Ramos | Fernanda Vaz |
 | 1.8 | 21/10 | Adição de Histórias de Usuário de US31 e US32 | João Gabriel | Gabriel Maciel |
 | 1.9 | 21/10 | Adição das Histórias de Usuário de US33 a US38 | Daniel Nunes Duarte | --------- |
-| 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | |
+| 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | Daniel Nunes Duarte |
 
 ---
 
