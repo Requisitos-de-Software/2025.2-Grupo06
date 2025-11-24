@@ -239,7 +239,7 @@ Visa incentivar o uso do transporte público por meio de mecanismos de gamifica�
 | 1.6 | 21/10 | Adição de US29 e US15 ao Épico 7 | João Gabriel | João Lucas |
 | 1.7 | 21/10 | Adição de US31 a US36. Criação dos Épicos 10 e 11. Oganização dos US31 ao US36  | Daniel Nunes Duarte | 
 | 1.7 | 21/10 | Adição de itens aos Épicos 2, 3 e 7 | João Lucas | João Gabriel |
-| 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | |
+| 2.0 | 25/10 | Adição de Tabela de Contribuições | Gabriel Maciel | Daniel Nunes Duarte |
 
 ---
 
