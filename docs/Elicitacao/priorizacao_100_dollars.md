@@ -87,11 +87,28 @@ Cada participante recebe **$100 fictícios** para "investir" nos itens que serã
 
 Com esses dados, poderiamos criar um MVP bem embasado do que grande parte dos perfis de usuário gostariam de ter no aplicativo como o DF No Ponto de forma geral.
 
-## Vídeo
+## Vídeos
+
+!!! info "Priorização com Usuários Reais"
+    Todas as sessões de priorização foram realizadas com **usuários reais** do sistema de transporte público do DF, garantindo que as decisões refletem necessidades autênticas dos usuários finais.
+
+### Vídeo 1: Priorização de Requisitos Funcionais ($100 Dollars)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sdPRqKGJkl8?si=wlZkKTbip_g_Y0b0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 1: Priorização de Requisitos Funcionais com técnica $100 Dollars - Realizado com usuários reais*
+
+### Vídeo 2: Priorização de Requisitos Não Funcionais ($100 Dollars e In or Out)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqZ0dfJnU90?si=YLhCQwPKmrLrd6Pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 2: Priorização de Requisitos Não Funcionais - Realizado com usuários reais*
+
+### Vídeo 3: Sessão Inicial de Priorização (Arquivo)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LjKYuKdOKN8" title="Técnica de Priorização $100 Dollars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Vídeo 1: Reunião de priorização de 100 Dollars - Fonte: João Gabriel, 2025*
+*Vídeo 3: Reunião inicial de priorização $100 Dollars - Fonte: João Gabriel, 2025*
 
 ## Responsáveis pela Elaboração
 

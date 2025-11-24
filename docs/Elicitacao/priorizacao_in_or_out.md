@@ -55,11 +55,28 @@ A aplicação da técnica **In or Out** revelou um forte consenso sobre as funci
 
 Isso fornece uma direção clara para a equipe de desenvolvimento, que pode focar na construção de um produto inicial sólido e de alto valor, deixando funcionalidades importantes, mas não essenciais (como recarga de cartão ou histórico de viagens), para iterações futuras.
 
-## Vídeo
+## Vídeos
+
+!!! info "Priorização com Usuários Reais"
+    Todas as sessões de priorização foram realizadas com **usuários reais** do sistema de transporte público do DF, garantindo que as decisões refletem necessidades autênticas dos usuários finais.
+
+### Vídeo 1: Priorização de Requisitos Funcionais (In or Out)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kjeGclvR6o?si=NPv6BPBNSVhfkvaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 1: Priorização de Requisitos Funcionais com técnica In or Out - Realizado com usuários reais*
+
+### Vídeo 2: Priorização de Requisitos Não Funcionais (In or Out e $100 Dollars)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqZ0dfJnU90?si=YLhCQwPKmrLrd6Pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Vídeo 2: Priorização de Requisitos Não Funcionais - Realizado com usuários reais*
+
+### Vídeo 3: Sessão Inicial de Priorização (Arquivo)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJTgQuIg4iY?si=DxbloHWM7I6F1wwx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Vídeo 1: Reunião de priorização de In or Out - Fonte: João Lucas*
+*Vídeo 3: Reunião inicial de priorização In or Out - Fonte: João Lucas*
 
 ## Descrição dos Requisitos Funcionais e Não Funcionais
 
