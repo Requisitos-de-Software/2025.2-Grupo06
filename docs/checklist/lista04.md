@@ -213,7 +213,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 | Item | Avaliação | Avaliador(es) | Data e Hora |
 |:-----|:----------|:--------------|:-------------|
 | **10:** O cliente atribui um valor a história de usuário baseado no valor do negócio?  | A avaliar | João Ramos | 19/10/2025 19:45 |
-<a href="https://ibb.co/VYDgWSTD"><img src="https://i.ibb.co/pjZfvzdZ/Captura-de-tela-de-2025-10-21-21-06-188.png" alt="Captura-de-tela-de-2025-10-21-21-06-188" border="0"></a>
+<a href="https://ibb.co/v6Hychrt"><img src="https://i.ibb.co/NdsDFrk4/Captura-de-tela-de-2025-10-21-21-06-18838.png" alt="Captura-de-tela-de-2025-10-21-21-06-18838" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'></a><br />
 
 **Fonte ²:** **PRESSMAN, R. S.** *Engenharia de software: uma abordagem profissional*. 7. ed. Porto Alegre: AMGH, 2011. p. 88.
 
