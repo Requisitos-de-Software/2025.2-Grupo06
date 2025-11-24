@@ -372,7 +372,7 @@ Uma lista de verificação, também conhecida como checklist, é uma ferramenta 
 |:-----|:----------|:--------------|:-------------|
 | **17:** As Sprints estão ajustadas dentro do prazo pré-determinado? | A avaliar | Daniel Nunes Duarte | 21/10/2025 12:30 |
 
-![Fonte do Item 17](https://i.ibb.co/VkpHCLk/17-1.png)  
+![Fonte do Item 17](https://i.ibb.co/VkpHCLk/17-1.png)
 **Fonte ²:** **PRESSMAN, R. S.; MAXIM, B. R.** *Engenharia de software: uma abordagem profissional*. 8. ed. Porto Alegre: AMGH, 2016. (pág. 15)
 
 ---
