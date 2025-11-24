@@ -27,8 +27,20 @@ O DF NO PONTO é uma iniciativa do Governo do Distrito Federal – GDF, criada p
 
 >[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. Aprender 3. Distrito Federal, 2016. Disponível em: https://aprender3.unb.br/pluginfile.php/3210576/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf
 
+## **Contribuição**
+
+| Nome     | Contribuição |
+| :------- | :---------------: |
+| João G.  |      Desenvolvimento da Página       |
+| Cauã   |      Desenvolvimento do Rich Picture e Página       |
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------  | ----------- |
 | 1.0 | 09/09 | Criação do Rich Picture | [Cauã Nicolas](https://github.com/cauanicolas) | [Cauã Nicolas](https://github.com/cauanicolas) |
+| 1.1 | 24/11 | Contribuição e Agradecimento | João Gabriel | Cauã Nicolas |
+
+## Agradecimentos
+
+>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
