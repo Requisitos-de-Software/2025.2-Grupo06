@@ -120,3 +120,9 @@ A Tabela 6 documenta as contribuições dos membros na etapa final de rastreabil
 <p style="text-align: center; font-size: 14px;">
 Tabela 6 – Contribuição da etapa 6 - Pós-rastreabilidade
 </p>
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor(es) | Revisor |
+|:---:|---|---|---|---|
+| 1.0 | 24/11/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | A revisar |
