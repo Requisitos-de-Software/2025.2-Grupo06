@@ -8,10 +8,11 @@ A Tabela 1 apresenta as contribuições dos membros do grupo durante a etapa de 
 
 | Artefato | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
-| Rich Picture | 0 | 0 | 0 | 0 | 0 | 0 |
+| Rich Picture | 1 | 0 | 0 | 0 | 0 | 0 |
 | Validação do RichPicture | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos criados** | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos revisados** | 0 | 0 | 0 | 0 | 0 | 0 |
+| Artefatos adicionais | [Heatmap.](../Planejamento/Heatmap.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Sobre o aplicativo escolhido.](../Planejamento/Aplicativoescolhido.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Cronograma detalhado.](../Planejamento/Cronogramadetalhado.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) |
+| **Total de documentos criados** | **2** | **2** | **2** | **2** | **2** | **2** |
+| **Total de documentos revisados** | **2** | **2** | **2** | **2** | **2** | **2** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Contribuição da etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade
@@ -26,15 +27,14 @@ A Tabela 2 registra as contribuições durante a etapa de elicitação e prioriz
 | Perfil de Usuário | 0 | 0 | 0 | 0 | 0 | 0 |
 | Análise de Documentos | 0 | 0 | 0 | 0 | 0 | 0 |
 | Brainstorming | 0 | 0 | 0 | 0 | 0 | 0 |
-| Entrevista | 0 | 0 | 0 | 0 | 0 | 0 |
-| Questionário | 0 | 0 | 0 | 0 | 0 | 0 |
-| Requisitos Elicitados | 0 | 0 | 0 | 0 | 0 | 0 |
+| Entrevista | [1](../Elicitacao/elicitacao_entrevista.md) | 0 | 0 | [1](../Elicitacao/elicitacao_entrevista.md) | 0 | [1](../Elicitacao/elicitacao_entrevista.md) |
+| Requisitos Elicitados | [23](../Elicitacao/elicitacao_entrevista.md#resultados) | 0 | 0 | [23](../Elicitacao/elicitacao_entrevista.md#resultados) | 0 | [23](../Elicitacao/elicitacao_entrevista.md#resultados) |
 | Priorização - $100 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Priorização - In or Out | 0 | 0 | 0 | 0 | 0 | 0 |
-| Priorização - MoSCoW | 0 | 0 | 0 | 0 | 0 | 0 |
-| Priorização - Three Level Scale | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos criados** | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos revisados** | 0 | 0 | 0 | 0 | 0 | 0 |
+| Priorização - MoSCoW | 0 | 0 | 0 | 1 | 0 | 0 |
+| Priorização - First Things First | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Total de documentos criados** | 1 | 0 | 0 | 1 | 0 | 1 |
+| **Total de documentos revisados** | 1 | 0 | 0 | 1 | 0 | 1 |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 2 – Contribuição da etapa 2 - Elicitação - Técnicas e Priorização de Requisitos
@@ -46,16 +46,16 @@ A Tabela 3 documenta as contribuições dos membros durante a modelagem clássic
 
 | Artefato | Cauã Nicolas | Daniel Nunes | Fernanda Vaz | Gabriel Maciel | João Gabriel | João Ramos |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
-| Especificação de cenários | 0 | 0 | 0 | 0 | 0 | 0 |
-| Validação da especificação dos cenários | 0 | 0 | 0 | 0 | 0 | 0 |
-| Léxicos | 0 | 0 | 0 | 0 | 0 | 0 |
-| Validação dos léxicos | 0 | 0 | 0 | 0 | 0 | 0 |
-| Especificação de caso de uso  | 0 | 0 | 0 | 0 | 0 | 0 |
+| Especificação de cenários | 0 | 0 | 0 | [2](../modelagem_requisitos_01/cenarios.md#cenarios-3-e-4-gabriel-maciel) | 0 | 0 |
+| Validação da especificação dos cenários | 0 | 0 | 0 | [2](../modelagem_requisitos_01/cenarios.md#validacao-com-usuario-real-dos-cenarios-3-e-4) | 0 | 0 |
+| Léxicos | 0 | 0 | 0 | [2](../modelagem_requisitos_01/lexicos.md#lexicos-10-11-e-12-gabriel-maciel) | 0 | 0 |
+| Validação dos léxicos | 0 | 0 | 0 | [2](../modelagem_requisitos_01/lexicos.md#validacao-com-usuario-real-dos-lexicos-10-11-e-12) | 0 | 0 |
+| Especificação de caso de uso  | 0 | 0 | 0 | [2](../modelagem_requisitos_01/casos_de_uso.md#casos-de-uso-uc03-e-uc04-gabriel-maciel) | 0 | 0 |
 | Validação do caso de uso | 0 | 0 | 0 | 0 | 0 | 0 |
-| Especificação suplementar | 0 | 0 | 0 | 0 | 0 | 0 |
+| Especificação suplementar | 0 | 0 | 0 | [17](../modelagem_requisitos_01/especificacao_suplementar.md) | 0 | 0 |
 | Validação da especificação suplementar | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos criados** | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total de documentos revisados** | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Total de documentos criados** | 0 | 0 | 0 | 6 | 0 | 0 |
+| **Total de documentos revisados** | 0 | 0 | 0 | 6 | 0 | 0 |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 3 – Contribuição da etapa 3 - Modelagem de Requisitos 1
