@@ -10,9 +10,9 @@ A Tabela 1 apresenta as contribuições dos membros do grupo durante a etapa de 
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
 | Rich Picture | 1 | 0 | 0 | 0 | 0 | 0 |
 | Validação do RichPicture | 0 | 0 | 0 | 0 | 0 | 0 |
-| Artefatos adicionais | [Heatmap.](../Planejamento/Heatmap.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Sobre o aplicativo escolhido.](../Planejamento/Aplicativoescolhido.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Cronograma detalhado.](../Planejamento/Cronogramadetalhado.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) |
-| **Total de documentos criados** | **2** | **2** | **2** | **2** | **2** | **2** |
-| **Total de documentos revisados** | **2** | **2** | **2** | **2** | **2** | **2** |
+| Artefatos adicionais | [Heatmap.](../Planejamento/Heatmap.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Sobre o aplicativo escolhido.](../Planejamento/Aplicativoescolhido.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Cronograma detalhado;](../Planejamento/Cronogramadetalhado.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) | [Heatmap;](../Planejamento/Heatmap.md) <br> [Ferramentas Utilizadas.](../Planejamento/Ferramentasuti.md) |
+| **Total de documentos criados** | **2** | **2** | **2** | **3** | **2** | **2** |
+| **Total de documentos revisados** | **2** | **2** | **2** | **3** | **2** | **2** |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Contribuição da etapa 1 - Planejamento do Projeto e Pré-Rastreabilidade
