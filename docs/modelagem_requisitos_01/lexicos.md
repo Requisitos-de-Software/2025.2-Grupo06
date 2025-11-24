@@ -4,6 +4,19 @@
 
 De acordo com a metodologia apresentada por [Serrano e Serrano](#referências-bibliográficas), a construção do léxico é uma técnica de engenharia de requisitos que visa descrever os símbolos e a terminologia de uma linguagem de domínio. O objetivo central dessa abordagem é a identificação e definição precisa de palavras ou frases específicas do contexto social e operacional da aplicação em análise.
 
+## Tabela 1 - Tabela de contribuição
+
+A Tabela 1 apresenta as contribuições de cada membro da equipe para a elaboração desta Especificação Suplementar, indicando as seções, requisitos e funcionalidades pelas quais cada um foi responsável.
+
+|        Nome          | Contribuição |
+|----------------------|--------------|
+| Caúa Nicolas | - [Léxico 07 - Destino](#lexico-07-destino) <br> - [Léxico 08 - Rastrear](#lexico-08-rastrear) <br> - [Léxico 09 - Agora](#lexico-09-agora) |
+| Daniel Nunes Duarte | - [Léxico 16 - Trabalhador](#lexico-16-trabalhador) <br> - [Léxico 17 - Alertar](#lexico-17-alertar) <br> - [Léxico 18 - Aproximação do ônibus](#lexico-18-aproximacao-do-onibus) |
+| Fernanda Vaz | - [Léxico 01 - Notificações de Chegada](#lexico-01-notificacoes-de-chegada)<br> - [Léxico 02 - Transporte Atrasado](#lexico-02-transporte-atrasado) <br> - [Léxico 03 - Passageiro](#lexico-03-passageiro) |
+| Gabriel Maciel | - [Léxico 10 - Transporte público](#lexico-10-transporte-publico) <br> - [Léxico 11 - Pesquisar](#lexico-11-pesquisar) <br> - [Léxico 12 - Tempo real](#lexico-12-tempo-real) |
+| Joao Gabriel | - [Léxico 13 - Compromisso](#lexico-13-compromisso) <br> - [Léxico 14 - Relaxar](#lexico-14-relaxar) <br> - [Léxico 15 - Organizado](#lexico-15-organizado) |
+| Joao Ramos | - [Léxico 04 - Estudante](#lexico-04-estudante) <br> - [Léxico 05 - Planejar](#lexico-05-planejar) <br> - [Léxico 06 - Favorito](#lexico-06-favorito) |
+
 ## Metodologia
 
 A metodologia selecionada para a documentação do vocabulário do projeto é a notação do Léxico Ampliado da Linguagem (LAL), conforme a abordagem de [Serrano e Serrano](#referências-bibliográficas). Esta técnica consiste em descrever formalmente os símbolos da linguagem de domínio, onde cada símbolo é detalhado por meio de duas perspectivas centrais: sua **Noção** (o conceito ou significado) e seu **Impacto** (as ações e efeitos que o símbolo exerce ou sofre no sistema).
@@ -321,10 +334,11 @@ Vídeo a ser adicionado.
 |:------:|:-----------|:-------------------------------------------|:---------------|:---------------|
 | 1.0    | 08/10/2025 | Criação da estrutura inicial do documento. | Gabriel Maciel | Fernanda Vaz   |
 | 1.1    | 08/10/2025 | Adição de léxicos inicial                  | Fernanda Vaz  | Gabriel Maciel |
-| 1.2    | 12/10/2025 | Adição de mais léxicos                     | Cauã Nicolas   | João Lucas, Gabriel Maciel    |
-| 1.3    | 12/10/2025 | Léxicos 9,10,11                            | João Gabriel   | Fernanda Vaz, João Lucas    |
-| 1.3    | 12/10/2025 | Adiciona vídeos de Validação com usuário real dos Léxicos | Gabriel Maciel  | Fernanda Vaz, JoÃo Lucas, Cauã Nicolas    |
-| 1.4    | 12/10/2025 | Adição dos léxicos 16,17 e 18. | Daniel Nunes Duarte | ----- |
+| 1.2    | 12/10/2025 | Adição dos léxicos 07, 08, 09               | Cauã Nicolas   | João Lucas, Gabriel Maciel    |
+| 1.3 | 12/10/2025 | Adição dos léxicos 10, 11 e 12 | Gabriel Maciel | João Gabriel |
+| 1.4    | 12/10/2025 | Adição dos léxicos 09, 10, 11                            | João Gabriel   | Fernanda Vaz, João Lucas    |
+| 1.5    | 12/10/2025 | Adiciona vídeos de Validação com usuário real dos Léxicos | Gabriel Maciel  | Fernanda Vaz, JoÃo Lucas, Cauã Nicolas    |
+| 1.6    | 12/10/2025 | Adição dos léxicos 16 , 17 e 18. | Daniel Nunes Duarte | Gabriel Maciel |
 
 ## Agradecimentos
 > Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
