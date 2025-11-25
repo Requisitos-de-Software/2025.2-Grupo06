@@ -1,4 +1,4 @@
- # Cronograma
+ 
 
 Este documento apresenta o planejamento detalhado do projeto, distribuído em etapas e pontos de controle. As tabelas a seguir organizam as entregas, autores e revisores de cada fase, tendo como objetivo facilitar a visualização do progresso e o gerenciamento do trabalho ao longo do semestre.
 
