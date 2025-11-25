@@ -64,17 +64,23 @@ A sintetização dos documentos analisados está abaixo:
 
 *Tabela 4 - Requisitos Não Implementados identificados. Autoria: Fernanda Vaz, 2025*
 
-### Requisitos Não Funcionais Derivados
+### Requisitos Não Funcionais de Conformidade e Qualidade
 
-| ID    | Requisito Não Funcional Derivado              | Descrição                                                                 |
-|-------|------------------------------------------------|---------------------------------------------------------------------------|
-| RND01 | Rastreamento confiável                         | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas críticas. |
-| RND02 | Acessibilidade WCAG                            | Suporte a leitores de tela e ajuste de contraste conforme WCAG 2.1.     |
-| RND03 | Mensagens de erro acessíveis                   | Mensagens de erro devem identificar claramente o elemento que gerou o erro (visual e audível). |
-| RND04 | Atomicidade de transações                      | Transações devem ser completadas integralmente ou revertidas sem estados parciais. |
-| RND05 | Responsividade de interface                    | Interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela. |
+Durante a análise de documentos técnicos e normativos aplicáveis ao sistema de transporte público do DF, foram identificados requisitos não funcionais derivados de padrões internacionais e legislação brasileira. Estes requisitos garantem que o aplicativo esteja em conformidade com normas de acessibilidade ([WCAG 2.1](#ref-wcag)), proteção de dados ([LGPD](#ref-lgpd)) e boas práticas de engenharia de software ([ISO/IEC 25010](#ref-iso25010)).
 
-*Tabela 5 - Requisitos Não Funcionais Derivados identificados. Autoria: João Ramos, 2025*
+A Tabela 5 apresenta os Requisitos Não Funcionais de Conformidade e Qualidade identificados através da análise documental de normas técnicas e legislações aplicáveis.
+
+#### Tabela 5 - Requisitos Não Funcionais de Conformidade e Qualidade
+
+| ID    | Requisito                                      | Descrição                                                                 | Fonte Normativa |
+|-------|------------------------------------------------|---------------------------------------------------------------------------|-----------------|
+| RND01 | Rastreamento confiável                         | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas críticas. | [ISO/IEC 25010](#ref-iso25010) (Confiabilidade) |
+| RND02 | Acessibilidade WCAG                            | Suporte a leitores de tela e ajuste de contraste conforme WCAG 2.1 nível AA. | [WCAG 2.1 AA](#ref-wcag) (Diretriz 1.4) |
+| RND03 | Mensagens de erro acessíveis                   | Mensagens de erro devem identificar claramente o elemento que gerou o erro de forma visual e audível. | [WCAG 2.1 AA](#ref-wcag) (Critério 3.3.1) |
+| RND04 | Atomicidade de transações                      | Transações devem ser completadas integralmente ou revertidas sem estados parciais. | [ISO/IEC 25010](#ref-iso25010) (Confiabilidade - Recuperabilidade) |
+| RND05 | Responsividade de interface                    | Interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade. | [WCAG 2.1 AA](#ref-wcag) (Diretriz 1.4.10 - Reflow) |
+
+*Tabela 5 - Requisitos Não Funcionais de Conformidade e Qualidade. Autoria: João Ramos, 2025*
 
 ## Responsáveis pela Elaboração
 
@@ -95,9 +101,18 @@ A sintetização dos documentos analisados está abaixo:
 
 ## Bibliografia
 
->[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
+<a id="ref-wcag"></a>
+>[1] W3C. **Web Content Accessibility Guidelines (WCAG) 2.1**. W3C Recommendation, 5 June 2018. Disponível em: <https://www.w3.org/TR/WCAG21/>. Acesso em: 24 nov. 2025.
 
->[2] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
+<a id="ref-lgpd"></a>
+>[2] BRASIL. **Lei nº 13.709, de 14 de agosto de 2018**. Lei Geral de Proteção de Dados Pessoais (LGPD). Brasília, DF: Presidência da República, 2018. Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm>. Acesso em: 24 nov. 2025.
+
+<a id="ref-iso25010"></a>
+>[3] ISO/IEC. **ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models**. Geneva: International Organization for Standardization, 2011. Disponível em: <https://www.iso.org/standard/35733.html>. Acesso em: 24 nov. 2025.
+
+>[4] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) **Interação Humano-Computador e Experiência do usuário**. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 30 set 2025.
+
+>[5] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
