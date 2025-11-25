@@ -48,7 +48,7 @@ Este documento reúne os principais artefatos desenvolvidos em cada etapa do pro
 | --- | --- | --- | --- |
 | [Backlog por épicos](../modelagem_requisitos_02/backlog.md) | Épicos, histórias e priorização alinhados às fontes de elicitação. | Fernanda Vaz; Gabriel Maciel; Cauã Nicolas; João Gabriel; Daniel Nunes Duarte; João Lucas | Gabriel Maciel; Cauã Nicolas; João Gabriel; João Lucas |
 | [Histórias de usuário detalhadas](../modelagem_requisitos_02/historias_de_usuario.md) | Histórias US01–US39 com critérios de aceitação e validação em vídeo. | Fernanda Vaz; Gabriel Maciel; Cauã Nicolas; João Gabriel; João Ramos; Daniel Nunes Duarte | Gabriel Maciel; Fernanda Vaz; Cauã Nicolas; João Gabriel |
-| [NFR Framework](../modelagem_requisitos_02/nfr.md) | SIGs e cartões de especificação para usabilidade, desempenho, portabilidade e acessibilidade. | Fernanda Vaz; Gabriel Maciel; Cauã Nicolas; João Ramos | Gabriel Maciel; Cauã Nicolas |
+| [NFR Framework](../modelagem_requisitos_02/nfr.md) | SIGs e cartões de especificação para usabilidade, desempenho, portabilidade e acessibilidade. | Daniel Nunes Duarte; Fernanda Vaz; Gabriel Maciel; Cauã Nicolas; João Ramos | Gabriel Maciel; Cauã Nicolas |
 
 *Tabela 4: Artefatos da Etapa 4 — Modelagem Ágil - Fonte: Fernanda Vaz, 2025*
 
@@ -71,6 +71,7 @@ Este documento reúne os principais artefatos desenvolvidos em cada etapa do pro
 | [Matriz de rastreabilidade](../pos-rastreabilidade/matriz.md) | Visão consolidada dos vínculos entre requisitos e artefatos de desenvolvimento/verificação. | Gabriel Maciel; Fernanda Vaz; Daniel Nunes Duarte | Fernanda Vaz; Gabriel Maciel |
 
 *Tabela 6: Artefatos da Etapa 6 — Pós-Rastreabilidade - Fonte: Fernanda Vaz, 2025*
+
 
 
 
