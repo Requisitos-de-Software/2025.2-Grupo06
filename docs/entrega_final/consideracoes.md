@@ -5,7 +5,9 @@ Nesta seção, os seis (6) integrantes da equipe, responsável pelo  o aplicativ
 
 
 ## Cauã Nicolas
->
+> Em relação a disciplina e aprendizagem em Requisitos de Software, acredito que foi de total importância para o aprendizado, visto que foi desenvolvido técnicas, elicitações e priorizações de requisitos, além é claro, de auxiliar e ampliar meu conhecimento na área, além do desenvolvimento de uma conduta mais profissional na hora de elicitar requisitos. 
+> Agora voltado para o aplicativo "DF no Ponto", creio que foi uma excelente opção de produto para se trabalhar nessa disciplina. Digo isso, porque trabalhamos em um aplicativo no qual fazemos o uso diariamente, foi um produto no qual foi claro e de fácil entendimento de se analisar e trabalhar.
+> Por fim, em relação as dificuldades, notei um pouco de dificuldade no ínicio de alguns tópicos específicos, além disso, senti um pouco falta de organização da nossa equipe, creio que poderíamos nos esforçar e conseguir entregar um trabalho de total excelência. 
 
 ## Daniel Nunes
 >
