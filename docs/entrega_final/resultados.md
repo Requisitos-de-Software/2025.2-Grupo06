@@ -17,7 +17,7 @@ A etapa inicial estabeleceu a base organizacional e conceitual do projeto. Entre
 
 ## Etapa 2 — Elicitação e Priorização
 
-Foram elicitados **52 requisitos** (37 funcionais e 15 não funcionais) a partir de análise de documentos, entrevistas e brainstorming. Personas, perfis de usuários e múltiplas técnicas de priorização (MoSCoW, In or Out, FTF, $100) fortaleceram a análise.
+Foram elicitados **58 requisitos** (38 funcionais e 20 não funcionais) a partir de análise de documentos, entrevistas e brainstorming. Personas, perfis de usuários e múltiplas técnicas de priorização (MoSCoW, In or Out, FTF, $100) fortaleceram a análise.
 
 **Aprendizado:** Combinar diferentes técnicas enriquece a compreensão das necessidades reais dos usuários.
 
@@ -68,5 +68,6 @@ O projeto evoluiu de forma consistente, com cada etapa contribuindo diretamente 
 | Versão | Data       | Descrição                                         | Autora                                   | Revisores |
 |:------:|------------|-----------------------------------------------------|-------------------------------------------|-----------|
 | 1.0    | 24/11/2025 | Criação do resumo, incluindo introdução, conclusão e Etapa 6 | **Fernanda Vaz Duarte dos Santos** | Daniel Nunes Duarte |
+| 1.1    | 24/11/2025 | Atualização quantidade de requistos  | **João Ramos** | Daniel Nunes Duarte |
 
 

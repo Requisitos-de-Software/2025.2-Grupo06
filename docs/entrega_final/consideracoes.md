@@ -34,3 +34,5 @@ Nesta seção, os seis (6) integrantes da equipe, responsável pelo  o aplicativ
 
 ## João Ramos
 > Na minha percepção, a disciplina de Requisitos de Software foi fundamental para ampliar minha visão sobre a Engenharia de Software. O semestre foi muito enriquecedor, pois pude aplicar a teoria na prática e compreender que o desenvolvimento vai muito além do código: trata-se da capacidade de extrair, interpretar e traduzir as necessidades reais do usuário. Encerro a matéria com uma bagagem muito mais completa.
+
+>Sobre a execução do projeto "DF No Ponto", a maior dificuldade foi a correria para manter todos os artefatos alinhados com os prazos, mas a boa comunicação da equipe foi uma facilidade que ajudou demais no processo. Foi uma experiência "mão na massa" que valeu muito para entender como as coisas funcionam de verdade, fora dos conteúdos e livros.
