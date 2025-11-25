@@ -1,7 +1,7 @@
 # Forward-From
 
 ## Introdução
-A rastreabilidade forward-from (pós-rastreabilidade) vincula requisitos a artefatos de desenho, implementação e validação (como código e casos de teste), rastreando-os desde a origem até a entrega. (SAYÃO; LEITE, 2005).
+A rastreabilidade forward-from (pós-rastreabilidade) vincula requisitos a artefatos de desenho, implementação e validação (como código e casos de teste), rastreando-os desde a origem até a entrega.
 
 ## Metodologia
 
@@ -625,7 +625,7 @@ O meta-modelo de Toranzo estabelece um conjunto de elos de rastreabilidade que d
 
 ---
 
-## Referência bibliográfica
+## Bibliográfia
 
 > <a id="ref-1"></a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 28 de Out de 2025.
 
