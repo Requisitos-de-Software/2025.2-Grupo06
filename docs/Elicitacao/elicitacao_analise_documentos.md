@@ -59,6 +59,18 @@ A sintetização dos documentos analisados está abaixo:
 
 *Tabela 4 - Requisitos Não Implementados identificados. Autoria: Fernanda Vaz, 2025*
 
+### Requisitos Não Funcionais Derivados
+
+| ID    | Requisito Não Funcional Derivado              | Descrição                                                                 |
+|-------|------------------------------------------------|---------------------------------------------------------------------------|
+| RND01 | Rastreamento confiável                         | Rastreamento dos ônibus em tempo real deve ser confiável e sem falhas críticas. |
+| RND02 | Acessibilidade WCAG                            | Suporte a leitores de tela e ajuste de contraste conforme WCAG 2.1.     |
+| RND03 | Mensagens de erro acessíveis                   | Mensagens de erro devem identificar claramente o elemento que gerou o erro (visual e audível). |
+| RND04 | Atomicidade de transações                      | Transações devem ser completadas integralmente ou revertidas sem estados parciais. |
+| RND05 | Responsividade de interface                    | Interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela. |
+
+*Tabela 5 - Requisitos Não Funcionais Derivados identificados. Autoria: João Ramos, 2025*
+
 ## Responsáveis pela Elaboração
 
 | Nome            | Responsabilidade              |
@@ -74,6 +86,7 @@ A sintetização dos documentos analisados está abaixo:
 | 1.0    | 29/09/2025 | Criação inicial do arquivo de Análise de Documentos | [Fernanda Vaz](https://github.com/Fernandavazgit1)   | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
 | 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | [Gabriel Maciel](https://github.com/GabrielMacielBR)  | [Fernanda Vaz](https://github.com/Fernandavazgit1) |
+| 2.2    | 24/11/2025 | Adição de Requisitos Não Funcionais Derivados (RND01-RND05) | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
 
 ## Bibliografia
 

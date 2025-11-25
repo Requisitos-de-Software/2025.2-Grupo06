@@ -27,4 +27,4 @@ Nesta seção, os seis (6) integrantes da equipe, responsável pelo  o aplicativ
 > Dentre as dificuldades que enfrentei, foi definitivamente coordenar com a minha equipe para que todos fizessem as coisas na mesma formatação e no mesmo horário, sendo que tínhamos pouco tempo entre as entregas, então acabaram virando "débitos técnicos" para uma correção final do trabalho. Algo definitivamente menos fácil do que fazer tudo organizado desde o início. Porém, como facilidade, acho que minha equipe também se comunicava bem e era bastante proativa, o que facilitou bastante em muitas entregas.
 
 ## João Ramos
->
+> Na minha percepção, a disciplina de Requisitos de Software foi fundamental para ampliar minha visão sobre a Engenharia de Software. O semestre foi muito enriquecedor, pois pude aplicar a teoria na prática e compreender que o desenvolvimento vai muito além do código: trata-se da capacidade de extrair, interpretar e traduzir as necessidades reais do usuário. Encerro a matéria com uma bagagem muito mais completa.

@@ -65,6 +65,11 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 | **RNF13** | Alta disponibilidade do sistema (≥ 98% uptime) | Não Funcional | Sim | Brainstorm (BRS26) |
 | **RNF14** | Suporte a múltiplos usuários simultâneos sem lentidão | Não Funcional | Sim | Brainstorm (BRS15) |
 | **RNF15** | Personalização da interface com base em preferências do usuário | Não Funcional | Não | Brainstorm (BRS13) |
+| **RNF16** | Rastreamento dos ônibus em tempo real deve ser confiável (sem falhas críticas) | Não Funcional | Sim | Análise de Documentos (RND01) |
+| **RNF17** | Suporte a leitores de tela e ajuste de contraste conforme WCAG 2.1 | Não Funcional | Sim | Análise de Documentos (RND02) |
+| **RNF18** | Mensagens de erro devem identificar claramente o elemento que gerou o erro (visual e audível) | Não Funcional | Sim | Análise de Documentos (RND03) |
+| **RNF19** | Transações devem ser completadas integralmente ou revertidas (atomicidade) | Não Funcional | Sim | Análise de Documentos (RND04) |
+| **RNF20** | Interface deve ajustar automaticamente para diferentes resoluções de tela | Não Funcional | Sim | Análise de Documentos (RND05) |
 
 *Tabela 1: Lista de requisitos elicitados de todas as técnicas - Autoria: Gabriel Maciel, João Ramos, 2025*
 
@@ -76,5 +81,6 @@ Esta rastreabilidade é fundamental para garantir a validação dos requisitos e
 |:-----------:|:--------:|:--------------|:---------------|:----------------|
 | **1.0** | 18/10/2025 | Criação inicial da Tabela Geral de Requisitos Elicitados; consolidação das três técnicas | [Gabriel Maciel](https://github.com/GabrielMacielBR) | [João Gabriel](https://github.com/JoaoComTil) |
 | **1.1** | 27/10/2025 | Adição de links bidirecionais para o documento `forward.md` | [Fernanda Vaz](https://github.com/Fernandavazgit1) | [Cauã Nicolas](https://github.com/cauanicolas) |
-| **1.2** | 19/11/2025 | Adicão coluna de Requisito Implementado | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
-| **1.2** | 19/11/2025 | Adcição rastreabilidade dos requisitos | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| **1.2** | 19/11/2025 | Adição coluna de Requisito Implementado | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| **1.3** | 19/11/2025 | Adição rastreabilidade dos requisitos | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
+| **1.4** | 24/11/2025 | Adição de requisitos não funcionais derivados (RNF16-RNF20) | [João Ramos](https://github.com/Joaolramos) | [Gabriel Maciel](https://github.com/GabrielMacielBR) |
