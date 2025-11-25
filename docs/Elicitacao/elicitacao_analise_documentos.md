@@ -10,9 +10,13 @@ Essa técnica permite ao engenheiro de requisitos obter um entendimento inicial 
 
 A sintetização dos documentos analisados está abaixo:
 
-![Documentos 1](./analise-doc1.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
+![Documento 1](./analise-doc1.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
 
-![Documentos 1](./analise-doc2.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
+*Autoria: Fernanda Vaz*
+
+![Documento 1](./analise-doc2.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
+
+*Autoria: João Gabriel*
 
 ### Perfil do Usuário: Passageiro de Transporte Público no DF
 
