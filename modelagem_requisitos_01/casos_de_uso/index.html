@@ -1,0 +1,5130 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../lexicos/">
+      
+      
+        <link rel="next" href="../especificacao_suplementar/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/logos/logo_small.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Casos de Uso - DF No Ponto</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Open Sans";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducao" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="DF No Ponto" class="md-header__button md-logo" aria-label="DF No Ponto" data-md-component="logo">
+      
+  <img src="../../assets/logos/logo_small.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DF No Ponto
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Casos de Uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo06" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.2-Grupo06
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="DF No Ponto" class="md-nav__button md-logo" aria-label="DF No Ponto" data-md-component="logo">
+      
+  <img src="../../assets/logos/logo_small.png" alt="logo">
+
+    </a>
+    DF No Ponto
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo06" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.2-Grupo06
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Início
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Artefatos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Artefatos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_2" id="__nav_2_1_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejamento do Projeto
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Planejamento do Projeto
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Aplicativoescolhido/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sobre o aplicativo escolhido
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Ferramentasuti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ferramentas utilizadas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Cronogramadetalhado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cronograma detalhado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Heatmap de disponibilidde
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pré-Rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Pré-Rastreabilidade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich_picture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rich Picture
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 2: Elicitação - Técnicas e Priorização de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 2: Elicitação - Técnicas e Priorização de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_2" id="__nav_2_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perfil de Usuário
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Perfil de Usuário
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/perfil/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perfil
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/perfil_personas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/perfil_cenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cenários
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_3" id="__nav_2_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elicitação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Elicitação de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_lista_requisitos_elicitados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela Geral de Requisitos Elicitados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_3_2" id="__nav_2_2_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Técnicas de Elicitação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Técnicas de Elicitação de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_analise_documentos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de Documentos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_entrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_brainstorm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Brainstorm
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_4" id="__nav_2_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Técnicas de Priorização de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Técnicas de Priorização de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_100_dollars/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    $100
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_in_or_out/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    In or Out
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_first_things_first/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    First Things First
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_moscow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MoSCow
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 3: Modelagem de Requisitos 1
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 3: Modelagem de Requisitos 1
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cenários
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Léxicos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Casos de Uso
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Casos de Uso
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Metodologia
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-1-elementos-descricoes-e-representacoes-graficas-do-diagrama-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 1: Elementos, descrições e representações gráficas do Diagrama de Casos de Uso
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Diagrama de Casos de Uso
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#especificacao-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Especificação de Casos de Uso
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Especificação de Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-tabela-para-especificacao-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Modelo de Tabela para Especificação de Casos de Uso
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Modelo de Tabela para Especificação de Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-2-ucxx-nome-do-caso-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 2 - UCXX: Nome do caso de uso
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc01-e-uc02-fernanda-vaz" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC01 e UC02 (Fernanda Vaz)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC01 e UC02 (Fernanda Vaz)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-3-uc01-avaliacao-de-linhas-de-onibus-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 3 - UC01: Avaliação de Linhas de Ônibus (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-4-uc02-notificacoes-de-chegada-de-onibus-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 4 - UC02: Notificações de Chegada de Ônibus (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc03-e-uc04-gabriel-maciel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC03 e UC04 (Gabriel Maciel)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC03 e UC04 (Gabriel Maciel)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-5-uc03-rastreamento-de-multiplas-linhas-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 5 - UC03: Rastreamento de Múltiplas Linhas (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-6-uc04-integracao-com-brb-mobilidade-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 6 - UC04: Integração com BRB Mobilidade (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc05-e-uc06-caua-nicolas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC05 e UC06 (Cauã Nicolas)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC05 e UC06 (Cauã Nicolas)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-7-uc05-historico-de-viagens-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 7 - UC05: Histórico de Viagens (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-8-uc06-ampliacao-da-cobertura-de-informacoes-de-transporte-do-entorno-do-df-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 8 - UC06: Ampliação da cobertura de informações de transporte do entorno do DF (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc07-e-uc08-joao-ramos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC07 e UC08 (João Ramos)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC07 e UC08 (João Ramos)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-8-uc07-modo-off-line-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 8 - UC07: Modo Off-line (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-9-uc08-reportar-lotacao-do-onibus-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 9 - UC08: Reportar lotação do ônibus (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc09-e-uc10-joao-gabriel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC09 e UC10 (João Gabriel)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC09 e UC10 (João Gabriel)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-10-uc09-planejamento-de-viagens-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 10 - UC09: Planejamento de Viagens (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-11-uc10-analise-preditiva-de-horarios-de-onibus-com-ia-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 11 - UC10: Análise preditiva de horários de ônibus com IA (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc11-e-uc12-daniel-nunes-duarte" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC11 e UC12 (Daniel Nunes Duarte)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC11 e UC12 (Daniel Nunes Duarte)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-12-uc11-compartilhamento-de-rotas-entre-usuarios-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 12 - UC11: Compartilhamento de Rotas entre Usuários (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-13-uc12-acessibilidade-e-suporte-a-usuarios-com-deficiencia-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 13 - UC12: Acessibilidade e Suporte a Usuários com Deficiência (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#responsaveis-pela-elaboracao-do-artefato" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Responsáveis pela elaboração do artefato
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referência bibliográfica
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versão
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agradecimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Agradecimentos
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificacao_suplementar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Especificação Suplementar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 4: Modelagem de Requisitos 2 (Ágil)
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 4: Modelagem de Requisitos 2 (Ágil)
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem_requisitos_02/historias_de_usuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Histórias de Usuário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem_requisitos_02/backlog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Backlog
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem_requisitos_02/nfr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    NFR Framework
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 5: Análise de Requisitos - Verificação e Validação
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 5: Análise de Requisitos - Verificação e Validação
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao_verificacao/verificacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verificação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5_3" id="__nav_2_5_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Validação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Validação de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao_verificacao/prototipacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prototipação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao_verificacao/comprovacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Comprovação Informal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 6: Pós-rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 6: Pós-rastreabilidade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/backward/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Backward-from
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/forward/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Forward-from
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/matriz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matriz de Pós-rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Atas de Reunião
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Atas de Reunião
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 1 - 04/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 2 - 05/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 3 - 07/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 4 - 22/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 5 - 28/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verificações
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Verificações
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inspeções do Grupo 6 (Monitores)
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inspeções do Grupo 6 (Monitores)
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecoes_grupo_6/inspecao01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecoes_grupo_6/inspecao02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecoes_grupo_6/inspecao03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inspeções do Grupo 7
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inspeções do Grupo 7
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrega Final
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Entrega Final
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Aplicativoescolhido/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sobre o aplicativo escolhido
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Ferramentasuti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ferramentas utilizadas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Cronogramadetalhado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cronograma detalhado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/apresentacoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentações
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/resultados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resultados alcançados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/tabela_contribuicao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de contribuição final
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/consideracoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Considerações finais
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Metodologia
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-1-elementos-descricoes-e-representacoes-graficas-do-diagrama-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 1: Elementos, descrições e representações gráficas do Diagrama de Casos de Uso
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Diagrama de Casos de Uso
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#especificacao-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Especificação de Casos de Uso
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Especificação de Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-tabela-para-especificacao-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Modelo de Tabela para Especificação de Casos de Uso
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Modelo de Tabela para Especificação de Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-2-ucxx-nome-do-caso-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 2 - UCXX: Nome do caso de uso
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc01-e-uc02-fernanda-vaz" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC01 e UC02 (Fernanda Vaz)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC01 e UC02 (Fernanda Vaz)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-3-uc01-avaliacao-de-linhas-de-onibus-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 3 - UC01: Avaliação de Linhas de Ônibus (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-4-uc02-notificacoes-de-chegada-de-onibus-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 4 - UC02: Notificações de Chegada de Ônibus (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc03-e-uc04-gabriel-maciel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC03 e UC04 (Gabriel Maciel)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC03 e UC04 (Gabriel Maciel)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-5-uc03-rastreamento-de-multiplas-linhas-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 5 - UC03: Rastreamento de Múltiplas Linhas (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-6-uc04-integracao-com-brb-mobilidade-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 6 - UC04: Integração com BRB Mobilidade (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc05-e-uc06-caua-nicolas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC05 e UC06 (Cauã Nicolas)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC05 e UC06 (Cauã Nicolas)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-7-uc05-historico-de-viagens-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 7 - UC05: Histórico de Viagens (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-8-uc06-ampliacao-da-cobertura-de-informacoes-de-transporte-do-entorno-do-df-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 8 - UC06: Ampliação da cobertura de informações de transporte do entorno do DF (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc07-e-uc08-joao-ramos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC07 e UC08 (João Ramos)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC07 e UC08 (João Ramos)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-8-uc07-modo-off-line-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 8 - UC07: Modo Off-line (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-9-uc08-reportar-lotacao-do-onibus-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 9 - UC08: Reportar lotação do ônibus (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc09-e-uc10-joao-gabriel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC09 e UC10 (João Gabriel)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC09 e UC10 (João Gabriel)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-10-uc09-planejamento-de-viagens-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 10 - UC09: Planejamento de Viagens (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-11-uc10-analise-preditiva-de-horarios-de-onibus-com-ia-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 11 - UC10: Análise preditiva de horários de ônibus com IA (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-uc11-e-uc12-daniel-nunes-duarte" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casos de Uso UC11 e UC12 (Daniel Nunes Duarte)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso UC11 e UC12 (Daniel Nunes Duarte)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-12-uc11-compartilhamento-de-rotas-entre-usuarios-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 12 - UC11: Compartilhamento de Rotas entre Usuários (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-13-uc12-acessibilidade-e-suporte-a-usuarios-com-deficiencia-requisito-nao-implementado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela 13 - UC12: Acessibilidade e Suporte a Usuários com Deficiência (Requisito não implementado)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#responsaveis-pela-elaboracao-do-artefato" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Responsáveis pela elaboração do artefato
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referência bibliográfica
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versão
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agradecimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Agradecimentos
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Casos de Uso</h1>
+
+<div><h2 id="introducao">Introdução</h2>
+<p>O objetivo do diagrama de caso de uso em UML é demonstrar as diferentes maneiras que o usuário pode interagir com um sistema. Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre casos de uso, atores e sistemas. O caso de uso é representado por uma forma oval rotulada. Bonecos palito representam os atores no processo, e a participação do ator no sistema é modelada com uma linha entre o ator e o caso de uso. Para representar o limite do sistema, desenhe uma caixa em torno do próprio caso de uso. <a href="#ref-Lucid">(Lucidchart, 2025)</a>.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>Segundo o vídeo do <a href="#ref-Lucid">(Lucidchart, 2025)</a>, os elementos apresentados na tabela 1, que descreve o elemento e dá um exemplo visual, são todos os elementos que podem conter em um caso de uso.</p>
+<h3 id="tabela-1-elementos-descricoes-e-representacoes-graficas-do-diagrama-de-casos-de-uso">Tabela 1: Elementos, descrições e representações gráficas do Diagrama de Casos de Uso</h3>
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Descrição</th>
+      <th>Exemplo Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Sistema</b></td>
+      <td>Representa o escopo do que está sendo desenvolvido (site, aplicativo, processo etc.). É mostrado como um retângulo com o nome do sistema no topo. Tudo o que está dentro pertence ao sistema; o que está fora é externo.</td>
+      <td style="text-align: center;">
+        <img src="https://i.ibb.co/LsgM4SC/image.png" alt="Retângulo representando o sistema" width="90">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Ator</b></td>
+      <td>Representa quem ou o que interage com o sistema para atingir uma meta. Pode ser uma pessoa, organização, outro sistema ou dispositivo externo. É exibido como um boneco de palito.</td>
+      <td style="text-align: center;">
+        <img src="https://i.ibb.co/7dbbfb20/image.png" alt="Ator - figura de palito com círculo como cabeça" width="90">
+      </td>
+      </tr><tr>
+      </tr><tr>
+      <td><b>Caso de Uso</b></td>
+      <td>Representa uma ação ou funcionalidade do sistema, escrita no infinitivo com verbo (ex: <i>Fazer login</i>, <i>Consultar saldo</i>, <i>Fazer pagamento</i>). É mostrado como uma elipse.</td>
+      <td style="text-align: center;">
+        <img src="https://i.ibb.co/kVXrhzk9/image.png" alt="Elipse representando caso de uso" width="900">
+      </td>
+    </tr>
+    <tr>
+      <td><b> Relacionamento de Associação</b></td>
+      <td>Linha sólida entre ator e caso de uso, indicando interação direta (ex: cliente → fazer login).</td>
+       <td style="text-align: center;">
+        <img src="https://i.ibb.co/fzTpJLbc/ASSOCIA-O.png" alt="Relação de ASSOCIA-O" width="900">
+    </td>
+    </tr>
+    <tr>
+      <td><b>Relacionamento de Inclusão (<code>&lt;&lt;include&gt;&gt;</code>)</b></td>
+      <td>Indica que um caso de uso base <b>sempre</b> executa outro caso de uso incluído como parte do seu fluxo (ex: <i>Fazer login</i> inclui <i>Verificar senha</i>). Representado por linha tracejada com seta apontando para o caso incluído.</td>
+      <td style="text-align: center;">
+        <img src="https://i.ibb.co/QFTrLSHb/ICLUS-O.png" alt="Relação de inclusão" width="900">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Relacionamento de Extensão (<code>&lt;&lt;extend&gt;&gt;</code>)</b></td>
+      <td>Indica que um caso de uso estendido <b>pode</b> ocorrer sob certas condições (ex: <i>Exibir erro de login</i> estende <i>Fazer login</i>). Linha tracejada com seta apontando para o caso base.</td>
+      <td style="text-align: center;">
+        <img src="https://i.ibb.co/zhDjMWTg/EXTEN-O.png" alt="Relação de extensão" width="900">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Generalização / Herança</b></td>
+      <td>Representa especialização entre casos de uso ou atores (ex: <i>Pagar da conta corrente</i> e <i>Pagar da conta poupança</i> herdam de <i>Fazer pagamento</i>). Linha sólida com seta do específico para o geral.</td>
+      <td style="text-align: center;">
+        <img src="https://i.ibb.co/tpCCmvSw/HERAN-A.png" alt="Generalização - seta sólida" width="150">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+<h2 id="diagrama-de-casos-de-uso">Diagrama de Casos de Uso</h2>
+<p style="text-align: center; font-size: 0.85em; font-style: italic;">Figura 1: Casos de uso do app DF no Ponto  
+<br>Autoria: Fernanda Vaz, 2025.
+</p>
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/080b2523-5076-4f95-b29a-9b0eda02288f" id="LNtYFI8byYwG"></iframe></div>
+
+<hr>
+<h2 id="especificacao-de-casos-de-uso">Especificação de Casos de Uso</h2>
+<h3 id="modelo-de-tabela-para-especificacao-de-casos-de-uso">Modelo de Tabela para Especificação de Casos de Uso</h3>
+<h4 id="tabela-2-ucxx-nome-do-caso-de-uso">Tabela 2 - UCXX: Nome do caso de uso</h4>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Descrição do Caso de Uso</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxo básico</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Data da criação</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>A Tabela 2 foi construída a partir de informações obtidas da documentação de Especificação de Caso de Uso do Ministério da Ciência, Tecnologia, Informações e Comunicações (MCTIC). Este documento definiu que:</p>
+<ul>
+<li><strong>Atores</strong>: São entidades que interagem com os casos de uso do sistema;</li>
+<li><strong>Descrição do Caso de Uso</strong>: É uma descrição clara, concisa e compreensível que documenta determinado comportamento (ação) de um sistema. É formatado da seguinte forma:</li>
+<li><strong>Pré-condições</strong>: É uma descrição do estado em que o sistema deve estar antes da realização do caso de uso em questão;</li>
+<li><strong>Pós-condições</strong> : É uma descrição do estado em que o sistema poderá se encontrar após o término do caso de uso em questão;</li>
+<li><strong>Fluxo Básico</strong>: É uma descrição que descreve o que o Ator faz e o que o sistema faz em resposta a essa ação, sem explicitar o "porquê" e nem o "como";</li>
+<li><strong>Fluxos Alternativos (opcional)</strong>: É uma descrição de um fluxo alternativo devido a variações que podem ocorrer ao fluxo básico. Ao fim deste fluxo, os eventos do fluxo básico são retomados a menos que seja especificado de outra maneira</li>
+<li><strong>Fluxos de exceção</strong>: É a descrição de um comportamento de exceção que acontece durante o fluxo básico ou alternativo.</li>
+</ul>
+<p>Além das informações sobre Especificação de Casos de Uso extraídas da documentação do MCTIC, foram adicionadas, para fins de rastreabilidade, as linhas:</p>
+<ul>
+<li><strong>Data de criação</strong>: Contém data inicial da criação da especificação do caso de uso;</li>
+<li><strong>Rastreabilidade</strong>: Contém o ID e a descrição de requisitos funcionais que se relacionam ao caso de uso.</li>
+</ul>
+<hr>
+<h2 id="casos-de-uso-uc01-e-uc02-fernanda-vaz">Casos de Uso UC01 e UC02 (Fernanda Vaz)</h2>
+<p>A Tabela 3 apresenta a especificação detalhada do caso de uso UC01, que permite aos passageiros avaliar a qualidade das linhas de ônibus através de um sistema de notas e comentários.</p>
+<h3 id="tabela-3-uc01-avaliacao-de-linhas-de-onibus-requisito-nao-implementado">Tabela 3 - UC01: Avaliação de Linhas de Ônibus (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Passageiro</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>- Passageiro autenticado no sistema<br>- Linha de ônibus disponível para avaliação</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td>1. Passageiro seleciona uma linha de ônibus para avaliar<br>2. Sistema exibe formulário de avaliação<br>3. Passageiro atribui nota de 1 a 5 estrelas<br>4. Passageiro pode adicionar comentário opcional <br>5. Passageiro confirma avaliação<br>6. Sistema valida os dados inseridos<br>7. Sistema registra avaliação no banco de dados<br>8. Sistema atualiza média de avaliações da linha<br>9. Sistema exibe mensagem de confirmação<br>10. Sistema retorna à tela anterior</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td><strong>FA01 - Editar avaliação existente:</strong><br>1. Passageiro acessa suas avaliações anteriores<br>2. Seleciona avaliação para editar<br>3. Sistema carrega dados da avaliação<br>4. Passageiro modifica nota e/ou comentário<br>5. Prossegue do passo 5 do fluxo principal<br><br><strong>FA02 - Visualizar avaliações de outros usuários:</strong><br>1.  Passageiro acessa detalhes da linha<br>2. Sistema exibe média de avaliações e lista de comentários<br>3. passageiro pode filtrar por data ou nota<br>4. Sistema ordena avaliações conforme filtro selecionado<br><br><strong>FA03 - Cancelar avaliação:</strong><br>1. Passageiro clica em "Cancelar" durante preenchimento<br>2. Sistema exibe confirmação "Descartar avaliação?"<br>3. Passageiro confirma<br>4. Sistema descarta dados e retorna à tela anterior</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td><strong>FE01 - Falha na conexão de internet:</strong><br>1. Sistema detecta ausência de conectividade ao tentar salvar<br>2. Exibe mensagem "Não foi possível salvar. Verifique sua conexão"<br>3. Sistema salva avaliação localmente<br>4. Reenvia automaticamente quando conexão for restabelecida<br><br><strong>FE02 - Comentário com conteúdo inadequado:</strong><br>1. Sistema detecta palavras ofensivas <br>2. Exibe mensagem "Comentário contém conteúdo inadequado"<br>3. Usuário deve revisar e modificar o comentário<br><br><strong>FE03 - Erro ao salvar avaliação:</strong><br>1. Sistema tenta salvar mas ocorre erro no servidor<br>2. Exibe mensagem "Erro ao processar avaliação. Tente novamente"<br>3. Mantém dados preenchidos para nova tentativa<br><br><strong>FE04 - passageiro já avaliou recentemente:</strong><br>1. Sistema detecta avaliação duplicada no mesmo dia<br>2. Oferece opção de editar avaliação existente<br>3. Se usuário confirmar, redireciona para FA01</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>- Avaliação registrada no banco de dados<br>- Média de avaliações da linha atualizada<br>- Histórico de avaliações do usuário atualizado<br>- Estatísticas da linha recalculadas</td>
+</tr>
+<tr>
+<td><strong>Data da criação</strong></td>
+<td>10/10/2025</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td>Relacionado com: <br>Consulta de Horários e Rotas<br> Notificações de Chegada<br> Avaliação de linhas<br> Usabilidade da interface</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: Fernanda Vaz, 2025</em></p>
+<p>A Tabela 4 apresenta a especificação detalhada do caso de uso UC02, que define o sistema de notificações automáticas para informar os passageiros sobre a chegada iminente dos ônibus.</p>
+<h3 id="tabela-4-uc02-notificacoes-de-chegada-de-onibus-requisito-nao-implementado">Tabela 4 - UC02: Notificações de Chegada de Ônibus (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Passageiro e Serviço de GPS</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>- Passageiro autenticado no sistema<br>- GPS do dispositivo habilitado<br>- Permissões de notificação concedidas ao aplicativo<br>- Linha de ônibus com rastreamento disponível</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td>1. Passageiro seleciona uma linha de ônibus no aplicativo<br>2. Sistema exibe informações da linha e botão "Ativar notificações"<br>3. Passageiro clica em "Ativar notificações"<br>4. Sistema solicita confirmação de ponto de referência (parada atual)<br>5. Passageiro confirma ou seleciona parada desejada<br>6. Sistema inicia monitoramento da localização do ônibus em tempo real<br>7. Sistema detecta que o ônibus está a 1km da parada<br>8. Sistema envia primeira notificação: "Seu ônibus está chegando em aproximadamente 5 minutos"<br>9. Sistema continua monitorando<br>10. Quando ônibus está a 500m, sistema envia notificação: "Seu ônibus está chegando em 2 minutos"<br>11. Sistema mantém notificação ativa até chegada do ônibus<br>12. Após chegada, sistema desativa notificação automaticamente</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td><strong>FA01 - Desativar notificações:</strong><br>1. Passageiro acessa notificações ativas<br>2. Seleciona linha para desativar<br>3. Sistema para monitoramento imediatamente<br>4. Exibe confirmação "Notificações desativadas"<br><br><strong>FA02 - Configurar múltiplas linhas:</strong><br>1. Passageiro ativa notificações para mais de uma linha<br>2. Sistema monitora todas as linhas simultaneamente<br>3. Envia notificações individuais para cada linha<br><br><strong>FA03 - Ajustar distância de notificação:</strong><br>1. Passageiro acessa configurações de notificações<br>2. Modifica raio de alerta (500m, 1km, 2km)<br>3. Sistema salva preferência<br>4. Aplica nova configuração ao monitoramento<br><br><strong>FA04 - Notificação de atraso:</strong><br>1. Sistema detecta atraso significativo do ônibus<br>2. Envia notificação: "Seu ônibus está com atraso de X minutos"<br>3. Atualiza tempo estimado de chegada</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td><strong>FE01 - Falha na conexão de internet:</strong><br>1. Sistema detecta perda de conectividade<br>2. Exibe mensagem "Monitoramento pausado. Verifique sua conexão"<br>3. Salva estado atual do monitoramento<br>4. Retoma automaticamente quando conexão for restabelecida<br><br><strong>FE02 - GPS desabilitado:</strong><br>1. Sistema detecta que GPS está desligado<br>2. Envia notificação de alerta<br>3. Exibe tela: "Ative o GPS para receber notificações"<br>4. Oferece botão para acessar configurações do dispositivo<br><br><strong>FE03 - Ônibus não detectado:</strong><br>1. Sistema não consegue localizar ônibus por mais de 15 minutos<br>2. Envia notificação: "Não foi possível rastrear o ônibus"<br>3. Oferece opção de desativar notificação ou aguardar<br>4. Continua tentando se passageiro optar por aguardar<br><br><strong>FE04 - Permissão de notificação negada:</strong><br>1. Sistema detecta falta de permissão ao tentar enviar notificação<br>2. Exibe alerta na tela do app<br>3. Redireciona passageiro para configurações do sistema<br>4. Aguarda concessão de permissão<br><br><strong>FE05 - Bateria baixa:</strong><br>1. Sistema detecta nível crítico de bateria (&lt;10%)<br>2. Reduz frequência de atualização de localização<br>3. Notifica passageiro sobre modo de economia ativado</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>- Notificação de chegada enviada com sucesso<br>- Log de notificação registrado no sistema<br>- Status de monitoramento atualizado<br>- Estatísticas de uso do serviço atualizadas</td>
+</tr>
+<tr>
+<td><strong>Data da criação</strong></td>
+<td>10/10/2025</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td>Relacionado com:<br> Consulta de Horários e Rotas<br>Avaliação de Linhas<br> Performance de notificações em tempo real<br> Disponibilidade do sistema<br>Precisão de geolocalização</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: Fernanda Vaz, 2025</em></p>
+<hr>
+<h2 id="casos-de-uso-uc03-e-uc04-gabriel-maciel">Casos de Uso UC03 e UC04 (Gabriel Maciel)</h2>
+<p>A Tabela 5 apresenta a especificação detalhada do caso de uso UC03, que permite aos passageiros visualizar simultaneamente múltiplas linhas de ônibus no mapa e obter informações detalhadas sobre cada uma delas.</p>
+<p><a id="tabela-5---uc03-rastreamento-de-múltiplas-linhas-requisito-não-implementado"></a></p>
+<h3 id="tabela-5-uc03-rastreamento-de-multiplas-linhas-requisito-nao-implementado">Tabela 5 - UC03: Rastreamento de Múltiplas Linhas (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Passageiro e Serviço de GPS (Ônibus e Passageiro)</td>
+</tr>
+<tr>
+<td><strong>Descrição do Caso de Uso</strong></td>
+<td>Possibilita ao passageiro visualizar simultaneamente múltiplas linhas de ônibus no mapa e obter informações detalhadas sobre rota e numeração ao clicar em qualquer ônibus</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>- <strong>PRE01</strong>: Passageiro deve ter conexão com a internet <br> - <strong>PRE02</strong>: GPS deve estar ativado <br> - <strong>PRE03</strong>: Destino do passageiro deve conter múltiplas linhas de ônibus <br> - <strong>PRE04</strong>: Sistema deve ter dados de rastreamento disponíveis para as linhas</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>- Sistema exibe simultaneamente múltiplas linhas de ônibus no mapa <br> - Cada linha é representada com cor e ícone distintivos <br> - Passageiro pode acessar informações de rota e numeração de qualquer ônibus <br> - Dados de localização são atualizados em tempo real</td>
+</tr>
+<tr>
+<td><strong>Fluxo básico</strong></td>
+<td><strong>FB01.</strong> Passageiro acessa a funcionalidade "Ver múltiplas linhas" no mapa <br> <strong>FB02.</strong> Sistema exibe mapa com todas as linhas disponíveis na região <br> <strong>FB03.</strong> Passageiro visualiza ônibus de diferentes linhas com cores/ícones distintos <br> <strong>FB04.</strong> Sistema atualiza posições dos ônibus em tempo real a cada 20 segundos <br> <strong>FB05.</strong> Passageiro clica em um ônibus específico no mapa <br> <strong>FB06.</strong> Sistema exibe popup com informações básicas do ônibus <br> <strong>FB07.</strong> Popup mostra: número da linha, destino, e próxima parada <br> <strong>FB08.</strong> Passageiro clica em "Ver rota completa" <br> <strong>FB09.</strong> Sistema exibe janela detalhada com trajeto completo da linha <br> <strong>FB10.</strong> Sistema destaca rota no mapa com todas as paradas <br> <strong>FB11.</strong> Passageiro pode navegar pelas informações da rota <br> <strong>FB12.</strong> Passageiro fecha detalhes e retorna à visualização geral</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td><strong>FA01 - Filtrar linhas específicas:</strong> <br> 1. Passageiro acessa filtros no canto superior direito <br> 2. Seleciona linhas específicas para exibir <br> 3. Sistema oculta ônibus das linhas não selecionadas <br> 4. Mapa atualizado mostra apenas linhas filtradas <br> 5. Retorna ao fluxo básico FB04 <br><br> <strong>FA02 - Visualizar informações sem clicar:</strong> <br> 1. Passageiro passa o dedo sobre um ônibus (hover/touch) <br> 2. Sistema exibe tooltip com número da linha <br> 3. Tooltip desaparece quando passageiro move o dedo <br> 4. Retorna ao fluxo básico FB04 <br><br> <strong>FA03 - Buscar linha específica:</strong> <br> 1. Passageiro digita número da linha na barra de busca <br> 2. Sistema destaca todos os ônibus dessa linha <br> 3. Mapa centraliza na região com ônibus da linha <br> 4. Outros ônibus ficam semi-transparentes <br> 5. Retorna ao fluxo básico FB04</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td><strong>FE01 - Muitas linhas na região (sobrecarga visual):</strong> <br> 1. Sistema detecta mais de 10 linhas na área visível <br> 2. Exibe mensagem "Muitas linhas na região. Use filtros para melhor visualização" <br> 3. Sistema agrupa ônibus próximos em clusters numerados <br> 4. Passageiro pode aumentar zoom para ver ônibus individuais <br><br> <strong>FE02 - Falha na conexão:</strong> <br> 1. Sistema detecta perda de conectividade <br> 2. Exibe banner "Modo offline - dados podem estar desatualizados" <br> 3. Sistema mantém última posição conhecida dos ônibus <br> 4. Desabilita funcionalidade de clique até conexão retornar <br><br> <strong>FE03 - Ônibus sem dados de rota:</strong> <br> 1. Passageiro clica em ônibus sem informações detalhadas <br> 2. Popup exibe apenas: "Linha X - Informações detalhadas indisponíveis" <br> 3. Sistema oferece opção "Reportar problema" <br> 4. Mantém funcionalidades básicas de visualização <br><br> <strong>FE04 - GPS desabilitado:</strong> <br> 1. Sistema detecta que GPS está desligado <br> 2. Exibe alerta: "Ative o GPS para ver sua localização no mapa" <br> 3. Mapa funciona normalmente, mas sem indicador de posição do usuário <br> 4. Oferece botão para acessar configurações do dispositivo</td>
+</tr>
+<tr>
+<td><strong>Data da criação</strong></td>
+<td>11/10/25</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><strong>ENT12</strong>: O sistema permite o rastreamento de múltiplas linhas de ônibus simultaneamente no mapa.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: Gabriel Maciel, 2025</em></p>
+<p>A Tabela 6 apresenta a especificação detalhada do caso de uso UC04, que permite aos passageiros consultar saldo e recarregar o cartão BRB Mobilidade diretamente pelo aplicativo, oferecendo praticidade e agilidade nas transações.</p>
+<h3 id="tabela-6-uc04-integracao-com-brb-mobilidade-requisito-nao-implementado">Tabela 6 - UC04: Integração com BRB Mobilidade (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Passageiro do transporte público</td>
+</tr>
+<tr>
+<td><strong>Descrição do Caso de Uso</strong></td>
+<td>Permite ao passageiro consultar saldo e recarregar o cartão BRB Mobilidade diretamente pelo aplicativo</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>- Passageiro autenticado no sistema<br>- Cartão BRB Mobilidade válido<br>- Conexão com internet</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>- Saldo do cartão atualizado<br>- Transação registrada no sistema</td>
+</tr>
+<tr>
+<td><strong>Fluxo básico</strong></td>
+<td><strong>FB01.</strong> Passageiro acessa seção "Meu Cartão"<br><strong>FB02.</strong> Sistema solicita número do cartão BRB<br><strong>FB03.</strong> Passageiro informa dados do cartão<br><strong>FB04.</strong> Sistema valida cartão e exibe saldo atual<br><strong>FB05.</strong> Passageiro seleciona "Recarregar"<br><strong>FB06.</strong> Sistema exibe valores disponíveis para recarga<br><strong>FB07.</strong> Passageiro escolhe valor desejado<br><strong>FB08.</strong> Sistema apresenta opções de pagamento (cartão de débito, crédito ou Pix)<br><strong>FB09.</strong> Passageiro seleciona forma de pagamento<br><strong>FB10.</strong> Sistema processa pagamento<br><strong>FB11.</strong> Sistema confirma recarga e exibe novo saldo</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td><strong>FA01 - Consultar apenas o saldo:</strong><br>1. Passageiro acessa "Meu Cartão"<br>2. Sistema exibe saldo sem realizar recarga<br><br><strong>FA02 - Histórico de transações:</strong><br>1. Passageiro acessa histórico no cartão vinculado<br>2. Sistema exibe últimas transações realizadas<br><br><strong>FA03 - Vincular novo cartão:</strong><br>1. Passageiro acessa "Meu Cartão"<br>2. Sistema detecta ausência de cartão vinculado<br>3. Sistema exibe tela de vínculo de cartão<br>4. Passageiro informa número do cartão BRB<br>5. Sistema valida cartão e solicita confirmação<br>6. Passageiro confirma vínculo<br>7. Sistema registra cartão e retorna ao fluxo básico FB04</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td><strong>FE01 - Passageiro sem cartão registrado:</strong><br>1. Sistema detecta cartão inexistente<br>2. Exibe mensagem "Cartão não encontrado"<br><br><strong>FE02 - Falha no pagamento:</strong><br>1. Sistema detecta erro na transação<br>2. Exibe mensagem "Pagamento não processado. Tente novamente"<br><br><strong>FE03 - Erro de conexão com BRB:</strong><br>1. Sistema não consegue comunicar com API<br>2. Exibe mensagem "Serviço temporariamente indisponível"</td>
+</tr>
+<tr>
+<td><strong>Data da criação</strong></td>
+<td>11/10/2025</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: Gabriel Maciel, 2025</em></p>
+<hr>
+<h2 id="casos-de-uso-uc05-e-uc06-caua-nicolas">Casos de Uso UC05 e UC06 (Cauã Nicolas)</h2>
+<p>A Tabela 7 apresenta a especificação detalhada do caso de uso UC05, que permite aos passageiros visualizar as viagens realizadas, incluindo horários, rotas, meio de transporte e duração.</p>
+<h3 id="tabela-7-uc05-historico-de-viagens-requisito-nao-implementado">Tabela 7 - UC05: Histórico de Viagens (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Passageiro</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Permite que o passageiro visualize as viagens realizadas recentemente, incluindo horários, rotas, meios de transporte e duração.</td>
+</tr>
+<tr>
+<td><strong>Pré-condições</strong></td>
+<td>O passageiro deve estar autenticado no aplicativo e ter realizado pelo menos uma viagem registrada.</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>O sistema exibe uma lista com as viagens concluídas e seus respectivos detalhes.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Básico</strong></td>
+<td>1. O passageiro acessa o menu principal. <br>2. Seleciona a opção “Histórico de Viagens”. <br>3. O sistema busca os registros anteriores. <br>4. O histórico é exibido com data, horário, rota e meio de transporte.</td>
+</tr>
+<tr>
+<td><strong>Fluxos Alternativos</strong></td>
+<td>1a. O passageiro filtra o histórico por data, rota ou meio de transporte. <br>1b. O sistema exibe apenas as viagens filtradas.</td>
+</tr>
+<tr>
+<td><strong>Fluxos de Exceção</strong></td>
+<td>1. Caso o passageiro não possua viagens registradas, o sistema exibe a mensagem “Nenhum histórico encontrado”. <br>2. Se ocorrer falha de conexão, o sistema exibe “Erro ao carregar dados. Verifique sua internet.”</td>
+</tr>
+<tr>
+<td><strong>Data de Criação</strong></td>
+<td>12/10/2025</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><strong>RNI03</strong> — Relacionado aos requisitos não implementados de registrar e exibir viagens realizadas pelo passageiro.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: Cauã Nicolas, 2025</em></p>
+<p>A Tabela 8 apresenta a especificação detalhada do caso de uso UC06, que é ampliado a cobertura de informações de transporte púlbico, englobando a área do entorno do Distrito Federal.</p>
+<h3 id="tabela-8-uc06-ampliacao-da-cobertura-de-informacoes-de-transporte-do-entorno-do-df-requisito-nao-implementado">Tabela 8 - UC06: Ampliação da cobertura de informações de transporte do entorno do DF  (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Administrador do sistema, Sistema (aplicativo)</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O caso de uso visa expandir as informações de transporte público para as regiões do entorno do Distrito Federal, permitindo que passageiros dessas áreas também tenham acesso a horários, rotas e dados de deslocamento em tempo real.</td>
+</tr>
+<tr>
+<td><strong>Pré-condições</strong></td>
+<td>O sistema deve estar conectado à base de dados atualizada das empresas de transporte do entorno. <br>O administrador deve ter acesso autorizado para cadastrar ou integrar novas informações.</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>As novas rotas e horários do entorno são disponibilizados para consulta pelos passageiros no aplicativo.</td>
+</tr>
+<tr>
+<td><strong>Fluxo Básico</strong></td>
+<td>1. O administrador acessa o painel de gestão do sistema. <br>2. Seleciona a opção “Adicionar nova cobertura de transporte”. <br>3. Insere as informações das linhas e horários das regiões do entorno. <br>4. O sistema valida e salva os novos dados. <br>5. Os passageiros passam a visualizar as novas linhas e rotas disponíveis.</td>
+</tr>
+<tr>
+<td><strong>Fluxos Alternativos</strong></td>
+<td>1a. O sistema realiza integração automática com bases externas de transporte (ex: prefeituras ou consórcios). <br>1b. O administrador apenas confirma a sincronização das informações.</td>
+</tr>
+<tr>
+<td><strong>Fluxos de Exceção</strong></td>
+<td>1. Se houver erro de integração com o banco de dados externo, o sistema exibe “Falha ao sincronizar dados do entorno”. <br>2. Caso os dados inseridos sejam inválidos, o sistema solicita correção antes de salvar.</td>
+</tr>
+<tr>
+<td><strong>Data de Criação</strong></td>
+<td>12/10/2025</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><strong>ENT08</strong> — Relacionado ao requisito funcional de expansão da cobertura e informações em regiões afastadas do Distrito Federal.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: Cauã Nicolas, 2025</em></p>
+<hr>
+<h2 id="casos-de-uso-uc07-e-uc08-joao-ramos">Casos de Uso UC07 e UC08 (João Ramos)</h2>
+<p>A Tabela 8 apresenta a especificação detalhada do caso de uso UC07, que descreve o funcionamento do modo off-line do aplicativo, permitindo aos passageiros acessar informações essenciais mesmo sem conexão à internet, garantindo maior autonomia e acessibilidade durante o uso do sistema.</p>
+<h3 id="tabela-8-uc07-modo-off-line-requisito-nao-implementado">Tabela 8 - UC07: Modo Off-line (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Passageiro</td>
+</tr>
+<tr>
+<td><strong>Descrição do Caso de Uso</strong></td>
+<td>Permite ao passageiro baixar previamente dados de linhas, trajetos, paradas e horários para consultar offline quando estiver sem conexão de internet</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>- Passageiro autenticado no sistema<br>- Conexão Wi-Fi ou dados móveis disponível para download<br>- Espaço de armazenamento suficiente no dispositivo (mínimo 20 MB)</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>- Dados salvos localmente no dispositivo<br>- Modo offline ativado e funcional<br>- Informações acessíveis sem necessidade de internet</td>
+</tr>
+<tr>
+<td><strong>Fluxo básico</strong></td>
+<td><strong>FB01.</strong> Passageiro conecta-se a uma rede Wi-Fi<br><strong>FB02.</strong> Passageiro acessa "Configurações" no app<br><strong>FB03.</strong> Passageiro seleciona opção "Modo Offline"<br><strong>FB04.</strong> Sistema exibe tela de seleção de conteúdo para download<br><strong>FB05.</strong> Passageiro seleciona linhas de uso frequente<br><strong>FB06.</strong> Passageiro seleciona paradas próximas de casa, trabalho ou universidade<br><strong>FB07.</strong> Sistema calcula tamanho do download (ex: 15 MB)<br><strong>FB08.</strong> Passageiro confirma download<br><strong>FB09.</strong> Sistema baixa trajetos, horários, mapas das rotas e lista de paradas<br><strong>FB10.</strong> Sistema salva dados localmente<br><strong>FB11.</strong> Sistema confirma: "Dados salvos para consulta offline"<br><strong>FB12.</strong> No dia seguinte, passageiro perde conexão de internet<br><strong>FB13.</strong> Sistema detecta ausência de conexão automaticamente<br><strong>FB14.</strong> Sistema exibe ícone "Modo Offline ativo"<br><strong>FB15.</strong> Passageiro consulta trajeto, horários e paradas sem internet<br><strong>FB16.</strong> Sistema exibe dados armazenados localmente</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td><strong>FA01 - Atualizar dados offline:</strong><br>1. Passageiro acessa "Modo Offline" nas configurações<br>2. Seleciona "Atualizar dados"<br>3. Sistema verifica conexão disponível<br>4. Sistema baixa atualizações de horários e rotas<br>5. Substitui dados antigos pelos novos<br>6. Exibe "Dados atualizados com sucesso"<br><br><strong>FA02 - Remover dados offline:</strong><br>1. Passageiro acessa "Modo Offline"<br>2. Seleciona "Gerenciar dados"<br>3. Sistema exibe lista de linhas e paradas salvas<br>4. Passageiro seleciona itens para remover<br>5. Confirma remoção<br>6. Sistema libera espaço de armazenamento<br><br><strong>FA03 - Download parcial:</strong><br>1. Passageiro seleciona apenas algumas linhas/paradas<br>2. Sistema reduz tamanho do download proporcionalmente<br>3. Salva apenas conteúdo selecionado<br><br><strong>FA04 - Sincronização automática:</strong><br>1. Sistema detecta conexão Wi-Fi<br>2. Verifica se há atualizações disponíveis<br>3. Baixa automaticamente novos horários<br>4. Notifica passageiro: "Dados offline atualizados"</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td><strong>FE01 - Espaço insuficiente:</strong><br>1. Sistema detecta falta de espaço durante download<br>2. Exibe mensagem "Espaço insuficiente. Libere XX MB"<br>3. Oferece opção de limpar cache do app<br>4. Passageiro pode escolher menos linhas para reduzir tamanho<br><br><strong>FE02 - Falha no download:</strong><br>1. Download é interrompido por perda de conexão<br>2. Sistema salva progresso parcial<br>3. Exibe "Download pausado. Conecte-se para continuar"<br>4. Retoma automaticamente quando conexão retornar<br><br><strong>FE03 - Dados desatualizados:</strong><br>1. Sistema detecta que dados offline têm mais de 30 dias<br>2. Exibe banner de alerta: "Dados podem estar desatualizados"<br>3. Sugere atualização quando houver conexão<br>4. Permite uso mas sinaliza como desatualizado<br><br><strong>FE04 - Tentativa de acessar dado não baixado:</strong><br>1. Passageiro busca linha não salva no modo offline<br>2. Sistema exibe "Informação não disponível offline"<br>3. Sugere linhas disponíveis salvas<br>4. Oferece download quando conexão retornar<br><br><strong>FE05 - Dados corrompidos:</strong><br>1. Sistema detecta erro ao ler dados salvos<br>2. Exibe "Erro nos dados offline. Novo download necessário"<br>3. Remove dados corrompidos automaticamente<br>4. Solicita novo download quando houver conexão</td>
+</tr>
+<tr>
+<td><strong>Data da criação</strong></td>
+<td>12/10/2025</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><strong>ENT06</strong>: O sistema deve funcionar em modo offline com dados previamente baixados<br><strong>BRS06</strong>: Modo offline com funcionalidades básicas</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: João Ramos, 2025</em></p>
+<p>A Tabela 9 apresenta a especificação detalhada do caso de uso UC08, que permite aos passageiros reportar em tempo real o nível de lotação dos ônibus, contribuindo para a melhoria da experiência dos usuários e para o monitoramento da demanda pelas empresas de transporte.</p>
+<h3 id="tabela-9-uc08-reportar-lotacao-do-onibus-requisito-nao-implementado">Tabela 9 - UC08: Reportar lotação do ônibus (Requisito não implementado)</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atores</strong></td>
+<td>Passageiro</td>
+</tr>
+<tr>
+<td><strong>Descrição do Caso de Uso</strong></td>
+<td>Permite ao passageiro visualizar reportes de lotação feitos por outros usuários e reportar a lotação do ônibus em que está para ajudar a comunidade de passageiros a tomar decisões informadas</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>- Passageiro autenticado no sistema<br>- Conexão com internet ativa<br>- GPS habilitado<br>- Sistema de rastreamento de ônibus operacional</td>
+</tr>
+<tr>
+<td><strong>Pós-condições</strong></td>
+<td>- Reporte de lotação registrado no sistema<br>- Status de lotação do ônibus atualizado em tempo real<br>- Informação disponível para outros usuários<br>- Histórico de reportes do passageiro atualizado</td>
+</tr>
+<tr>
+<td><strong>Fluxo básico</strong></td>
+<td><strong>FB01.</strong> Passageiro acessa lista de ônibus se aproximando do ponto<br><strong>FB02.</strong> Sistema exibe ônibus com ícones de lotação ao lado (verde=vazio, amarelo=médio, vermelho=lotado)<br><strong>FB03.</strong> Sistema mostra quantidade de usuários que reportaram e há quanto tempo<br><strong>FB04.</strong> Passageiro visualiza que primeiro ônibus está com ícone vermelho (9 reportes de "lotado" há 3 minutos)<br><strong>FB05.</strong> Passageiro decide esperar próximo ônibus<br><strong>FB06.</strong> Sistema mostra segundo ônibus com ícone amarelo (5 reportes de "médio")<br><strong>FB07.</strong> Passageiro embarca no segundo ônibus<br><strong>FB08.</strong> Passageiro acessa app durante a viagem<br><strong>FB09.</strong> Sistema detecta que passageiro está em movimento (dentro do ônibus)<br><strong>FB10.</strong> Sistema exibe botão "Reportar lotação"<br><strong>FB11.</strong> Passageiro clica em "Reportar lotação"<br><strong>FB12.</strong> Sistema apresenta opções: "Vazio", "Médio", "Lotado"<br><strong>FB13.</strong> Passageiro seleciona "Médio"<br><strong>FB14.</strong> Sistema confirma reporte e atualiza status em tempo real<br><strong>FB15.</strong> Sistema exibe mensagem: "Lotação reportada: Médio (6 usuários confirmaram nos últimos 5 minutos)"<br><strong>FB16.</strong> Outros usuários em paradas à frente visualizam informação atualizada</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td><strong>FA01 - Visualizar apenas sem reportar:</strong><br>1. Passageiro acessa lista de ônibus<br>2. Visualiza ícones de lotação<br>3. Toma decisão baseada em reportes<br>4. Não realiza próprio reporte<br>5. Sistema mantém reportes existentes<br><br><strong>FA02 - Alterar reporte anterior:</strong><br>1. Passageiro reporta lotação como "Médio"<br>2. Lotação aumenta durante trajeto<br>3. Passageiro acessa app novamente<br>4. Sistema detecta reporte recente<br>5. Oferece opção "Atualizar reporte"<br>6. Passageiro seleciona nova classificação<br>7. Sistema substitui reporte anterior<br><br><strong>FA03 - Visualizar histórico de reportes:</strong><br>1. Passageiro acessa histórico pessoal<br>2. Sistema exibe lista de reportes anteriores<br>3. Mostra data, hora, linha e lotação reportada<br>4. Passageiro pode verificar padrões de lotação<br><br><strong>FA04 - Reportar com comentário adicional:</strong><br>1. Após selecionar nível de lotação<br>2. Sistema oferece campo opcional de comentário<br>3. Passageiro adiciona observação (ex: "Muitos em pé")<br>4. Sistema salva reporte com comentário<br>5. Comentário visível para outros usuários</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td><strong>FE01 - Tentativa de reportar múltiplas vezes:</strong><br>1. Passageiro tenta reportar novamente após menos de 2 minutos<br>2. Sistema detecta reporte recente<br>3. Exibe mensagem "Você já reportou recentemente. Aguarde 2 minutos para novo reporte"<br>4. Bloqueia novo reporte temporariamente<br><br><strong>FE02 - Falha na conexão ao reportar:</strong><br>1. Passageiro seleciona nível de lotação<br>2. Sistema detecta perda de conexão<br>3. Exibe "Sem conexão. Reporte será enviado quando reconectar"<br>4. Sistema salva reporte localmente<br>5. Reenvia automaticamente quando conexão retornar<br><br><strong>FE03 - GPS desabilitado:</strong><br>1. Passageiro tenta reportar lotação<br>2. Sistema não consegue confirmar localização<br>3. Exibe "Ative o GPS para reportar lotação"<br>4. Oferece botão para configurações<br>5. Aguarda ativação do GPS<br><br><strong>FE04 - Nenhum reporte disponível:</strong><br>1. Passageiro visualiza ônibus sem ícone de lotação<br>2. Sistema não possui reportes recentes (&gt;15 minutos)<br>3. Exibe "Sem reportes recentes. Seja o primeiro a reportar"<br>4. Incentiva passageiro a fazer primeiro reporte<br><br><strong>FE05 - Suspeita de spam/reportes falsos:</strong><br>1. Sistema detecta múltiplos reportes conflitantes do mesmo usuário<br>2. Algoritmo identifica padrão suspeito<br>3. Sistema solicita validação adicional<br>4. Pode temporariamente reduzir peso do reporte do usuário<br>5. Administrador analisa caso se padrão persistir<br><br><strong>FE06 - Ônibus não identificado:</strong><br>1. Passageiro tenta reportar mas sistema não identifica qual ônibus<br>2. Exibe "Não foi possível identificar o ônibus. Selecione manualmente"<br>3. Sistema lista ônibus próximos<br>4. Passageiro seleciona linha correta<br>5. Prossegue com reporte</td>
+</tr>
+<tr>
+<td><strong>Data da criação</strong></td>
+<td>12/10/2025</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><strong>ENT11</strong>: O sistema permite que os usuários avaliem e visualizem o nível de lotação do ônibus<br><strong>BRS03</strong>: Sistema colaborativo de feedback sobre qualidade do serviço</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autoria: João Ramos, 2025</em></p>
+<hr>
+<h2 id="casos-de-uso-uc09-e-uc10-joao-gabriel">Casos de Uso UC09 e UC10 (João Gabriel)</h2>
+<h3 id="tabela-10-uc09-planejamento-de-viagens-requisito-nao-implementado">Tabela 10 - UC09: Planejamento de Viagens (Requisito não implementado)</h3>
+<p>A Tabela 10 apresenta a especificação detalhada do caso de uso UC09, que tem como objetivo fornecer alertas personalizados com base no perfil do usuário, permitindo que diferentes públicos (como estudantes, idosos ou moradores de regiões periféricas) recebam informações e notificações relevantes sobre o transporte público. Essa funcionalidade busca tornar a experiência mais personalizada, garantindo que cada usuário tenha acesso a informações específicas que impactam diretamente sua rotina de deslocamento.</p>
+<div align="center">
+
+<p><strong>Tabela 10</strong> - UC09: Planejamento de Viagens</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Permite ao passageiro planejar suas viagens com antecedência, definindo origem, destino, horário desejado e preferências, para receber sugestões de rotas e alertas personalizados.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema<br>- Conexão com internet ativa<br>- GPS habilitado (opcional, caso o usuário não informe manualmente a localização)<br>- Banco de dados de rotas e horários atualizado</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Viagem planejada registrada no perfil do usuário<br>- Rotas e horários armazenados<br>- Alertas automáticos configurados para lembrar o passageiro antes do horário planejado</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa aba "Planejar Viagem" no aplicativo<br>
+      <strong>FB02.</strong> Sistema solicita origem e destino<br>
+      <strong>FB03.</strong> Passageiro informa dados manualmente ou usa GPS para detectar localização atual<br>
+      <strong>FB04.</strong> Sistema solicita data e horário de saída ou chegada desejada<br>
+      <strong>FB05.</strong> Passageiro informa preferências (ex: evitar baldeações, priorizar linhas preferidas)<br>
+      <strong>FB06.</strong> Sistema processa as informações e busca as rotas disponíveis<br>
+      <strong>FB07.</strong> Sistema exibe lista de rotas recomendadas, com tempo estimado de chegada e baldeações<br>
+      <strong>FB08.</strong> Passageiro seleciona a rota desejada<br>
+      <strong>FB09.</strong> Sistema salva a viagem planejada no perfil do passageiro<br>
+      <strong>FB10.</strong> Sistema agenda alerta para horário de saída e possíveis imprevistos<br>
+      <strong>FB11.</strong> Passageiro recebe alerta 15 minutos antes do horário de saída planejado
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Inserir paradas intermediárias:</strong><br>
+      1. Passageiro informa parada ou local intermediário<br>
+      2. Sistema recalcula rota<br>
+      3. Exibe novo trajeto com parada incluída<br><br>
+
+      <strong>FA02 - Escolher rota alternativa:</strong><br>
+      1. Passageiro visualiza mais de uma opção de rota<br>
+      2. Seleciona alternativa com menos baldeações<br>
+      3. Sistema salva nova rota como principal<br><br>
+
+      <strong>FA03 - Editar planejamento:</strong><br>
+      1. Passageiro acessa lista de viagens planejadas<br>
+      2. Seleciona viagem futura<br>
+      3. Edita horário, destino ou preferências<br>
+      4. Sistema atualiza dados e alerta agendado
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Falha de conexão:</strong><br>
+      1. Sistema perde conexão durante o planejamento<br>
+      2. Exibe "Falha ao carregar rotas. Tente novamente"<br>
+      3. Mantém informações já digitadas para não precisar recomeçar<br><br>
+
+      <strong>FE02 - Nenhuma rota encontrada:</strong><br>
+      1. Sistema não encontra rotas para o horário informado<br>
+      2. Exibe mensagem: "Nenhuma rota disponível nesse horário"<br>
+      3. Sugere horários alternativos<br><br>
+
+      <strong>FE03 - GPS desabilitado:</strong><br>
+      1. Passageiro tenta usar localização atual<br>
+      2. Sistema exibe "Ative o GPS para detectar sua localização"<br>
+      3. Usuário pode continuar manualmente<br><br>
+
+      <strong>FE04 - Conflito de horário:</strong><br>
+      1. Passageiro agenda duas viagens para horários sobrepostos<br>
+      2. Sistema alerta sobre conflito<br>
+      3. Passageiro decide qual manter ou edita uma delas
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>ENT12</strong>: O sistema deve permitir que o usuário planeje viagens com antecedência<br><strong>BRS07</strong>: Planejamento inteligente de rotas com base nas preferências do usuário</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: João Gabriel, 2025</small>
+
+</div>
+
+<hr>
+<h3 id="tabela-11-uc10-analise-preditiva-de-horarios-de-onibus-com-ia-requisito-nao-implementado">Tabela 11 - UC10: Análise preditiva de horários de ônibus com IA (Requisito não implementado)</h3>
+<p>A Tabela 11 apresenta a especificação detalhada do caso de uso UC10, que tem como objetivo disponibilizar uma aba de notícias relacionada ao transporte público, integrando informações de fontes externas, como portais de notícias. Essa funcionalidade visa manter os usuários informados sobre ocorrências, mudanças e melhorias no sistema de transporte, contribuindo para uma comunicação mais transparente e eficiente.</p>
+<div align="center">
+
+<p><strong>Tabela 11</strong> - UC10: Análise preditiva de horários de ônibus com IA</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Permite ao passageiro visualizar previsões mais precisas sobre horários de chegada e partida de ônibus, considerando fatores dinâmicos como trânsito, histórico de atrasos e condições climáticas.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema<br>- GPS habilitado ou ponto de embarque informado<br>- Conexão com internet ativa<br>- Algoritmo de IA operacional com base em dados históricos e em tempo real</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Passageiro recebe previsão de horário atualizada em tempo real<br>- Sistema ajusta alertas automáticos conforme variações no horário estimado<br>- Melhor tomada de decisão pelo passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa aba "Previsões de Horário"<br>
+      <strong>FB02.</strong> Sistema detecta ponto de embarque atual ou selecionado<br>
+      <strong>FB03.</strong> Sistema coleta dados históricos da linha e dados em tempo real (GPS do ônibus, trânsito, clima)<br>
+      <strong>FB04.</strong> IA processa e calcula tempo estimado de chegada com precisão aumentada<br>
+      <strong>FB05.</strong> Sistema exibe horário previsto de chegada e partida com status de confiança (ex: 92%)<br>
+      <strong>FB06.</strong> Passageiro decide aguardar ou buscar rota alternativa<br>
+      <strong>FB07.</strong> Sistema atualiza previsão automaticamente a cada intervalo configurado (ex: 30s)<br>
+      <strong>FB08.</strong> Passageiro recebe notificação caso a previsão mude significativamente<br>
+      <strong>FB09.</strong> Sistema armazena dados para otimizar previsões futuras
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Selecionar linha manualmente:</strong><br>
+      1. Passageiro opta por digitar linha<br>
+      2. Sistema busca dados históricos da linha informada<br>
+      3. Exibe previsão personalizada<br><br>
+
+      <strong>FA02 - Visualizar confiança da previsão:</strong><br>
+      1. Passageiro clica no indicador de confiança<br>
+      2. Sistema exibe fatores que influenciam no cálculo (ex: trânsito intenso, chuva)<br><br>
+
+      <strong>FA03 - Favoritar linha:</strong><br>
+      1. Passageiro marca linha como favorita<br>
+      2. Sistema passa a exibir previsões prioritárias dessa linha
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Falha na IA:</strong><br>
+      1. Algoritmo não consegue calcular previsão<br>
+      2. Sistema exibe horário estimado padrão<br>
+      3. Informa: "Previsão avançada temporariamente indisponível"<br><br>
+
+      <strong>FE02 - Falha de conexão:</strong><br>
+      1. Sistema perde conexão<br>
+      2. Exibe "Sem conexão. Previsão não pode ser atualizada"<br>
+      3. Mantém última previsão salva<br><br>
+
+      <strong>FE03 - Dados insuficientes:</strong><br>
+      1. Linha com poucos registros históricos<br>
+      2. Sistema informa: "Previsão menos precisa — dados insuficientes"<br><br>
+
+      <strong>FE04 - GPS desabilitado:</strong><br>
+      1. Passageiro não informa localização e GPS está desligado<br>
+      2. Sistema solicita manualmente ponto de embarque
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>ENT13</strong>: O sistema deve exibir previsão inteligente de horários com IA<br><strong>BRS08</strong>: Previsão precisa de chegada de ônibus em tempo real</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: João Gabriel, 2025</small>
+
+</div>
+
+<hr>
+<h2 id="casos-de-uso-uc11-e-uc12-daniel-nunes-duarte">Casos de Uso UC11 e UC12 (Daniel Nunes Duarte)</h2>
+<h3 id="tabela-12-uc11-compartilhamento-de-rotas-entre-usuarios-requisito-nao-implementado">Tabela 12 - UC11: Compartilhamento de Rotas entre Usuários (Requisito não implementado)</h3>
+<p>A Tabela 12 apresenta a especificação detalhada do caso de uso UC11, que permite ao passageiro compartilhar rotas e planejamentos de viagem com outros usuários do aplicativo, facilitando coordenação de deslocamentos e caronas.</p>
+<div align="center">
+
+<p><strong>Tabela 12</strong> - UC11: Compartilhamento de Rotas entre Usuários</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Permite que um passageiro compartilhe uma rota planejada com contatos ou grupos dentro do aplicativo, incluindo horário estimado, pontos de encontro e instruções adicionais.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema<br>- Contatos ou grupos adicionados ao perfil<br>- Conexão com internet ativa</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Rota compartilhada enviada aos contatos selecionados<br>- Notificações de convite/recebimento registradas no sistema</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa a tela de planejamento de viagem<br>
+      <strong>FB02.</strong> Insere origem, destino e horário desejado<br>
+      <strong>FB03.</strong> Seleciona opção "Compartilhar" e escolhe contatos/grupo<br>
+      <strong>FB04.</strong> (Opcional) Adiciona mensagem ou instruções adicionais<br>
+      <strong>FB05.</strong> Sistema envia notificações para os contatos selecionados<br>
+      <strong>FB06.</strong> Contatos recebem convite com detalhes da rota e opção de aceitar/recusar<br>
+      <strong>FB07.</strong> Se aceitarem, sistema agenda lembrete compartilhado e atualiza status
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Compartilhar por link:</strong><br>
+      1. Passageiro escolhe gerar link compartilhável<br>
+      2. Sistema cria link com validade determinada<br>
+      3. Passageiro copia/cola link em outra plataforma<br><br>
+
+      <strong>FA02 - Enviar apenas horário:</strong><br>
+      1. Passageiro opta por enviar apenas lembrete de horário<br>
+      2. Sistema envia notificação com horário e efeito de lembrete
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Contato não encontrado:</strong><br>
+      1. Passageiro seleciona contato removido ou inexistente<br>
+      2. Sistema exibe "Contato não encontrado" e remove da seleção<br><br>
+
+      <strong>FE02 - Falha ao enviar notificação:</strong><br>
+      1. Sistema detecta erro ao notificar contato<br>
+      2. Exibe mensagem "Falha ao enviar convite. Tente novamente"<br>
+      3. Sistema registra tentativa para reenvio automático
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>ENT14</strong>: Compartilhamento de planejamento de viagens entre usuários</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: Daniel Nunes Duarte, 2025</small>
+
+</div>
+
+<hr>
+<h3 id="tabela-13-uc12-acessibilidade-e-suporte-a-usuarios-com-deficiencia-requisito-nao-implementado">Tabela 13 - UC12: Acessibilidade e Suporte a Usuários com Deficiência (Requisito não implementado)</h3>
+<p>A Tabela 13 apresenta a especificação detalhada do caso de uso UC12, que visa garantir que o aplicativo ofereça recursos de acessibilidade, como leitura por voz, contraste alto e navegação por teclado, além de suporte específico para usuários com deficiência.</p>
+<div align="center">
+
+<p><strong>Tabela 13</strong> - UC12: Acessibilidade e Suporte a Usuários com Deficiência</p>
+
+<table>
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Atores</strong></td>
+    <td>Passageiro (usuário com necessidades de acessibilidade)</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição do Caso de Uso</strong></td>
+    <td>Fornece funcionalidades de acessibilidade no aplicativo, incluindo leitor de tela, navegação simplificada, legendas em vídeos e suporte a configurações de contraste e tamanho de fonte.</td>
+  </tr>
+  <tr>
+    <td><strong>Pré-Condições</strong></td>
+    <td>- Passageiro autenticado no sistema (opcional para recursos públicos)<br>- Dispositivo compatível com recursos de acessibilidade<br>- Permissões necessárias concedidas (ex: uso de microfone para comandos de voz)</td>
+  </tr>
+  <tr>
+    <td><strong>Pós-condições</strong></td>
+    <td>- Preferências de acessibilidade salvas no perfil do usuário<br>- Interface adaptada conforme configuração escolhida</td>
+  </tr>
+  <tr>
+    <td><strong>Fluxo básico</strong></td>
+    <td>
+      <strong>FB01.</strong> Passageiro acessa "Configurações de Acessibilidade" no app<br>
+      <strong>FB02.</strong> Escolhe opções desejadas (leitor de tela, contraste alto, tamanho de fonte)<br>
+      <strong>FB03.</strong> Sistema aplica preferências e exibe pré-visualização<br>
+      <strong>FB04.</strong> Passageiro confirma alterações<br>
+      <strong>FB05.</strong> Sistema salva preferências no perfil e ajusta UI em todas as telas
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos alternativos</strong></td>
+    <td>
+      <strong>FA01 - Ativar comandos de voz:</strong><br>
+      1. Passageiro ativa controle por voz nas configurações<br>
+      2. Sistema solicita permissão de microfone e fornece tutorial<br>
+      3. Usuário passa a navegar por comandos de voz básicos<br><br>
+
+      <strong>FA02 - Modo somente texto:</strong><br>
+      1. Passageiro ativa modo somente texto para leitores braille ou integração com dispositivos assistivos<br>
+      2. Sistema reescreve interfaces para formato texto simplificado
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fluxos de exceção</strong></td>
+    <td>
+      <strong>FE01 - Permissão negada:</strong><br>
+      1. Usuário nega acesso ao microfone ou recursos necessários<br>
+      2. Sistema exibe instruções para habilitar permissões manualmente<br><br>
+
+      <strong>FE02 - Recurso não suportado pelo dispositivo:</strong><br>
+      1. Sistema detecta hardware/SDK incompatível<br>
+      2. Exibe mensagem explicativa e oferece alternativas (ex: modo texto)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data da criação</strong></td>
+    <td>12/10/2025</td>
+  </tr>
+  <tr>
+    <td><strong>Rastreabilidade</strong></td>
+    <td><strong>BRS09</strong>: Requisitos de acessibilidade e conformidade com normas de usabilidade</td>
+  </tr>
+</table>
+
+<small style="color:blue;">Autoria: Daniel Nunes Duarte, 2025</small>
+
+</div>
+
+<h2 id="responsaveis-pela-elaboracao-do-artefato">Responsáveis pela elaboração do artefato</h2>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Responsabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Fernanda Vaz</strong></td>
+<td>- Elaboração dos textos de Introdução, Metodologia <br> - Criação inicial do Diagrama de Casos de Uso UML <br> - Elaboração da <a href="#tabela-1-elementos-descricoes-e-representacoes-graficas-do-diagrama-de-casos-de-uso">Tabela 1</a> <br> - Elaboração do Diagrama de Casos de Uso UML <br> - Elaboração e documentação dos casos de uso UC01 e UC02</td>
+</tr>
+<tr>
+<td><strong>Gabriel Maciel</strong></td>
+<td>- Elaboração e documentação do Modelo de Tabela para Especificação de Casos de Uso <br> - Elaboração e documentação dos casos de uso UC03 e UC04</td>
+</tr>
+<tr>
+<td><strong>Cauã Nicolas</strong></td>
+<td>- Elaboração e documentação dos casos de uso UC05 e UC06</td>
+</tr>
+<tr>
+<td><strong>João Ramos</strong></td>
+<td>- Elaboração e documentação dos casos de uso UC07 e UC08</td>
+</tr>
+<tr>
+<td><strong>João Gabriel</strong></td>
+<td>- Elaboração e documentação dos casos de uso UC09 e UC10</td>
+</tr>
+<tr>
+<td><strong>Daniel Nunes Duarte</strong></td>
+<td>- Elaboração e documentação dos casos de uso UC11 e UC12</td>
+</tr>
+</tbody>
+</table>
+<h2 id="bibliografia">Bibliografia</h2>
+<p><a id="ref-Lucid"></a></p>
+<blockquote>
+<p>LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 8 out. 2025.</p>
+<p>MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. <em>Especificação de Caso de Uso – Sigla do Projeto</em>. Brasília: MCTIC, Coordenação Geral de Sistemas, [s.d.]. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/3210641/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf">https://aprender3.unb.br/pluginfile.php/3210641/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf</a>. Acesso em: 11 out. 2025.</p>
+</blockquote>
+<h2 id="referencia-bibliografica">Referência bibliográfica</h2>
+<p><a id="#ref-Lucid"></a></p>
+<blockquote>
+<p>LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 10 out. 2025.</p>
+<p>MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. <em>Especificação de Caso de Uso – Sigla do Projeto</em>. Brasília: MCTIC, Coordenação Geral de Sistemas, [s.d.]. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/3210641/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf">https://aprender3.unb.br/pluginfile.php/3210641/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf</a>. Acesso em: 11 out. 2025.</p>
+</blockquote>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: left;">Data</th>
+<th style="text-align: left;">Descrição</th>
+<th style="text-align: left;">Autor(es)</th>
+<th style="text-align: left;">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: left;">08/10/2025</td>
+<td style="text-align: left;">Criação da estrutura inicial do documento.</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+<td style="text-align: left;">Fernanda Vaz</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: left;">10/10/2025</td>
+<td style="text-align: left;">Criação inicial do caso de uso e adição de elementos individuais</td>
+<td style="text-align: left;">Fernanda Vaz</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3</td>
+<td style="text-align: left;">10/10/2025</td>
+<td style="text-align: left;">Elaboração e documentação do Modelo da Tabela de Especificação de Casos de Uso</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+<td style="text-align: left;">Fernanda Vaz</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3.1</td>
+<td style="text-align: left;">11/10/2025</td>
+<td style="text-align: left;">Elaboração e documentação dos casos de uso UC03 e UC04</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+<td style="text-align: left;">Fernanda Vaz</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3.2</td>
+<td style="text-align: left;">12/10/2025</td>
+<td style="text-align: left;">Elaboração e documentação dos casos de uso UC05 e UC06</td>
+<td style="text-align: left;">Cauã Nicolas</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3.3</td>
+<td style="text-align: left;">12/11/2025</td>
+<td style="text-align: left;">Adição dos casos de uso UC07 e UC08</td>
+<td style="text-align: left;">Gabriel Maciel, João Ramos</td>
+<td style="text-align: left;">Cauã Nicolas</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3.3</td>
+<td style="text-align: left;">12/11/2025</td>
+<td style="text-align: left;">Adição dos casos de uso UC09 e UC10</td>
+<td style="text-align: left;">João Gabriel</td>
+<td style="text-align: left;">Cauã Nicolas</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.4</td>
+<td style="text-align: left;">12/10/2025</td>
+<td style="text-align: left;">Adição dos casos de uso UC11 e UC12</td>
+<td style="text-align: left;">Daniel Nunes Duarte</td>
+<td style="text-align: left;">-----</td>
+</tr>
+</tbody>
+</table>
+<h2 id="agradecimentos">Agradecimentos</h2>
+<blockquote>
+<blockquote>
+<p>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.</p>
+</blockquote>
+</blockquote></div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,6592 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../backlog/">
+      
+      
+        <link rel="next" href="../../checklist/lista04/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/logos/logo_small.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>NFR Framework - DF No Ponto</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Open Sans";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducao" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="DF No Ponto" class="md-header__button md-logo" aria-label="DF No Ponto" data-md-component="logo">
+      
+  <img src="../../assets/logos/logo_small.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DF No Ponto
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              NFR Framework
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo06" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.2-Grupo06
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="DF No Ponto" class="md-nav__button md-logo" aria-label="DF No Ponto" data-md-component="logo">
+      
+  <img src="../../assets/logos/logo_small.png" alt="logo">
+
+    </a>
+    DF No Ponto
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo06" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.2-Grupo06
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Início
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Artefatos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Artefatos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 1: Planejamento do Projeto e Pré-Rastreabilidade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_2" id="__nav_2_1_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejamento do Projeto
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Planejamento do Projeto
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Aplicativoescolhido/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sobre o aplicativo escolhido
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Ferramentasuti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ferramentas utilizadas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Cronogramadetalhado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cronograma detalhado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Heatmap de disponibilidde
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pré-Rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Pré-Rastreabilidade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich_picture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rich Picture
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 2: Elicitação - Técnicas e Priorização de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 2: Elicitação - Técnicas e Priorização de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_2" id="__nav_2_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perfil de Usuário
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Perfil de Usuário
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/perfil/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perfil
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/perfil_personas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/perfil_cenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cenários
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_3" id="__nav_2_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elicitação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Elicitação de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_lista_requisitos_elicitados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela Geral de Requisitos Elicitados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_3_2" id="__nav_2_2_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Técnicas de Elicitação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Técnicas de Elicitação de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_analise_documentos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de Documentos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_entrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/elicitacao_brainstorm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Brainstorm
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_4" id="__nav_2_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Técnicas de Priorização de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Técnicas de Priorização de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_100_dollars/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    $100
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_in_or_out/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    In or Out
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_first_things_first/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    First Things First
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/priorizacao_moscow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MoSCow
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 3: Modelagem de Requisitos 1
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 3: Modelagem de Requisitos 1
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem_requisitos_01/cenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cenários
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem_requisitos_01/lexicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Léxicos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem_requisitos_01/casos_de_uso/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Casos de Uso
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem_requisitos_01/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Especificação Suplementar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 4: Modelagem de Requisitos 2 (Ágil)
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 4: Modelagem de Requisitos 2 (Ágil)
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../historias_de_usuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Histórias de Usuário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backlog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Backlog
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    NFR Framework
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    NFR Framework
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#print-da-referencia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Print da Referência
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-de-contribuicoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela de Contribuições
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#softgoal-interdependency-graph" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoal Interdependency Graph
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Softgoal Interdependency Graph">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#print" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRINT
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-softgoal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tipos de Softgoal
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-decomposicoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tipos de Decomposições
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contribuicoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Contribuições
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-usabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Usabilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-01-facilidade-de-aprendizagem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 01 — Facilidade de Aprendizagem
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-02-eficiencia-e-precisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 02 — Eficiência e Precisão
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-03-memorabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 03 — Memorabilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-04-satisfacao-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 04 — Satisfação do Usuário
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-05-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 05 — Acessibilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-06-feedback-e-comunicacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 06 — Feedback e Comunicação
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-07-consistencia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 07 — Consistência
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-08-personalizacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 08 — Personalização
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação 08 — Personalização">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ru09-adaptabilidade-e-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RU09 - Adaptabilidade e Acessibilidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Desempenho
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SIG Desempenho">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-nfr" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals NFR
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-operacionalizacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Operacionalização
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-afirmacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Afirmação
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rastreabilidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos Não-Funcionais do SIG Desempenho
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos Não-Funcionais do SIG Desempenho">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rd01-rastreamento-de-veiculos-em-tempo-real" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD01 - Rastreamento de Veículos em Tempo Real
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rd02-tempo-de-carregamento-rapido" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD02 - Tempo de Carregamento Rápido
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rd03-consumo-eficiente-de-bateria-e-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD03 - Consumo Eficiente de Bateria e Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rd04-suporte-a-multiplos-usuarios-simultaneos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD04 - Suporte a Múltiplos Usuários Simultâneos
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-portabilidadecompatibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Portabilidade/Compatibilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SIG Portabilidade/Compatibilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-portabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos Não-Funcionais do SIG Portabilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos Não-Funcionais do SIG Portabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rs01-funcionalidade-e-responsividade-em-navegadores-moveis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS01 - Funcionalidade e Responsividade em Navegadores Móveis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs02-funcionamento-offline" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS02 - Funcionamento Offline
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs03-configuracao-de-notificacoes-som-e-vibracao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS03 - Configuração de Notificações (Som e Vibração)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs04-compatibilidade-com-apis-externas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS04 - Compatibilidade com APIs Externas
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs05-ajuste-automatico-de-layout" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS05 - Ajuste Automático de Layout
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-confiabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Confiabilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SIG Confiabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-nfr_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals NFR
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-operacionalizacao_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Operacionalização
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-afirmacao_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Afirmação
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rastreabilidade_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rastreabilidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-confiabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos Não-Funcionais do SIG Confiabilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos Não-Funcionais do SIG Confiabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rc01-operacao-sem-falhas-criticas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC01 - Operação sem Falhas Críticas
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc02-operacao-com-falhas-parciais" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC02 - Operação com Falhas Parciais
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc03-recuperacao-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC03 - Recuperação de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc04-funcionamento-com-rede-instavel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC04 - Funcionamento com Rede Instável
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc05-atomicidade-de-transacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC05 - Atomicidade de Transações
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc06-deteccao-e-reporte-de-falhas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC06 - Detecção e Reporte de Falhas
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc07-consistencia-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC07 - Consistência de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#validacao-joao-ramos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Validação (João Ramos)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referência bibliográfica
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versões
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#agradecimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Agradecimentos
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 5: Análise de Requisitos - Verificação e Validação
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 5: Análise de Requisitos - Verificação e Validação
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao_verificacao/verificacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verificação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5_3" id="__nav_2_5_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Validação de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Validação de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao_verificacao/prototipacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prototipação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao_verificacao/comprovacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Comprovação Informal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 6: Pós-rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Etapa 6: Pós-rastreabilidade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresenta%C3%A7%C3%A3o/apresentacao05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/backward/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Backward-from
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/forward/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Forward-from
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/matriz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matriz de Pós-rastreabilidade
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checklist/lista05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lista de Verificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contribui%C3%A7%C3%B5es/tab_cont05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de Contribuição
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Atas de Reunião
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Atas de Reunião
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 1 - 04/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 2 - 05/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 3 - 07/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 4 - 22/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas%20de%20Reuni%C3%A3o/ata5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ata 5 - 28/09
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verificações
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Verificações
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inspeções do Grupo 6 (Monitores)
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inspeções do Grupo 6 (Monitores)
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecoes_grupo_6/inspecao01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecoes_grupo_6/inspecao02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecoes_grupo_6/inspecao03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inspeções do Grupo 7
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inspeções do Grupo 7
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verifica%C3%A7%C3%B5es/inspecao05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Etapa 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrega Final
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Entrega Final
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Aplicativoescolhido/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sobre o aplicativo escolhido
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Ferramentasuti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ferramentas utilizadas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Cronogramadetalhado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cronograma detalhado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/apresentacoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apresentações
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/resultados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resultados alcançados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/tabela_contribuicao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tabela de contribuição final
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_final/consideracoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Considerações finais
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#print-da-referencia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Print da Referência
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-de-contribuicoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tabela de Contribuições
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#softgoal-interdependency-graph" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoal Interdependency Graph
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Softgoal Interdependency Graph">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#print" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRINT
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-softgoal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tipos de Softgoal
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-decomposicoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tipos de Decomposições
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contribuicoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Contribuições
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-usabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Usabilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-01-facilidade-de-aprendizagem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 01 — Facilidade de Aprendizagem
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-02-eficiencia-e-precisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 02 — Eficiência e Precisão
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-03-memorabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 03 — Memorabilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-04-satisfacao-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 04 — Satisfação do Usuário
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-05-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 05 — Acessibilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-06-feedback-e-comunicacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 06 — Feedback e Comunicação
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-07-consistencia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 07 — Consistência
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-08-personalizacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação 08 — Personalização
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação 08 — Personalização">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ru09-adaptabilidade-e-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RU09 - Adaptabilidade e Acessibilidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Desempenho
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SIG Desempenho">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-nfr" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals NFR
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-operacionalizacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Operacionalização
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-afirmacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Afirmação
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rastreabilidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos Não-Funcionais do SIG Desempenho
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos Não-Funcionais do SIG Desempenho">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rd01-rastreamento-de-veiculos-em-tempo-real" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD01 - Rastreamento de Veículos em Tempo Real
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rd02-tempo-de-carregamento-rapido" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD02 - Tempo de Carregamento Rápido
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rd03-consumo-eficiente-de-bateria-e-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD03 - Consumo Eficiente de Bateria e Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rd04-suporte-a-multiplos-usuarios-simultaneos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RD04 - Suporte a Múltiplos Usuários Simultâneos
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-portabilidadecompatibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Portabilidade/Compatibilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SIG Portabilidade/Compatibilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-portabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos Não-Funcionais do SIG Portabilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos Não-Funcionais do SIG Portabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rs01-funcionalidade-e-responsividade-em-navegadores-moveis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS01 - Funcionalidade e Responsividade em Navegadores Móveis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs02-funcionamento-offline" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS02 - Funcionamento Offline
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs03-configuracao-de-notificacoes-som-e-vibracao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS03 - Configuração de Notificações (Som e Vibração)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs04-compatibilidade-com-apis-externas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS04 - Compatibilidade com APIs Externas
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rs05-ajuste-automatico-de-layout" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RS05 - Ajuste Automático de Layout
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sig-confiabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SIG Confiabilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SIG Confiabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-nfr_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals NFR
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-operacionalizacao_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Operacionalização
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#softgoals-de-afirmacao_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Softgoals de Afirmação
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rastreabilidade_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rastreabilidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-confiabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cartão de Especificação de Requisitos Não-Funcionais do SIG Confiabilidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cartão de Especificação de Requisitos Não-Funcionais do SIG Confiabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rc01-operacao-sem-falhas-criticas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC01 - Operação sem Falhas Críticas
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc02-operacao-com-falhas-parciais" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC02 - Operação com Falhas Parciais
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc03-recuperacao-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC03 - Recuperação de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc04-funcionamento-com-rede-instavel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC04 - Funcionamento com Rede Instável
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc05-atomicidade-de-transacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC05 - Atomicidade de Transações
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc06-deteccao-e-reporte-de-falhas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC06 - Detecção e Reporte de Falhas
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rc07-consistencia-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RC07 - Consistência de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#validacao-joao-ramos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Validação (João Ramos)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referência bibliográfica
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versões
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#agradecimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Agradecimentos
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<div><h2 id="introducao">Introdução</h2>
+<p>O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem utilizada para representar e analisar RNF. Segundo Reinaldo Antônio <sup><a href="#ref-1">1</a></sup>, seu objetivo é auxiliar desenvolvedores a implementar soluções personalizadas. Essa abordagem considera as características específicas do sistema — como requisitos funcionais, não-funcionais, prioridades e carga de trabalho — para determinar as alternativas de desenvolvimento mais adequadas (CHUNG et al., 2000).</p>
+<h6 id="print-da-referencia">Print da Referência</h6>
+<p align="center">
+<a href="https://ibb.co/HLCpRH1X"><img src="https://i.ibb.co/qLCFhrXx/image.png" alt="image" border="0" width="600"></a>  
+<br>
+<font size="3">Figura 01 – NFR Framework.</font>
+</p>
+
+<h2 id="tabela-de-contribuicoes">Tabela de Contribuições</h2>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Responsabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cauã Nicolas</td>
+<td><a href="#sig-portabilidadecompatibilidade">- Elaboração do SIG Portabilidade</a> <br><a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-portabilidade">- Elaboração dos cartões de especificação dos RNFs do SIG Portabilidade</a></td>
+</tr>
+<tr>
+<td>Fernanda Vaz</td>
+<td><a href="#introducao">- Adição de introdução</a> <br><a href="#sig-usabilidade">- Elaboração do SIG Usabilidade</a> <br><a href="#cartao-de-especificacao-01-facilidade-de-aprendizagem">- Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade</a></td>
+</tr>
+<tr>
+<td>Gabriel Maciel</td>
+<td><a href="#sig-desempenho">- Elaboração do SIG Desempenho</a> <br><a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho">- Elaboração dos cartões de especificação dos RNFs do SIG Desempenho</a></td>
+</tr>
+<tr>
+<td>João Gabriel</td>
+<td><a href="#sig-confiabilidade">- Elaboração do SIG Confiabilidade</a> <br><a href="#cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-confiabilidade">- Elaboração dos cartões de especificação dos RNFs do SIG Confiabilidade</a></td>
+</tr>
+<tr>
+<td>João Ramos</td>
+<td><a href="#ru09-adaptabilidade-e-acessibilidade">- Elaboração dos cartões de especificação dos RNFs do SIG Usabilidade</a> <br><a href="#validacaojoao-ramos">- Validação</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="softgoal-interdependency-graph">Softgoal Interdependency Graph</h2>
+<p>Segundo Reinaldo Antônio <sup><a href="#ref-1">1</a></sup> o "Softgoal Interdependency Graph" (SIG) é um gráfico que registra as análises do desenvolvedor sobre os softgoals (objetivos não-funcionais) e mostra como eles dependem uns dos outros. Essencialmente, os SIGs armazenam todo o histórico das decisões de desenvolvimento e a lógica do projeto de forma visual e resumida.</p>
+<p>Conforme Silva <sup><a href="#ref-1">1</a></sup>, após a construção de uma taxonomia de Requisitos Não-Funcionais, é iniciada a criação de um Catálogo de RNFs, organizando todos os requisitos encontrados com suas definições, atributos, restrições e exemplos. Nesta etapa é realizada a construção de um grafo de Interdependência de Softgoal - Softgoal Interdependency Graph (SIG) com os Requisitos Não-Funcionais, adotando a notação do NFR Framework proposto por Chung et al. (2000). Além disso, para a documentação detalhada dos requisitos, adota-se o Cartão de Especificação baseado no cartão (snowcard) do processo Volere (Robertson; Robertson, 2012), que permite a escrita de exemplos do catálogo em um contexto real do sistema. Este cartão foi utilizado por se adequar bem à abordagem de análise de requisitos não-funcionais.</p>
+<h3 id="cartao-de-especificacao-de-requisitos">Cartão de Especificação de Requisitos</h3>
+<p>O Cartão de Especificação de Requisitos segue o padrão utilizado no NFR Framework para documentação detalhada de cada requisito não-funcional. Este cartão, baseado no processo Volere, estrutura-se com os seguintes campos:</p>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>Um número sequencial para identificar o requisito</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Classificação do tipo de requisito</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Declaração única do significado do requisito</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Justificativa sobre a criação do requisito</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Origem do requisito (stakeholder, norma técnica, etc.)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Métrica do requisito que possa ser testada e que deve ser satisfeita</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Requisitos relacionados a este</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10)</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Requisitos conflitantes com este</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Data de criação e de modificações</td>
+</tr>
+</tbody>
+</table>
+<h5 id="print">PRINT</h5>
+<p><a href="https://ibb.co/QqScJ5N"><img src="https://i.ibb.co/2LV6Fbt/image.png" alt="image" border="0"></a></p>
+<h3 id="tipos-de-softgoal">Tipos de Softgoal</h3>
+<p>Existem três tipos de softgoals: <strong>Softgoals NFR</strong>, <strong>Softgoals de Operacionalização</strong> e <strong>Softgoals de Afirmação</strong>. Estes são descritos a seguir:</p>
+<ul>
+<li>
+<p><strong>Softgoals NFR:</strong> representam os Requisitos Não Funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto (CHUNG et al., 2000).</p>
+</li>
+<li>
+<p><strong>Softgoals de Operacionalização:</strong> representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções incluem operações, processos, representações de dados e restrições no sistema alvo (CHUNG et al., 2000).</p>
+</li>
+<li>
+<p><strong>Softgoals de Afirmação:</strong> permitem que características do domínio (como prioridades e carga de trabalho) sejam consideradas e refletidas nas decisões de projeto, servindo como justificativas para apoiar ou negar escolhas (CHUNG et al., 2000).</p>
+</li>
+</ul>
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/h1L3Knr7/image.png" alt="Diagrama do Sistema" width="450"></a>  
+<br>
+<font size="3">Figura 02 – Tipos de Softgoal.</font>
+</p>
+
+<h3 id="tipos-de-decomposicoes">Tipos de Decomposições</h3>
+<p>As decomposições refinam softgoals para obter outros mais especializados, auxiliando na construção do projeto. Os quatro tipos principais são:</p>
+<ul>
+<li><strong>Decomposição de Softgoal NFR:</strong> subdivide um softgoal em outros mais específicos.  </li>
+<li><strong>Decomposição de Operacionalização:</strong> refina soluções de implementação.  </li>
+<li><strong>Decomposição de Afirmação (Claims):</strong> detalha justificativas específicas de projeto.  </li>
+<li><strong>Priorização:</strong> refina um softgoal em outro do mesmo tipo, mas com prioridade associada.  </li>
+</ul>
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KjWPS9NR/image.png" alt="Tipos de Decomposição" width="600"></a>  
+<br>
+<font size="3">Figura 03 – Tipos de Decomposição.</font>
+</p>
+
+<h3 id="contribuicoes">Contribuições</h3>
+<p>O <strong>NFR Framework</strong> permite diversos tipos de contribuições que descrevem como a satisfação (ou não) de um <em>softgoal</em> descendente afeta a satisfação de um <em>softgoal</em> ascendente:</p>
+<ul>
+<li><strong>AND:</strong> todos os descendentes devem ser satisfeitos.  </li>
+<li><strong>OR:</strong> basta um descendente satisfeito.  </li>
+<li><strong>MAKE (++)</strong>: contribuição fortemente positiva.  </li>
+<li><strong>BREAK (--)</strong>: contribuição fortemente negativa.  </li>
+<li><strong>HELP (+)</strong>: contribuição parcialmente positiva.  </li>
+<li><strong>HURT (-)</strong>: contribuição parcialmente negativa.  </li>
+<li><strong>UNKNOWN (?)</strong>: efeito desconhecido.  </li>
+<li><strong>EQUALS:</strong> relação de equivalência entre <em>softgoals</em>.  </li>
+<li><strong>SOME:</strong> sinal conhecido, mas extensão incerta.</li>
+</ul>
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JFyhVHhL/image.png" alt="Contribuições AND e OR" width="600"></a>  
+<br>
+<font size="3">Figura 04 – Exemplos de Contribuições “AND” e “OR”.</font>
+</p>
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bR8NhdgJ/image.png" alt="Contribuições MAKE BREAK HELP HURT" width="600"></a>  
+<br>
+<font size="3">Figura 05 – Exemplos de Contribuições “MAKE”, “BREAK”, “HELP” e “HURT”.</font>
+</p>
+
+<h2 id="sig-usabilidade">SIG Usabilidade</h2>
+<p><em>Autoria: Fernanda Vaz, 2025.</em></p>
+<p>Os softgoals de usabilidade foram extraídos dos Requisitos de usabilidade da Especificação Suplementar. O diagrama completo deste SIG pode ser visualizado na Figura 06.</p>
+<p align="center">
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/929a11a2-17f7-4526-93f0-3c97ddc4d236"></iframe>  
+<br>
+<font size="3">Figura 06 – Diagrama SIG Usabilidade.</font>
+</p>
+
+<h2 id="cartao-de-especificacao-01-facilidade-de-aprendizagem">Cartão de Especificação 01 — Facilidade de Aprendizagem</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU01 / RNF01</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Facilidade de Aprendizagem</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Cidadãos devem conseguir utilizar funcionalidades básicas sem treinamento prévio.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Permite acesso imediato às informações de transporte para usuários com diferentes níveis de alfabetização digital.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Entrevistas com usuários finais; Análise de usabilidade.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>90% dos novos usuários completam 3 tarefas básicas em até 5 minutos sem assistência.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cartao-de-especificacao-02-eficiencia-e-precisao">Cartão de Especificação 02 — Eficiência e Precisão</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU02 / RNF02</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Eficiência e Precisão</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O sistema deve oferecer resultados precisos para o usuário.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir confiança no planejamento dos deslocamentos, evitando atrasos causados por dados incorretos.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Análise de reclamações dos usuários.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Precisão ≥ 95%; erro de horário ≤ 3 min; reclamações &lt; 2%.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RNF-Desempenho, RNF-Integração</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cartao-de-especificacao-03-memorabilidade">Cartão de Especificação 03 — Memorabilidade</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU03 / RNF03</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Memorabilidade</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Interface deve ser facilmente memorável para passageiros ocasionais.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Usuários esporádicos devem conseguir reutilizar o sistema sem reaprendizagem.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Entrevistas com usuários.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>85% dos usuários retornando após 30 dias completam tarefas sem ajuda; tempo de reaprendizagem &lt; 2 min.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cartao-de-especificacao-04-satisfacao-do-usuario">Cartão de Especificação 04 — Satisfação do Usuário</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU04 / RNF04</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Satisfação do Usuário</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>A interface deve ser agradável e satisfatória de usar.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Melhora a percepção do transporte público e aumenta a adesão ao sistema.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Análise de documentos.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>SUS ≥ 80; avaliação ≥ 4.5 estrelas; satisfação ≥ 85%.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cartao-de-especificacao-05-acessibilidade">Cartão de Especificação 05 — Acessibilidade</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU05 / RNF05</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Acessibilidade</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Suporte a leitores de tela e contraste conforme WCAG 2.1 AA.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Atende a requisitos legais e garante inclusão digital.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Entrevistas com usuários PCD; WCAG.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>100% conformidade WCAG 2.1 AA; contraste ≥ 4.5:1; sucesso ≥ 90% com usuários PCD.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cartao-de-especificacao-06-feedback-e-comunicacao">Cartão de Especificação 06 — Feedback e Comunicação</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU06 / RNF06</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Feedback e Comunicação</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Mensagens de erro e confirmação devem ser claras e objetivas.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Ajuda na correção rápida de erros, reduz frustração e aumenta confiança.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Análise de documentos.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>95% das mensagens compreendidas sem explicação; leitura até 8º ano; resolução de erros &lt; 30s.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cartao-de-especificacao-07-consistencia">Cartão de Especificação 07 — Consistência</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU07 / RNF07</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Consistência</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Padrões visuais e de interação consistentes em todo o aplicativo.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Reduz carga cognitiva e facilita aprendizado.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Entrevistas.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>100% conformidade com Design System; score ≥ 95% em auditoria de consistência.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cartao-de-especificacao-08-personalizacao">Cartão de Especificação 08 — Personalização</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Campo</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU08 / RNF08</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade — Personalização</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Permitir ajustes de preferências visuais (tema, fonte, notificações).</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Aumenta satisfação e acessibilidade do sistema.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Feedback dos usuários na Play Store.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Tema claro/escuro; 3 tamanhos de fonte; controle de notificações; persistência 100%.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Pode conflitar com RU07 se personalização excessiva reduzir consistência.</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Fernanda Vaz</td>
+</tr>
+</tbody>
+</table>
+<h4 id="ru09-adaptabilidade-e-acessibilidade">RU09 - Adaptabilidade e Acessibilidade</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RU09</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Usabilidade (Acessibilidade)</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>A interface deve ser adaptável para diferentes tipos de usuário (como usuários com deficiência visual, auditiva ou motora).</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir a inclusão e permitir que todos os cidadãos, independentemente de suas habilidades, possam utilizar o aplicativo com autonomia.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Diretrizes de Acessibilidade (WCAG 2.1), Análise de Documentos.</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>- Conformidade com o nível AA da WCAG 2.1.<br>- Compatibilidade total com leitores de tela (VoiceOver e TalkBack).<br>- Contraste mínimo de 4.5:1 para textos e 3:1 para componentes de interface.<br>- Áreas de toque com tamanho mínimo de 44x44 pixels.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>SIG-U03, OP-U03, OP-U04</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Pode conflitar com requisitos de design (estética) se não for bem planejado.</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Ramos</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sig-desempenho">SIG Desempenho</h2>
+<p><em>Autoria: Gabriel Maciel, 2025.</em></p>
+<p>Os softgoals de desempenho foram extraídos dos Requisitos de Desempenho (RD01-RD04) definidos na Especificação Suplementar. O diagrama completo deste SIG pode ser visualizado na Figura 07.</p>
+<p><img alt="SIG Desempenho" src="../../assets/imagens/nfr/sig_desempenho.svg"></p>
+<center>
+<font size="3">Figura 07 – Diagrama SIG Desempenho.</font>
+</center>
+
+<h4 id="softgoals-nfr">Softgoals NFR</h4>
+<p>A <strong>Tabela 05</strong> lista os softgoals NFR principais.</p>
+<center>
+<font size="3">Tabela 05 – Softgoals NFR do SIG Desempenho.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Softgoal</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SIG-D01</td>
+<td>Desempenho</td>
+<td>Garantir tempo de resposta e eficiência.</td>
+</tr>
+<tr>
+<td>SIG-D02</td>
+<td>Tempo de Resposta Rápido</td>
+<td>Operações concluídas em tempo aceitável.</td>
+</tr>
+<tr>
+<td>SIG-D03</td>
+<td>Consumo Eficiente</td>
+<td>Reduzir uso de bateria e dados móveis.</td>
+</tr>
+<tr>
+<td>SIG-D04</td>
+<td>Múltiplos Usuários</td>
+<td>Suportar vários usuários simultaneamente.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="softgoals-de-operacionalizacao">Softgoals de Operacionalização</h4>
+<p><strong>Tabela 06</strong> - Tabela de Especificação de Softgoals de Operacionalização do SIG Desempenho</p>
+<center>
+<font size="3">Tabela 06 – Softgoals de Operacionalização do SIG Desempenho.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Operacionalização</th>
+<th>Softgoal Pai</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OP-D01</td>
+<td>Rastreamento Otimizado</td>
+<td>SIG-D02</td>
+<td>Implementar rastreamento de veículos com latência máxima de 20 segundos.</td>
+</tr>
+<tr>
+<td>OP-D02</td>
+<td>Carregamento Rápido da Interface</td>
+<td>SIG-D02</td>
+<td>Interface principal carrega em menos de 3 segundos.</td>
+</tr>
+<tr>
+<td>OP-D03</td>
+<td>Redução de Requisições</td>
+<td>SIG-D03</td>
+<td>Minimizar requisições de rede desnecessárias através de cache e sincronização eficiente.</td>
+</tr>
+<tr>
+<td>OP-D04</td>
+<td>Compressão de Dados</td>
+<td>SIG-D03</td>
+<td>Aplicar compressão em dados transmitidos para reduzir consumo de dados móveis.</td>
+</tr>
+<tr>
+<td>OP-D05</td>
+<td>Tamanho Compacto da Aplicação</td>
+<td>SIG-D03</td>
+<td>Manter o tamanho do aplicativo reduzido para economizar espaço de armazenamento em dispositivos com recursos limitados.</td>
+</tr>
+<tr>
+<td>OP-D06</td>
+<td>Cache de Informações</td>
+<td>SIG-D04</td>
+<td>Armazenar dados de linhas, paradas e horários localmente para reduzir carga de requisições ao servidor.</td>
+</tr>
+<tr>
+<td>OP-D07</td>
+<td>Servidor Responsivo</td>
+<td>SIG-D04</td>
+<td>Manter infraestrutura de servidor estável e responsiva para processar múltiplas requisições simultâneas de rastreamento e consulta.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="softgoals-de-afirmacao">Softgoals de Afirmação</h4>
+<p>A <strong>Tabela 07</strong> especifica os softgoals de afirmação.</p>
+<center>
+<font size="3">Tabela 07 – Softgoals de Afirmação do SIG Desempenho.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Afirmação</th>
+<th>Softgoal Pai</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AF-D01</td>
+<td>Satisfação do Usuário</td>
+<td>SIG-D02</td>
+<td>Usuários satisfeitos com a velocidade da aplicação.</td>
+</tr>
+<tr>
+<td>AF-D02</td>
+<td>Funcionamento em Dispositivos Limitados</td>
+<td>SIG-D03, SIG-D04</td>
+<td>Sistema funciona bem em smartphones com recursos reduzidos.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rastreabilidade">Rastreabilidade</h4>
+<center>
+<font size="3">Tabela 08 – Rastreabilidade dos Softgoals do SIG Desempenho.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>Softgoal</th>
+<th>Requisito Origem</th>
+<th>Descendentes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SIG-D01</td>
+<td>RD01, RD02, RD03, RD04</td>
+<td>SIG-D02, SIG-D03, SIG-D04</td>
+</tr>
+<tr>
+<td>SIG-D02</td>
+<td>RD01, RD02</td>
+<td>OP-D01, OP-D02, AF-D01</td>
+</tr>
+<tr>
+<td>SIG-D03</td>
+<td>RD03</td>
+<td>OP-D03, OP-D04, OP-D05, AF-D02</td>
+</tr>
+<tr>
+<td>SIG-D04</td>
+<td>RD04</td>
+<td>OP-D06, OP-D07, AF-D02</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-desempenho">Cartão de Especificação de Requisitos Não-Funcionais do SIG Desempenho</h3>
+<h4 id="rd01-rastreamento-de-veiculos-em-tempo-real">RD01 - Rastreamento de Veículos em Tempo Real</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RD01 / RNF03</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Desempenho</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O sistema deve rastrear a localização de ônibus em tempo real com latência máxima de 20 segundos entre atualizações.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Essencial para que passageiros recebam informações precisas sobre a proximidade de ônibus, permitindo melhor planejamento de trajetos.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Entrevista (ENT09, ENT13)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Latência máxima de 20 segundos; precisão de localização de ±50 metros.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RF35, RD04</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Gabriel Maciel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rd02-tempo-de-carregamento-rapido">RD02 - Tempo de Carregamento Rápido</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RD02 / RNF06</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Desempenho</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>A interface mobile da aplicação deve ser carregada em no máximo 3 segundos em conexões 4G.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Melhor experiência do usuário e redução de abandono de uso do aplicativo devido a lentidão.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Entrevista (ENT17)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Tempo de carregamento ≤ 3 segundos; testado em dispositivos com conexão 3G/4G.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>OP-D02, RD03</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Gabriel Maciel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rd03-consumo-eficiente-de-bateria-e-dados">RD03 - Consumo Eficiente de Bateria e Dados</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RD03 / RNF10</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Desempenho</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O aplicativo deve consumir no máximo 5% da bateria por hora em uso ativo e ter tamanho máximo de 50MB, permitindo acesso a usuários com dispositivos antigos ou com planos de dados limitados.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Permitir acesso a usuários com dispositivos antigos ou com planos de dados limitados, expandindo o alcance do sistema e melhorando a experiência em redes com conectividade reduzida.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Entrevista (ENT17)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Consumo de bateria ≤ 5% por hora em uso ativo; tamanho do app ≤ 50MB.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>OP-D03, OP-D04, OP-D05</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>7</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Gabriel Maciel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rd04-suporte-a-multiplos-usuarios-simultaneos">RD04 - Suporte a Múltiplos Usuários Simultâneos</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RD04 / RNF14</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Desempenho</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Os dados de localização de ônibus devem ser sincronizados com o servidor em tempo real, com no máximo 15 segundos de latência.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir que o sistema mantenha a qualidade de serviço mesmo durante picos de uso, como horários de pico de deslocamento.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Brainstorm (BRS15)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Suportar ≥ 10.000 usuários simultâneos; tempo de resposta ≤ 2 segundos mesmo em carga máxima.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>OP-D06, OP-D07, RD01, RD02</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025  — Autor: Gabriel Maciel</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sig-portabilidadecompatibilidade">SIG Portabilidade/Compatibilidade</h2>
+<p><em>Autoria: Cauã Nicolas, 2025.</em></p>
+<p><img alt="SIG Portabilidade" src="../../assets/imagens/nfr/NFR%20Portabilidade.svg"></p>
+<center>
+<font size="3">Figura 08 – Diagrama SIG Portabilidade.</font>
+</center>
+
+<h3 id="cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-portabilidade">Cartão de Especificação de Requisitos Não-Funcionais do SIG Portabilidade</h3>
+<h4 id="rs01-funcionalidade-e-responsividade-em-navegadores-moveis">RS01 - Funcionalidade e Responsividade em Navegadores Móveis</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RS01</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito do Sistema (Funcionalidade / Usabilidade)</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>A aplicação deve ser funcional e responsiva em navegadores web de dispositivos móveis (celulares).</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir acesso amplo sem necessidade de instalação e assegurar boa experiência em dispositivos móveis.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Documento de requisitos / Entrevistas (RFxx)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>- Layout adaptativo em telas de 320px a 1080px.<br>- Elementos interativos acessíveis e tocáveis conforme WCAG; testes em 3 navegadores móveis principais.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Depende de práticas de CSS responsivo, frameworks front-end e testes de usabilidade.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Pode conflitar com requisitos de desempenho se renderização for pesada.</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Cauã Nicolas</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rs02-funcionamento-offline">RS02 - Funcionamento Offline</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RS02</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito do Sistema (Disponibilidade / Operacionalidade)</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>A aplicação deve funcionar mesmo sem conexão de internet para consulta a rotas salvas e horários.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Usuários em áreas com conectividade limitada precisam acessar informações básicas sem conexão.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Documento de requisitos / Entrevistas (RFxx)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>- Dados essenciais (rotas e horários salvos) acessíveis offline.<br>- Tempo de sincronização de dados ao reconectar ≤ 10s para atualizações incrementais.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Implementação de cache local (IndexedDB/LocalStorage) e sincronização de dados.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Armazenamento local pode aumentar uso de espaço no dispositivo; segurança de dados offline.</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Cauã Nicolas</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rs03-configuracao-de-notificacoes-som-e-vibracao">RS03 - Configuração de Notificações (Som e Vibração)</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RS03</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito do Sistema (Notificações / Usabilidade)</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O sistema de notificação com som e vibração deve estar devidamente configurável pelo usuário.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Permitir ao usuário adaptar notificações conforme preferências e necessidades (p.ex., modo silencioso).</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Documento de requisitos / Entrevistas (RFxx)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>- Usuário pode ativar/desativar som e vibração independentemente.<br>- Preferências persistidas entre sessões.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>API de notificações do navegador/dispositivo; armazenamento de preferências do usuário.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Pode conflitar com políticas de plataforma sobre uso de som/vibração em segundo plano.</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Cauã Nicolas</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rs04-compatibilidade-com-apis-externas">RS04 - Compatibilidade com APIs Externas</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RS04</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito do Sistema (Integração)</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O sistema deve ser compatível com APIs externas de transporte público e serviços de geolocalização.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Integração com provedores externos é essencial para dados em tempo real e funcionalidade correta do app.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Documento de requisitos / Análise de APIs (RFxx)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>- Suporte a formatos JSON/GeoJSON e autenticação via API keys/OAuth.<br>- Testes de integração automatizados com provedores principais.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Contratos/SLAs com provedores (BRB Mobilidade, APIs de mapas).</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Dependência externa pode afetar disponibilidade; necessidade de adaptação a mudanças de API.</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Cauã Nicolas</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rs05-ajuste-automatico-de-layout">RS05 - Ajuste Automático de Layout</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RS05</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito do Sistema (Usabilidade / Compatibilidade)</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>A interface deve ajustar automaticamente os elementos visuais para diferentes resoluções de tela, mantendo legibilidade e usabilidade.</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir que usuários em dispositivos diversos tenham experiência consistente e legível.</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Documento de requisitos / Entrevistas (RFxx)</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>- Tipografia e espaçamento adaptativos; elementos acessíveis em dispositivos pequenos.<br>- Pontuação mínima em testes de usabilidade de 80% para tarefas básicas.</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Frameworks de UI responsiva, testes de usabilidade e guidelines WCAG.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Pode conflitar com limitações de layout em dispositivos muito pequenos; trade-offs entre detalhe e simplicidade.</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: Cauã Nicolas</td>
+</tr>
+</tbody>
+</table>
+<h1 id="sig-confiabilidade">SIG Confiabilidade</h1>
+<p><em>Autoria: João Gabriel, 2025</em></p>
+<p>Os softgoals de confiabilidade foram extraídos dos Requisitos de Confiabilidade (RC01-RC07) definidos na Especificação Suplementar.</p>
+<p><img alt="SIG Confiabilidade" src="../../assets/imagens/nfr/Diagrama_Confiabilidade.svg"></p>
+<center>
+<font size="3">Figura 09 – Diagrama SIG Confiabilidade.</font>
+</center>
+
+<h4 id="softgoals-nfr_1">Softgoals NFR</h4>
+<p>A <strong>Tabela 10</strong> lista os softgoals NFR principais.</p>
+<center>
+<font size="3">Tabela 10 – Softgoals NFR do SIG Confiabilidade.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Softgoal</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SIG-C01</td>
+<td>Confiabilidade</td>
+<td>Garantir operação consistente e resiliente do sistema</td>
+</tr>
+<tr>
+<td>SIG-C02</td>
+<td>Disponibilidade</td>
+<td>Sistema deve operar sem falhas críticas</td>
+</tr>
+<tr>
+<td>SIG-C03</td>
+<td>Tolerância a Falhas</td>
+<td>Sistema deve continuar operando mesmo com falhas parciais</td>
+</tr>
+<tr>
+<td>SIG-C04</td>
+<td>Recuperabilidade</td>
+<td>Capacidade de recuperar dados e restabelecer operação após falhas</td>
+</tr>
+<tr>
+<td>SIG-C05</td>
+<td>Estabilidade em Rede Instável</td>
+<td>Funcionamento adequado em condições de conectividade intermitente</td>
+</tr>
+<tr>
+<td>SIG-C06</td>
+<td>Atomicidade</td>
+<td>Transações completadas integralmente ou revertidas sem estados parciais</td>
+</tr>
+<tr>
+<td>SIG-C07</td>
+<td>Monitoramento</td>
+<td>Sistema deve detectar e reportar falhas automaticamente</td>
+</tr>
+<tr>
+<td>SIG-C08</td>
+<td>Consistência de Dados</td>
+<td>Dados devem permanecer consistentes entre sessões e dispositivos</td>
+</tr>
+</tbody>
+</table>
+<h4 id="softgoals-de-operacionalizacao_1">Softgoals de Operacionalização</h4>
+<p><strong>Tabela 11</strong> - Tabela de Especificação de Softgoals de Operacionalização do SIG Confiabilidade</p>
+<center>
+<font size="3">Tabela 11 – Softgoals de Operacionalização do SIG Confiabilidade.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Operacionalização</th>
+<th>Softgoal Pai</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OP-C01</td>
+<td>Sem Falhas Críticas</td>
+<td>SIG-C02</td>
+<td>Implementar tratamento robusto para evitar falhas que impeçam uso do sistema</td>
+</tr>
+<tr>
+<td>OP-C02</td>
+<td>Continuidade com Falhas Parciais</td>
+<td>SIG-C03</td>
+<td>Manter funcionalidades essenciais mesmo com falhas em serviços secundários</td>
+</tr>
+<tr>
+<td>OP-C03</td>
+<td>Recuperação de Dados</td>
+<td>SIG-C04</td>
+<td>Restaurar dados e operação após falhas do sistema</td>
+</tr>
+<tr>
+<td>OP-C04</td>
+<td>Transações Resilientes</td>
+<td>SIG-C05, SIG-C06</td>
+<td>Garantir atomicidade mesmo em condições de rede instável</td>
+</tr>
+<tr>
+<td>OP-C05</td>
+<td>Consistência entre Dispositivos</td>
+<td>SIG-C08</td>
+<td>Sincronizar dados entre diferentes sessões e dispositivos</td>
+</tr>
+<tr>
+<td>OP-C06</td>
+<td>Reporte Automático de Logs</td>
+<td>SIG-C07</td>
+<td>Detectar e registrar falhas automaticamente para análise</td>
+</tr>
+<tr>
+<td>OP-C07</td>
+<td>Reporte Manual por Usuário</td>
+<td>SIG-C07</td>
+<td>Permitir que usuários reportem erros observados manualmente</td>
+</tr>
+</tbody>
+</table>
+<h4 id="softgoals-de-afirmacao_1">Softgoals de Afirmação</h4>
+<p>A <strong>Tabela 12</strong> especifica os softgoals de afirmação.</p>
+<center>
+<font size="3">Tabela 12 – Softgoals de Afirmação do SIG Confiabilidade.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Afirmação</th>
+<th>Softgoal Pai</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AF-C01</td>
+<td>Confiança do Usuário</td>
+<td>SIG-C02, SIG-C03</td>
+<td>Usuários confiam no sistema para deslocamentos críticos</td>
+</tr>
+<tr>
+<td>AF-C02</td>
+<td>Experiência Consistente</td>
+<td>SIG-C04, SIG-C08</td>
+<td>Experiência uniforme independente de condições externas</td>
+</tr>
+<tr>
+<td>AF-C03</td>
+<td>Resiliência Operacional</td>
+<td>SIG-C05, SIG-C06</td>
+<td>Sistema mantém operação em cenários adversos</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rastreabilidade_1">Rastreabilidade</h4>
+<center>
+<font size="3">Tabela 13 – Rastreabilidade dos Softgoals do SIG Confiabilidade.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th>Softgoal</th>
+<th>Requisito Origem</th>
+<th>Descendentes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SIG-C01</td>
+<td>RC01, RC02, RC03, RC04, RC05, RC06, RC07</td>
+<td>SIG-C02, SIG-C03, SIG-C04, SIG-C05, SIG-C06, SIG-C07, SIG-C08</td>
+</tr>
+<tr>
+<td>SIG-C02</td>
+<td>RC01</td>
+<td>OP-C01, AF-C01</td>
+</tr>
+<tr>
+<td>SIG-C03</td>
+<td>RC02</td>
+<td>OP-C02, AF-C01</td>
+</tr>
+<tr>
+<td>SIG-C04</td>
+<td>RC03</td>
+<td>OP-C03, AF-C02</td>
+</tr>
+<tr>
+<td>SIG-C05</td>
+<td>RC04</td>
+<td>OP-C04, AF-C03</td>
+</tr>
+<tr>
+<td>SIG-C06</td>
+<td>RC05</td>
+<td>OP-C04, AF-C03</td>
+</tr>
+<tr>
+<td>SIG-C07</td>
+<td>RC06</td>
+<td>OP-C06, OP-C07</td>
+</tr>
+<tr>
+<td>SIG-C08</td>
+<td>RC07</td>
+<td>OP-C05, AF-C02</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cartao-de-especificacao-de-requisitos-nao-funcionais-do-sig-confiabilidade">Cartão de Especificação de Requisitos Não-Funcionais do SIG Confiabilidade</h3>
+<h4 id="rc01-operacao-sem-falhas-criticas">RC01 - Operação sem Falhas Críticas</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RC01 / RNF16</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Confiabilidade - Disponibilidade</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Sistema deve operar sem falhas críticas que impeçam o uso das funcionalidades principais</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir que usuários possam confiar no sistema para planejamento de deslocamentos essenciais</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Uptime ≥ 99.5%; Zero falhas críticas em produção; MTBF ≥ 720 horas</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RF01, RF02, RF35</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Gabriel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rc02-operacao-com-falhas-parciais">RC02 - Operação com Falhas Parciais</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RC02 / RNF17</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Confiabilidade - Tolerância a Falhas</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O sistema deve continuar operando mesmo com falhas parciais em serviços secundários</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Manter funcionalidades críticas disponíveis mesmo quando serviços auxiliares falharem</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Funcionalidades principais disponíveis com ≤ 1 serviço secundário offline; Degradação graciosa implementada</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RF13, RF14, RF15</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Gabriel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rc03-recuperacao-de-dados">RC03 - Recuperação de Dados</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RC03 / RNF18</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Confiabilidade - Recuperabilidade</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Capacidade de recuperar dados e restabelecer operação após falhas</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Proteger dados do usuário contra perda e garantir rápida recuperação do sistema</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>RTO ≤ 1 hora; RPO ≤ 15 minutos; Backup automático a cada 24 horas</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RF15, RF24</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>9</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Gabriel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rc04-funcionamento-com-rede-instavel">RC04 - Funcionamento com Rede Instável</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RC04 / RNF19</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Confiabilidade - Estabilidade</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Funcionamento adequado em condições de rede instável com conectividade intermitente</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir usabilidade em áreas com cobertura irregular de internet</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Funcionalidades offline disponíveis; Sincronização automática ao reconectar; Cache local de 48 horas</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RNF11, RF04, RF05</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Gabriel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rc05-atomicidade-de-transacoes">RC05 - Atomicidade de Transações</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RC05 / RNF20</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Confiabilidade - Atomicidade</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Transações devem ser completadas integralmente ou revertidas sem estados parciais</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Evitar situações de inconsistência financeira e dados corrompidos</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>100% das transações atômicas; Rollback automático em falhas; Log de todas as operações</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RF13, RF14</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Gabriel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rc06-deteccao-e-reporte-de-falhas">RC06 - Detecção e Reporte de Falhas</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RC06 / RNF21</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Confiabilidade - Monitoramento</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Sistema deve detectar e reportar falhas automaticamente em logs</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Permitir identificação e correção proativa de problemas</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Logging centralizado; Alertas automáticos para falhas críticas; Dashboard de monitoramento</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>Todos os requisitos funcionais</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>7</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Gabriel</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rc07-consistencia-de-dados">RC07 - Consistência de Dados</h4>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nr Requisito</strong></td>
+<td>RC07 / RNF22</td>
+</tr>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Requisito Não-Funcional de Confiabilidade - Consistência</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Dados devem permanecer consistentes entre diferentes sessões e dispositivos</td>
+</tr>
+<tr>
+<td><strong>Justificativa</strong></td>
+<td>Garantir experiência uniforme independente do dispositivo de acesso</td>
+</tr>
+<tr>
+<td><strong>Origem</strong></td>
+<td>Elicitação de Requisitos: Especificação Suplementar - Categoria Confiabilidade</td>
+</tr>
+<tr>
+<td><strong>Critério de Ajuste</strong></td>
+<td>Sincronização em tempo real; Resolução de conflitos; Consistência eventual ≤ 5 segundos</td>
+</tr>
+<tr>
+<td><strong>Dependências</strong></td>
+<td>RF15, RF24, RF37</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Conflitos</strong></td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td><strong>Histórico</strong></td>
+<td>Criado em 21/10/2025 — Autor: João Gabriel</td>
+</tr>
+</tbody>
+</table>
+<h2 id="validacao-joao-ramos">Validação (João Ramos)</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPVuApWBT6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+
+<h2 id="referencia-bibliografica">Referência bibliográfica</h2>
+<p><a id="ref-1"></a></p>
+<blockquote>
+<p><sup>1.</sup> SILVA, Reinaldo Antônio da. <strong>NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados.</strong> Recife: Universidade Federal de Pernambuco, 2019.</p>
+</blockquote>
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p>SANTOS, Fernanda Vaz Duarte dos. <strong>Diagrama NFR Framework</strong> [diagrama]. Lucidchart, 2025.<br>
+Disponível em: <a href="https://lucid.app/lucidchart/929a11a2-17f7-4526-93f0-3c97ddc4d236">https://lucid.app/lucidchart/929a11a2-17f7-4526-93f0-3c97ddc4d236</a>.<br>
+Acesso em: 19 out. 2025.</p>
+</blockquote>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<center>
+<font size="3">Tabela 09 – Histórico de Versões.</font>
+</center>
+
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: left;">Descrição</th>
+<th style="text-align: left;">Autor(es)</th>
+<th style="text-align: left;">Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">18/10</td>
+<td style="text-align: left;">Adição do SIG Usabilidade e introdução</td>
+<td style="text-align: left;">Fernanda Vaz</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.1</td>
+<td style="text-align: center;">20/10</td>
+<td style="text-align: left;">Adição do SIG Desempenho</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+<td style="text-align: left;">Cauã Nicolas</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: center;">20/10</td>
+<td style="text-align: left;">Adição do SIG Portabilidade</td>
+<td style="text-align: left;">Cauã Nicolas</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3</td>
+<td style="text-align: center;">20/10</td>
+<td style="text-align: left;">Adição do SIG Acessibilidade</td>
+<td style="text-align: left;">Fernanda vaz</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.4</td>
+<td style="text-align: center;">21/10</td>
+<td style="text-align: left;">Adição de Cartões de Especificação dos RNFs do SIG Desempenho</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+<td style="text-align: left;">Cauã Nicolas</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">21/10</td>
+<td style="text-align: left;">Adição de Cartões de Especificação dos RNFs do SIG Portabilidade</td>
+<td style="text-align: left;">Cauã Nicolas</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.6</td>
+<td style="text-align: center;">21/10</td>
+<td style="text-align: left;">Adição de Cartões de Especificação dos RNFs do SIG Usabilidade</td>
+<td style="text-align: left;">João Ramos</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+</tr>
+<tr>
+<td style="text-align: center;">2.0</td>
+<td style="text-align: center;">25/10</td>
+<td style="text-align: left;">Adição de Tabela de Contribuições</td>
+<td style="text-align: left;">Gabriel Maciel</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="agradecimentos">Agradecimentos</h2>
+<p>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho.<br>
+Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística, bem como na formatação e estruturação das tabelas e figuras.<br>
+Os autores assumem total responsabilidade pelo conteúdo e originalidade do trabalho.<br>
+A ferramenta <strong>não figura como autora desta publicação</strong>.</p></div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>
