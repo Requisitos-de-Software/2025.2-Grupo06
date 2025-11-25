@@ -87,7 +87,7 @@ A metodologia adotada para a construção da matriz de pós-rastreabilidade cons
 
 
 
-## Referência bibliográfica 
+##  Bibliográfia 
 
 <a id="ref-1"></a>
 > <sup>1.</sup>
