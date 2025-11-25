@@ -104,6 +104,7 @@ Durante a sessão de brainstorming, foram identificadas diversas funcionalidades
 | 2.1    | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel  | João Gabriel |
 | 2.2    | 18/10/2025 | Adiciona novos requisitos não elicitados anteriormente  | Gabriel Maciel  | João Gabriel |
 | 3.0    | 22/11/2025 | Correção ortográfica e geral da página  | Cauã Nicolas  | João Ramos |
+| 3.1    | 24/11/2025 | Revisão e atualização de requisitos | João Ramos | Cauã Nicolas |
 
 ## Agradecimentos
 >>Agradecemos o suporte da ferramenta de Inteligência Artificial Generativa Google Gemini no desenvolvimento deste trabalho. Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), declaramos que a ferramenta foi utilizada como auxílio na revisão gramatical e estilística do texto, na sugestão de estrutura para seções específicas do artigo, bem como na formatação de tabelas e na descrição de figuras. Ressaltamos que os autores assumem total responsabilidade por todo o conteúdo apresentado, incluindo sua originalidade e precisão. A ferramenta não figura como autora desta publicação.
