@@ -10,7 +10,11 @@ Nesta seção, os seis (6) integrantes da equipe, responsável pelo  o aplicativ
 > Por fim, em relação as dificuldades, notei um pouco de dificuldade no ínicio de alguns tópicos específicos, além disso, senti um pouco falta de organização da nossa equipe, creio que poderíamos nos esforçar e conseguir entregar um trabalho de total excelência. 
 
 ## Daniel Nunes
->
+>A experiência na disciplina de Requisitos de Software demonstrou-se fundamental para a minha formação como engenheiro de software. Percebi o impacto significativo que esta área possui na criação e aprimoramento de produtos, o que me motivou a aprofundar-me na metodologia e no conteúdo proposto, resultando em uma sólida aquisição de conhecimento.
+
+>A oportunidade de desenvolver melhorias para o aplicativo 'DF No Ponto' foi extremamente enriquecedora. Aplicar conceitos teóricos em um projeto com escopo real foi essencial para consolidar meu aprendizado de maneira prática e inovadora.
+
+>Embora o principal obstaculo tenha sido a administração do tempo, tanto individual quanto da equipe, superamos as adversidades e logramos concluir o projeto com excelência.
 
 ## Fernanda Vaz
 > Para mim, a disciplina de Requisitos de Software foi fundamental, pois contribuiu de forma exponencial para o meu desenvolvimento e aquisição de conhecimento. Consegui aprofundar significativamente meu conhecimento em técnicas de elicitação de requisitos, métodos de priorização e na aplicação prática de metodologias ágeis.
@@ -30,3 +34,4 @@ Nesta seção, os seis (6) integrantes da equipe, responsável pelo  o aplicativ
 
 ## João Ramos
 > Na minha percepção, a disciplina de Requisitos de Software foi fundamental para ampliar minha visão sobre a Engenharia de Software. O semestre foi muito enriquecedor, pois pude aplicar a teoria na prática e compreender que o desenvolvimento vai muito além do código: trata-se da capacidade de extrair, interpretar e traduzir as necessidades reais do usuário. Encerro a matéria com uma bagagem muito mais completa.
+
