@@ -126,6 +126,7 @@ Com esses dados, poderiamos criar um MVP bem embasado do que grande parte dos pe
 | 1.1.2  | 30/09/2025 | Adiciona técnica de priorização $100 | João Gabriel | Gabriel Maciel |
 | 2.0    | 08/10/2025 | Separação do conteúdo em arquivo específico        | Gabriel Maciel  | João Gabriel |
 | 2.1   | 08/10/2025 | Adiciona tabela de identificação dos responsáveis pela elaboração do documento  | Gabriel Maciel | João Gabriel |
+| 2.2   | 24/11/2025 | Adicona priorização com usuário real  | João Ramos | João Gabriel |
 
 ## Bibliografia
 
